@@ -1,6 +1,11 @@
 # dependencies (bun install)
 node_modules
 
+# Local Bangumi login profile (never commit cookies or sessions)
+.bgm-browser-profile/
+SCRAPE_PROGRESS.json.tmp
+data/raw/2025.json.tmp
+
 # output
 out
 dist
