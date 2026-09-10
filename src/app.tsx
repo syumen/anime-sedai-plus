@@ -1,11 +1,10 @@
-import { useMemo, useRef, useState, useEffect } from "react"
+import { useMemo, useRef, useEffect } from "react"
 import animeData, { getAnimeTitle } from "../anime-data"
 import { domToBlob } from "modern-screenshot"
 import { toast } from "sonner"
 import { usePersistState } from "./hooks"
 import { useI18n } from "./i18n-context"
 import { LanguageToggle } from "./LanguageToggle"
-import { getPromptTemplate } from "./i18n"
 
 type YearRange = "5" | "10" | "15" | "all"
 
@@ -14,7 +13,8 @@ const allYears = Object.keys(animeData).sort((a, b) => Number(a) - Number(b))
 
 export const App = () => {
   const { t, language } = useI18n()
-  const [selectedAnime, setSelectedAnime] = usePersistState<string[]>(
+  const [watchedAnime, setWatchedAnime] = usePersistState<string[]>(
+    // Keep the original storage key and unique Chinese titles to preserve saved marks.
     "selectedAnime",
     []
   )
@@ -42,8 +42,9 @@ export const App = () => {
     return new Set(visibleAnimeKeys)
   }, [visibleAnimeKeys])
 
-  const selectedVisibleAnimeCount = selectedAnime.filter((title) => {
-    return visibleAnimeKeySet.has(title)
+  const watchedAnimeKeySet = useMemo(() => new Set(watchedAnime), [watchedAnime])
+  const watchedCount = visibleAnimeKeys.filter((key) => {
+    return watchedAnimeKeySet.has(key)
   }).length
 
   const getYearRangeLabel = (option: YearRange) => {
@@ -110,53 +111,26 @@ export const App = () => {
     URL.revokeObjectURL(url)
   }
 
-  const [promptType, setPromptType] = useState<"normal" | "zako">("zako")
-  const prompt = useMemo(() => {
-    const templates = getPromptTemplate(language)
-    const preset = promptType === "normal" ? templates.normal : templates.zako
-
-    return `
-${preset}
-${
-  t("watched") === "Watched"
-    ? "User anime viewing record: (the year below is the anime release year)"
-    : "用户动画观看记录：(下面的年份是动画发布的年份)"
-}
-${visibleYears
-  .map((year) => {
-    const items = animeData[year] || []
-
-    if (items.length === 0) return ""
-
-    const sliceItems = items.slice(0, 12)
-    const watched = sliceItems
-      .filter((item) => selectedAnime.includes(getAnimeTitle(item, "zh")))
-      .map((item) => getAnimeTitle(item, language))
-      .join(", ")
-    const unWatched = sliceItems
-      .filter((item) => !selectedAnime.includes(getAnimeTitle(item, "zh")))
-      .map((item) => getAnimeTitle(item, language))
-      .join(", ")
-
-    return [
-      `**${year}${t("year")}**:`,
-      `${t("watched")}: ${watched || t("none")}`,
-      `${t("notWatched")}: ${unWatched || t("none")}`,
-    ]
-      .filter(Boolean)
-      .join("\n")
-  })
-  .filter(Boolean)
-  .join("\n")}
-    `.trim()
-  }, [selectedAnime, promptType, language, t, visibleYears])
-
   const totalAnime = visibleAnimeKeys.length
+  const watchedPercentage = (
+    totalAnime === 0 ? 0 : (watchedCount / totalAnime) * 100
+  ).toFixed(2)
 
   return (
     <>
       <div className="flex flex-col gap-4 pb-10">
         <div className="p-4 flex flex-col md:items-center">
+          <div
+            className="self-start mb-4 text-green-700 tabular-nums"
+            role="status"
+            aria-live="polite"
+            aria-atomic="true"
+          >
+            <div className="font-bold">
+              {t("watchedCount", { count: watchedCount, total: totalAnime })}
+            </div>
+            <div className="text-sm">{watchedPercentage}%</div>
+          </div>
           <div className="flex w-full flex-col gap-2 mb-4 md:flex-row md:items-center md:justify-center">
             <div className="flex items-center gap-2">
               <span className="text-sm text-gray-600">{t("yearRange")}:</span>
@@ -189,12 +163,6 @@ ${visibleYears
                     {t("website")}
                   </span>
                 </h1>
-                <span className="shrink-0 whitespace-nowrap">
-                  {t("watchedCount", {
-                    count: selectedVisibleAnimeCount,
-                    total: totalAnime,
-                  })}
-                </span>
               </div>
               {visibleYears.map((year) => {
                 const items = animeData[year] || []
@@ -221,10 +189,12 @@ ${visibleYears
                       {items.slice(0, 12).map((item) => {
                         const animeKey = getAnimeTitle(item, "zh")
                         const displayTitle = getAnimeTitle(item, language)
-                        const isSelected = selectedAnime.includes(animeKey)
+                        const isWatched = watchedAnimeKeySet.has(animeKey)
                         return (
                           <button
                             key={animeKey}
+                            type="button"
+                            aria-pressed={isWatched}
                             className={`
                               h-16 md:h-20 
                               ${
@@ -236,16 +206,16 @@ ${visibleYears
                               p-1 overflow-hidden justify-center cursor-pointer 
                               ${language === "en" ? "text-xs" : "text-sm"} 
                               ${
-                                isSelected
-                                  ? "bg-green-500"
+                                isWatched
+                                  ? "bg-green-500 text-black"
                                   : "hover:bg-zinc-100"
                               }
-                              transition-colors duration-200
+                              transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-green-800
                             `}
                             title={displayTitle}
                             onClick={() => {
-                              setSelectedAnime((prev) => {
-                                if (isSelected) {
+                              setWatchedAnime((prev) => {
+                                if (prev.includes(animeKey)) {
                                   return prev.filter(
                                     (title) => title !== animeKey
                                   )
@@ -297,24 +267,24 @@ ${visibleYears
             type="button"
             className="border rounded-md px-4 py-2 inline-flex"
             onClick={() => {
-              setSelectedAnime((prev) => {
-                const hiddenSelectedAnime = prev.filter((title) => {
+              setWatchedAnime((prev) => {
+                const hiddenWatchedAnime = prev.filter((title) => {
                   return !visibleAnimeKeySet.has(title)
                 })
 
-                return [...hiddenSelectedAnime, ...visibleAnimeKeys]
+                return [...hiddenWatchedAnime, ...visibleAnimeKeys]
               })
             }}
           >
             {t("selectAll")}
           </button>
 
-          {selectedVisibleAnimeCount > 0 && (
+          {watchedCount > 0 && (
             <button
               type="button"
               className="border rounded-md px-4 py-2 inline-flex"
               onClick={() => {
-                setSelectedAnime((prev) => {
+                setWatchedAnime((prev) => {
                   return prev.filter((title) => !visibleAnimeKeySet.has(title))
                 })
               }}
@@ -366,57 +336,6 @@ ${visibleYears
           </button>
         </div>
 
-        <div className="flex flex-col gap-2 max-w-screen-md w-full mx-auto">
-          <div className="border focus-within:ring-2 ring-pink-500 focus-within:border-pink-500 rounded-md">
-            <div className="flex items-center justify-between p-2 border-b">
-              <div className="flex items-center gap-2">
-                <span>{t("promptType")}</span>
-                <select
-                  className="border rounded-md"
-                  value={promptType}
-                  onChange={(e) => {
-                    setPromptType(e.currentTarget.value as any)
-                  }}
-                >
-                  <option value="normal">{t("promptNormal")}</option>
-                  <option value="zako">{t("promptZako")}</option>
-                </select>
-              </div>
-
-              <div className="flex items-center gap-4">
-                <button
-                  type="button"
-                  className="text-sm text-zinc-500 hover:bg-zinc-100 px-1.5 h-7 flex items-center rounded-md"
-                  onClick={() => {
-                    navigator.clipboard.writeText(prompt)
-                    toast.success(t("copySuccess"))
-                  }}
-                >
-                  {t("copy")}
-                </button>
-
-                <button
-                  type="button"
-                  className="text-sm text-zinc-500 hover:bg-zinc-100 px-1.5 h-7 flex items-center rounded-md"
-                  onClick={() => {
-                    location.href = `chatwise://chat?input=${encodeURIComponent(
-                      prompt
-                    )}`
-                  }}
-                >
-                  {t("openInChatWise")}
-                </button>
-              </div>
-            </div>
-            <textarea
-              readOnly
-              className="outline-none w-full p-2 resize-none cursor-default"
-              rows={10}
-              value={prompt}
-            />
-          </div>
-        </div>
-
         <div className="mt-2 text-center">
           {t("footer")}
           <a
@@ -452,19 +371,6 @@ ${visibleYears
             </a>
           </div>
         )}
-
-        <div className="text-center">
-          {t("otherProducts")}
-          <a
-            href="https://chatwise.app"
-            target="_blank"
-            className="underline inline-flex items-center gap-1"
-          >
-            <img src="https://chatwise.app/favicon.png" className="size-4" />{" "}
-            ChatWise
-          </a>
-          {t("aiChatClient")}
-        </div>
       </div>
     </>
   )
