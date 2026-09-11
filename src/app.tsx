@@ -1,4 +1,4 @@
-import { useMemo, useRef, useEffect } from "react"
+import { useMemo, useRef, useEffect, useState } from "react"
 import animeData from "../anime-data.js"
 import { domToBlob } from "modern-screenshot"
 import { toast } from "sonner"
@@ -7,6 +7,7 @@ import { useI18n } from "./i18n-context"
 import { LanguageToggle } from "./LanguageToggle"
 import { useWatchedAnime } from "./use-watched-anime"
 import { watchedKey } from "./watched-state"
+import { createCoverPreview } from "./cover-preview"
 
 type YearRange = "5" | "10" | "15" | "all"
 
@@ -16,6 +17,26 @@ const allYears = Object.keys(animeData).sort((a, b) => Number(a) - Number(b))
 export const App = () => {
   const { t, language } = useI18n()
   const [watchedAnime, setWatchedAnime] = useWatchedAnime()
+  const [previewUrl, setPreviewUrl] = useState<string | null>(null)
+  const coverPreview = useMemo(() => createCoverPreview(setPreviewUrl), [])
+  useEffect(() => {
+    // Capture covers release outside the button; passive listeners preserve native gestures.
+    window.addEventListener("pointerdown", coverPreview.otherPointer, { capture: true, passive: true })
+    window.addEventListener("pointermove", coverPreview.move, { passive: true })
+    window.addEventListener("pointerup", coverPreview.end, { passive: true })
+    window.addEventListener("pointercancel", coverPreview.cancelPointer, { passive: true })
+    window.addEventListener("scroll", coverPreview.cancel, { capture: true, passive: true })
+    window.addEventListener("blur", coverPreview.cancel)
+    return () => {
+      window.removeEventListener("pointerdown", coverPreview.otherPointer, true)
+      window.removeEventListener("pointermove", coverPreview.move)
+      window.removeEventListener("pointerup", coverPreview.end)
+      window.removeEventListener("pointercancel", coverPreview.cancelPointer)
+      window.removeEventListener("scroll", coverPreview.cancel, true)
+      window.removeEventListener("blur", coverPreview.cancel)
+      coverPreview.dispose()
+    }
+  }, [coverPreview])
   const [yearRange, setYearRange] = usePersistState<YearRange>(
     "yearRange",
     "all"
@@ -207,7 +228,21 @@ export const App = () => {
                               transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-green-800
                             `}
                             title={displayTitle}
+                            onPointerDown={(event) => {
+                              if (coverPreview.begin(event, item.coverUrl)) {
+                                event.currentTarget.setPointerCapture(event.pointerId)
+                              }
+                            }}
+                            onPointerMove={coverPreview.move}
+                            onPointerUp={coverPreview.end}
+                            onPointerCancel={coverPreview.cancelPointer}
+                            onLostPointerCapture={coverPreview.cancelPointer}
+                            onContextMenu={(event) => event.preventDefault()}
+                            onKeyDown={(event) => {
+                              if (event.key === "Enter" || event.key === " ") coverPreview.allowKeyboardClick()
+                            }}
                             onClick={() => {
+                              if (coverPreview.consumeClick()) return
                               setWatchedAnime((prev) => {
                                 if (prev.includes(animeKey)) {
                                   return prev.filter(
@@ -218,18 +253,6 @@ export const App = () => {
                               })
                             }}
                           >
-                            <span className="anime-cover bg-zinc-100" aria-hidden="true">
-                              {item.cover ? (
-                                <img
-                                  src={item.cover}
-                                  alt=""
-                                  loading="lazy"
-                                  decoding="async"
-                                  referrerPolicy="no-referrer"
-                                  onError={(event) => { event.currentTarget.hidden = true }}
-                                />
-                              ) : <span className="text-zinc-400">—</span>}
-                            </span>
                             <span
                               className={`leading-tight w-full ${
                                 language === "en"
@@ -360,6 +383,17 @@ export const App = () => {
           </div>
         )}
       </div>
+      {previewUrl && (
+        <img
+          className="cover-preview"
+          src={previewUrl}
+          alt=""
+          aria-hidden="true"
+          draggable={false}
+          referrerPolicy="no-referrer"
+          onError={() => setPreviewUrl((current) => current === previewUrl ? null : current)}
+        />
+      )}
     </>
   )
 }

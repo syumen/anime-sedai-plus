@@ -1,4 +1,4 @@
-Current task: Yearly Top 50 dataset replacement complete
+Current task: Long press cover preview complete
 
 Dataset:
 - bgm_japan_tv_2006_2025_top50_rating_count.json
@@ -12,15 +12,24 @@ Previous full dataset:
 - Old raw files retained
 
 Completed:
-- anime-data.js regenerated from the single selected raw file
-- No duplicate IDs, missing titles or missing cover URLs in the new dataset
-- 13 local tests, TypeScript check and production build passed
-- Browser verified: total 1000, watched toggle, green state, statistics and refresh persistence
-- Watched IDs outside the Top 50 remain saved and are excluded from current statistics
-- No network scraping, legacy migration rework or UI changes in this replacement
+- Pointer Events: 450ms hold previews coverUrl; release immediately hides the fixed overlay
+- Short clicks still toggle watched; long presses and canceled gestures suppress their release click
+- Movement beyond 10px, pointercancel, second pointer, scroll, blur and unmount clean up the preview
+- Covers load only after pointerdown; slow/failed images never toggle watched or restore stale previews
+- 10 preview tests and 13 existing tests passed; TypeScript check passed
+- Direct Vite production build passed without running the data builder
+- Existing anime-data.js, raw data, builder, watched storage and statistics logic were not changed
+
+Browser verification:
+- Initial image loads: 0; grid items: 1000
+- Ordinary mouse clicks, watched/unwatched long presses, release clicks and image failure verified
+- 390px viewport: 160px overlay, movement cancellation and browser scrolling verified
+- Touch PointerEvents were simulated using a local image fixture; no Bangumi requests
+- Multi-pointer events are not prevented; touch-action stays auto and the viewport permits scaling
+- Physical two-finger pinch was not exercised by desktop automation
 
 Next:
-- UI review
+- Await the user's next task
 
 Accepted states:
 - 33 entries without covers are allowed; placeholders remain and no correction is needed
