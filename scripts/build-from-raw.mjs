@@ -1,4 +1,4 @@
-import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
+import { mkdir, readFile, readdir, rename, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -35,6 +35,12 @@ async function atomicWrite(filename, content) {
 // Only the selected local dataset is read. Old raw files never participate or act as a fallback.
 export async function buildFromRaw({ projectRoot = defaultRoot } = {}) {
   const rawDirectory = path.join(projectRoot, "data/raw");
+  const localCovers = new Set(await readdir(path.join(projectRoot, "public/covers"), { withFileTypes: true })
+    .then((entries) => entries.filter((entry) => entry.isFile() && /^\d+\.jpg$/.test(entry.name)).map((entry) => entry.name))
+    .catch((error) => {
+      if (error.code === "ENOENT") return [];
+      throw error;
+    }));
   const report = {
     source: `data/raw/${SOURCE_FILENAME}`,
     itemOrder: "explicit numeric rank ascending when supplied for every item; otherwise raw array order",
@@ -116,6 +122,8 @@ export async function buildFromRaw({ projectRoot = defaultRoot } = {}) {
         continue;
       }
       yearIds.set(id, reference);
+      // Local static covers match Subject IDs only; missing files keep the raw URL.
+      if (localCovers.has(`${id}.jpg`)) cover = `covers/${id}.jpg`;
       data[effectiveYear].push({
         id, bangumiId: id, year: Number(effectiveYear), title: name, coverUrl: cover,
         // Compatibility aliases preserve the existing frontend imports and watched keys.

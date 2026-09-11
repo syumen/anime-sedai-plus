@@ -8,9 +8,9 @@ const animeData = {
       "bangumiId": 1773,
       "year": 2006,
       "title": "死亡笔记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4a/be/1773_rldoC.jpg",
+      "coverUrl": "covers/1773.jpg",
       "name": "死亡笔记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/be/1773_rldoC.jpg",
+      "cover": "covers/1773.jpg",
       "ratingCount": 25923
     },
     {
@@ -18,9 +18,9 @@ const animeData = {
       "bangumiId": 793,
       "year": 2006,
       "title": "Code Geass 反叛的鲁路修",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/da/8c/793_3y432.jpg",
+      "coverUrl": "covers/793.jpg",
       "name": "Code Geass 反叛的鲁路修",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/da/8c/793_3y432.jpg",
+      "cover": "covers/793.jpg",
       "ratingCount": 22454
     },
     {
@@ -28,9 +28,9 @@ const animeData = {
       "bangumiId": 485,
       "year": 2006,
       "title": "凉宫春日的忧郁",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/21/8a/485_Et062.jpg",
+      "coverUrl": "covers/485.jpg",
       "name": "凉宫春日的忧郁",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/21/8a/485_Et062.jpg",
+      "cover": "covers/485.jpg",
       "ratingCount": 19207
     },
     {
@@ -38,9 +38,9 @@ const animeData = {
       "bangumiId": 289,
       "year": 2006,
       "title": "寒蝉鸣泣之时",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/83/9a/289_h0nz0.jpg",
+      "coverUrl": "covers/289.jpg",
       "name": "寒蝉鸣泣之时",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/83/9a/289_h0nz0.jpg",
+      "cover": "covers/289.jpg",
       "ratingCount": 15538
     },
     {
@@ -48,9 +48,9 @@ const animeData = {
       "bangumiId": 290,
       "year": 2006,
       "title": "Fate/stay night",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f9/0f/290_6Qi5Q.jpg",
+      "coverUrl": "covers/290.jpg",
       "name": "Fate/stay night",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f9/0f/290_6Qi5Q.jpg",
+      "cover": "covers/290.jpg",
       "ratingCount": 14069
     },
     {
@@ -58,9 +58,9 @@ const animeData = {
       "bangumiId": 247,
       "year": 2006,
       "title": "银魂",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3c/ec/247_MnPPU.jpg",
+      "coverUrl": "covers/247.jpg",
       "name": "银魂",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3c/ec/247_MnPPU.jpg",
+      "cover": "covers/247.jpg",
       "ratingCount": 13909
     },
     {
@@ -68,9 +68,9 @@ const animeData = {
       "bangumiId": 995,
       "year": 2006,
       "title": "欢迎加入NHK！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2b/ca/995_1FUkm.jpg",
+      "coverUrl": "covers/995.jpg",
       "name": "欢迎加入NHK！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2b/ca/995_1FUkm.jpg",
+      "cover": "covers/995.jpg",
       "ratingCount": 9196
     },
     {
@@ -78,9 +78,9 @@ const animeData = {
       "bangumiId": 1880,
       "year": 2006,
       "title": "零之使魔",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/32/14/1880_fsmcg.jpg",
+      "coverUrl": "covers/1880.jpg",
       "name": "零之使魔",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/14/1880_fsmcg.jpg",
+      "cover": "covers/1880.jpg",
       "ratingCount": 8934
     },
     {
@@ -88,9 +88,9 @@ const animeData = {
       "bangumiId": 274,
       "year": 2006,
       "title": "Kanon",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d9/47/274_jNWMv.jpg",
+      "coverUrl": "covers/274.jpg",
       "name": "Kanon",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/47/274_jNWMv.jpg",
+      "cover": "covers/274.jpg",
       "ratingCount": 7456
     },
     {
@@ -98,9 +98,9 @@ const animeData = {
       "bangumiId": 979,
       "year": 2006,
       "title": "黑礁",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c3/2d/979_Pw5W0.jpg",
+      "coverUrl": "covers/979.jpg",
       "name": "黑礁",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c3/2d/979_Pw5W0.jpg",
+      "cover": "covers/979.jpg",
       "ratingCount": 6071
     },
     {
@@ -108,9 +108,9 @@ const animeData = {
       "bangumiId": 1487,
       "year": 2006,
       "title": "樱兰高校男公关部",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6d/3a/1487_LWPqQ.jpg",
+      "coverUrl": "covers/1487.jpg",
       "name": "樱兰高校男公关部",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6d/3a/1487_LWPqQ.jpg",
+      "cover": "covers/1487.jpg",
       "ratingCount": 5803
     },
     {
@@ -118,9 +118,9 @@ const animeData = {
       "bangumiId": 980,
       "year": 2006,
       "title": "黑礁 The Second Barrage",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d7/9a/980_b715Q.jpg",
+      "coverUrl": "covers/980.jpg",
       "name": "黑礁 The Second Barrage",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d7/9a/980_b715Q.jpg",
+      "cover": "covers/980.jpg",
       "ratingCount": 5116
     },
     {
@@ -128,9 +128,9 @@ const animeData = {
       "bangumiId": 1373,
       "year": 2006,
       "title": "监狱兔 第一季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e5/6b/1373_zdYZ5.jpg",
+      "coverUrl": "covers/1373.jpg",
       "name": "监狱兔 第一季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e5/6b/1373_zdYZ5.jpg",
+      "cover": "covers/1373.jpg",
       "ratingCount": 4694
     },
     {
@@ -138,9 +138,9 @@ const animeData = {
       "bangumiId": 848,
       "year": 2006,
       "title": "蜂蜜与四叶草II",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/36/2e/848_RC9L8.jpg",
+      "coverUrl": "covers/848.jpg",
       "name": "蜂蜜与四叶草II",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/2e/848_RC9L8.jpg",
+      "cover": "covers/848.jpg",
       "ratingCount": 4499
     },
     {
@@ -148,9 +148,9 @@ const animeData = {
       "bangumiId": 2439,
       "year": 2006,
       "title": "×××HOLiC",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fc/79/2439_9R0oU.jpg",
+      "coverUrl": "covers/2439.jpg",
       "name": "×××HOLiC",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fc/79/2439_9R0oU.jpg",
+      "cover": "covers/2439.jpg",
       "ratingCount": 4380
     },
     {
@@ -158,9 +158,9 @@ const animeData = {
       "bangumiId": 4562,
       "year": 2006,
       "title": "家庭教师HITMAN REBORN!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/44/54/4562_Ypy3y.jpg",
+      "coverUrl": "covers/4562.jpg",
       "name": "家庭教师HITMAN REBORN!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/44/54/4562_Ypy3y.jpg",
+      "cover": "covers/4562.jpg",
       "ratingCount": 4362
     },
     {
@@ -168,9 +168,9 @@ const animeData = {
       "bangumiId": 486,
       "year": 2006,
       "title": "娜娜",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7d/04/486_Pk550.jpg",
+      "coverUrl": "covers/486.jpg",
       "name": "娜娜",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7d/04/486_Pk550.jpg",
+      "cover": "covers/486.jpg",
       "ratingCount": 3995
     },
     {
@@ -178,9 +178,9 @@ const animeData = {
       "bangumiId": 320,
       "year": 2006,
       "title": "攻壳机动队 S.A.C. Solid State Society",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/32/07/320_IyhUt.jpg",
+      "coverUrl": "covers/320.jpg",
       "name": "攻壳机动队 S.A.C. Solid State Society",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/07/320_IyhUt.jpg",
+      "cover": "covers/320.jpg",
       "ratingCount": 3916
     },
     {
@@ -188,9 +188,9 @@ const animeData = {
       "bangumiId": 2460,
       "year": 2006,
       "title": "搞笑漫画日和2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e9/41/2460_78W8w.jpg",
+      "coverUrl": "covers/2460.jpg",
       "name": "搞笑漫画日和2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e9/41/2460_78W8w.jpg",
+      "cover": "covers/2460.jpg",
       "ratingCount": 3307
     },
     {
@@ -198,9 +198,9 @@ const animeData = {
       "bangumiId": 1878,
       "year": 2006,
       "title": "校园迷糊大王 二学期",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dc/5d/1878_bO9qG.jpg",
+      "coverUrl": "covers/1878.jpg",
       "name": "校园迷糊大王 二学期",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dc/5d/1878_bO9qG.jpg",
+      "cover": "covers/1878.jpg",
       "ratingCount": 2999
     },
     {
@@ -208,9 +208,9 @@ const animeData = {
       "bangumiId": 1261,
       "year": 2006,
       "title": "地狱少女 二笼",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/17/32/1261_FHud0.jpg",
+      "coverUrl": "covers/1261.jpg",
       "name": "地狱少女 二笼",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/32/1261_FHud0.jpg",
+      "cover": "covers/1261.jpg",
       "ratingCount": 2972
     },
     {
@@ -218,9 +218,9 @@ const animeData = {
       "bangumiId": 1044,
       "year": 2006,
       "title": "传颂之物",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/10/19/1044_zOutt.jpg",
+      "coverUrl": "covers/1044.jpg",
       "name": "传颂之物",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/10/19/1044_zOutt.jpg",
+      "cover": "covers/1044.jpg",
       "ratingCount": 2934
     },
     {
@@ -228,9 +228,9 @@ const animeData = {
       "bangumiId": 1269,
       "year": 2006,
       "title": "水星领航员 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e0/04/1269_8hpU3.jpg",
+      "coverUrl": "covers/1269.jpg",
       "name": "水星领航员 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e0/04/1269_8hpU3.jpg",
+      "cover": "covers/1269.jpg",
       "ratingCount": 2822
     },
     {
@@ -238,9 +238,9 @@ const animeData = {
       "bangumiId": 488,
       "year": 2006,
       "title": "驱魔少年",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c3/c5/488_PJu3N.jpg",
+      "coverUrl": "covers/488.jpg",
       "name": "驱魔少年",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c3/c5/488_PJu3N.jpg",
+      "cover": "covers/488.jpg",
       "ratingCount": 2007
     },
     {
@@ -248,9 +248,9 @@ const animeData = {
       "bangumiId": 5365,
       "year": 2006,
       "title": "蔷薇少女 序曲",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b1/05/5365_ZRtBk.jpg",
+      "coverUrl": "covers/5365.jpg",
       "name": "蔷薇少女 序曲",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/05/5365_ZRtBk.jpg",
+      "cover": "covers/5365.jpg",
       "ratingCount": 1656
     },
     {
@@ -258,9 +258,9 @@ const animeData = {
       "bangumiId": 3021,
       "year": 2006,
       "title": "宝可梦 钻石&珍珠",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9c/b9/3021_CUKiW.jpg",
+      "coverUrl": "covers/3021.jpg",
       "name": "宝可梦 钻石&珍珠",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/b9/3021_CUKiW.jpg",
+      "cover": "covers/3021.jpg",
       "ratingCount": 1607
     },
     {
@@ -268,9 +268,9 @@ const animeData = {
       "bangumiId": 2813,
       "year": 2006,
       "title": "惊爆草莓",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/39/d3/2813_31Ekf.jpg",
+      "coverUrl": "covers/2813.jpg",
       "name": "惊爆草莓",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/d3/2813_31Ekf.jpg",
+      "cover": "covers/2813.jpg",
       "ratingCount": 1581
     },
     {
@@ -278,9 +278,9 @@ const animeData = {
       "bangumiId": 1839,
       "year": 2006,
       "title": "仰望半月的夜空",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/72/8f/1839_4dLsd.jpg",
+      "coverUrl": "covers/1839.jpg",
       "name": "仰望半月的夜空",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/72/8f/1839_4dLsd.jpg",
+      "cover": "covers/1839.jpg",
       "ratingCount": 1379
     },
     {
@@ -288,9 +288,9 @@ const animeData = {
       "bangumiId": 976,
       "year": 2006,
       "title": "怪 ～ayakashi ～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9c/01/976_FwSrS.jpg",
+      "coverUrl": "covers/976.jpg",
       "name": "怪 ～ayakashi ～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/01/976_FwSrS.jpg",
+      "cover": "covers/976.jpg",
       "ratingCount": 1377
     },
     {
@@ -298,9 +298,9 @@ const animeData = {
       "bangumiId": 2892,
       "year": 2006,
       "title": "翼·年代记 第二部",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6f/e1/2892_Zt44z.jpg",
+      "coverUrl": "covers/2892.jpg",
       "name": "翼·年代记 第二部",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6f/e1/2892_Zt44z.jpg",
+      "cover": "covers/2892.jpg",
       "ratingCount": 1284
     },
     {
@@ -308,9 +308,9 @@ const animeData = {
       "bangumiId": 3828,
       "year": 2006,
       "title": "少女爱上姐姐",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/46/d3/3828_sYj4j.jpg",
+      "coverUrl": "covers/3828.jpg",
       "name": "少女爱上姐姐",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/46/d3/3828_sYj4j.jpg",
+      "cover": "covers/3828.jpg",
       "ratingCount": 1266
     },
     {
@@ -318,9 +318,9 @@ const animeData = {
       "bangumiId": 837,
       "year": 2006,
       "title": "死亡代理人",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b0/b1/837_60KBS.jpg",
+      "coverUrl": "covers/837.jpg",
       "name": "死亡代理人",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b0/b1/837_60KBS.jpg",
+      "cover": "covers/837.jpg",
       "ratingCount": 1248
     },
     {
@@ -328,9 +328,9 @@ const animeData = {
       "bangumiId": 1531,
       "year": 2006,
       "title": "奇幻贵公子",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/99/ad/1531_6lLoW.jpg",
+      "coverUrl": "covers/1531.jpg",
       "name": "奇幻贵公子",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/ad/1531_6lLoW.jpg",
+      "cover": "covers/1531.jpg",
       "ratingCount": 1231
     },
     {
@@ -338,9 +338,9 @@ const animeData = {
       "bangumiId": 4237,
       "year": 2006,
       "title": "兽爪",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5d/15/4237_vSS36.jpg",
+      "coverUrl": "covers/4237.jpg",
       "name": "兽爪",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5d/15/4237_vSS36.jpg",
+      "cover": "covers/4237.jpg",
       "ratingCount": 1225
     },
     {
@@ -348,9 +348,9 @@ const animeData = {
       "bangumiId": 2010,
       "year": 2006,
       "title": "彩云国物语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d7/a8/2010_BERwz.jpg",
+      "coverUrl": "covers/2010.jpg",
       "name": "彩云国物语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d7/a8/2010_BERwz.jpg",
+      "cover": "covers/2010.jpg",
       "ratingCount": 1146
     },
     {
@@ -358,9 +358,9 @@ const animeData = {
       "bangumiId": 1275,
       "year": 2006,
       "title": "我们的存在",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bb/04/1275_53DJl.jpg",
+      "coverUrl": "covers/1275.jpg",
       "name": "我们的存在",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bb/04/1275_53DJl.jpg",
+      "cover": "covers/1275.jpg",
       "ratingCount": 990
     },
     {
@@ -368,9 +368,9 @@ const animeData = {
       "bangumiId": 3156,
       "year": 2006,
       "title": "结界师",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/22/27/3156_2e6xt.jpg",
+      "coverUrl": "covers/3156.jpg",
       "name": "结界师",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/22/27/3156_2e6xt.jpg",
+      "cover": "covers/3156.jpg",
       "ratingCount": 974
     },
     {
@@ -378,9 +378,9 @@ const animeData = {
       "bangumiId": 2281,
       "year": 2006,
       "title": "调酒师",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0f/46/2281_LPp2p.jpg",
+      "coverUrl": "covers/2281.jpg",
       "name": "调酒师",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/46/2281_LPp2p.jpg",
+      "cover": "covers/2281.jpg",
       "ratingCount": 969
     },
     {
@@ -388,9 +388,9 @@ const animeData = {
       "bangumiId": 4374,
       "year": 2006,
       "title": "少年阴阳师",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/52/6c/4374_1TrvT.jpg",
+      "coverUrl": "covers/4374.jpg",
       "name": "少年阴阳师",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/52/6c/4374_1TrvT.jpg",
+      "cover": "covers/4374.jpg",
       "ratingCount": 889
     },
     {
@@ -398,9 +398,9 @@ const animeData = {
       "bangumiId": 3152,
       "year": 2006,
       "title": "备长炭",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/32/cb/3152_8m3z9.jpg",
+      "coverUrl": "covers/3152.jpg",
       "name": "备长炭",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/cb/3152_8m3z9.jpg",
+      "cover": "covers/3152.jpg",
       "ratingCount": 838
     },
     {
@@ -408,9 +408,9 @@ const animeData = {
       "bangumiId": 3132,
       "year": 2006,
       "title": "数码宝贝拯救者",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fb/26/3132_pKo8N.jpg",
+      "coverUrl": "covers/3132.jpg",
       "name": "数码宝贝拯救者",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fb/26/3132_pKo8N.jpg",
+      "cover": "covers/3132.jpg",
       "ratingCount": 741
     },
     {
@@ -418,9 +418,9 @@ const animeData = {
       "bangumiId": 1985,
       "year": 2006,
       "title": "金色琴弦～primo passo～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1f/36/1985_5zfYn.jpg",
+      "coverUrl": "covers/1985.jpg",
       "name": "金色琴弦～primo passo～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1f/36/1985_5zfYn.jpg",
+      "cover": "covers/1985.jpg",
       "ratingCount": 679
     },
     {
@@ -428,9 +428,9 @@ const animeData = {
       "bangumiId": 1987,
       "year": 2006,
       "title": "完美小姐进化论",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d6/8a/1987_NE01q.jpg",
+      "coverUrl": "covers/1987.jpg",
       "name": "完美小姐进化论",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d6/8a/1987_NE01q.jpg",
+      "cover": "covers/1987.jpg",
       "ratingCount": 677
     },
     {
@@ -438,9 +438,9 @@ const animeData = {
       "bangumiId": 2319,
       "year": 2006,
       "title": "夜明前的琉璃色-Crescent Love-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a1/1f/2319_9DfDk.jpg",
+      "coverUrl": "covers/2319.jpg",
       "name": "夜明前的琉璃色-Crescent Love-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a1/1f/2319_9DfDk.jpg",
+      "cover": "covers/2319.jpg",
       "ratingCount": 676
     },
     {
@@ -448,9 +448,9 @@ const animeData = {
       "bangumiId": 3755,
       "year": 2006,
       "title": "西蒙",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cd/3b/3755_eEt2f.jpg",
+      "coverUrl": "covers/3755.jpg",
       "name": "西蒙",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/3b/3755_eEt2f.jpg",
+      "cover": "covers/3755.jpg",
       "ratingCount": 667
     },
     {
@@ -458,9 +458,9 @@ const animeData = {
       "bangumiId": 8219,
       "year": 2006,
       "title": "魔法老师涅吉!?",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9d/00/8219_p5505.jpg",
+      "coverUrl": "covers/8219.jpg",
       "name": "魔法老师涅吉!?",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/00/8219_p5505.jpg",
+      "cover": "covers/8219.jpg",
       "ratingCount": 667
     },
     {
@@ -468,9 +468,9 @@ const animeData = {
       "bangumiId": 9605,
       "year": 2006,
       "title": "我的女神 缤纷之翼",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/21/7d/9605_LpnL0.jpg",
+      "coverUrl": "covers/9605.jpg",
       "name": "我的女神 缤纷之翼",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/21/7d/9605_LpnL0.jpg",
+      "cover": "covers/9605.jpg",
       "ratingCount": 643
     },
     {
@@ -478,9 +478,9 @@ const animeData = {
       "bangumiId": 1838,
       "year": 2006,
       "title": "死神的歌谣",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d7/65/1838_0F86Z.jpg",
+      "coverUrl": "covers/1838.jpg",
       "name": "死神的歌谣",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d7/65/1838_0F86Z.jpg",
+      "cover": "covers/1838.jpg",
       "ratingCount": 636
     },
     {
@@ -488,9 +488,9 @@ const animeData = {
       "bangumiId": 30483,
       "year": 2006,
       "title": "家有色邻",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fb/22/30483_l8meA.jpg",
+      "coverUrl": "covers/30483.jpg",
       "name": "家有色邻",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fb/22/30483_l8meA.jpg",
+      "cover": "covers/30483.jpg",
       "ratingCount": 556
     },
     {
@@ -498,9 +498,9 @@ const animeData = {
       "bangumiId": 10704,
       "year": 2006,
       "title": "史上最强弟子兼一",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/da/cb/10704_l7Zy9.jpg",
+      "coverUrl": "covers/10704.jpg",
       "name": "史上最强弟子兼一",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/da/cb/10704_l7Zy9.jpg",
+      "cover": "covers/10704.jpg",
       "ratingCount": 556
     }
   ],
@@ -510,9 +510,9 @@ const animeData = {
       "bangumiId": 51,
       "year": 2007,
       "title": "CLANNAD",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/28/38/51_z0Ly8.jpg",
+      "coverUrl": "covers/51.jpg",
       "name": "CLANNAD",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/38/51_z0Ly8.jpg",
+      "cover": "covers/51.jpg",
       "ratingCount": 28483
     },
     {
@@ -520,9 +520,9 @@ const animeData = {
       "bangumiId": 276,
       "year": 2007,
       "title": "幸运星",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/db/8e/276_1Cr5K.jpg",
+      "coverUrl": "covers/276.jpg",
       "name": "幸运星",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/db/8e/276_1Cr5K.jpg",
+      "cover": "covers/276.jpg",
       "ratingCount": 19069
     },
     {
@@ -530,9 +530,9 @@ const animeData = {
       "bangumiId": 770,
       "year": 2007,
       "title": "天元突破 红莲螺岩",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4e/a0/770_EvrMq.jpg",
+      "coverUrl": "covers/770.jpg",
       "name": "天元突破 红莲螺岩",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4e/a0/770_EvrMq.jpg",
+      "cover": "covers/770.jpg",
       "ratingCount": 16646
     },
     {
@@ -540,9 +540,9 @@ const animeData = {
       "bangumiId": 288,
       "year": 2007,
       "title": "寒蝉鸣泣之时 解",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/48/ae/288_HvHm5.jpg",
+      "coverUrl": "covers/288.jpg",
       "name": "寒蝉鸣泣之时 解",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/48/ae/288_HvHm5.jpg",
+      "cover": "covers/288.jpg",
       "ratingCount": 13112
     },
     {
@@ -550,9 +550,9 @@ const animeData = {
       "bangumiId": 965,
       "year": 2007,
       "title": "永生之酒",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ee/b6/965_2E7l6.jpg",
+      "coverUrl": "covers/965.jpg",
       "name": "永生之酒",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ee/b6/965_2E7l6.jpg",
+      "cover": "covers/965.jpg",
       "ratingCount": 11701
     },
     {
@@ -560,9 +560,9 @@ const animeData = {
       "bangumiId": 292,
       "year": 2007,
       "title": "DARKER THAN BLACK -黑之契约者-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/17/00/292_86ZrF.jpg",
+      "coverUrl": "covers/292.jpg",
       "name": "DARKER THAN BLACK -黑之契约者-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/00/292_86ZrF.jpg",
+      "cover": "covers/292.jpg",
       "ratingCount": 10004
     },
     {
@@ -570,9 +570,9 @@ const animeData = {
       "bangumiId": 827,
       "year": 2007,
       "title": "日在校园",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fa/3a/827_hh7ot.jpg",
+      "coverUrl": "covers/827.jpg",
       "name": "日在校园",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fa/3a/827_hh7ot.jpg",
+      "cover": "covers/827.jpg",
       "ratingCount": 9935
     },
     {
@@ -580,9 +580,9 @@ const animeData = {
       "bangumiId": 2782,
       "year": 2007,
       "title": "火影忍者疾风传",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/60/24/2782_z3jWE.jpg",
+      "coverUrl": "covers/2782.jpg",
       "name": "火影忍者疾风传",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/60/24/2782_z3jWE.jpg",
+      "cover": "covers/2782.jpg",
       "ratingCount": 8119
     },
     {
@@ -590,9 +590,9 @@ const animeData = {
       "bangumiId": 799,
       "year": 2007,
       "title": "悠久之翼",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/28/26/799_C3Ypp.jpg",
+      "coverUrl": "covers/799.jpg",
       "name": "悠久之翼",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/26/799_C3Ypp.jpg",
+      "cover": "covers/799.jpg",
       "ratingCount": 7054
     },
     {
@@ -600,9 +600,9 @@ const animeData = {
       "bangumiId": 283,
       "year": 2007,
       "title": "南家三姐妹",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0f/49/283_qtWfz.jpg",
+      "coverUrl": "covers/283.jpg",
       "name": "南家三姐妹",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/49/283_qtWfz.jpg",
+      "cover": "covers/283.jpg",
       "ratingCount": 6939
     },
     {
@@ -610,9 +610,9 @@ const animeData = {
       "bangumiId": 3892,
       "year": 2007,
       "title": "赌博默示录",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fb/06/3892_xe6z2.jpg",
+      "coverUrl": "covers/3892.jpg",
       "name": "赌博默示录",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fb/06/3892_xe6z2.jpg",
+      "cover": "covers/3892.jpg",
       "ratingCount": 6849
     },
     {
@@ -620,9 +620,9 @@ const animeData = {
       "bangumiId": 491,
       "year": 2007,
       "title": "灼眼的夏娜II",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/55/9c/491_r0MnB.jpg",
+      "coverUrl": "covers/491.jpg",
       "name": "灼眼的夏娜II",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/55/9c/491_r0MnB.jpg",
+      "cover": "covers/491.jpg",
       "ratingCount": 6474
     },
     {
@@ -630,9 +630,9 @@ const animeData = {
       "bangumiId": 286,
       "year": 2007,
       "title": "机动战士高达00",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/16/a5/286_8Kxkz.jpg",
+      "coverUrl": "covers/286.jpg",
       "name": "机动战士高达00",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/16/a5/286_8Kxkz.jpg",
+      "cover": "covers/286.jpg",
       "ratingCount": 6407
     },
     {
@@ -640,9 +640,9 @@ const animeData = {
       "bangumiId": 1103,
       "year": 2007,
       "title": "零之使魔 双月骑士",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/aa/ce/1103_Gc1uq.jpg",
+      "coverUrl": "covers/1103.jpg",
       "name": "零之使魔 双月骑士",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/aa/ce/1103_Gc1uq.jpg",
+      "cover": "covers/1103.jpg",
       "ratingCount": 6076
     },
     {
@@ -650,9 +650,9 @@ const animeData = {
       "bangumiId": 299,
       "year": 2007,
       "title": "再见绝望先生",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ef/0d/299_0srrf.jpg",
+      "coverUrl": "covers/299.jpg",
       "name": "再见绝望先生",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/0d/299_0srrf.jpg",
+      "cover": "covers/299.jpg",
       "ratingCount": 6011
     },
     {
@@ -660,9 +660,9 @@ const animeData = {
       "bangumiId": 808,
       "year": 2007,
       "title": "旋风管家",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a8/ec/808_wmqKJ.jpg",
+      "coverUrl": "covers/808.jpg",
       "name": "旋风管家",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/ec/808_wmqKJ.jpg",
+      "cover": "covers/808.jpg",
       "ratingCount": 5641
     },
     {
@@ -670,9 +670,9 @@ const animeData = {
       "bangumiId": 805,
       "year": 2007,
       "title": "濑户的花嫁",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/84/6c/805_p6Jf6.jpg",
+      "coverUrl": "covers/805.jpg",
       "name": "濑户的花嫁",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/6c/805_p6Jf6.jpg",
+      "cover": "covers/805.jpg",
       "ratingCount": 5407
     },
     {
@@ -680,9 +680,9 @@ const animeData = {
       "bangumiId": 794,
       "year": 2007,
       "title": "电脑线圈",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/82/48/794_tikkW.jpg",
+      "coverUrl": "covers/794.jpg",
       "name": "电脑线圈",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/82/48/794_tikkW.jpg",
+      "cover": "covers/794.jpg",
       "ratingCount": 4849
     },
     {
@@ -690,9 +690,9 @@ const animeData = {
       "bangumiId": 2496,
       "year": 2007,
       "title": "物怪",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/12/ff/2496_XYtR8.jpg",
+      "coverUrl": "covers/2496.jpg",
       "name": "物怪",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/12/ff/2496_XYtR8.jpg",
+      "cover": "covers/2496.jpg",
       "ratingCount": 4301
     },
     {
@@ -700,9 +700,9 @@ const animeData = {
       "bangumiId": 798,
       "year": 2007,
       "title": "sola",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9e/3c/798_Tsgqf.jpg",
+      "coverUrl": "covers/798.jpg",
       "name": "sola",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9e/3c/798_Tsgqf.jpg",
+      "cover": "covers/798.jpg",
       "ratingCount": 4171
     },
     {
@@ -710,9 +710,9 @@ const animeData = {
       "bangumiId": 982,
       "year": 2007,
       "title": "大剑",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fe/c8/982_771Sn.jpg",
+      "coverUrl": "covers/982.jpg",
       "name": "大剑",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/c8/982_771Sn.jpg",
+      "cover": "covers/982.jpg",
       "ratingCount": 4009
     },
     {
@@ -720,9 +720,9 @@ const animeData = {
       "bangumiId": 1219,
       "year": 2007,
       "title": "现视研2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/27/15/1219_6W5mx.jpg",
+      "coverUrl": "covers/1219.jpg",
       "name": "现视研2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/15/1219_6W5mx.jpg",
+      "cover": "covers/1219.jpg",
       "ratingCount": 2966
     },
     {
@@ -730,9 +730,9 @@ const animeData = {
       "bangumiId": 443,
       "year": 2007,
       "title": "交响情人梦",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/13/f3/443_8yZla.jpg",
+      "coverUrl": "covers/443.jpg",
       "name": "交响情人梦",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/f3/443_8yZla.jpg",
+      "cover": "covers/443.jpg",
       "ratingCount": 2860
     },
     {
@@ -740,9 +740,9 @@ const animeData = {
       "bangumiId": 467,
       "year": 2007,
       "title": "地球防卫少年",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ab/81/467_me6C6.jpg",
+      "coverUrl": "covers/467.jpg",
       "name": "地球防卫少年",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ab/81/467_me6C6.jpg",
+      "cover": "covers/467.jpg",
       "ratingCount": 2693
     },
     {
@@ -750,9 +750,9 @@ const animeData = {
       "bangumiId": 1264,
       "year": 2007,
       "title": "魔法少女奈叶StrikerS",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6c/8d/1264_VT1OS.jpg",
+      "coverUrl": "covers/1264.jpg",
       "name": "魔法少女奈叶StrikerS",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/8d/1264_VT1OS.jpg",
+      "cover": "covers/1264.jpg",
       "ratingCount": 2381
     },
     {
@@ -760,9 +760,9 @@ const animeData = {
       "bangumiId": 1267,
       "year": 2007,
       "title": "王牌投手 振臂高挥",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b5/1a/1267_tRnJz.jpg",
+      "coverUrl": "covers/1267.jpg",
       "name": "王牌投手 振臂高挥",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b5/1a/1267_tRnJz.jpg",
+      "cover": "covers/1267.jpg",
       "ratingCount": 2128
     },
     {
@@ -770,9 +770,9 @@ const animeData = {
       "bangumiId": 896,
       "year": 2007,
       "title": "向阳素描",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/06/14/896_sipL4.jpg",
+      "coverUrl": "covers/896.jpg",
       "name": "向阳素描",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/06/14/896_sipL4.jpg",
+      "cover": "covers/896.jpg",
       "ratingCount": 2127
     },
     {
@@ -780,9 +780,9 @@ const animeData = {
       "bangumiId": 4193,
       "year": 2007,
       "title": "NHK15个动画短片",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/37/70/4193_acm67.jpg",
+      "coverUrl": "covers/4193.jpg",
       "name": "NHK15个动画短片",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/70/4193_acm67.jpg",
+      "cover": "covers/4193.jpg",
       "ratingCount": 2125
     },
     {
@@ -790,9 +790,9 @@ const animeData = {
       "bangumiId": 2482,
       "year": 2007,
       "title": "萝莉的时间",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f5/5c/2482_5nN5D.jpg",
+      "coverUrl": "covers/2482.jpg",
       "name": "萝莉的时间",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f5/5c/2482_5nN5D.jpg",
+      "cover": "covers/2482.jpg",
       "ratingCount": 2021
     },
     {
@@ -800,9 +800,9 @@ const animeData = {
       "bangumiId": 2427,
       "year": 2007,
       "title": "守护甜心！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2a/aa/2427_7HCGi.jpg",
+      "coverUrl": "covers/2427.jpg",
       "name": "守护甜心！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2a/aa/2427_7HCGi.jpg",
+      "cover": "covers/2427.jpg",
       "ratingCount": 2019
     },
     {
@@ -810,9 +810,9 @@ const animeData = {
       "bangumiId": 1976,
       "year": 2007,
       "title": "精灵守护者",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dd/05/1976_2u2H8.jpg",
+      "coverUrl": "covers/1976.jpg",
       "name": "精灵守护者",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/05/1976_2u2H8.jpg",
+      "cover": "covers/1976.jpg",
       "ratingCount": 1843
     },
     {
@@ -820,9 +820,9 @@ const animeData = {
       "bangumiId": 58864,
       "year": 2007,
       "title": "监狱兔 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/39/ec/58864_RjuJb.jpg",
+      "coverUrl": "covers/58864.jpg",
       "name": "监狱兔 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/ec/58864_RjuJb.jpg",
+      "cover": "covers/58864.jpg",
       "ratingCount": 1741
     },
     {
@@ -830,9 +830,9 @@ const animeData = {
       "bangumiId": 4010,
       "year": 2007,
       "title": "剑豪生死斗",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/66/93/4010_4IYa1.jpg",
+      "coverUrl": "covers/4010.jpg",
       "name": "剑豪生死斗",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/93/4010_4IYa1.jpg",
+      "cover": "covers/4010.jpg",
       "ratingCount": 1722
     },
     {
@@ -840,9 +840,9 @@ const animeData = {
       "bangumiId": 3012,
       "year": 2007,
       "title": "萌菌物语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5a/01/3012_H4KKl.jpg",
+      "coverUrl": "covers/3012.jpg",
       "name": "萌菌物语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5a/01/3012_H4KKl.jpg",
+      "cover": "covers/3012.jpg",
       "ratingCount": 1457
     },
     {
@@ -850,9 +850,9 @@ const animeData = {
       "bangumiId": 2396,
       "year": 2007,
       "title": "风之圣痕",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dc/f6/2396_kh7HJ.jpg",
+      "coverUrl": "covers/2396.jpg",
       "name": "风之圣痕",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dc/f6/2396_kh7HJ.jpg",
+      "cover": "covers/2396.jpg",
       "ratingCount": 1451
     },
     {
@@ -860,9 +860,9 @@ const animeData = {
       "bangumiId": 306,
       "year": 2007,
       "title": "我自己；你自己",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b2/eb/306_3M03m.jpg",
+      "coverUrl": "covers/306.jpg",
       "name": "我自己；你自己",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/eb/306_3M03m.jpg",
+      "cover": "covers/306.jpg",
       "ratingCount": 1414
     },
     {
@@ -870,9 +870,9 @@ const animeData = {
       "bangumiId": 1272,
       "year": 2007,
       "title": "竹剑少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/78/10/1272_ThY0x.jpg",
+      "coverUrl": "covers/1272.jpg",
       "name": "竹剑少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/78/10/1272_ThY0x.jpg",
+      "cover": "covers/1272.jpg",
       "ratingCount": 1261
     },
     {
@@ -880,9 +880,9 @@ const animeData = {
       "bangumiId": 2333,
       "year": 2007,
       "title": "蓝兰岛漂流记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f7/e0/2333_40X6d.jpg",
+      "coverUrl": "covers/2333.jpg",
       "name": "蓝兰岛漂流记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f7/e0/2333_40X6d.jpg",
+      "cover": "covers/2333.jpg",
       "ratingCount": 1193
     },
     {
@@ -890,9 +890,9 @@ const animeData = {
       "bangumiId": 308,
       "year": 2007,
       "title": "君吻 pure rouge",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a8/c8/308_JiaD2.jpg",
+      "coverUrl": "covers/308.jpg",
       "name": "君吻 pure rouge",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/c8/308_JiaD2.jpg",
+      "cover": "covers/308.jpg",
       "ratingCount": 1148
     },
     {
@@ -900,9 +900,9 @@ const animeData = {
       "bangumiId": 3013,
       "year": 2007,
       "title": "节哀唷♥二之宫同学",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/41/10/3013_BQ04S.jpg",
+      "coverUrl": "covers/3013.jpg",
       "name": "节哀唷♥二之宫同学",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/10/3013_BQ04S.jpg",
+      "cover": "covers/3013.jpg",
       "ratingCount": 1012
     },
     {
@@ -910,9 +910,9 @@ const animeData = {
       "bangumiId": 1309,
       "year": 2007,
       "title": "初音岛II",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/53/5a/1310_9l5VY.jpg",
+      "coverUrl": "covers/1309.jpg",
       "name": "初音岛II",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/5a/1310_9l5VY.jpg",
+      "cover": "covers/1309.jpg",
       "ratingCount": 985
     },
     {
@@ -920,9 +920,9 @@ const animeData = {
       "bangumiId": 1461,
       "year": 2007,
       "title": "虫之歌",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/95/15/1461_BNxvN.jpg",
+      "coverUrl": "covers/1461.jpg",
       "name": "虫之歌",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/95/15/1461_BNxvN.jpg",
+      "cover": "covers/1461.jpg",
       "ratingCount": 974
     },
     {
@@ -930,9 +930,9 @@ const animeData = {
       "bangumiId": 2470,
       "year": 2007,
       "title": "校园乌托邦 学美向前冲！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7c/c2/2470_i77WJ.jpg",
+      "coverUrl": "covers/2470.jpg",
       "name": "校园乌托邦 学美向前冲！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7c/c2/2470_i77WJ.jpg",
+      "cover": "covers/2470.jpg",
       "ratingCount": 921
     },
     {
@@ -940,9 +940,9 @@ const animeData = {
       "bangumiId": 2940,
       "year": 2007,
       "title": "恋爱情结",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8e/93/2940_5649o.jpg",
+      "coverUrl": "covers/2940.jpg",
       "name": "恋爱情结",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/93/2940_5649o.jpg",
+      "cover": "covers/2940.jpg",
       "ratingCount": 909
     },
     {
@@ -950,9 +950,9 @@ const animeData = {
       "bangumiId": 875,
       "year": 2007,
       "title": "爆炸头武士",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4b/0a/875_4XSsd.jpg",
+      "coverUrl": "covers/875.jpg",
       "name": "爆炸头武士",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4b/0a/875_4XSsd.jpg",
+      "cover": "covers/875.jpg",
       "ratingCount": 862
     },
     {
@@ -960,9 +960,9 @@ const animeData = {
       "bangumiId": 13430,
       "year": 2007,
       "title": "鬼泣",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d7/73/13430_4uGSu.jpg",
+      "coverUrl": "covers/13430.jpg",
       "name": "鬼泣",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d7/73/13430_4uGSu.jpg",
+      "cover": "covers/13430.jpg",
       "ratingCount": 858
     },
     {
@@ -970,9 +970,9 @@ const animeData = {
       "bangumiId": 1967,
       "year": 2007,
       "title": "英雄时代",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a8/2d/1967_EE8zY.jpg",
+      "coverUrl": "covers/1967.jpg",
       "name": "英雄时代",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/2d/1967_EE8zY.jpg",
+      "cover": "covers/1967.jpg",
       "ratingCount": 805
     },
     {
@@ -980,9 +980,9 @@ const animeData = {
       "bangumiId": 7218,
       "year": 2007,
       "title": "僵尸借贷",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e7/d6/7218_GslgG.jpg",
+      "coverUrl": "covers/7218.jpg",
       "name": "僵尸借贷",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e7/d6/7218_GslgG.jpg",
+      "cover": "covers/7218.jpg",
       "ratingCount": 792
     },
     {
@@ -990,9 +990,9 @@ const animeData = {
       "bangumiId": 594,
       "year": 2007,
       "title": "健康全裸游泳社 海商",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/07/6a/594_2yP55.jpg",
+      "coverUrl": "covers/594.jpg",
       "name": "健康全裸游泳社 海商",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/07/6a/594_2yP55.jpg",
+      "cover": "covers/594.jpg",
       "ratingCount": 695
     },
     {
@@ -1000,9 +1000,9 @@ const animeData = {
       "bangumiId": 3489,
       "year": 2007,
       "title": "魔女猎人",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1b/31/3489_V7vbv.jpg",
+      "coverUrl": "covers/3489.jpg",
       "name": "魔女猎人",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1b/31/3489_V7vbv.jpg",
+      "cover": "covers/3489.jpg",
       "ratingCount": 691
     }
   ],
@@ -1012,9 +1012,9 @@ const animeData = {
       "bangumiId": 876,
       "year": 2008,
       "title": "CLANNAD 〜AFTER STORY〜",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/67/d1/876_dCfrd.jpg",
+      "coverUrl": "covers/876.jpg",
       "name": "CLANNAD 〜AFTER STORY〜",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/67/d1/876_dCfrd.jpg",
+      "cover": "covers/876.jpg",
       "ratingCount": 31653
     },
     {
@@ -1022,9 +1022,9 @@ const animeData = {
       "bangumiId": 909,
       "year": 2008,
       "title": "龙与虎",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a4/30/909_e5zhk.jpg",
+      "coverUrl": "covers/909.jpg",
       "name": "龙与虎",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a4/30/909_e5zhk.jpg",
+      "cover": "covers/909.jpg",
       "ratingCount": 27950
     },
     {
@@ -1032,9 +1032,9 @@ const animeData = {
       "bangumiId": 8,
       "year": 2008,
       "title": "Code Geass 反叛的鲁路修R2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c9/f0/8_wK0z3.jpg",
+      "coverUrl": "covers/8.jpg",
       "name": "Code Geass 反叛的鲁路修R2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c9/f0/8_wK0z3.jpg",
+      "cover": "covers/8.jpg",
       "ratingCount": 18744
     },
     {
@@ -1042,9 +1042,9 @@ const animeData = {
       "bangumiId": 1014,
       "year": 2008,
       "title": "魔法禁书目录",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/76/6d/1014_nqAH8.jpg",
+      "coverUrl": "covers/1014.jpg",
       "name": "魔法禁书目录",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/76/6d/1014_nqAH8.jpg",
+      "cover": "covers/1014.jpg",
       "ratingCount": 15906
     },
     {
@@ -1052,9 +1052,9 @@ const animeData = {
       "bangumiId": 259,
       "year": 2008,
       "title": "夏目友人帐",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cf/a0/259_7C5D9.jpg",
+      "coverUrl": "covers/259.jpg",
       "name": "夏目友人帐",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/a0/259_7C5D9.jpg",
+      "cover": "covers/259.jpg",
       "ratingCount": 12107
     },
     {
@@ -1062,9 +1062,9 @@ const animeData = {
       "bangumiId": 282,
       "year": 2008,
       "title": "狼与香辛料",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6a/9a/282_yTm70.jpg",
+      "coverUrl": "covers/282.jpg",
       "name": "狼与香辛料",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6a/9a/282_yTm70.jpg",
+      "cover": "covers/282.jpg",
       "ratingCount": 12040
     },
     {
@@ -1072,9 +1072,9 @@ const animeData = {
       "bangumiId": 309,
       "year": 2008,
       "title": "真实之泪",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ed/de/309_958Es.jpg",
+      "coverUrl": "covers/309.jpg",
       "name": "真实之泪",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ed/de/309_958Es.jpg",
+      "cover": "covers/309.jpg",
       "ratingCount": 7342
     },
     {
@@ -1082,9 +1082,9 @@ const animeData = {
       "bangumiId": 849,
       "year": 2008,
       "title": "出包王女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fe/8c/849_9xbj1.jpg",
+      "coverUrl": "covers/849.jpg",
       "name": "出包王女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/8c/849_9xbj1.jpg",
+      "cover": "covers/849.jpg",
       "ratingCount": 7228
     },
     {
@@ -1092,9 +1092,9 @@ const animeData = {
       "bangumiId": 1029,
       "year": 2008,
       "title": "悠久之翼2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/84/d2/1029_Zc2U6.jpg",
+      "coverUrl": "covers/1029.jpg",
       "name": "悠久之翼2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/d2/1029_Zc2U6.jpg",
+      "cover": "covers/1029.jpg",
       "ratingCount": 6039
     },
     {
@@ -1102,9 +1102,9 @@ const animeData = {
       "bangumiId": 1010,
       "year": 2008,
       "title": "机动战士高达00 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1e/48/1010_872sf.jpg",
+      "coverUrl": "covers/1010.jpg",
       "name": "机动战士高达00 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/48/1010_872sf.jpg",
+      "cover": "covers/1010.jpg",
       "ratingCount": 5584
     },
     {
@@ -1112,9 +1112,9 @@ const animeData = {
       "bangumiId": 763,
       "year": 2008,
       "title": "零之使魔 三美姬的轮舞",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ee/fc/763_w955d.jpg",
+      "coverUrl": "covers/763.jpg",
       "name": "零之使魔 三美姬的轮舞",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ee/fc/763_w955d.jpg",
+      "cover": "covers/763.jpg",
       "ratingCount": 5029
     },
     {
@@ -1122,9 +1122,9 @@ const animeData = {
       "bangumiId": 885,
       "year": 2008,
       "title": "食灵-零-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0e/fe/885_xLd0r.jpg",
+      "coverUrl": "covers/885.jpg",
       "name": "食灵-零-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/fe/885_xLd0r.jpg",
+      "cover": "covers/885.jpg",
       "ratingCount": 4921
     },
     {
@@ -1132,9 +1132,9 @@ const animeData = {
       "bangumiId": 883,
       "year": 2008,
       "title": "黑执事",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/21/0f/883_9w87Y.jpg",
+      "coverUrl": "covers/883.jpg",
       "name": "黑执事",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/21/0f/883_9w87Y.jpg",
+      "cover": "covers/883.jpg",
       "ratingCount": 4458
     },
     {
@@ -1142,9 +1142,9 @@ const animeData = {
       "bangumiId": 902,
       "year": 2008,
       "title": "神薙",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b6/a1/902_PAkZx.jpg",
+      "coverUrl": "covers/902.jpg",
       "name": "神薙",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b6/a1/902_PAkZx.jpg",
+      "cover": "covers/902.jpg",
       "ratingCount": 4401
     },
     {
@@ -1152,9 +1152,9 @@ const animeData = {
       "bangumiId": 236,
       "year": 2008,
       "title": "超时空要塞Frontier",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/01/16/236_CBL7B.jpg",
+      "coverUrl": "covers/236.jpg",
       "name": "超时空要塞Frontier",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/16/236_CBL7B.jpg",
+      "cover": "covers/236.jpg",
       "ratingCount": 4050
     },
     {
@@ -1162,9 +1162,9 @@ const animeData = {
       "bangumiId": 300,
       "year": 2008,
       "title": "俗・再见绝望先生",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/94/f6/300_2tyI5.jpg",
+      "coverUrl": "covers/300.jpg",
       "name": "俗・再见绝望先生",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/94/f6/300_2tyI5.jpg",
+      "cover": "covers/300.jpg",
       "ratingCount": 3893
     },
     {
@@ -1172,9 +1172,9 @@ const animeData = {
       "bangumiId": 890,
       "year": 2008,
       "title": "南家三姐妹 再来一碗",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/02/4d/890_dbMzz.jpg",
+      "coverUrl": "covers/890.jpg",
       "name": "南家三姐妹 再来一碗",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/02/4d/890_dbMzz.jpg",
+      "cover": "covers/890.jpg",
       "ratingCount": 3794
     },
     {
@@ -1182,9 +1182,9 @@ const animeData = {
       "bangumiId": 866,
       "year": 2008,
       "title": "噬魂师",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ca/81/866_5X5OW.jpg",
+      "coverUrl": "covers/866.jpg",
       "name": "噬魂师",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ca/81/866_5X5OW.jpg",
+      "cover": "covers/866.jpg",
       "ratingCount": 3757
     },
     {
@@ -1192,9 +1192,9 @@ const animeData = {
       "bangumiId": 2459,
       "year": 2008,
       "title": "搞笑漫画日和3",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8b/db/2459_T0439.jpg",
+      "coverUrl": "covers/2459.jpg",
       "name": "搞笑漫画日和3",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8b/db/2459_T0439.jpg",
+      "cover": "covers/2459.jpg",
       "ratingCount": 3230
     },
     {
@@ -1202,9 +1202,9 @@ const animeData = {
       "bangumiId": 2896,
       "year": 2008,
       "title": "×××HOLiC◆继",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f2/2896_Lhk5E.jpg",
+      "coverUrl": "covers/2896.jpg",
       "name": "×××HOLiC◆继",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f2/2896_Lhk5E.jpg",
+      "cover": "covers/2896.jpg",
       "ratingCount": 3221
     },
     {
@@ -1212,9 +1212,9 @@ const animeData = {
       "bangumiId": 2810,
       "year": 2008,
       "title": "我的狐仙女友",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/66/37/2810_3DsaQ.jpg",
+      "coverUrl": "covers/2810.jpg",
       "name": "我的狐仙女友",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/37/2810_3DsaQ.jpg",
+      "cover": "covers/2810.jpg",
       "ratingCount": 2944
     },
     {
@@ -1222,9 +1222,9 @@ const animeData = {
       "bangumiId": 1270,
       "year": 2008,
       "title": "水星领航员 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c8/50/1270_Yo7p2.jpg",
+      "coverUrl": "covers/1270.jpg",
       "name": "水星领航员 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/50/1270_Yo7p2.jpg",
+      "cover": "covers/1270.jpg",
       "ratingCount": 2942
     },
     {
@@ -1232,9 +1232,9 @@ const animeData = {
       "bangumiId": 281,
       "year": 2008,
       "title": "死后文",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e3/79/281_jP4z4.jpg",
+      "coverUrl": "covers/281.jpg",
       "name": "死后文",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e3/79/281_jP4z4.jpg",
+      "cover": "covers/281.jpg",
       "ratingCount": 2793
     },
     {
@@ -1242,9 +1242,9 @@ const animeData = {
       "bangumiId": 698,
       "year": 2008,
       "title": "强袭魔女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/99/bc/698_pF36F.jpg",
+      "coverUrl": "covers/698.jpg",
       "name": "强袭魔女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/bc/698_pF36F.jpg",
+      "cover": "covers/698.jpg",
       "ratingCount": 2711
     },
     {
@@ -1252,9 +1252,9 @@ const animeData = {
       "bangumiId": 884,
       "year": 2008,
       "title": "混沌头",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/17/0c/884_PPxeJ.jpg",
+      "coverUrl": "covers/884.jpg",
       "name": "混沌头",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/0c/884_PPxeJ.jpg",
+      "cover": "covers/884.jpg",
       "ratingCount": 2497
     },
     {
@@ -1262,9 +1262,9 @@ const animeData = {
       "bangumiId": 1625,
       "year": 2008,
       "title": "海马",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a9/81/1625_59HVn.jpg",
+      "coverUrl": "covers/1625.jpg",
       "name": "海马",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a9/81/1625_59HVn.jpg",
+      "cover": "covers/1625.jpg",
       "ratingCount": 2420
     },
     {
@@ -1272,9 +1272,9 @@ const animeData = {
       "bangumiId": 1120,
       "year": 2008,
       "title": "地狱少女 三鼎",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c6/03/1120_sIQmO.jpg",
+      "coverUrl": "covers/1120.jpg",
       "name": "地狱少女 三鼎",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c6/03/1120_sIQmO.jpg",
+      "cover": "covers/1120.jpg",
       "ratingCount": 2365
     },
     {
@@ -1282,9 +1282,9 @@ const animeData = {
       "bangumiId": 1271,
       "year": 2008,
       "title": "夕阳染红的街道",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c1/e3/1271_zqew1.jpg",
+      "coverUrl": "covers/1271.jpg",
       "name": "夕阳染红的街道",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c1/e3/1271_zqew1.jpg",
+      "cover": "covers/1271.jpg",
       "ratingCount": 2362
     },
     {
@@ -1292,9 +1292,9 @@ const animeData = {
       "bangumiId": 1609,
       "year": 2008,
       "title": "游戏王5D's",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a2/cc/1609_g4R4R.jpg",
+      "coverUrl": "covers/1609.jpg",
       "name": "游戏王5D's",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a2/cc/1609_g4R4R.jpg",
+      "cover": "covers/1609.jpg",
       "ratingCount": 2291
     },
     {
@@ -1302,9 +1302,9 @@ const animeData = {
       "bangumiId": 1970,
       "year": 2008,
       "title": "吸血鬼骑士",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/00/04/1970_2306k.jpg",
+      "coverUrl": "covers/1970.jpg",
       "name": "吸血鬼骑士",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/00/04/1970_2306k.jpg",
+      "cover": "covers/1970.jpg",
       "ratingCount": 1996
     },
     {
@@ -1312,9 +1312,9 @@ const animeData = {
       "bangumiId": 1038,
       "year": 2008,
       "title": "超智游戏",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6d/70/1038_f4e4F.jpg",
+      "coverUrl": "covers/1038.jpg",
       "name": "超智游戏",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6d/70/1038_f4e4F.jpg",
+      "cover": "covers/1038.jpg",
       "ratingCount": 1995
     },
     {
@@ -1322,9 +1322,9 @@ const animeData = {
       "bangumiId": 1963,
       "year": 2008,
       "title": "SA特优生",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c2/15/1963_xoxic.jpg",
+      "coverUrl": "covers/1963.jpg",
       "name": "SA特优生",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c2/15/1963_xoxic.jpg",
+      "cover": "covers/1963.jpg",
       "ratingCount": 1893
     },
     {
@@ -1332,9 +1332,9 @@ const animeData = {
       "bangumiId": 2474,
       "year": 2008,
       "title": "十字架与吸血鬼",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0b/f7/2474_dsDsz.jpg",
+      "coverUrl": "covers/2474.jpg",
       "name": "十字架与吸血鬼",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0b/f7/2474_dsDsz.jpg",
+      "cover": "covers/2474.jpg",
       "ratingCount": 1884
     },
     {
@@ -1342,9 +1342,9 @@ const animeData = {
       "bangumiId": 916,
       "year": 2008,
       "title": "魍魉之匣",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/23/ce/916_5JUCJ.jpg",
+      "coverUrl": "covers/916.jpg",
       "name": "魍魉之匣",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/23/ce/916_5JUCJ.jpg",
+      "cover": "covers/916.jpg",
       "ratingCount": 1871
     },
     {
@@ -1352,9 +1352,9 @@ const animeData = {
       "bangumiId": 1257,
       "year": 2008,
       "title": "记忆女神的女儿们",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cd/75/1257_VHRVH.jpg",
+      "coverUrl": "covers/1257.jpg",
       "name": "记忆女神的女儿们",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/75/1257_VHRVH.jpg",
+      "cover": "covers/1257.jpg",
       "ratingCount": 1860
     },
     {
@@ -1362,9 +1362,9 @@ const animeData = {
       "bangumiId": 294,
       "year": 2008,
       "title": "图书馆战争",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/68/83/294_lwW9k.jpg",
+      "coverUrl": "covers/294.jpg",
       "name": "图书馆战争",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/68/83/294_lwW9k.jpg",
+      "cover": "covers/294.jpg",
       "ratingCount": 1824
     },
     {
@@ -1372,9 +1372,9 @@ const animeData = {
       "bangumiId": 1966,
       "year": 2008,
       "title": "交响情人梦 巴黎篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/36/83/1966_gSCg8.jpg",
+      "coverUrl": "covers/1966.jpg",
       "name": "交响情人梦 巴黎篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/83/1966_gSCg8.jpg",
+      "cover": "covers/1966.jpg",
       "ratingCount": 1785
     },
     {
@@ -1382,9 +1382,9 @@ const animeData = {
       "bangumiId": 762,
       "year": 2008,
       "title": "乃木坂春香的秘密",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/06/99/762_2TFR2.jpg",
+      "coverUrl": "covers/762.jpg",
       "name": "乃木坂春香的秘密",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/06/99/762_2TFR2.jpg",
+      "cover": "covers/762.jpg",
       "ratingCount": 1659
     },
     {
@@ -1392,9 +1392,9 @@ const animeData = {
       "bangumiId": 58865,
       "year": 2008,
       "title": "监狱兔 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/28/3e/58865_T0Ad5.jpg",
+      "coverUrl": "covers/58865.jpg",
       "name": "监狱兔 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/3e/58865_T0Ad5.jpg",
+      "cover": "covers/58865.jpg",
       "ratingCount": 1576
     },
     {
@@ -1402,9 +1402,9 @@ const animeData = {
       "bangumiId": 330,
       "year": 2008,
       "title": "向阳素描×365",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fe/73/330_252oN.jpg",
+      "coverUrl": "covers/330.jpg",
       "name": "向阳素描×365",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/73/330_252oN.jpg",
+      "cover": "covers/330.jpg",
       "ratingCount": 1576
     },
     {
@@ -1412,9 +1412,9 @@ const animeData = {
       "bangumiId": 325,
       "year": 2008,
       "title": "鹡鸰女神",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/89/f0/325_26e33.jpg",
+      "coverUrl": "covers/325.jpg",
       "name": "鹡鸰女神",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/89/f0/325_26e33.jpg",
+      "cover": "covers/325.jpg",
       "ratingCount": 1560
     },
     {
@@ -1422,9 +1422,9 @@ const animeData = {
       "bangumiId": 1971,
       "year": 2008,
       "title": "吸血鬼骑士 Guilty",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/de/73/1971_573M3.jpg",
+      "coverUrl": "covers/1971.jpg",
       "name": "吸血鬼骑士 Guilty",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/de/73/1971_573M3.jpg",
+      "cover": "covers/1971.jpg",
       "ratingCount": 1492
     },
     {
@@ -1432,9 +1432,9 @@ const animeData = {
       "bangumiId": 317,
       "year": 2008,
       "title": "我家有个狐仙大人",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5b/8a/317_jfglf.jpg",
+      "coverUrl": "covers/317.jpg",
       "name": "我家有个狐仙大人",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5b/8a/317_jfglf.jpg",
+      "cover": "covers/317.jpg",
       "ratingCount": 1472
     },
     {
@@ -1442,9 +1442,9 @@ const animeData = {
       "bangumiId": 1703,
       "year": 2008,
       "title": "纯情罗曼史",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/37/5c/1703_NblJp.jpg",
+      "coverUrl": "covers/1703.jpg",
       "name": "纯情罗曼史",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/5c/1703_NblJp.jpg",
+      "cover": "covers/1703.jpg",
       "ratingCount": 1460
     },
     {
@@ -1452,9 +1452,9 @@ const animeData = {
       "bangumiId": 2286,
       "year": 2008,
       "title": "隐之王",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fa/24/2286_gja2Q.jpg",
+      "coverUrl": "covers/2286.jpg",
       "name": "隐之王",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fa/24/2286_gja2Q.jpg",
+      "cover": "covers/2286.jpg",
       "ratingCount": 1424
     },
     {
@@ -1462,9 +1462,9 @@ const animeData = {
       "bangumiId": 810,
       "year": 2008,
       "title": "H2O 赤砂的印记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b6/ed/810_oBpOO.jpg",
+      "coverUrl": "covers/810.jpg",
       "name": "H2O 赤砂的印记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b6/ed/810_oBpOO.jpg",
+      "cover": "covers/810.jpg",
       "ratingCount": 1397
     },
     {
@@ -1472,9 +1472,9 @@ const animeData = {
       "bangumiId": 968,
       "year": 2008,
       "title": "天体战士",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8f/46/968_k8lyP.jpg",
+      "coverUrl": "covers/968.jpg",
       "name": "天体战士",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8f/46/968_k8lyP.jpg",
+      "cover": "covers/968.jpg",
       "ratingCount": 1342
     },
     {
@@ -1482,9 +1482,9 @@ const animeData = {
       "bangumiId": 811,
       "year": 2008,
       "title": "恋姬无双",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/67/0e/811_1KdD0.jpg",
+      "coverUrl": "covers/811.jpg",
       "name": "恋姬无双",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/67/0e/811_1KdD0.jpg",
+      "cover": "covers/811.jpg",
       "ratingCount": 1320
     },
     {
@@ -1492,9 +1492,9 @@ const animeData = {
       "bangumiId": 3413,
       "year": 2008,
       "title": "今天的五年二班",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/30/19/3413_FqfYQ.jpg",
+      "coverUrl": "covers/3413.jpg",
       "name": "今天的五年二班",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/30/19/3413_FqfYQ.jpg",
+      "cover": "covers/3413.jpg",
       "ratingCount": 1314
     },
     {
@@ -1502,9 +1502,9 @@ const animeData = {
       "bangumiId": 2475,
       "year": 2008,
       "title": "十字架与吸血鬼 CAPU2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fe/c8/2475_21ivi.jpg",
+      "coverUrl": "covers/2475.jpg",
       "name": "十字架与吸血鬼 CAPU2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/c8/2475_21ivi.jpg",
+      "cover": "covers/2475.jpg",
       "ratingCount": 1281
     }
   ],
@@ -1514,9 +1514,9 @@ const animeData = {
       "bangumiId": 1424,
       "year": 2009,
       "title": "轻音少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/48/9d/1424_q8FMQ.jpg",
+      "coverUrl": "covers/1424.jpg",
       "name": "轻音少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/48/9d/1424_q8FMQ.jpg",
+      "cover": "covers/1424.jpg",
       "ratingCount": 30885
     },
     {
@@ -1524,9 +1524,9 @@ const animeData = {
       "bangumiId": 1671,
       "year": 2009,
       "title": "化物语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/64/7c/1671_vQ2W9.jpg",
+      "coverUrl": "covers/1671.jpg",
       "name": "化物语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/64/7c/1671_vQ2W9.jpg",
+      "cover": "covers/1671.jpg",
       "ratingCount": 25137
     },
     {
@@ -1534,9 +1534,9 @@ const animeData = {
       "bangumiId": 1428,
       "year": 2009,
       "title": "钢之炼金术师 FULLMETAL ALCHEMIST",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/06/63/1428_xwkMI.jpg",
+      "coverUrl": "covers/1428.jpg",
       "name": "钢之炼金术师 FULLMETAL ALCHEMIST",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/06/63/1428_xwkMI.jpg",
+      "cover": "covers/1428.jpg",
       "ratingCount": 25054
     },
     {
@@ -1544,9 +1544,9 @@ const animeData = {
       "bangumiId": 2585,
       "year": 2009,
       "title": "某科学的超电磁炮",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/36/e7/2585_pn2eP.jpg",
+      "coverUrl": "covers/2585.jpg",
       "name": "某科学的超电磁炮",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/e7/2585_pn2eP.jpg",
+      "cover": "covers/2585.jpg",
       "ratingCount": 23444
     },
     {
@@ -1554,9 +1554,9 @@ const animeData = {
       "bangumiId": 1606,
       "year": 2009,
       "title": "凉宫春日的忧郁 2009",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/49/5d/1606_64k44.jpg",
+      "coverUrl": "covers/1606.jpg",
       "name": "凉宫春日的忧郁 2009",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/49/5d/1606_64k44.jpg",
+      "cover": "covers/1606.jpg",
       "ratingCount": 20230
     },
     {
@@ -1564,9 +1564,9 @@ const animeData = {
       "bangumiId": 2617,
       "year": 2009,
       "title": "天降之物",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/75/e3/2617_TM8mX.jpg",
+      "coverUrl": "covers/2617.jpg",
       "name": "天降之物",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/e3/2617_TM8mX.jpg",
+      "cover": "covers/2617.jpg",
       "ratingCount": 8995
     },
     {
@@ -1574,9 +1574,9 @@ const animeData = {
       "bangumiId": 2567,
       "year": 2009,
       "title": "学生会的一己之见",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dd/a0/2567_090zo.jpg",
+      "coverUrl": "covers/2567.jpg",
       "name": "学生会的一己之见",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/a0/2567_090zo.jpg",
+      "cover": "covers/2567.jpg",
       "ratingCount": 8687
     },
     {
@@ -1584,9 +1584,9 @@ const animeData = {
       "bangumiId": 1512,
       "year": 2009,
       "title": "狼与香辛料 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0f/3d/1512_1HCN1.jpg",
+      "coverUrl": "covers/1512.jpg",
       "name": "狼与香辛料 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/3d/1512_1HCN1.jpg",
+      "cover": "covers/1512.jpg",
       "ratingCount": 8500
     },
     {
@@ -1594,9 +1594,9 @@ const animeData = {
       "bangumiId": 891,
       "year": 2009,
       "title": "续 夏目友人帐",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cf/bc/891_d5mwr.jpg",
+      "coverUrl": "covers/891.jpg",
       "name": "续 夏目友人帐",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/bc/891_d5mwr.jpg",
+      "cover": "covers/891.jpg",
       "ratingCount": 8026
     },
     {
@@ -1604,9 +1604,9 @@ const animeData = {
       "bangumiId": 1444,
       "year": 2009,
       "title": "天才麻将少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/af/e4/1444_n67JG.jpg",
+      "coverUrl": "covers/1444.jpg",
       "name": "天才麻将少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/af/e4/1444_n67JG.jpg",
+      "cover": "covers/1444.jpg",
       "ratingCount": 6983
     },
     {
@@ -1614,9 +1614,9 @@ const animeData = {
       "bangumiId": 2790,
       "year": 2009,
       "title": "好想告诉你",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ec/0b/2790_gng9Z.jpg",
+      "coverUrl": "covers/2790.jpg",
       "name": "好想告诉你",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ec/0b/2790_gng9Z.jpg",
+      "cover": "covers/2790.jpg",
       "ratingCount": 6022
     },
     {
@@ -1624,9 +1624,9 @@ const animeData = {
       "bangumiId": 2354,
       "year": 2009,
       "title": "DARKER THAN BLACK -流星的双子-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d2/54/2354_6QmTz.jpg",
+      "coverUrl": "covers/2354.jpg",
       "name": "DARKER THAN BLACK -流星的双子-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d2/54/2354_6QmTz.jpg",
+      "cover": "covers/2354.jpg",
       "ratingCount": 5863
     },
     {
@@ -1634,9 +1634,9 @@ const animeData = {
       "bangumiId": 1451,
       "year": 2009,
       "title": "东之伊甸",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/80/a8/1451_uU8k9.jpg",
+      "coverUrl": "covers/1451.jpg",
       "name": "东之伊甸",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/80/a8/1451_uU8k9.jpg",
+      "cover": "covers/1451.jpg",
       "ratingCount": 5239
     },
     {
@@ -1644,9 +1644,9 @@ const animeData = {
       "bangumiId": 2609,
       "year": 2009,
       "title": "妖精的尾巴",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/33/9a/2609_3ak4F.jpg",
+      "coverUrl": "covers/2609.jpg",
       "name": "妖精的尾巴",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/33/9a/2609_3ak4F.jpg",
+      "cover": "covers/2609.jpg",
       "ratingCount": 4776
     },
     {
@@ -1654,9 +1654,9 @@ const animeData = {
       "bangumiId": 993,
       "year": 2009,
       "title": "白色相簿",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7b/13/993_6PQ58.jpg",
+      "coverUrl": "covers/993.jpg",
       "name": "白色相簿",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7b/13/993_6PQ58.jpg",
+      "cover": "covers/993.jpg",
       "ratingCount": 4529
     },
     {
@@ -1664,9 +1664,9 @@ const animeData = {
       "bangumiId": 889,
       "year": 2009,
       "title": "南家三姐妹 欢迎回来",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/07/87/889_qF2Qq.jpg",
+      "coverUrl": "covers/889.jpg",
       "name": "南家三姐妹 欢迎回来",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/07/87/889_qF2Qq.jpg",
+      "cover": "covers/889.jpg",
       "ratingCount": 3830
     },
     {
@@ -1674,9 +1674,9 @@ const animeData = {
       "bangumiId": 1377,
       "year": 2009,
       "title": "海猫鸣泣之时",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f5/23/1377_ivd27.jpg",
+      "coverUrl": "covers/1377.jpg",
       "name": "海猫鸣泣之时",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f5/23/1377_ivd27.jpg",
+      "cover": "covers/1377.jpg",
       "ratingCount": 3685
     },
     {
@@ -1684,9 +1684,9 @@ const animeData = {
       "bangumiId": 894,
       "year": 2009,
       "title": "玛利亚狂热",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4b/02/894_GgUhH.jpg",
+      "coverUrl": "covers/894.jpg",
       "name": "玛利亚狂热",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4b/02/894_GgUhH.jpg",
+      "cover": "covers/894.jpg",
       "ratingCount": 3677
     },
     {
@@ -1694,9 +1694,9 @@ const animeData = {
       "bangumiId": 1952,
       "year": 2009,
       "title": "迦南",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/11/13/1952_NkgN5.jpg",
+      "coverUrl": "covers/1952.jpg",
       "name": "迦南",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/11/13/1952_NkgN5.jpg",
+      "cover": "covers/1952.jpg",
       "ratingCount": 3517
     },
     {
@@ -1704,9 +1704,9 @@ const animeData = {
       "bangumiId": 1427,
       "year": 2009,
       "title": "旋风管家 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/97/0a/1427_20BXp.jpg",
+      "coverUrl": "covers/1427.jpg",
       "name": "旋风管家 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/97/0a/1427_20BXp.jpg",
+      "cover": "covers/1427.jpg",
       "ratingCount": 3475
     },
     {
@@ -1714,9 +1714,9 @@ const animeData = {
       "bangumiId": 2586,
       "year": 2009,
       "title": "白色相簿-后半",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c5/71/2586_TKsEE.jpg",
+      "coverUrl": "covers/2586.jpg",
       "name": "白色相簿-后半",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/71/2586_TKsEE.jpg",
+      "cover": "covers/2586.jpg",
       "ratingCount": 3180
     },
     {
@@ -1724,9 +1724,9 @@ const animeData = {
       "bangumiId": 1420,
       "year": 2009,
       "title": "潘多拉之心",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/90/db/1420_N2BJm.jpg",
+      "coverUrl": "covers/1420.jpg",
       "name": "潘多拉之心",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/90/db/1420_N2BJm.jpg",
+      "cover": "covers/1420.jpg",
       "ratingCount": 3110
     },
     {
@@ -1734,9 +1734,9 @@ const animeData = {
       "bangumiId": 1742,
       "year": 2009,
       "title": "忏・再见绝望先生",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6e/62/1742_NoLLg.jpg",
+      "coverUrl": "covers/1742.jpg",
       "name": "忏・再见绝望先生",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6e/62/1742_NoLLg.jpg",
+      "cover": "covers/1742.jpg",
       "ratingCount": 3110
     },
     {
@@ -1744,9 +1744,9 @@ const animeData = {
       "bangumiId": 2129,
       "year": 2009,
       "title": "肯普法",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cd/4b/2129_fX9b7.jpg",
+      "coverUrl": "covers/2129.jpg",
       "name": "肯普法",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/4b/2129_fX9b7.jpg",
+      "cover": "covers/2129.jpg",
       "ratingCount": 3100
     },
     {
@@ -1754,9 +1754,9 @@ const animeData = {
       "bangumiId": 1743,
       "year": 2009,
       "title": "东京地震8.0",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/95/5a/1743_F029H.jpg",
+      "coverUrl": "covers/1743.jpg",
       "name": "东京地震8.0",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/95/5a/1743_F029H.jpg",
+      "cover": "covers/1743.jpg",
       "ratingCount": 2962
     },
     {
@@ -1764,9 +1764,9 @@ const animeData = {
       "bangumiId": 2785,
       "year": 2009,
       "title": "犬夜叉 完结篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5b/e2/2785_5IaII.jpg",
+      "coverUrl": "covers/2785.jpg",
       "name": "犬夜叉 完结篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5b/e2/2785_5IaII.jpg",
+      "cover": "covers/2785.jpg",
       "ratingCount": 2894
     },
     {
@@ -1774,9 +1774,9 @@ const animeData = {
       "bangumiId": 1426,
       "year": 2009,
       "title": "幻灵镇魂曲",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/29/9f/1426_2E03Q.jpg",
+      "coverUrl": "covers/1426.jpg",
       "name": "幻灵镇魂曲",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/9f/1426_2E03Q.jpg",
+      "cover": "covers/1426.jpg",
       "ratingCount": 2592
     },
     {
@@ -1784,9 +1784,9 @@ const animeData = {
       "bangumiId": 2882,
       "year": 2009,
       "title": "青之文学",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2e/f3/2882_4r1zo.jpg",
+      "coverUrl": "covers/2882.jpg",
       "name": "青之文学",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2e/f3/2882_4r1zo.jpg",
+      "cover": "covers/2882.jpg",
       "ratingCount": 2468
     },
     {
@@ -1794,9 +1794,9 @@ const animeData = {
       "bangumiId": 1757,
       "year": 2009,
       "title": "公主恋人！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d2/cd/1757_zppzs.jpg",
+      "coverUrl": "covers/1757.jpg",
       "name": "公主恋人！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d2/cd/1757_zppzs.jpg",
+      "cover": "covers/1757.jpg",
       "ratingCount": 2147
     },
     {
@@ -1804,9 +1804,9 @@ const animeData = {
       "bangumiId": 2478,
       "year": 2009,
       "title": "小鸠。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/53/f0/2478_ITui7.jpg",
+      "coverUrl": "covers/2478.jpg",
       "name": "小鸠。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/f0/2478_ITui7.jpg",
+      "cover": "covers/2478.jpg",
       "ratingCount": 1884
     },
     {
@@ -1814,9 +1814,9 @@ const animeData = {
       "bangumiId": 2566,
       "year": 2009,
       "title": "11eyes",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/42/fe/2566_M2Bsq.jpg",
+      "coverUrl": "covers/2566.jpg",
       "name": "11eyes",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/42/fe/2566_M2Bsq.jpg",
+      "cover": "covers/2566.jpg",
       "ratingCount": 1844
     },
     {
@@ -1824,9 +1824,9 @@ const animeData = {
       "bangumiId": 2103,
       "year": 2009,
       "title": "龙珠改",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7b/1c/2103_VR9mM.jpg",
+      "coverUrl": "covers/2103.jpg",
       "name": "龙珠改",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7b/1c/2103_VR9mM.jpg",
+      "cover": "covers/2103.jpg",
       "ratingCount": 1636
     },
     {
@@ -1834,9 +1834,9 @@ const animeData = {
       "bangumiId": 1758,
       "year": 2009,
       "title": "青之花",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/26/12/1758_3GntO.jpg",
+      "coverUrl": "covers/1758.jpg",
       "name": "青之花",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/26/12/1758_3GntO.jpg",
+      "cover": "covers/1758.jpg",
       "ratingCount": 1625
     },
     {
@@ -1844,9 +1844,9 @@ const animeData = {
       "bangumiId": 2735,
       "year": 2009,
       "title": "猫愿三角恋",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1d/49/2735_snpkp.jpg",
+      "coverUrl": "covers/2735.jpg",
       "name": "猫愿三角恋",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/49/2735_snpkp.jpg",
+      "cover": "covers/2735.jpg",
       "ratingCount": 1623
     },
     {
@@ -1854,9 +1854,9 @@ const animeData = {
       "bangumiId": 26295,
       "year": 2009,
       "title": "鲁邦三世VS名侦探柯南",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a9/31/26295_9UaWj.jpg",
+      "coverUrl": "covers/26295.jpg",
       "name": "鲁邦三世VS名侦探柯南",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a9/31/26295_9UaWj.jpg",
+      "cover": "covers/26295.jpg",
       "ratingCount": 1573
     },
     {
@@ -1864,9 +1864,9 @@ const animeData = {
       "bangumiId": 1443,
       "year": 2009,
       "title": "四叶游戏",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8f/b5/1443_fn2vz.jpg",
+      "coverUrl": "covers/1443.jpg",
       "name": "四叶游戏",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8f/b5/1443_fn2vz.jpg",
+      "cover": "covers/1443.jpg",
       "ratingCount": 1469
     },
     {
@@ -1874,9 +1874,9 @@ const animeData = {
       "bangumiId": 2476,
       "year": 2009,
       "title": "信蜂",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c8/06/2476_PGVrR.jpg",
+      "coverUrl": "covers/2476.jpg",
       "name": "信蜂",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/06/2476_PGVrR.jpg",
+      "cover": "covers/2476.jpg",
       "ratingCount": 1391
     },
     {
@@ -1884,9 +1884,9 @@ const animeData = {
       "bangumiId": 1429,
       "year": 2009,
       "title": "战国BASARA",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/56/35/1429_dA31o.jpg",
+      "coverUrl": "covers/1429.jpg",
       "name": "战国BASARA",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/35/1429_dA31o.jpg",
+      "cover": "covers/1429.jpg",
       "ratingCount": 1369
     },
     {
@@ -1894,9 +1894,9 @@ const animeData = {
       "bangumiId": 1450,
       "year": 2009,
       "title": "初恋限定。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c5/cc/1450_ZiiZD.jpg",
+      "coverUrl": "covers/1450.jpg",
       "name": "初恋限定。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/cc/1450_ZiiZD.jpg",
+      "cover": "covers/1450.jpg",
       "ratingCount": 1346
     },
     {
@@ -1904,9 +1904,9 @@ const animeData = {
       "bangumiId": 1421,
       "year": 2009,
       "title": "战场女武神",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9a/a4/1421_8kok3.jpg",
+      "coverUrl": "covers/1421.jpg",
       "name": "战场女武神",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9a/a4/1421_8kok3.jpg",
+      "cover": "covers/1421.jpg",
       "ratingCount": 1250
     },
     {
@@ -1914,9 +1914,9 @@ const animeData = {
       "bangumiId": 1822,
       "year": 2009,
       "title": "加奈日记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0e/08/1822_03s3j.jpg",
+      "coverUrl": "covers/1822.jpg",
       "name": "加奈日记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/08/1822_03s3j.jpg",
+      "cover": "covers/1822.jpg",
       "ratingCount": 1241
     },
     {
@@ -1924,9 +1924,9 @@ const animeData = {
       "bangumiId": 1182,
       "year": 2009,
       "title": "空罐少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f4/73/1182_37tgx.jpg",
+      "coverUrl": "covers/1182.jpg",
       "name": "空罐少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/73/1182_37tgx.jpg",
+      "cover": "covers/1182.jpg",
       "ratingCount": 1198
     },
     {
@@ -1934,9 +1934,9 @@ const animeData = {
       "bangumiId": 2661,
       "year": 2009,
       "title": "轻声密语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/24/17/2661_T8WAJ.jpg",
+      "coverUrl": "covers/2661.jpg",
       "name": "轻声密语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/24/17/2661_T8WAJ.jpg",
+      "cover": "covers/2661.jpg",
       "ratingCount": 1164
     },
     {
@@ -1944,9 +1944,9 @@ const animeData = {
       "bangumiId": 2771,
       "year": 2009,
       "title": "圣剑锻造师",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d8/e1/2771_bSWiL.jpg",
+      "coverUrl": "covers/2771.jpg",
       "name": "圣剑锻造师",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/e1/2771_bSWiL.jpg",
+      "cover": "covers/2771.jpg",
       "ratingCount": 1163
     },
     {
@@ -1954,9 +1954,9 @@ const animeData = {
       "bangumiId": 1131,
       "year": 2009,
       "title": "明日的与一",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fe/70/1131_qtJj4.jpg",
+      "coverUrl": "covers/1131.jpg",
       "name": "明日的与一",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/70/1131_qtJj4.jpg",
+      "cover": "covers/1131.jpg",
       "ratingCount": 1117
     },
     {
@@ -1964,9 +1964,9 @@ const animeData = {
       "bangumiId": 1454,
       "year": 2009,
       "title": "夏之岚!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3b/bf/1454_47lsn.jpg",
+      "coverUrl": "covers/1454.jpg",
       "name": "夏之岚!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3b/bf/1454_47lsn.jpg",
+      "cover": "covers/1454.jpg",
       "ratingCount": 1088
     },
     {
@@ -1974,9 +1974,9 @@ const animeData = {
       "bangumiId": 1321,
       "year": 2009,
       "title": "圣母在上 第4季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f9/be/1321_wMmWM.jpg",
+      "coverUrl": "covers/1321.jpg",
       "name": "圣母在上 第4季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f9/be/1321_wMmWM.jpg",
+      "cover": "covers/1321.jpg",
       "ratingCount": 1042
     },
     {
@@ -1984,9 +1984,9 @@ const animeData = {
       "bangumiId": 1730,
       "year": 2009,
       "title": "简单易懂的现代魔法",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/85/13/1730_O4CLh.jpg",
+      "coverUrl": "covers/1730.jpg",
       "name": "简单易懂的现代魔法",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/85/13/1730_O4CLh.jpg",
+      "cover": "covers/1730.jpg",
       "ratingCount": 1028
     },
     {
@@ -1994,9 +1994,9 @@ const animeData = {
       "bangumiId": 1455,
       "year": 2009,
       "title": "钢壳都市雷吉欧斯",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0a/1b/1455_B85eP.jpg",
+      "coverUrl": "covers/1455.jpg",
       "name": "钢壳都市雷吉欧斯",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0a/1b/1455_B85eP.jpg",
+      "cover": "covers/1455.jpg",
       "ratingCount": 1012
     },
     {
@@ -2004,9 +2004,9 @@ const animeData = {
       "bangumiId": 888,
       "year": 2009,
       "title": "迷宫塔 ～乌鲁克之剑～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0a/11/888_OOk6d.jpg",
+      "coverUrl": "covers/888.jpg",
       "name": "迷宫塔 ～乌鲁克之剑～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0a/11/888_OOk6d.jpg",
+      "cover": "covers/888.jpg",
       "ratingCount": 1011
     }
   ],
@@ -2016,9 +2016,9 @@ const animeData = {
       "bangumiId": 3774,
       "year": 2010,
       "title": "轻音少女 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/73/f1/3774_hs9Fr.jpg",
+      "coverUrl": "covers/3774.jpg",
       "name": "轻音少女 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/f1/3774_hs9Fr.jpg",
+      "cover": "covers/3774.jpg",
       "ratingCount": 25108
     },
     {
@@ -2026,9 +2026,9 @@ const animeData = {
       "bangumiId": 1851,
       "year": 2010,
       "title": "天使的心跳！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ff/14/1851_ZFEg7.jpg",
+      "coverUrl": "covers/1851.jpg",
       "name": "天使的心跳！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ff/14/1851_ZFEg7.jpg",
+      "cover": "covers/1851.jpg",
       "ratingCount": 23638
     },
     {
@@ -2036,9 +2036,9 @@ const animeData = {
       "bangumiId": 5436,
       "year": 2010,
       "title": "我的妹妹哪有这么可爱！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cf/8c/5436_MNxnb.jpg",
+      "coverUrl": "covers/5436.jpg",
       "name": "我的妹妹哪有这么可爱！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/8c/5436_MNxnb.jpg",
+      "cover": "covers/5436.jpg",
       "ratingCount": 17651
     },
     {
@@ -2046,9 +2046,9 @@ const animeData = {
       "bangumiId": 4019,
       "year": 2010,
       "title": "四叠半神话大系",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7f/c6/4019_f34f4.jpg",
+      "coverUrl": "covers/4019.jpg",
       "name": "四叠半神话大系",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7f/c6/4019_f34f4.jpg",
+      "cover": "covers/4019.jpg",
       "ratingCount": 15583
     },
     {
@@ -2056,9 +2056,9 @@ const animeData = {
       "bangumiId": 7157,
       "year": 2010,
       "title": "缘之空",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6e/01/7157_hF46A.jpg",
+      "coverUrl": "covers/7157.jpg",
       "name": "缘之空",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6e/01/7157_hF46A.jpg",
+      "cover": "covers/7157.jpg",
       "ratingCount": 14871
     },
     {
@@ -2066,9 +2066,9 @@ const animeData = {
       "bangumiId": 2463,
       "year": 2010,
       "title": "无头骑士异闻录",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/18/43/2463_FGJkn.jpg",
+      "coverUrl": "covers/2463.jpg",
       "name": "无头骑士异闻录",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/18/43/2463_FGJkn.jpg",
+      "cover": "covers/2463.jpg",
       "ratingCount": 14273
     },
     {
@@ -2076,9 +2076,9 @@ const animeData = {
       "bangumiId": 8402,
       "year": 2010,
       "title": "吊带袜天使",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a7/49/8402_Q9mLv.jpg",
+      "coverUrl": "covers/8402.jpg",
       "name": "吊带袜天使",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a7/49/8402_Q9mLv.jpg",
+      "cover": "covers/8402.jpg",
       "ratingCount": 14209
     },
     {
@@ -2086,9 +2086,9 @@ const animeData = {
       "bangumiId": 3326,
       "year": 2010,
       "title": "笨蛋，测验，召唤兽",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/db/a1/3326_lwy94.jpg",
+      "coverUrl": "covers/3326.jpg",
       "name": "笨蛋，测验，召唤兽",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/db/a1/3326_lwy94.jpg",
+      "cover": "covers/3326.jpg",
       "ratingCount": 14028
     },
     {
@@ -2096,9 +2096,9 @@ const animeData = {
       "bangumiId": 7843,
       "year": 2010,
       "title": "魔法禁书目录 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8d/91/7843_KPkpp.jpg",
+      "coverUrl": "covers/7843.jpg",
       "name": "魔法禁书目录 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8d/91/7843_KPkpp.jpg",
+      "cover": "covers/7843.jpg",
       "ratingCount": 12760
     },
     {
@@ -2106,9 +2106,9 @@ const animeData = {
       "bangumiId": 5649,
       "year": 2010,
       "title": "妄想学生会",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/33/7c/5649_r9s6i.jpg",
+      "coverUrl": "covers/5649.jpg",
       "name": "妄想学生会",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/33/7c/5649_r9s6i.jpg",
+      "cover": "covers/5649.jpg",
       "ratingCount": 10677
     },
     {
@@ -2116,9 +2116,9 @@ const animeData = {
       "bangumiId": 5976,
       "year": 2010,
       "title": "只有神知道的世界",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e1/05/5976_irRRH.jpg",
+      "coverUrl": "covers/5976.jpg",
       "name": "只有神知道的世界",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e1/05/5976_irRRH.jpg",
+      "cover": "covers/5976.jpg",
       "ratingCount": 8591
     },
     {
@@ -2126,9 +2126,9 @@ const animeData = {
       "bangumiId": 2464,
       "year": 2010,
       "title": "荒川爆笑团",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/70/c4/2464_ZwB1N.jpg",
+      "coverUrl": "covers/2464.jpg",
       "name": "荒川爆笑团",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/70/c4/2464_ZwB1N.jpg",
+      "cover": "covers/2464.jpg",
       "ratingCount": 8344
     },
     {
@@ -2136,9 +2136,9 @@ const animeData = {
       "bangumiId": 5647,
       "year": 2010,
       "title": "学园默示录 HIGHSCHOOL OF THE DEAD",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/06/56/5647_E0U53.jpg",
+      "coverUrl": "covers/5647.jpg",
       "name": "学园默示录 HIGHSCHOOL OF THE DEAD",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/06/56/5647_E0U53.jpg",
+      "cover": "covers/5647.jpg",
       "ratingCount": 7631
     },
     {
@@ -2146,9 +2146,9 @@ const animeData = {
       "bangumiId": 3428,
       "year": 2010,
       "title": "爆漫王。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/45/00/3428_NPdDd.jpg",
+      "coverUrl": "covers/3428.jpg",
       "name": "爆漫王。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/45/00/3428_NPdDd.jpg",
+      "cover": "covers/3428.jpg",
       "ratingCount": 7177
     },
     {
@@ -2156,9 +2156,9 @@ const animeData = {
       "bangumiId": 4255,
       "year": 2010,
       "title": "迷糊餐厅",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/87/db/4255_jm37v.jpg",
+      "coverUrl": "covers/4255.jpg",
       "name": "迷糊餐厅",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/db/4255_jm37v.jpg",
+      "cover": "covers/4255.jpg",
       "ratingCount": 7161
     },
     {
@@ -2166,9 +2166,9 @@ const animeData = {
       "bangumiId": 7150,
       "year": 2010,
       "title": "天降之物f",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c2/0b/7150_5EEG1.jpg",
+      "coverUrl": "covers/7150.jpg",
       "name": "天降之物f",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c2/0b/7150_5EEG1.jpg",
+      "cover": "covers/7150.jpg",
       "ratingCount": 6760
     },
     {
@@ -2176,9 +2176,9 @@ const animeData = {
       "bangumiId": 5653,
       "year": 2010,
       "title": "尸鬼",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d7/e4/5653_5ugTB.jpg",
+      "coverUrl": "covers/5653.jpg",
       "name": "尸鬼",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d7/e4/5653_5ugTB.jpg",
+      "cover": "covers/5653.jpg",
       "ratingCount": 6094
     },
     {
@@ -2186,9 +2186,9 @@ const animeData = {
       "bangumiId": 4313,
       "year": 2010,
       "title": "会长是女仆大人！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/77/16/4313_Ov8p2.jpg",
+      "coverUrl": "covers/4313.jpg",
       "name": "会长是女仆大人！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/77/16/4313_Ov8p2.jpg",
+      "cover": "covers/4313.jpg",
       "ratingCount": 5857
     },
     {
@@ -2196,9 +2196,9 @@ const animeData = {
       "bangumiId": 8081,
       "year": 2010,
       "title": "荒川爆笑团2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4a/fe/8081_o68Z8.jpg",
+      "coverUrl": "covers/8081.jpg",
       "name": "荒川爆笑团2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/fe/8081_o68Z8.jpg",
+      "cover": "covers/8081.jpg",
       "ratingCount": 5802
     },
     {
@@ -2206,9 +2206,9 @@ const animeData = {
       "bangumiId": 7883,
       "year": 2010,
       "title": "即使如此小镇依然转动",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3f/8e/7883_NLYr5.jpg",
+      "coverUrl": "covers/7883.jpg",
       "name": "即使如此小镇依然转动",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3f/8e/7883_NLYr5.jpg",
+      "cover": "covers/7883.jpg",
       "ratingCount": 5772
     },
     {
@@ -2216,9 +2216,9 @@ const animeData = {
       "bangumiId": 4284,
       "year": 2010,
       "title": "亲吻姐姐",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/41/b0/4284_wf3UE.jpg",
+      "coverUrl": "covers/4284.jpg",
       "name": "亲吻姐姐",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/b0/4284_wf3UE.jpg",
+      "cover": "covers/4284.jpg",
       "ratingCount": 5488
     },
     {
@@ -2226,9 +2226,9 @@ const animeData = {
       "bangumiId": 7842,
       "year": 2010,
       "title": "侵略!乌贼娘",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/88/1c/7842_Q1rdM.jpg",
+      "coverUrl": "covers/7842.jpg",
       "name": "侵略!乌贼娘",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/88/1c/7842_Q1rdM.jpg",
+      "cover": "covers/7842.jpg",
       "ratingCount": 5438
     },
     {
@@ -2236,9 +2236,9 @@ const animeData = {
       "bangumiId": 5656,
       "year": 2010,
       "title": "圣诞之吻SS",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ae/5e/5656_WUY5N.jpg",
+      "coverUrl": "covers/5656.jpg",
       "name": "圣诞之吻SS",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ae/5e/5656_WUY5N.jpg",
+      "cover": "covers/5656.jpg",
       "ratingCount": 5218
     },
     {
@@ -2246,9 +2246,9 @@ const animeData = {
       "bangumiId": 3471,
       "year": 2010,
       "title": "刀语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/73/51/3471_974gQ.jpg",
+      "coverUrl": "covers/3471.jpg",
       "name": "刀语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/51/3471_974gQ.jpg",
+      "cover": "covers/3471.jpg",
       "ratingCount": 4439
     },
     {
@@ -2256,9 +2256,9 @@ const animeData = {
       "bangumiId": 8546,
       "year": 2010,
       "title": "更多 出包王女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2f/40/8546_gBpmI.jpg",
+      "coverUrl": "covers/8546.jpg",
       "name": "更多 出包王女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2f/40/8546_gBpmI.jpg",
+      "cover": "covers/8546.jpg",
       "ratingCount": 4384
     },
     {
@@ -2266,9 +2266,9 @@ const animeData = {
       "bangumiId": 5474,
       "year": 2010,
       "title": "滑头鬼之孙",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4d/ea/5474_A8w8F.jpg",
+      "coverUrl": "covers/5474.jpg",
       "name": "滑头鬼之孙",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4d/ea/5474_A8w8F.jpg",
+      "cover": "covers/5474.jpg",
       "ratingCount": 3899
     },
     {
@@ -2276,9 +2276,9 @@ const animeData = {
       "bangumiId": 5652,
       "year": 2010,
       "title": "大神与七位伙伴",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b4/f1/5652_7ZtqP.jpg",
+      "coverUrl": "covers/5652.jpg",
       "name": "大神与七位伙伴",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b4/f1/5652_7ZtqP.jpg",
+      "cover": "covers/5652.jpg",
       "ratingCount": 3395
     },
     {
@@ -2286,9 +2286,9 @@ const animeData = {
       "bangumiId": 7348,
       "year": 2010,
       "title": "驭星者 闪亮的拓人",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d8/63/7348_2Ciub.jpg",
+      "coverUrl": "covers/7348.jpg",
       "name": "驭星者 闪亮的拓人",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/63/7348_2Ciub.jpg",
+      "cover": "covers/7348.jpg",
       "ratingCount": 3084
     },
     {
@@ -2296,9 +2296,9 @@ const animeData = {
       "bangumiId": 3848,
       "year": 2010,
       "title": "花丸幼稚园",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/42/c8/3848_Z5Lnm.jpg",
+      "coverUrl": "covers/3848.jpg",
       "name": "花丸幼稚园",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/42/c8/3848_Z5Lnm.jpg",
+      "cover": "covers/3848.jpg",
       "ratingCount": 2813
     },
     {
@@ -2306,9 +2306,9 @@ const animeData = {
       "bangumiId": 3482,
       "year": 2010,
       "title": "搞笑漫画日和＋",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b7/fe/3482_D1SG8.jpg",
+      "coverUrl": "covers/3482.jpg",
       "name": "搞笑漫画日和＋",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/fe/3482_D1SG8.jpg",
+      "cover": "covers/3482.jpg",
       "ratingCount": 2754
     },
     {
@@ -2316,9 +2316,9 @@ const animeData = {
       "bangumiId": 4330,
       "year": 2010,
       "title": "魔术快斗",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0d/5b/4330_czWc0.jpg",
+      "coverUrl": "covers/4330.jpg",
       "name": "魔术快斗",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0d/5b/4330_czWc0.jpg",
+      "cover": "covers/4330.jpg",
       "ratingCount": 2683
     },
     {
@@ -2326,9 +2326,9 @@ const animeData = {
       "bangumiId": 1748,
       "year": 2010,
       "title": "黑执事Ⅱ",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/54/e3/1748_fKaeF.jpg",
+      "coverUrl": "covers/1748.jpg",
       "name": "黑执事Ⅱ",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/54/e3/1748_fKaeF.jpg",
+      "cover": "covers/1748.jpg",
       "ratingCount": 2624
     },
     {
@@ -2336,9 +2336,9 @@ const animeData = {
       "bangumiId": 5658,
       "year": 2010,
       "title": "超元气三姐妹",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8c/96/5658_xXJX8.jpg",
+      "coverUrl": "covers/5658.jpg",
       "name": "超元气三姐妹",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8c/96/5658_xXJX8.jpg",
+      "cover": "covers/5658.jpg",
       "ratingCount": 2622
     },
     {
@@ -2346,9 +2346,9 @@ const animeData = {
       "bangumiId": 8390,
       "year": 2010,
       "title": "MM一族！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3d/cf/8390_CC7bt.jpg",
+      "coverUrl": "covers/8390.jpg",
       "name": "MM一族！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3d/cf/8390_CC7bt.jpg",
+      "cover": "covers/8390.jpg",
       "ratingCount": 2606
     },
     {
@@ -2356,9 +2356,9 @@ const animeData = {
       "bangumiId": 3479,
       "year": 2010,
       "title": "圣痕炼金士",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/69/50/3479_WG3cc.jpg",
+      "coverUrl": "covers/3479.jpg",
       "name": "圣痕炼金士",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/50/3479_WG3cc.jpg",
+      "cover": "covers/3479.jpg",
       "ratingCount": 2553
     },
     {
@@ -2366,9 +2366,9 @@ const animeData = {
       "bangumiId": 5654,
       "year": 2010,
       "title": "传说中勇者的传说",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/29/70/5654_tTpot.jpg",
+      "coverUrl": "covers/5654.jpg",
       "name": "传说中勇者的传说",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/70/5654_tTpot.jpg",
+      "cover": "covers/5654.jpg",
       "ratingCount": 2547
     },
     {
@@ -2376,9 +2376,9 @@ const animeData = {
       "bangumiId": 3449,
       "year": 2010,
       "title": "守护猫娘绯鞠",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/86/a1/3449_xy9Sr.jpg",
+      "coverUrl": "covers/3449.jpg",
       "name": "守护猫娘绯鞠",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/86/a1/3449_xy9Sr.jpg",
+      "cover": "covers/3449.jpg",
       "ratingCount": 2524
     },
     {
@@ -2386,9 +2386,9 @@ const animeData = {
       "bangumiId": 4292,
       "year": 2010,
       "title": "迷途猫OVER RUN",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8d/8f/4292_DC0c5.jpg",
+      "coverUrl": "covers/4292.jpg",
       "name": "迷途猫OVER RUN",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8d/8f/4292_DC0c5.jpg",
+      "cover": "covers/4292.jpg",
       "ratingCount": 2292
     },
     {
@@ -2396,9 +2396,9 @@ const animeData = {
       "bangumiId": 3477,
       "year": 2010,
       "title": "空之音",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6d/69/3477_D8GRd.jpg",
+      "coverUrl": "covers/3477.jpg",
       "name": "空之音",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6d/69/3477_D8GRd.jpg",
+      "cover": "covers/3477.jpg",
       "ratingCount": 2111
     },
     {
@@ -2406,9 +2406,9 @@ const animeData = {
       "bangumiId": 4290,
       "year": 2010,
       "title": "B型H系",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/27/58/4290_BH1BE.jpg",
+      "coverUrl": "covers/4290.jpg",
       "name": "B型H系",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/58/4290_BH1BE.jpg",
+      "cover": "covers/4290.jpg",
       "ratingCount": 2083
     },
     {
@@ -2416,9 +2416,9 @@ const animeData = {
       "bangumiId": 5651,
       "year": 2010,
       "title": "强袭魔女2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2e/5651_0969e.jpg",
+      "coverUrl": "covers/5651.jpg",
       "name": "强袭魔女2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2e/5651_0969e.jpg",
+      "cover": "covers/5651.jpg",
       "ratingCount": 2073
     },
     {
@@ -2426,9 +2426,9 @@ const animeData = {
       "bangumiId": 7844,
       "year": 2010,
       "title": "FORTUNE ARTERIAL -赤之约束-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b3/56/7844_CP968.jpg",
+      "coverUrl": "covers/7844.jpg",
       "name": "FORTUNE ARTERIAL -赤之约束-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/56/7844_CP968.jpg",
+      "cover": "covers/7844.jpg",
       "ratingCount": 1980
     },
     {
@@ -2436,9 +2436,9 @@ const animeData = {
       "bangumiId": 3478,
       "year": 2010,
       "title": "交响情人梦Finale",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b0/71/3478_1LJKF.jpg",
+      "coverUrl": "covers/3478.jpg",
       "name": "交响情人梦Finale",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b0/71/3478_1LJKF.jpg",
+      "cover": "covers/3478.jpg",
       "ratingCount": 1939
     },
     {
@@ -2446,9 +2446,9 @@ const animeData = {
       "bangumiId": 4291,
       "year": 2010,
       "title": "最后大魔王",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/14/8d/4291_yQtyt.jpg",
+      "coverUrl": "covers/4291.jpg",
       "name": "最后大魔王",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/14/8d/4291_yQtyt.jpg",
+      "cover": "covers/4291.jpg",
       "ratingCount": 1876
     },
     {
@@ -2456,9 +2456,9 @@ const animeData = {
       "bangumiId": 3446,
       "year": 2010,
       "title": "管家后宫学园",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5b/4a/3446_IjnDQ.jpg",
+      "coverUrl": "covers/3446.jpg",
       "name": "管家后宫学园",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5b/4a/3446_IjnDQ.jpg",
+      "cover": "covers/3446.jpg",
       "ratingCount": 1833
     },
     {
@@ -2466,9 +2466,9 @@ const animeData = {
       "bangumiId": 3241,
       "year": 2010,
       "title": "吸血鬼同盟",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a6/4b/3241_NeZOQ.jpg",
+      "coverUrl": "covers/3241.jpg",
       "name": "吸血鬼同盟",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a6/4b/3241_NeZOQ.jpg",
+      "cover": "covers/3241.jpg",
       "ratingCount": 1627
     },
     {
@@ -2476,9 +2476,9 @@ const animeData = {
       "bangumiId": 4328,
       "year": 2010,
       "title": "江户盗贼团五叶",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/13/43/4328_z8RCr.jpg",
+      "coverUrl": "covers/4328.jpg",
       "name": "江户盗贼团五叶",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/43/4328_z8RCr.jpg",
+      "cover": "covers/4328.jpg",
       "ratingCount": 1603
     },
     {
@@ -2486,9 +2486,9 @@ const animeData = {
       "bangumiId": 4077,
       "year": 2010,
       "title": "王牌投手 振臂高挥～夏日大会篇～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ec/0f/4077_R6tHA.jpg",
+      "coverUrl": "covers/4077.jpg",
       "name": "王牌投手 振臂高挥～夏日大会篇～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ec/0f/4077_R6tHA.jpg",
+      "cover": "covers/4077.jpg",
       "ratingCount": 1589
     },
     {
@@ -2496,9 +2496,9 @@ const animeData = {
       "bangumiId": 6933,
       "year": 2010,
       "title": "百花缭乱 SAMURAI GIRLS",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ef/2e/6933_5PLlI.jpg",
+      "coverUrl": "covers/6933.jpg",
       "name": "百花缭乱 SAMURAI GIRLS",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/2e/6933_5PLlI.jpg",
+      "cover": "covers/6933.jpg",
       "ratingCount": 1564
     },
     {
@@ -2506,9 +2506,9 @@ const animeData = {
       "bangumiId": 4315,
       "year": 2010,
       "title": "薄樱鬼",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/85/26/4315_9cksk.jpg",
+      "coverUrl": "covers/4315.jpg",
       "name": "薄樱鬼",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/85/26/4315_9cksk.jpg",
+      "cover": "covers/4315.jpg",
       "ratingCount": 1546
     }
   ],
@@ -2518,9 +2518,9 @@ const animeData = {
       "bangumiId": 10380,
       "year": 2011,
       "title": "命运石之门",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a9/79/10380_YwP4R.jpg",
+      "coverUrl": "covers/10380.jpg",
       "name": "命运石之门",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a9/79/10380_YwP4R.jpg",
+      "cover": "covers/10380.jpg",
       "ratingCount": 40460
     },
     {
@@ -2528,9 +2528,9 @@ const animeData = {
       "bangumiId": 9717,
       "year": 2011,
       "title": "魔法少女小圆",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cb/57/9717_sAVag.jpg",
+      "coverUrl": "covers/9717.jpg",
       "name": "魔法少女小圆",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cb/57/9717_sAVag.jpg",
+      "cover": "covers/9717.jpg",
       "ratingCount": 38835
     },
     {
@@ -2538,9 +2538,9 @@ const animeData = {
       "bangumiId": 10639,
       "year": 2011,
       "title": "Fate/Zero",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/86/1f/10639_w4sHs.jpg",
+      "coverUrl": "covers/10639.jpg",
       "name": "Fate/Zero",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/86/1f/10639_w4sHs.jpg",
+      "cover": "covers/10639.jpg",
       "ratingCount": 31326
     },
     {
@@ -2548,9 +2548,9 @@ const animeData = {
       "bangumiId": 10440,
       "year": 2011,
       "title": "我们仍未知道那天所看见的花的名字。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6c/e8/10440_8HP6O.jpg",
+      "coverUrl": "covers/10440.jpg",
       "name": "我们仍未知道那天所看见的花的名字。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/e8/10440_8HP6O.jpg",
+      "cover": "covers/10440.jpg",
       "ratingCount": 27444
     },
     {
@@ -2558,9 +2558,9 @@ const animeData = {
       "bangumiId": 9912,
       "year": 2011,
       "title": "日常",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0e/14/9912_vHEd6.jpg",
+      "coverUrl": "covers/9912.jpg",
       "name": "日常",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/14/9912_vHEd6.jpg",
+      "cover": "covers/9912.jpg",
       "ratingCount": 25602
     },
     {
@@ -2568,9 +2568,9 @@ const animeData = {
       "bangumiId": 18635,
       "year": 2011,
       "title": "罪恶王冠",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7d/4c/18635_71IIr.jpg",
+      "coverUrl": "covers/18635.jpg",
       "name": "罪恶王冠",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7d/4c/18635_71IIr.jpg",
+      "cover": "covers/18635.jpg",
       "ratingCount": 17421
     },
     {
@@ -2578,9 +2578,9 @@ const animeData = {
       "bangumiId": 16235,
       "year": 2011,
       "title": "未来日记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0a/3d/16235_5GJQH.jpg",
+      "coverUrl": "covers/16235.jpg",
       "name": "未来日记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0a/3d/16235_5GJQH.jpg",
+      "cover": "covers/16235.jpg",
       "ratingCount": 15591
     },
     {
@@ -2588,9 +2588,9 @@ const animeData = {
       "bangumiId": 11834,
       "year": 2011,
       "title": "银魂'",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e1/36/11834_fEZvv.jpg",
+      "coverUrl": "covers/11834.jpg",
       "name": "银魂'",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e1/36/11834_fEZvv.jpg",
+      "cover": "covers/11834.jpg",
       "ratingCount": 13718
     },
     {
@@ -2598,9 +2598,9 @@ const animeData = {
       "bangumiId": 22759,
       "year": 2011,
       "title": "花开伊吕波",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/56/2d/22759_A5N6H.jpg",
+      "coverUrl": "covers/22759.jpg",
       "name": "花开伊吕波",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/2d/22759_A5N6H.jpg",
+      "cover": "covers/22759.jpg",
       "ratingCount": 12793
     },
     {
@@ -2608,9 +2608,9 @@ const animeData = {
       "bangumiId": 18624,
       "year": 2011,
       "title": "回转企鹅罐",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/92/f6/18624_ZFj5M.jpg",
+      "coverUrl": "covers/18624.jpg",
       "name": "回转企鹅罐",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/92/f6/18624_ZFj5M.jpg",
+      "cover": "covers/18624.jpg",
       "ratingCount": 12192
     },
     {
@@ -2618,9 +2618,9 @@ const animeData = {
       "bangumiId": 11145,
       "year": 2011,
       "title": "笨蛋，测验，召唤兽！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7e/8d/11145_6s6G6.jpg",
+      "coverUrl": "covers/11145.jpg",
       "name": "笨蛋，测验，召唤兽！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7e/8d/11145_6s6G6.jpg",
+      "cover": "covers/11145.jpg",
       "ratingCount": 11446
     },
     {
@@ -2628,9 +2628,9 @@ const animeData = {
       "bangumiId": 17883,
       "year": 2011,
       "title": "我的朋友很少",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/80/d1/17883_58mrm.jpg",
+      "coverUrl": "covers/17883.jpg",
       "name": "我的朋友很少",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/80/d1/17883_58mrm.jpg",
+      "cover": "covers/17883.jpg",
       "ratingCount": 10767
     },
     {
@@ -2638,9 +2638,9 @@ const animeData = {
       "bangumiId": 9781,
       "year": 2011,
       "title": "GOSICK",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9d/3d/9781_Kkik8.jpg",
+      "coverUrl": "covers/9781.jpg",
       "name": "GOSICK",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/3d/9781_Kkik8.jpg",
+      "cover": "covers/9781.jpg",
       "ratingCount": 10190
     },
     {
@@ -2648,9 +2648,9 @@ const animeData = {
       "bangumiId": 10377,
       "year": 2011,
       "title": "电波女与青春男",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/29/4e/10377_2xnN5.jpg",
+      "coverUrl": "covers/10377.jpg",
       "name": "电波女与青春男",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/4e/10377_2xnN5.jpg",
+      "cover": "covers/10377.jpg",
       "ratingCount": 9522
     },
     {
@@ -2658,9 +2658,9 @@ const animeData = {
       "bangumiId": 14588,
       "year": 2011,
       "title": "摇曳百合",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/43/d9/14588_bDB2r.jpg",
+      "coverUrl": "covers/14588.jpg",
       "name": "摇曳百合",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/43/d9/14588_bDB2r.jpg",
+      "cover": "covers/14588.jpg",
       "ratingCount": 9243
     },
     {
@@ -2668,9 +2668,9 @@ const animeData = {
       "bangumiId": 12536,
       "year": 2011,
       "title": "夏目友人帐 叁",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/35/94/12536_8KsS8.jpg",
+      "coverUrl": "covers/12536.jpg",
       "name": "夏目友人帐 叁",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/35/94/12536_8KsS8.jpg",
+      "cover": "covers/12536.jpg",
       "ratingCount": 9153
     },
     {
@@ -2678,9 +2678,9 @@ const animeData = {
       "bangumiId": 11577,
       "year": 2011,
       "title": "偶像大师",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a8/6a/11577_5U5G1.jpg",
+      "coverUrl": "covers/11577.jpg",
       "name": "偶像大师",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/6a/11577_5U5G1.jpg",
+      "cover": "covers/11577.jpg",
       "ratingCount": 8791
     },
     {
@@ -2688,9 +2688,9 @@ const animeData = {
       "bangumiId": 10843,
       "year": 2011,
       "title": "白兔糖",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/75/96/10843_WM4xX.jpg",
+      "coverUrl": "covers/10843.jpg",
       "name": "白兔糖",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/96/10843_WM4xX.jpg",
+      "cover": "covers/10843.jpg",
       "ratingCount": 8727
     },
     {
@@ -2698,9 +2698,9 @@ const animeData = {
       "bangumiId": 9774,
       "year": 2011,
       "title": "这个是僵尸吗？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d2/36/9774_pWnwE.jpg",
+      "coverUrl": "covers/9774.jpg",
       "name": "这个是僵尸吗？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d2/36/9774_pWnwE.jpg",
+      "cover": "covers/9774.jpg",
       "ratingCount": 7682
     },
     {
@@ -2708,9 +2708,9 @@ const animeData = {
       "bangumiId": 10226,
       "year": 2011,
       "title": "绯弹的亚里亚",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ed/fc/10226_m4mvu.jpg",
+      "coverUrl": "covers/10226.jpg",
       "name": "绯弹的亚里亚",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ed/fc/10226_m4mvu.jpg",
+      "cover": "covers/10226.jpg",
       "ratingCount": 7302
     },
     {
@@ -2718,9 +2718,9 @@ const animeData = {
       "bangumiId": 9800,
       "year": 2011,
       "title": "IS〈无限斯特拉托斯〉",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0f/bc/9800_eIkZW.jpg",
+      "coverUrl": "covers/9800.jpg",
       "name": "IS〈无限斯特拉托斯〉",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/bc/9800_eIkZW.jpg",
+      "cover": "covers/9800.jpg",
       "ratingCount": 7210
     },
     {
@@ -2728,9 +2728,9 @@ const animeData = {
       "bangumiId": 10339,
       "year": 2011,
       "title": "青之驱魔师",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e2/06/10339_UJ5JJ.jpg",
+      "coverUrl": "covers/10339.jpg",
       "name": "青之驱魔师",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e2/06/10339_UJ5JJ.jpg",
+      "cover": "covers/10339.jpg",
       "ratingCount": 6975
     },
     {
@@ -2738,9 +2738,9 @@ const animeData = {
       "bangumiId": 21032,
       "year": 2011,
       "title": "猎人",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fb/a6/21032_3I1I9.jpg",
+      "coverUrl": "covers/21032.jpg",
       "name": "猎人",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fb/a6/21032_3I1I9.jpg",
+      "cover": "covers/21032.jpg",
       "ratingCount": 6611
     },
     {
@@ -2748,9 +2748,9 @@ const animeData = {
       "bangumiId": 10739,
       "year": 2011,
       "title": "只有神知道的世界 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ff/68/10739_Ktz9a.jpg",
+      "coverUrl": "covers/10739.jpg",
       "name": "只有神知道的世界 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ff/68/10739_Ktz9a.jpg",
+      "cover": "covers/10739.jpg",
       "ratingCount": 6325
     },
     {
@@ -2758,9 +2758,9 @@ const animeData = {
       "bangumiId": 15237,
       "year": 2011,
       "title": "神的记事本",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/60/eb/15237_y1hzw.jpg",
+      "coverUrl": "covers/15237.jpg",
       "name": "神的记事本",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/60/eb/15237_y1hzw.jpg",
+      "cover": "covers/15237.jpg",
       "ratingCount": 6266
     },
     {
@@ -2768,9 +2768,9 @@ const animeData = {
       "bangumiId": 10459,
       "year": 2011,
       "title": "迷茫管家与懦弱的我",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/03/da/10459_HH35c.jpg",
+      "coverUrl": "covers/10459.jpg",
       "name": "迷茫管家与懦弱的我",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/03/da/10459_HH35c.jpg",
+      "cover": "covers/10459.jpg",
       "ratingCount": 5959
     },
     {
@@ -2778,9 +2778,9 @@ const animeData = {
       "bangumiId": 20547,
       "year": 2011,
       "title": "迷糊餐厅 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/59/2b/20547_Fqawr.jpg",
+      "coverUrl": "covers/20547.jpg",
       "name": "迷糊餐厅 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/59/2b/20547_Fqawr.jpg",
+      "cover": "covers/20547.jpg",
       "ratingCount": 5856
     },
     {
@@ -2788,9 +2788,9 @@ const animeData = {
       "bangumiId": 18631,
       "year": 2011,
       "title": "灼眼的夏娜III -Final-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/56/47/18631_j5o2m.jpg",
+      "coverUrl": "covers/18631.jpg",
       "name": "灼眼的夏娜III -Final-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/47/18631_j5o2m.jpg",
+      "cover": "covers/18631.jpg",
       "ratingCount": 5602
     },
     {
@@ -2798,9 +2798,9 @@ const animeData = {
       "bangumiId": 22588,
       "year": 2011,
       "title": "爆漫王。2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/45/8c/22588_xECYm.jpg",
+      "coverUrl": "covers/22588.jpg",
       "name": "爆漫王。2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/45/8c/22588_xECYm.jpg",
+      "cover": "covers/22588.jpg",
       "ratingCount": 5422
     },
     {
@@ -2808,9 +2808,9 @@ const animeData = {
       "bangumiId": 18294,
       "year": 2011,
       "title": "歌牌情缘",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b1/b2/18294_be4AB.jpg",
+      "coverUrl": "covers/18294.jpg",
       "name": "歌牌情缘",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/b2/18294_be4AB.jpg",
+      "cover": "covers/18294.jpg",
       "ratingCount": 5329
     },
     {
@@ -2818,9 +2818,9 @@ const animeData = {
       "bangumiId": 14667,
       "year": 2011,
       "title": "丹特丽安的书架",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/28/db/14667_FznyN.jpg",
+      "coverUrl": "covers/14667.jpg",
       "name": "丹特丽安的书架",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/db/14667_FznyN.jpg",
+      "cover": "covers/14667.jpg",
       "ratingCount": 5322
     },
     {
@@ -2828,9 +2828,9 @@ const animeData = {
       "bangumiId": 12317,
       "year": 2011,
       "title": "赌博默示录 破戒录篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ba/ca/12317_Qqy2H.jpg",
+      "coverUrl": "covers/12317.jpg",
       "name": "赌博默示录 破戒录篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/ca/12317_Qqy2H.jpg",
+      "cover": "covers/12317.jpg",
       "ratingCount": 4724
     },
     {
@@ -2838,9 +2838,9 @@ const animeData = {
       "bangumiId": 10742,
       "year": 2011,
       "title": "恶魔阿萨谢尔在召唤你",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4c/26/10742_ggQGw.jpg",
+      "coverUrl": "covers/10742.jpg",
       "name": "恶魔阿萨谢尔在召唤你",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4c/26/10742_ggQGw.jpg",
+      "cover": "covers/10742.jpg",
       "ratingCount": 4712
     },
     {
@@ -2848,9 +2848,9 @@ const animeData = {
       "bangumiId": 12703,
       "year": 2011,
       "title": "境界线上的地平线",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c7/49/12703_aJh82.jpg",
+      "coverUrl": "covers/12703.jpg",
       "name": "境界线上的地平线",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/49/12703_aJh82.jpg",
+      "cover": "covers/12703.jpg",
       "ratingCount": 4540
     },
     {
@@ -2858,9 +2858,9 @@ const animeData = {
       "bangumiId": 10844,
       "year": 2011,
       "title": "金钱掌控",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/96/97/10844_6BapN.jpg",
+      "coverUrl": "covers/10844.jpg",
       "name": "金钱掌控",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/97/10844_6BapN.jpg",
+      "cover": "covers/10844.jpg",
       "ratingCount": 4494
     },
     {
@@ -2868,9 +2868,9 @@ const animeData = {
       "bangumiId": 10842,
       "year": 2011,
       "title": "未来都市NO.6",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/98/3c/10842_KT5z4.jpg",
+      "coverUrl": "covers/10842.jpg",
       "name": "未来都市NO.6",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/3c/10842_KT5z4.jpg",
+      "cover": "covers/10842.jpg",
       "ratingCount": 4490
     },
     {
@@ -2878,9 +2878,9 @@ const animeData = {
       "bangumiId": 9757,
       "year": 2011,
       "title": "好想告诉你 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/36/a7/9757_P0sls.jpg",
+      "coverUrl": "covers/9757.jpg",
       "name": "好想告诉你 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/a7/9757_P0sls.jpg",
+      "cover": "covers/9757.jpg",
       "ratingCount": 4462
     },
     {
@@ -2888,9 +2888,9 @@ const animeData = {
       "bangumiId": 18004,
       "year": 2011,
       "title": "侵略!?乌贼娘",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e1/4f/18004_Bu7uU.jpg",
+      "coverUrl": "covers/18004.jpg",
       "name": "侵略!?乌贼娘",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e1/4f/18004_Bu7uU.jpg",
+      "cover": "covers/18004.jpg",
       "ratingCount": 4116
     },
     {
@@ -2898,9 +2898,9 @@ const animeData = {
       "bangumiId": 9853,
       "year": 2011,
       "title": "灵异E接触",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a8/69/9853_RFMwS.jpg",
+      "coverUrl": "covers/9853.jpg",
       "name": "灵异E接触",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/69/9853_RFMwS.jpg",
+      "cover": "covers/9853.jpg",
       "ratingCount": 3899
     },
     {
@@ -2908,9 +2908,9 @@ const animeData = {
       "bangumiId": 19540,
       "year": 2011,
       "title": "便・当",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b2/ac/19540_k1ctE.jpg",
+      "coverUrl": "covers/19540.jpg",
       "name": "便・当",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/ac/19540_k1ctE.jpg",
+      "cover": "covers/19540.jpg",
       "ratingCount": 3895
     },
     {
@@ -2918,9 +2918,9 @@ const animeData = {
       "bangumiId": 18629,
       "year": 2011,
       "title": "C3 -魔方少女-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/75/78/18629_vsczk.jpg",
+      "coverUrl": "covers/18629.jpg",
       "name": "C3 -魔方少女-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/78/18629_vsczk.jpg",
+      "cover": "covers/18629.jpg",
       "ratingCount": 3466
     },
     {
@@ -2928,9 +2928,9 @@ const animeData = {
       "bangumiId": 12192,
       "year": 2011,
       "title": "滑头鬼之孙～千年魔京～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9b/de/12192_d48ku.jpg",
+      "coverUrl": "covers/12192.jpg",
       "name": "滑头鬼之孙～千年魔京～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9b/de/12192_d48ku.jpg",
+      "cover": "covers/12192.jpg",
       "ratingCount": 3447
     },
     {
@@ -2938,9 +2938,9 @@ const animeData = {
       "bangumiId": 13485,
       "year": 2011,
       "title": "萝球社！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/57/f6/13485_y8bb5.jpg",
+      "coverUrl": "covers/13485.jpg",
       "name": "萝球社！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/57/f6/13485_y8bb5.jpg",
+      "cover": "covers/13485.jpg",
       "ratingCount": 3376
     },
     {
@@ -2948,9 +2948,9 @@ const animeData = {
       "bangumiId": 14427,
       "year": 2011,
       "title": "BLOOD-C",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/76/fb/14427_w47ht.jpg",
+      "coverUrl": "covers/14427.jpg",
       "name": "BLOOD-C",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/76/fb/14427_w47ht.jpg",
+      "cover": "covers/14427.jpg",
       "ratingCount": 3327
     },
     {
@@ -2958,9 +2958,9 @@ const animeData = {
       "bangumiId": 15489,
       "year": 2011,
       "title": "女神异闻录4",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b9/f9/15489_R7sR7.jpg",
+      "coverUrl": "covers/15489.jpg",
       "name": "女神异闻录4",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b9/f9/15489_R7sR7.jpg",
+      "cover": "covers/15489.jpg",
       "ratingCount": 3229
     },
     {
@@ -2968,9 +2968,9 @@ const animeData = {
       "bangumiId": 8474,
       "year": 2011,
       "title": "放浪男孩",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cb/7c/8474_I1CAM.jpg",
+      "coverUrl": "covers/8474.jpg",
       "name": "放浪男孩",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cb/7c/8474_I1CAM.jpg",
+      "cover": "covers/8474.jpg",
       "ratingCount": 3186
     },
     {
@@ -2978,9 +2978,9 @@ const animeData = {
       "bangumiId": 12557,
       "year": 2011,
       "title": "纯白交响曲",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/00/5f/12557_MLQQE.jpg",
+      "coverUrl": "covers/12557.jpg",
       "name": "纯白交响曲",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/00/5f/12557_MLQQE.jpg",
+      "cover": "covers/12557.jpg",
       "ratingCount": 3102
     },
     {
@@ -2988,9 +2988,9 @@ const animeData = {
       "bangumiId": 9801,
       "year": 2011,
       "title": "腹黑妹妹控兄记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b5/9801_dOz6d.jpg",
+      "coverUrl": "covers/9801.jpg",
       "name": "腹黑妹妹控兄记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b5/9801_dOz6d.jpg",
+      "cover": "covers/9801.jpg",
       "ratingCount": 3084
     },
     {
@@ -2998,9 +2998,9 @@ const animeData = {
       "bangumiId": 14220,
       "year": 2011,
       "title": "少年同盟",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9e/6b/14220_4i0Mg.jpg",
+      "coverUrl": "covers/14220.jpg",
       "name": "少年同盟",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9e/6b/14220_4i0Mg.jpg",
+      "cover": "covers/14220.jpg",
       "ratingCount": 2990
     },
     {
@@ -3008,9 +3008,9 @@ const animeData = {
       "bangumiId": 9779,
       "year": 2011,
       "title": "恶魔奶爸",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8d/e4/9779_kFiS0.jpg",
+      "coverUrl": "covers/9779.jpg",
       "name": "恶魔奶爸",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8d/e4/9779_kFiS0.jpg",
+      "cover": "covers/9779.jpg",
       "ratingCount": 2936
     }
   ],
@@ -3020,9 +3020,9 @@ const animeData = {
       "bangumiId": 27364,
       "year": 2012,
       "title": "冰菓",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cd/38/27364_1ZFmr.jpg",
+      "coverUrl": "covers/27364.jpg",
       "name": "冰菓",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/38/27364_1ZFmr.jpg",
+      "cover": "covers/27364.jpg",
       "ratingCount": 33331
     },
     {
@@ -3030,9 +3030,9 @@ const animeData = {
       "bangumiId": 29648,
       "year": 2012,
       "title": "中二病也要谈恋爱！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3d/fd/29648_LOcOx.jpg",
+      "coverUrl": "covers/29648.jpg",
       "name": "中二病也要谈恋爱！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3d/fd/29648_LOcOx.jpg",
+      "cover": "covers/29648.jpg",
       "ratingCount": 26538
     },
     {
@@ -3040,9 +3040,9 @@ const animeData = {
       "bangumiId": 23686,
       "year": 2012,
       "title": "刀剑神域",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2e/c8/23686_e36x9.jpg",
+      "coverUrl": "covers/23686.jpg",
       "name": "刀剑神域",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2e/c8/23686_e36x9.jpg",
+      "cover": "covers/23686.jpg",
       "ratingCount": 25734
     },
     {
@@ -3050,9 +3050,9 @@ const animeData = {
       "bangumiId": 24790,
       "year": 2012,
       "title": "男子高中生的日常",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c5/73/24790_4wdXB.jpg",
+      "coverUrl": "covers/24790.jpg",
       "name": "男子高中生的日常",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/73/24790_4wdXB.jpg",
+      "cover": "covers/24790.jpg",
       "ratingCount": 22953
     },
     {
@@ -3060,9 +3060,9 @@ const animeData = {
       "bangumiId": 41488,
       "year": 2012,
       "title": "樱花庄的宠物女孩",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/01/a2/41488_qw09G.jpg",
+      "coverUrl": "covers/41488.jpg",
       "name": "樱花庄的宠物女孩",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/a2/41488_qw09G.jpg",
+      "cover": "covers/41488.jpg",
       "ratingCount": 19140
     },
     {
@@ -3070,9 +3070,9 @@ const animeData = {
       "bangumiId": 43558,
       "year": 2012,
       "title": "JOJO的奇妙冒险",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/23/5d/43558_ECoSc.jpg",
+      "coverUrl": "covers/43558.jpg",
       "name": "JOJO的奇妙冒险",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/23/5d/43558_ECoSc.jpg",
+      "cover": "covers/43558.jpg",
       "ratingCount": 18880
     },
     {
@@ -3080,9 +3080,9 @@ const animeData = {
       "bangumiId": 23161,
       "year": 2012,
       "title": "伪物语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8e/28/23161_y2AEb.jpg",
+      "coverUrl": "covers/23161.jpg",
       "name": "伪物语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/28/23161_y2AEb.jpg",
+      "cover": "covers/23161.jpg",
       "ratingCount": 15406
     },
     {
@@ -3090,9 +3090,9 @@ const animeData = {
       "bangumiId": 37785,
       "year": 2012,
       "title": "来自新世界",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9a/64/37785_aBBEd.jpg",
+      "coverUrl": "covers/37785.jpg",
       "name": "来自新世界",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9a/64/37785_aBBEd.jpg",
+      "cover": "covers/37785.jpg",
       "ratingCount": 15348
     },
     {
@@ -3100,9 +3100,9 @@ const animeData = {
       "bangumiId": 37685,
       "year": 2012,
       "title": "心理测量者",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bb/0a/37685_JLl2k.jpg",
+      "coverUrl": "covers/37685.jpg",
       "name": "心理测量者",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bb/0a/37685_JLl2k.jpg",
+      "cover": "covers/37685.jpg",
       "ratingCount": 14733
     },
     {
@@ -3110,9 +3110,9 @@ const animeData = {
       "bangumiId": 20851,
       "year": 2012,
       "title": "Another",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d3/39/20851_V4eXe.jpg",
+      "coverUrl": "covers/20851.jpg",
       "name": "Another",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/39/20851_V4eXe.jpg",
+      "cover": "covers/20851.jpg",
       "ratingCount": 14332
     },
     {
@@ -3120,9 +3120,9 @@ const animeData = {
       "bangumiId": 56117,
       "year": 2012,
       "title": "猫物语（黑）",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f1/d6/56117_o7a7a.jpg",
+      "coverUrl": "covers/56117.jpg",
       "name": "猫物语（黑）",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f1/d6/56117_o7a7a.jpg",
+      "cover": "covers/56117.jpg",
       "ratingCount": 11307
     },
     {
@@ -3130,9 +3130,9 @@ const animeData = {
       "bangumiId": 28230,
       "year": 2012,
       "title": "散华礼弥",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b3/f7/28230_hnla8.jpg",
+      "coverUrl": "covers/28230.jpg",
       "name": "散华礼弥",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/f7/28230_hnla8.jpg",
+      "cover": "covers/28230.jpg",
       "ratingCount": 10041
     },
     {
@@ -3140,9 +3140,9 @@ const animeData = {
       "bangumiId": 26449,
       "year": 2012,
       "title": "人类衰退之后",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/41/39/26449_G0Xzx.jpg",
+      "coverUrl": "covers/26449.jpg",
       "name": "人类衰退之后",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/39/26449_G0Xzx.jpg",
+      "cover": "covers/26449.jpg",
       "ratingCount": 9190
     },
     {
@@ -3150,9 +3150,9 @@ const animeData = {
       "bangumiId": 40533,
       "year": 2012,
       "title": "邻座的怪同学",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a0/ab/40533_SkUil.jpg",
+      "coverUrl": "covers/40533.jpg",
       "name": "邻座的怪同学",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a0/ab/40533_SkUil.jpg",
+      "cover": "covers/40533.jpg",
       "ratingCount": 9168
     },
     {
@@ -3160,9 +3160,9 @@ const animeData = {
       "bangumiId": 24508,
       "year": 2012,
       "title": "潜行吧！奈亚子",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f8/c0/24508_GalOa.jpg",
+      "coverUrl": "covers/24508.jpg",
       "name": "潜行吧！奈亚子",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f8/c0/24508_GalOa.jpg",
+      "cover": "covers/24508.jpg",
       "ratingCount": 8972
     },
     {
@@ -3170,9 +3170,9 @@ const animeData = {
       "bangumiId": 23685,
       "year": 2012,
       "title": "加速世界",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d9/d8/23685_Y1wYG.jpg",
+      "coverUrl": "covers/23685.jpg",
       "name": "加速世界",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/d8/23685_Y1wYG.jpg",
+      "cover": "covers/23685.jpg",
       "ratingCount": 8727
     },
     {
@@ -3180,9 +3180,9 @@ const animeData = {
       "bangumiId": 40310,
       "year": 2012,
       "title": "少女与战车",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a3/af/40310_suEF6.jpg",
+      "coverUrl": "covers/40310.jpg",
       "name": "少女与战车",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a3/af/40310_suEF6.jpg",
+      "cover": "covers/40310.jpg",
       "ratingCount": 8326
     },
     {
@@ -3190,9 +3190,9 @@ const animeData = {
       "bangumiId": 37154,
       "year": 2012,
       "title": "恋爱随意链接",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/07/2e/37154_69Axl.jpg",
+      "coverUrl": "covers/37154.jpg",
       "name": "恋爱随意链接",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/07/2e/37154_69Axl.jpg",
+      "cover": "covers/37154.jpg",
       "ratingCount": 8104
     },
     {
@@ -3200,9 +3200,9 @@ const animeData = {
       "bangumiId": 28900,
       "year": 2012,
       "title": "摇曳百合♪♪",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f2/9f/28900_PB3pC.jpg",
+      "coverUrl": "covers/28900.jpg",
       "name": "摇曳百合♪♪",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f2/9f/28900_PB3pC.jpg",
+      "cover": "covers/28900.jpg",
       "ratingCount": 7666
     },
     {
@@ -3210,9 +3210,9 @@ const animeData = {
       "bangumiId": 38069,
       "year": 2012,
       "title": "K",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ba/ed/38069_SPp4e.jpg",
+      "coverUrl": "covers/38069.jpg",
       "name": "K",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/ed/38069_SPp4e.jpg",
+      "cover": "covers/38069.jpg",
       "ratingCount": 7288
     },
     {
@@ -3220,9 +3220,9 @@ const animeData = {
       "bangumiId": 23495,
       "year": 2012,
       "title": "夏目友人帐 肆",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/65/82/23495_GEgun.jpg",
+      "coverUrl": "covers/23495.jpg",
       "name": "夏目友人帐 肆",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/82/23495_GEgun.jpg",
+      "cover": "covers/23495.jpg",
       "ratingCount": 6692
     },
     {
@@ -3230,9 +3230,9 @@ const animeData = {
       "bangumiId": 37137,
       "year": 2012,
       "title": "TARI TARI",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/de/a5/37137_2F57F.jpg",
+      "coverUrl": "covers/37137.jpg",
       "name": "TARI TARI",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/de/a5/37137_2F57F.jpg",
+      "cover": "covers/37137.jpg",
       "ratingCount": 6386
     },
     {
@@ -3240,9 +3240,9 @@ const animeData = {
       "bangumiId": 39794,
       "year": 2012,
       "title": "绝园的暴风雨",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9d/8d/39794_NPpd7.jpg",
+      "coverUrl": "covers/39794.jpg",
       "name": "绝园的暴风雨",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/8d/39794_NPpd7.jpg",
+      "cover": "covers/39794.jpg",
       "ratingCount": 6166
     },
     {
@@ -3250,9 +3250,9 @@ const animeData = {
       "bangumiId": 15910,
       "year": 2012,
       "title": "恶魔高校 D×D",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/03/9b/15910_5XjQ5.jpg",
+      "coverUrl": "covers/15910.jpg",
       "name": "恶魔高校 D×D",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/03/9b/15910_5XjQ5.jpg",
+      "cover": "covers/15910.jpg",
       "ratingCount": 6092
     },
     {
@@ -3260,9 +3260,9 @@ const animeData = {
       "bangumiId": 38040,
       "year": 2012,
       "title": "Little Busters!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/46/ea/38040_KFMP9.jpg",
+      "coverUrl": "covers/38040.jpg",
       "name": "Little Busters!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/46/ea/38040_KFMP9.jpg",
+      "cover": "covers/38040.jpg",
       "ratingCount": 6061
     },
     {
@@ -3270,9 +3270,9 @@ const animeData = {
       "bangumiId": 37694,
       "year": 2012,
       "title": "出包王女Darkness",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/46/3e/37694_M7zzE.jpg",
+      "coverUrl": "covers/37694.jpg",
       "name": "出包王女Darkness",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/46/3e/37694_M7zzE.jpg",
+      "cover": "covers/37694.jpg",
       "ratingCount": 6017
     },
     {
@@ -3280,9 +3280,9 @@ const animeData = {
       "bangumiId": 22179,
       "year": 2012,
       "title": "黑岩射手",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fa/4c/22179_fkp9h.jpg",
+      "coverUrl": "covers/22179.jpg",
       "name": "黑岩射手",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fa/4c/22179_fkp9h.jpg",
+      "cover": "covers/22179.jpg",
       "ratingCount": 5515
     },
     {
@@ -3290,9 +3290,9 @@ const animeData = {
       "bangumiId": 20582,
       "year": 2012,
       "title": "妖狐×仆SS",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d9/7d/20582_6vGg9.jpg",
+      "coverUrl": "covers/20582.jpg",
       "name": "妖狐×仆SS",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/7d/20582_6vGg9.jpg",
+      "cover": "covers/20582.jpg",
       "ratingCount": 5459
     },
     {
@@ -3300,9 +3300,9 @@ const animeData = {
       "bangumiId": 23684,
       "year": 2012,
       "title": "黑子的篮球",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/09/07/23684_6OrHi.jpg",
+      "coverUrl": "covers/23684.jpg",
       "name": "黑子的篮球",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/09/07/23684_6OrHi.jpg",
+      "cover": "covers/23684.jpg",
       "ratingCount": 5249
     },
     {
@@ -3310,9 +3310,9 @@ const animeData = {
       "bangumiId": 33352,
       "year": 2012,
       "title": "爆漫王。3",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/eb/09/33352_J6F40.jpg",
+      "coverUrl": "covers/33352.jpg",
       "name": "爆漫王。3",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/09/33352_J6F40.jpg",
+      "cover": "covers/33352.jpg",
       "ratingCount": 5185
     },
     {
@@ -3320,9 +3320,9 @@ const animeData = {
       "bangumiId": 25823,
       "year": 2012,
       "title": "零之使魔F",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c4/9b/25823_RgPyZ.jpg",
+      "coverUrl": "covers/25823.jpg",
       "name": "零之使魔F",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c4/9b/25823_RgPyZ.jpg",
+      "cover": "covers/25823.jpg",
       "ratingCount": 5163
     },
     {
@@ -3330,9 +3330,9 @@ const animeData = {
       "bangumiId": 18797,
       "year": 2012,
       "title": "这个是僵尸吗？OF THE DEAD",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7f/2e/18797_XZ7R7.jpg",
+      "coverUrl": "covers/18797.jpg",
       "name": "这个是僵尸吗？OF THE DEAD",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7f/2e/18797_XZ7R7.jpg",
+      "cover": "covers/18797.jpg",
       "ratingCount": 5004
     },
     {
@@ -3340,9 +3340,9 @@ const animeData = {
       "bangumiId": 28431,
       "year": 2012,
       "title": "一起一起这里那里",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/29/6d/28431_8a1pw.jpg",
+      "coverUrl": "covers/28431.jpg",
       "name": "一起一起这里那里",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/6d/28431_8a1pw.jpg",
+      "cover": "covers/28431.jpg",
       "ratingCount": 4922
     },
     {
@@ -3350,9 +3350,9 @@ const animeData = {
       "bangumiId": 20799,
       "year": 2012,
       "title": "爱杀宝贝",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/66/c2/20799_f93pe.jpg",
+      "coverUrl": "covers/20799.jpg",
       "name": "爱杀宝贝",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/c2/20799_f93pe.jpg",
+      "cover": "covers/20799.jpg",
       "ratingCount": 4914
     },
     {
@@ -3360,9 +3360,9 @@ const animeData = {
       "bangumiId": 40339,
       "year": 2012,
       "title": "就算是哥哥只要有爱就没问题对吧",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/87/0c/40339_8c78Q.jpg",
+      "coverUrl": "covers/40339.jpg",
       "name": "就算是哥哥只要有爱就没问题对吧",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/0c/40339_8c78Q.jpg",
+      "cover": "covers/40339.jpg",
       "ratingCount": 4687
     },
     {
@@ -3370,9 +3370,9 @@ const animeData = {
       "bangumiId": 47576,
       "year": 2012,
       "title": "银魂' 延长战",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5a/dc/47576_5gU11.jpg",
+      "coverUrl": "covers/47576.jpg",
       "name": "银魂' 延长战",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5a/dc/47576_5gU11.jpg",
+      "cover": "covers/47576.jpg",
       "ratingCount": 4653
     },
     {
@@ -3380,9 +3380,9 @@ const animeData = {
       "bangumiId": 25444,
       "year": 2012,
       "title": "听爸爸的话！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d6/30/25444_NJXDO.jpg",
+      "coverUrl": "covers/25444.jpg",
       "name": "听爸爸的话！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d6/30/25444_NJXDO.jpg",
+      "cover": "covers/25444.jpg",
       "ratingCount": 4508
     },
     {
@@ -3390,9 +3390,9 @@ const animeData = {
       "bangumiId": 24165,
       "year": 2012,
       "title": "天才麻将少女 阿知贺篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d0/24165_I4m4j.jpg",
+      "coverUrl": "covers/24165.jpg",
       "name": "天才麻将少女 阿知贺篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d0/24165_I4m4j.jpg",
+      "cover": "covers/24165.jpg",
       "ratingCount": 4451
     },
     {
@@ -3400,9 +3400,9 @@ const animeData = {
       "bangumiId": 41529,
       "year": 2012,
       "title": "惊爆游戏!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fe/ee/41529_LK7kY.jpg",
+      "coverUrl": "covers/41529.jpg",
       "name": "惊爆游戏!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/ee/41529_LK7kY.jpg",
+      "cover": "covers/41529.jpg",
       "ratingCount": 4399
     },
     {
@@ -3410,9 +3410,9 @@ const animeData = {
       "bangumiId": 22657,
       "year": 2012,
       "title": "在盛夏等待",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6f/ad/22657_P0ZpP.jpg",
+      "coverUrl": "covers/22657.jpg",
       "name": "在盛夏等待",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6f/ad/22657_P0ZpP.jpg",
+      "cover": "covers/22657.jpg",
       "ratingCount": 4335
     },
     {
@@ -3420,9 +3420,9 @@ const animeData = {
       "bangumiId": 29073,
       "year": 2012,
       "title": "军火女王",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c8/44/29073_Hl6lu.jpg",
+      "coverUrl": "covers/29073.jpg",
       "name": "军火女王",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/44/29073_Hl6lu.jpg",
+      "cover": "covers/29073.jpg",
       "ratingCount": 4296
     },
     {
@@ -3430,9 +3430,9 @@ const animeData = {
       "bangumiId": 37722,
       "year": 2012,
       "title": "穷神",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c2/21/37722_551t1.jpg",
+      "coverUrl": "covers/37722.jpg",
       "name": "穷神",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c2/21/37722_551t1.jpg",
+      "cover": "covers/37722.jpg",
       "ratingCount": 4016
     },
     {
@@ -3440,9 +3440,9 @@ const animeData = {
       "bangumiId": 43525,
       "year": 2012,
       "title": "元气少女缘结神",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f1/43525_lOAlP.jpg",
+      "coverUrl": "covers/43525.jpg",
       "name": "元气少女缘结神",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f1/43525_lOAlP.jpg",
+      "cover": "covers/43525.jpg",
       "ratingCount": 3736
     },
     {
@@ -3450,9 +3450,9 @@ const animeData = {
       "bangumiId": 37897,
       "year": 2012,
       "title": "女子落语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/93/b0/37897_gjhU7.jpg",
+      "coverUrl": "covers/37897.jpg",
       "name": "女子落语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/93/b0/37897_gjhU7.jpg",
+      "cover": "covers/37897.jpg",
       "ratingCount": 3658
     },
     {
@@ -3460,9 +3460,9 @@ const animeData = {
       "bangumiId": 24649,
       "year": 2012,
       "title": "圣诞之吻SS+ plus",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a6/0c/24649_smxVX.jpg",
+      "coverUrl": "covers/24649.jpg",
       "name": "圣诞之吻SS+ plus",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a6/0c/24649_smxVX.jpg",
+      "cover": "covers/24649.jpg",
       "ratingCount": 3627
     },
     {
@@ -3470,9 +3470,9 @@ const animeData = {
       "bangumiId": 29060,
       "year": 2012,
       "title": "黄昏少女×失忆",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f6/76/29060_5qz7Y.jpg",
+      "coverUrl": "covers/29060.jpg",
       "name": "黄昏少女×失忆",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f6/76/29060_5qz7Y.jpg",
+      "cover": "covers/29060.jpg",
       "ratingCount": 3604
     },
     {
@@ -3480,9 +3480,9 @@ const animeData = {
       "bangumiId": 42786,
       "year": 2012,
       "title": "天方魔谭MAGI",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9d/12/42786_kXkkg.jpg",
+      "coverUrl": "covers/42786.jpg",
       "name": "天方魔谭MAGI",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/12/42786_kXkkg.jpg",
+      "cover": "covers/42786.jpg",
       "ratingCount": 3449
     },
     {
@@ -3490,9 +3490,9 @@ const animeData = {
       "bangumiId": 29307,
       "year": 2012,
       "title": "境界线上的地平线 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cb/e6/29307_h19Oo.jpg",
+      "coverUrl": "covers/29307.jpg",
       "name": "境界线上的地平线 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cb/e6/29307_h19Oo.jpg",
+      "cover": "covers/29307.jpg",
       "ratingCount": 3295
     },
     {
@@ -3500,9 +3500,9 @@ const animeData = {
       "bangumiId": 29426,
       "year": 2012,
       "title": "坂道上的阿波罗",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/44/3a/29426_iA4yJ.jpg",
+      "coverUrl": "covers/29426.jpg",
       "name": "坂道上的阿波罗",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/44/3a/29426_iA4yJ.jpg",
+      "cover": "covers/29426.jpg",
       "ratingCount": 3281
     },
     {
@@ -3510,9 +3510,9 @@ const animeData = {
       "bangumiId": 31413,
       "year": 2012,
       "title": "织田信奈的野望",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e8/0a/31413_h9KeN.jpg",
+      "coverUrl": "covers/31413.jpg",
       "name": "织田信奈的野望",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e8/0a/31413_h9KeN.jpg",
+      "cover": "covers/31413.jpg",
       "ratingCount": 3259
     }
   ],
@@ -3522,9 +3522,9 @@ const animeData = {
       "bangumiId": 55770,
       "year": 2013,
       "title": "进击的巨人",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/78/c9/55770_HsJfh.jpg",
+      "coverUrl": "covers/55770.jpg",
       "name": "进击的巨人",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/78/c9/55770_HsJfh.jpg",
+      "cover": "covers/55770.jpg",
       "ratingCount": 31601
     },
     {
@@ -3532,9 +3532,9 @@ const animeData = {
       "bangumiId": 54433,
       "year": 2013,
       "title": "我的青春恋爱物语果然有问题",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1e/f1/54433_JZ99l.jpg",
+      "coverUrl": "covers/54433.jpg",
       "name": "我的青春恋爱物语果然有问题",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/f1/54433_JZ99l.jpg",
+      "cover": "covers/54433.jpg",
       "ratingCount": 24654
     },
     {
@@ -3542,9 +3542,9 @@ const animeData = {
       "bangumiId": 51928,
       "year": 2013,
       "title": "某科学的超电磁炮S",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/99/8c/51928_wuG5D.jpg",
+      "coverUrl": "covers/51928.jpg",
       "name": "某科学的超电磁炮S",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/8c/51928_wuG5D.jpg",
+      "cover": "covers/51928.jpg",
       "ratingCount": 18197
     },
     {
@@ -3552,9 +3552,9 @@ const animeData = {
       "bangumiId": 72941,
       "year": 2013,
       "title": "斩服少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d5/d7/72941_q1DiW.jpg",
+      "coverUrl": "covers/72941.jpg",
       "name": "斩服少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d5/d7/72941_q1DiW.jpg",
+      "cover": "covers/72941.jpg",
       "ratingCount": 18061
     },
     {
@@ -3562,9 +3562,9 @@ const animeData = {
       "bangumiId": 49131,
       "year": 2013,
       "title": "约会大作战",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/99/08/49131_CIPjC.jpg",
+      "coverUrl": "covers/49131.jpg",
       "name": "约会大作战",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/08/49131_CIPjC.jpg",
+      "cover": "covers/49131.jpg",
       "ratingCount": 15854
     },
     {
@@ -3572,9 +3572,9 @@ const animeData = {
       "bangumiId": 55113,
       "year": 2013,
       "title": "玉子市场",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f8/7f/55113_TR5Is.jpg",
+      "coverUrl": "covers/55113.jpg",
       "name": "玉子市场",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f8/7f/55113_TR5Is.jpg",
+      "cover": "covers/55113.jpg",
       "ratingCount": 15439
     },
     {
@@ -3582,9 +3582,9 @@ const animeData = {
       "bangumiId": 49278,
       "year": 2013,
       "title": "境界的彼方",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0e/32/49278_mo7EP.jpg",
+      "coverUrl": "covers/49278.jpg",
       "name": "境界的彼方",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/32/49278_mo7EP.jpg",
+      "cover": "covers/49278.jpg",
       "ratingCount": 14256
     },
     {
@@ -3592,9 +3592,9 @@ const animeData = {
       "bangumiId": 37898,
       "year": 2013,
       "title": "我的妹妹哪有这么可爱。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/50/53/37898_GB3nG.jpg",
+      "coverUrl": "covers/37898.jpg",
       "name": "我的妹妹哪有这么可爱。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/53/37898_GB3nG.jpg",
+      "cover": "covers/37898.jpg",
       "ratingCount": 13605
     },
     {
@@ -3602,9 +3602,9 @@ const animeData = {
       "bangumiId": 68812,
       "year": 2013,
       "title": "物语系列 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a1/67/68812_QUpB2.jpg",
+      "coverUrl": "covers/68812.jpg",
       "name": "物语系列 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a1/67/68812_QUpB2.jpg",
+      "cover": "covers/68812.jpg",
       "ratingCount": 13352
     },
     {
@@ -3612,9 +3612,9 @@ const animeData = {
       "bangumiId": 50814,
       "year": 2013,
       "title": "打工吧！魔王大人",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4a/9f/50814_B44q8.jpg",
+      "coverUrl": "covers/50814.jpg",
       "name": "打工吧！魔王大人",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/9f/50814_B44q8.jpg",
+      "cover": "covers/50814.jpg",
       "ratingCount": 12847
     },
     {
@@ -3622,9 +3622,9 @@ const animeData = {
       "bangumiId": 78405,
       "year": 2013,
       "title": "悠哉日常大王",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/47/fa/78405_dodKZ.jpg",
+      "coverUrl": "covers/78405.jpg",
       "name": "悠哉日常大王",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/47/fa/78405_dodKZ.jpg",
+      "cover": "covers/78405.jpg",
       "ratingCount": 11566
     },
     {
@@ -3632,9 +3632,9 @@ const animeData = {
       "bangumiId": 49294,
       "year": 2013,
       "title": "Love Live!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/75/74/49294_ISOI2.jpg",
+      "coverUrl": "covers/49294.jpg",
       "name": "Love Live!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/74/49294_ISOI2.jpg",
+      "cover": "covers/49294.jpg",
       "ratingCount": 10297
     },
     {
@@ -3642,9 +3642,9 @@ const animeData = {
       "bangumiId": 45842,
       "year": 2013,
       "title": "变态王子与不笑猫。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9c/1e/45842_ZF94F.jpg",
+      "coverUrl": "covers/45842.jpg",
       "name": "变态王子与不笑猫。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/1e/45842_ZF94F.jpg",
+      "cover": "covers/45842.jpg",
       "ratingCount": 10264
     },
     {
@@ -3652,9 +3652,9 @@ const animeData = {
       "bangumiId": 56093,
       "year": 2013,
       "title": "弹丸论破 希望学园与绝望高中生",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bf/46/56093_I1uEu.jpg",
+      "coverUrl": "covers/56093.jpg",
       "name": "弹丸论破 希望学园与绝望高中生",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/46/56093_I1uEu.jpg",
+      "cover": "covers/56093.jpg",
       "ratingCount": 10117
     },
     {
@@ -3662,9 +3662,9 @@ const animeData = {
       "bangumiId": 69496,
       "year": 2013,
       "title": "白色相簿2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/01/35/69496_xMBm7.jpg",
+      "coverUrl": "covers/69496.jpg",
       "name": "白色相簿2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/35/69496_xMBm7.jpg",
+      "cover": "covers/69496.jpg",
       "ratingCount": 9576
     },
     {
@@ -3672,9 +3672,9 @@ const animeData = {
       "bangumiId": 47889,
       "year": 2013,
       "title": "来自风平浪静的明天",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/16/29/47889_gZy58.jpg",
+      "coverUrl": "covers/47889.jpg",
       "name": "来自风平浪静的明天",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/16/29/47889_gZy58.jpg",
+      "cover": "covers/47889.jpg",
       "ratingCount": 9116
     },
     {
@@ -3682,9 +3682,9 @@ const animeData = {
       "bangumiId": 43557,
       "year": 2013,
       "title": "我女友与青梅竹马的惨烈修罗场",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c2/38/43557_jUaQk.jpg",
+      "coverUrl": "covers/43557.jpg",
       "name": "我女友与青梅竹马的惨烈修罗场",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c2/38/43557_jUaQk.jpg",
+      "cover": "covers/43557.jpg",
       "ratingCount": 8869
     },
     {
@@ -3692,9 +3692,9 @@ const animeData = {
       "bangumiId": 69214,
       "year": 2013,
       "title": "我不受欢迎，怎么想都是你们的错！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/05/6c/69214_qB7Wi.jpg",
+      "coverUrl": "covers/69214.jpg",
       "name": "我不受欢迎，怎么想都是你们的错！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/05/6c/69214_qB7Wi.jpg",
+      "cover": "covers/69214.jpg",
       "ratingCount": 7438
     },
     {
@@ -3702,9 +3702,9 @@ const animeData = {
       "bangumiId": 61962,
       "year": 2013,
       "title": "机巧少女不会受伤",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f7/c8/61962_Xheqi.jpg",
+      "coverUrl": "covers/61962.jpg",
       "name": "机巧少女不会受伤",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f7/c8/61962_Xheqi.jpg",
+      "cover": "covers/61962.jpg",
       "ratingCount": 7288
     },
     {
@@ -3712,9 +3712,9 @@ const animeData = {
       "bangumiId": 46011,
       "year": 2013,
       "title": "我的朋友很少NEXT",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1e/5f/46011_XH74c.jpg",
+      "coverUrl": "covers/46011.jpg",
       "name": "我的朋友很少NEXT",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/5f/46011_XH74c.jpg",
+      "cover": "covers/46011.jpg",
       "ratingCount": 7180
     },
     {
@@ -3722,9 +3722,9 @@ const animeData = {
       "bangumiId": 64140,
       "year": 2013,
       "title": "记录的地平线",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/82/3d/64140_t3Qq3.jpg",
+      "coverUrl": "covers/64140.jpg",
       "name": "记录的地平线",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/82/3d/64140_t3Qq3.jpg",
+      "cover": "covers/64140.jpg",
       "ratingCount": 6970
     },
     {
@@ -3732,9 +3732,9 @@ const animeData = {
       "bangumiId": 77570,
       "year": 2013,
       "title": "我的脑内选项正在全力妨碍学园恋爱喜剧",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7a/47/77570_hjy2A.jpg",
+      "coverUrl": "covers/77570.jpg",
       "name": "我的脑内选项正在全力妨碍学园恋爱喜剧",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7a/47/77570_hjy2A.jpg",
+      "cover": "covers/77570.jpg",
       "ratingCount": 6638
     },
     {
@@ -3742,9 +3742,9 @@ const animeData = {
       "bangumiId": 52170,
       "year": 2013,
       "title": "问题儿童都来自异世界？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/64/17/52170_b4Bc7.jpg",
+      "coverUrl": "covers/52170.jpg",
       "name": "问题儿童都来自异世界？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/64/17/52170_b4Bc7.jpg",
+      "cover": "covers/52170.jpg",
       "ratingCount": 6492
     },
     {
@@ -3752,9 +3752,9 @@ const animeData = {
       "bangumiId": 43951,
       "year": 2013,
       "title": "Fate/kaleid liner 魔法少女☆伊莉雅",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1f/c3/43951_TJfCH.jpg",
+      "coverUrl": "covers/43951.jpg",
       "name": "Fate/kaleid liner 魔法少女☆伊莉雅",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1f/c3/43951_TJfCH.jpg",
+      "cover": "covers/43951.jpg",
       "ratingCount": 6234
     },
     {
@@ -3762,9 +3762,9 @@ const animeData = {
       "bangumiId": 68035,
       "year": 2013,
       "title": "有顶天家族",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c1/0e/68035_252p4.jpg",
+      "coverUrl": "covers/68035.jpg",
       "name": "有顶天家族",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c1/0e/68035_252p4.jpg",
+      "cover": "covers/68035.jpg",
       "ratingCount": 6196
     },
     {
@@ -3772,9 +3772,9 @@ const animeData = {
       "bangumiId": 43197,
       "year": 2013,
       "title": "魔王勇者",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ad/6b/43197_0bLWN.jpg",
+      "coverUrl": "covers/43197.jpg",
       "name": "魔王勇者",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ad/6b/43197_0bLWN.jpg",
+      "cover": "covers/43197.jpg",
       "ratingCount": 6120
     },
     {
@@ -3782,9 +3782,9 @@ const animeData = {
       "bangumiId": 58015,
       "year": 2013,
       "title": "潜行吧！奈亚子W",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5a/69/58015_P8711.jpg",
+      "coverUrl": "covers/58015.jpg",
       "name": "潜行吧！奈亚子W",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5a/69/58015_P8711.jpg",
+      "cover": "covers/58015.jpg",
       "ratingCount": 5932
     },
     {
@@ -3792,9 +3792,9 @@ const animeData = {
       "bangumiId": 41658,
       "year": 2013,
       "title": "向山进发",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f3/b2/41658_Gsis2.jpg",
+      "coverUrl": "covers/41658.jpg",
       "name": "向山进发",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f3/b2/41658_Gsis2.jpg",
+      "cover": "covers/41658.jpg",
       "ratingCount": 5930
     },
     {
@@ -3802,9 +3802,9 @@ const animeData = {
       "bangumiId": 59664,
       "year": 2013,
       "title": "银之匙 Silver Spoon",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3a/0d/59664_xK3y7.jpg",
+      "coverUrl": "covers/59664.jpg",
       "name": "银之匙 Silver Spoon",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3a/0d/59664_xK3y7.jpg",
+      "cover": "covers/59664.jpg",
       "ratingCount": 5644
     },
     {
@@ -3812,9 +3812,9 @@ const animeData = {
       "bangumiId": 67826,
       "year": 2013,
       "title": "噬血狂袭",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c0/f7/67826_oa7Xa.jpg",
+      "coverUrl": "covers/67826.jpg",
       "name": "噬血狂袭",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/f7/67826_oa7Xa.jpg",
+      "cover": "covers/67826.jpg",
       "ratingCount": 5428
     },
     {
@@ -3822,9 +3822,9 @@ const animeData = {
       "bangumiId": 56112,
       "year": 2013,
       "title": "只有神知道的世界 女神篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ab/e8/56112_QDldL.jpg",
+      "coverUrl": "covers/56112.jpg",
       "name": "只有神知道的世界 女神篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ab/e8/56112_QDldL.jpg",
+      "cover": "covers/56112.jpg",
       "ratingCount": 5108
     },
     {
@@ -3832,9 +3832,9 @@ const animeData = {
       "bangumiId": 69484,
       "year": 2013,
       "title": "Little Busters! 〜Refrain〜",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e8/98/69484_47lg4.jpg",
+      "coverUrl": "covers/69484.jpg",
       "name": "Little Busters! 〜Refrain〜",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e8/98/69484_47lg4.jpg",
+      "cover": "covers/69484.jpg",
       "ratingCount": 5010
     },
     {
@@ -3842,9 +3842,9 @@ const animeData = {
       "bangumiId": 48031,
       "year": 2013,
       "title": "GJ部",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8e/a4/48031_31K3k.jpg",
+      "coverUrl": "covers/48031.jpg",
       "name": "GJ部",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/a4/48031_31K3k.jpg",
+      "cover": "covers/48031.jpg",
       "ratingCount": 4761
     },
     {
@@ -3852,9 +3852,9 @@ const animeData = {
       "bangumiId": 57978,
       "year": 2013,
       "title": "黄金拼图",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9b/42/57978_NK1n4.jpg",
+      "coverUrl": "covers/57978.jpg",
       "name": "黄金拼图",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9b/42/57978_NK1n4.jpg",
+      "cover": "covers/57978.jpg",
       "ratingCount": 4462
     },
     {
@@ -3862,9 +3862,9 @@ const animeData = {
       "bangumiId": 47685,
       "year": 2013,
       "title": "南家三姐妹 我回来了",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6e/1b/47685_QC42y.jpg",
+      "coverUrl": "covers/47685.jpg",
       "name": "南家三姐妹 我回来了",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6e/1b/47685_QC42y.jpg",
+      "cover": "covers/47685.jpg",
       "ratingCount": 4417
     },
     {
@@ -3872,9 +3872,9 @@ const animeData = {
       "bangumiId": 56091,
       "year": 2013,
       "title": "翠星之加尔刚蒂亚",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9d/2b/56091_29nQz.jpg",
+      "coverUrl": "covers/56091.jpg",
       "name": "翠星之加尔刚蒂亚",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/2b/56091_29nQz.jpg",
+      "cover": "covers/56091.jpg",
       "ratingCount": 4398
     },
     {
@@ -3882,9 +3882,9 @@ const animeData = {
       "bangumiId": 58850,
       "year": 2013,
       "title": "恋爱研究所",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/80/69/58850_eZLEn.jpg",
+      "coverUrl": "covers/58850.jpg",
       "name": "恋爱研究所",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/80/69/58850_eZLEn.jpg",
+      "cover": "covers/58850.jpg",
       "ratingCount": 4343
     },
     {
@@ -3892,9 +3892,9 @@ const animeData = {
       "bangumiId": 48289,
       "year": 2013,
       "title": "学生会的一己之见 Lv.2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0d/81/48289_E717e.jpg",
+      "coverUrl": "covers/48289.jpg",
       "name": "学生会的一己之见 Lv.2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0d/81/48289_E717e.jpg",
+      "cover": "covers/48289.jpg",
       "ratingCount": 4333
     },
     {
@@ -3902,9 +3902,9 @@ const animeData = {
       "bangumiId": 72109,
       "year": 2013,
       "title": "Free!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/70/af/72109_Uk85x.jpg",
+      "coverUrl": "covers/72109.jpg",
       "name": "Free!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/70/af/72109_Uk85x.jpg",
+      "cover": "covers/72109.jpg",
       "ratingCount": 4172
     },
     {
@@ -3912,9 +3912,9 @@ const animeData = {
       "bangumiId": 78542,
       "year": 2013,
       "title": "东京暗鸦",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/53/39/78542_Wh5MM.jpg",
+      "coverUrl": "covers/78542.jpg",
       "name": "东京暗鸦",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/39/78542_Wh5MM.jpg",
+      "cover": "covers/78542.jpg",
       "ratingCount": 4075
     },
     {
@@ -3922,9 +3922,9 @@ const animeData = {
       "bangumiId": 41568,
       "year": 2013,
       "title": "歌牌情缘 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/09/9c/41568_LhL6X.jpg",
+      "coverUrl": "covers/41568.jpg",
       "name": "歌牌情缘 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/09/9c/41568_LhL6X.jpg",
+      "cover": "covers/41568.jpg",
       "ratingCount": 4068
     },
     {
@@ -3932,9 +3932,9 @@ const animeData = {
       "bangumiId": 56951,
       "year": 2013,
       "title": "革命机Valvrave",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c1/51/56951_4OJ2O.jpg",
+      "coverUrl": "covers/56951.jpg",
       "name": "革命机Valvrave",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c1/51/56951_4OJ2O.jpg",
+      "cover": "covers/56951.jpg",
       "ratingCount": 4010
     },
     {
@@ -3942,9 +3942,9 @@ const animeData = {
       "bangumiId": 72940,
       "year": 2013,
       "title": "狗与剪刀的正确用法",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d9/81/72940_Z4Nua.jpg",
+      "coverUrl": "covers/72940.jpg",
       "name": "狗与剪刀的正确用法",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/81/72940_Z4Nua.jpg",
+      "cover": "covers/72940.jpg",
       "ratingCount": 3917
     },
     {
@@ -3952,9 +3952,9 @@ const animeData = {
       "bangumiId": 75533,
       "year": 2013,
       "title": "剧场版 空之境界",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/68/66/75533_k9VAC.jpg",
+      "coverUrl": "covers/75533.jpg",
       "name": "剧场版 空之境界",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/68/66/75533_k9VAC.jpg",
+      "cover": "covers/75533.jpg",
       "ratingCount": 3910
     },
     {
@@ -3962,9 +3962,9 @@ const animeData = {
       "bangumiId": 68022,
       "year": 2013,
       "title": "IS〈无限斯特拉托斯〉第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f0/37/68022_chJ9g.jpg",
+      "coverUrl": "covers/68022.jpg",
       "name": "IS〈无限斯特拉托斯〉第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f0/37/68022_chJ9g.jpg",
+      "cover": "covers/68022.jpg",
       "ratingCount": 3902
     },
     {
@@ -3972,9 +3972,9 @@ const animeData = {
       "bangumiId": 48700,
       "year": 2013,
       "title": "恶魔高校 D×D NEW",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/08/a7/48700_zh99x.jpg",
+      "coverUrl": "covers/48700.jpg",
       "name": "恶魔高校 D×D NEW",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/08/a7/48700_zh99x.jpg",
+      "cover": "covers/48700.jpg",
       "ratingCount": 3851
     },
     {
@@ -3982,9 +3982,9 @@ const animeData = {
       "bangumiId": 68031,
       "year": 2013,
       "title": "青春纪行",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6a/05/68031_kz04Q.jpg",
+      "coverUrl": "covers/68031.jpg",
       "name": "青春纪行",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6a/05/68031_kz04Q.jpg",
+      "cover": "covers/68031.jpg",
       "ratingCount": 3611
     },
     {
@@ -3992,9 +3992,9 @@ const animeData = {
       "bangumiId": 51943,
       "year": 2013,
       "title": "神不在的星期天",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/96/64/51943_j717U.jpg",
+      "coverUrl": "covers/51943.jpg",
       "name": "神不在的星期天",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/64/51943_j717U.jpg",
+      "cover": "covers/51943.jpg",
       "ratingCount": 3597
     },
     {
@@ -4002,9 +4002,9 @@ const animeData = {
       "bangumiId": 29074,
       "year": 2013,
       "title": "锁锁美同学@提不起劲",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e3/03/29074_zdSts.jpg",
+      "coverUrl": "covers/29074.jpg",
       "name": "锁锁美同学@提不起劲",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e3/03/29074_zdSts.jpg",
+      "cover": "covers/29074.jpg",
       "ratingCount": 3592
     },
     {
@@ -4012,9 +4012,9 @@ const animeData = {
       "bangumiId": 84866,
       "year": 2013,
       "title": "刀剑神域 Extra Edition",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6e/53/84866_yQ6Kq.jpg",
+      "coverUrl": "covers/84866.jpg",
       "name": "刀剑神域 Extra Edition",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6e/53/84866_yQ6Kq.jpg",
+      "cover": "covers/84866.jpg",
       "ratingCount": 3555
     }
   ],
@@ -4024,9 +4024,9 @@ const animeData = {
       "bangumiId": 79227,
       "year": 2014,
       "title": "游戏人生",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/54/bd/79227_052R3.jpg",
+      "coverUrl": "covers/79227.jpg",
       "name": "游戏人生",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/54/bd/79227_052R3.jpg",
+      "cover": "covers/79227.jpg",
       "ratingCount": 25762
     },
     {
@@ -4034,9 +4034,9 @@ const animeData = {
       "bangumiId": 100444,
       "year": 2014,
       "title": "四月是你的谎言",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ec/c7/100444_96r3J.jpg",
+      "coverUrl": "covers/100444.jpg",
       "name": "四月是你的谎言",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ec/c7/100444_96r3J.jpg",
+      "cover": "covers/100444.jpg",
       "ratingCount": 23689
     },
     {
@@ -4044,9 +4044,9 @@ const animeData = {
       "bangumiId": 110467,
       "year": 2014,
       "title": "白箱",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/73/26/110467_Fx9tT.jpg",
+      "coverUrl": "covers/110467.jpg",
       "name": "白箱",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/26/110467_Fx9tT.jpg",
+      "cover": "covers/110467.jpg",
       "ratingCount": 23395
     },
     {
@@ -4054,9 +4054,9 @@ const animeData = {
       "bangumiId": 100449,
       "year": 2014,
       "title": "月刊少女野崎君",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a0/20/100449_d101j.jpg",
+      "coverUrl": "covers/100449.jpg",
       "name": "月刊少女野崎君",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a0/20/100449_d101j.jpg",
+      "cover": "covers/100449.jpg",
       "ratingCount": 22525
     },
     {
@@ -4064,9 +4064,9 @@ const animeData = {
       "bangumiId": 95225,
       "year": 2014,
       "title": "Fate/stay night [Unlimited Blade Works]",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e1/5a/95225_nuqNt.jpg",
+      "coverUrl": "covers/95225.jpg",
       "name": "Fate/stay night [Unlimited Blade Works]",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e1/5a/95225_nuqNt.jpg",
+      "cover": "covers/95225.jpg",
       "ratingCount": 20080
     },
     {
@@ -4074,9 +4074,9 @@ const animeData = {
       "bangumiId": 85631,
       "year": 2014,
       "title": "JOJO的奇妙冒险 星尘斗士",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6b/c7/85631_Gi7oH.jpg",
+      "coverUrl": "covers/85631.jpg",
       "name": "JOJO的奇妙冒险 星尘斗士",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6b/c7/85631_Gi7oH.jpg",
+      "cover": "covers/85631.jpg",
       "ratingCount": 18015
     },
     {
@@ -4084,9 +4084,9 @@ const animeData = {
       "bangumiId": 93739,
       "year": 2014,
       "title": "乒乓",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1e/63/93739_TZ9dS.jpg",
+      "coverUrl": "covers/93739.jpg",
       "name": "乒乓",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/63/93739_TZ9dS.jpg",
+      "cover": "covers/93739.jpg",
       "ratingCount": 17572
     },
     {
@@ -4094,9 +4094,9 @@ const animeData = {
       "bangumiId": 88433,
       "year": 2014,
       "title": "寄生兽 生命的准则",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e3/14/88433_5Jl4M.jpg",
+      "coverUrl": "covers/88433.jpg",
       "name": "寄生兽 生命的准则",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e3/14/88433_5Jl4M.jpg",
+      "cover": "covers/88433.jpg",
       "ratingCount": 16834
     },
     {
@@ -4104,9 +4104,9 @@ const animeData = {
       "bangumiId": 72942,
       "year": 2014,
       "title": "中二病也要谈恋爱！恋",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c8/e4/72942_VniXv.jpg",
+      "coverUrl": "covers/72942.jpg",
       "name": "中二病也要谈恋爱！恋",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/e4/72942_VniXv.jpg",
+      "cover": "covers/72942.jpg",
       "ratingCount": 16552
     },
     {
@@ -4114,9 +4114,9 @@ const animeData = {
       "bangumiId": 93545,
       "year": 2014,
       "title": "甘城光辉游乐园",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/69/e5/93545_zYRKK.jpg",
+      "coverUrl": "covers/93545.jpg",
       "name": "甘城光辉游乐园",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/e5/93545_zYRKK.jpg",
+      "cover": "covers/93545.jpg",
       "ratingCount": 15535
     },
     {
@@ -4124,9 +4124,9 @@ const animeData = {
       "bangumiId": 92382,
       "year": 2014,
       "title": "刀剑神域 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/eb/9f/92382_zJ0gB.jpg",
+      "coverUrl": "covers/92382.jpg",
       "name": "刀剑神域 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/9f/92382_zJ0gB.jpg",
+      "cover": "covers/92382.jpg",
       "ratingCount": 14695
     },
     {
@@ -4134,9 +4134,9 @@ const animeData = {
       "bangumiId": 93714,
       "year": 2014,
       "title": "东京喰种",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/12/ab/93714_r1U22.jpg",
+      "coverUrl": "covers/93714.jpg",
       "name": "东京喰种",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/12/ab/93714_r1U22.jpg",
+      "cover": "covers/93714.jpg",
       "ratingCount": 14401
     },
     {
@@ -4144,9 +4144,9 @@ const animeData = {
       "bangumiId": 82572,
       "year": 2014,
       "title": "野良神",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ee/de/82572_PNW44.jpg",
+      "coverUrl": "covers/82572.jpg",
       "name": "野良神",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ee/de/82572_PNW44.jpg",
+      "cover": "covers/82572.jpg",
       "ratingCount": 12485
     },
     {
@@ -4154,9 +4154,9 @@ const animeData = {
       "bangumiId": 94244,
       "year": 2014,
       "title": "斩·赤红之瞳！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5e/e3/94244_aCTut.jpg",
+      "coverUrl": "covers/94244.jpg",
       "name": "斩·赤红之瞳！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5e/e3/94244_aCTut.jpg",
+      "cover": "covers/94244.jpg",
       "ratingCount": 11577
     },
     {
@@ -4164,9 +4164,9 @@ const animeData = {
       "bangumiId": 74628,
       "year": 2014,
       "title": "伪恋",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/98/71/74628_8HHlL.jpg",
+      "coverUrl": "covers/74628.jpg",
       "name": "伪恋",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/71/74628_8HHlL.jpg",
+      "cover": "covers/74628.jpg",
       "ratingCount": 11560
     },
     {
@@ -4174,9 +4174,9 @@ const animeData = {
       "bangumiId": 76325,
       "year": 2014,
       "title": "约会大作战 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/65/55/76325_8yJ4Y.jpg",
+      "coverUrl": "covers/76325.jpg",
       "name": "约会大作战 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/55/76325_8yJ4Y.jpg",
+      "cover": "covers/76325.jpg",
       "ratingCount": 10302
     },
     {
@@ -4184,9 +4184,9 @@ const animeData = {
       "bangumiId": 88287,
       "year": 2014,
       "title": "请问您今天要来点兔子吗？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9f/2f/88287_h4xKo.jpg",
+      "coverUrl": "covers/88287.jpg",
       "name": "请问您今天要来点兔子吗？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9f/2f/88287_h4xKo.jpg",
+      "cover": "covers/88287.jpg",
       "ratingCount": 10268
     },
     {
@@ -4194,9 +4194,9 @@ const animeData = {
       "bangumiId": 84171,
       "year": 2014,
       "title": "排球少年",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/91/d8/84171_5KpYZ.jpg",
+      "coverUrl": "covers/84171.jpg",
       "name": "排球少年",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/91/d8/84171_5KpYZ.jpg",
+      "cover": "covers/84171.jpg",
       "ratingCount": 9459
     },
     {
@@ -4204,9 +4204,9 @@ const animeData = {
       "bangumiId": 85204,
       "year": 2014,
       "title": "妄想学生会＊",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/93/55/85204_oK33O.jpg",
+      "coverUrl": "covers/85204.jpg",
       "name": "妄想学生会＊",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/93/55/85204_oK33O.jpg",
+      "cover": "covers/85204.jpg",
       "ratingCount": 8436
     },
     {
@@ -4214,9 +4214,9 @@ const animeData = {
       "bangumiId": 115932,
       "year": 2014,
       "title": "凭物语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6c/68/115932_iPZ50.jpg",
+      "coverUrl": "covers/115932.jpg",
       "name": "凭物语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/68/115932_iPZ50.jpg",
+      "cover": "covers/115932.jpg",
       "ratingCount": 8080
     },
     {
@@ -4224,9 +4224,9 @@ const animeData = {
       "bangumiId": 84873,
       "year": 2014,
       "title": "漆黑的子弹",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b3/32/84873_8NvN2.jpg",
+      "coverUrl": "covers/84873.jpg",
       "name": "漆黑的子弹",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/32/84873_8NvN2.jpg",
+      "cover": "covers/84873.jpg",
       "ratingCount": 7712
     },
     {
@@ -4234,9 +4234,9 @@ const animeData = {
       "bangumiId": 82322,
       "year": 2014,
       "title": "花物语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/24/f3/82322_pUPLZ.jpg",
+      "coverUrl": "covers/82322.jpg",
       "name": "花物语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/24/f3/82322_pUPLZ.jpg",
+      "cover": "covers/82322.jpg",
       "ratingCount": 7662
     },
     {
@@ -4244,9 +4244,9 @@ const animeData = {
       "bangumiId": 75989,
       "year": 2014,
       "title": "Love Live! 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/94/2a/75989_ylW5o.jpg",
+      "coverUrl": "covers/75989.jpg",
       "name": "Love Live! 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/94/2a/75989_ylW5o.jpg",
+      "cover": "covers/75989.jpg",
       "ratingCount": 7547
     },
     {
@@ -4254,9 +4254,9 @@ const animeData = {
       "bangumiId": 105426,
       "year": 2014,
       "title": "关于完全听不懂老公在说什么的事",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ee/3d/105426_dOztK.jpg",
+      "coverUrl": "covers/105426.jpg",
       "name": "关于完全听不懂老公在说什么的事",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ee/3d/105426_dOztK.jpg",
+      "cover": "covers/105426.jpg",
       "ratingCount": 7525
     },
     {
@@ -4264,9 +4264,9 @@ const animeData = {
       "bangumiId": 100443,
       "year": 2014,
       "title": "东京残响",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5c/34/100443_2SGZ5.jpg",
+      "coverUrl": "covers/100443.jpg",
       "name": "东京残响",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5c/34/100443_2SGZ5.jpg",
+      "cover": "covers/100443.jpg",
       "ratingCount": 7248
     },
     {
@@ -4274,9 +4274,9 @@ const animeData = {
       "bangumiId": 84872,
       "year": 2014,
       "title": "魔法科高校的劣等生",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/66/95/84872_22Kz1.jpg",
+      "coverUrl": "covers/84872.jpg",
       "name": "魔法科高校的劣等生",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/95/84872_22Kz1.jpg",
+      "cover": "covers/84872.jpg",
       "ratingCount": 7172
     },
     {
@@ -4284,9 +4284,9 @@ const animeData = {
       "bangumiId": 77625,
       "year": 2014,
       "title": "心理测量者2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/94/b7/77625_PH7mp.jpg",
+      "coverUrl": "covers/77625.jpg",
       "name": "心理测量者2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/94/b7/77625_PH7mp.jpg",
+      "cover": "covers/77625.jpg",
       "ratingCount": 6612
     },
     {
@@ -4294,9 +4294,9 @@ const animeData = {
       "bangumiId": 96918,
       "year": 2014,
       "title": "ALDNOAH.ZERO",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/87/95/96918_l2HJN.jpg",
+      "coverUrl": "covers/96918.jpg",
       "name": "ALDNOAH.ZERO",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/95/96918_l2HJN.jpg",
+      "cover": "covers/96918.jpg",
       "ratingCount": 6353
     },
     {
@@ -4304,9 +4304,9 @@ const animeData = {
       "bangumiId": 88493,
       "year": 2014,
       "title": "一周的朋友。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/98/a3/88493_tKAht.jpg",
+      "coverUrl": "covers/88493.jpg",
       "name": "一周的朋友。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/a3/88493_tKAht.jpg",
+      "cover": "covers/88493.jpg",
       "ratingCount": 6279
     },
     {
@@ -4314,9 +4314,9 @@ const animeData = {
       "bangumiId": 67376,
       "year": 2014,
       "title": "灰色的果实",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fc/b4/67376_WkW5k.jpg",
+      "coverUrl": "covers/67376.jpg",
       "name": "灰色的果实",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fc/b4/67376_WkW5k.jpg",
+      "cover": "covers/67376.jpg",
       "ratingCount": 5772
     },
     {
@@ -4324,9 +4324,9 @@ const animeData = {
       "bangumiId": 99538,
       "year": 2014,
       "title": "日常系的异能战斗",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e2/1e/99538_khe3t.jpg",
+      "coverUrl": "covers/99538.jpg",
       "name": "日常系的异能战斗",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e2/1e/99538_khe3t.jpg",
+      "cover": "covers/99538.jpg",
       "ratingCount": 5716
     },
     {
@@ -4334,9 +4334,9 @@ const animeData = {
       "bangumiId": 101820,
       "year": 2014,
       "title": "七大罪",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/48/8d/101820_V11cJ.jpg",
+      "coverUrl": "covers/101820.jpg",
       "name": "七大罪",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/48/8d/101820_V11cJ.jpg",
+      "cover": "covers/101820.jpg",
       "ratingCount": 5539
     },
     {
@@ -4344,9 +4344,9 @@ const animeData = {
       "bangumiId": 77476,
       "year": 2014,
       "title": "希德尼娅的骑士",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/57/23/77476_4TwHt.jpg",
+      "coverUrl": "covers/77476.jpg",
       "name": "希德尼娅的骑士",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/57/23/77476_4TwHt.jpg",
+      "cover": "covers/77476.jpg",
       "ratingCount": 5512
     },
     {
@@ -4354,9 +4354,9 @@ const animeData = {
       "bangumiId": 89751,
       "year": 2014,
       "title": "漫画家和助手",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4b/e0/89751_4IvUa.jpg",
+      "coverUrl": "covers/89751.jpg",
       "name": "漫画家和助手",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4b/e0/89751_4IvUa.jpg",
+      "cover": "covers/89751.jpg",
       "ratingCount": 5445
     },
     {
@@ -4364,9 +4364,9 @@ const animeData = {
       "bangumiId": 68756,
       "year": 2014,
       "title": "农林",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ed/7e/68756_cCQbM.jpg",
+      "coverUrl": "covers/68756.jpg",
       "name": "农林",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ed/7e/68756_cCQbM.jpg",
+      "cover": "covers/68756.jpg",
       "ratingCount": 5396
     },
     {
@@ -4374,9 +4374,9 @@ const animeData = {
       "bangumiId": 109328,
       "year": 2014,
       "title": "结城友奈是勇者",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2f/0c/109328_MXDN2.jpg",
+      "coverUrl": "covers/109328.jpg",
       "name": "结城友奈是勇者",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2f/0c/109328_MXDN2.jpg",
+      "cover": "covers/109328.jpg",
       "ratingCount": 5292
     },
     {
@@ -4384,9 +4384,9 @@ const animeData = {
       "bangumiId": 81186,
       "year": 2014,
       "title": "目隐都市的演绎者",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b8/e7/81186_929Xl.jpg",
+      "coverUrl": "covers/81186.jpg",
       "name": "目隐都市的演绎者",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b8/e7/81186_929Xl.jpg",
+      "cover": "covers/81186.jpg",
       "ratingCount": 5198
     },
     {
@@ -4394,9 +4394,9 @@ const animeData = {
       "bangumiId": 83868,
       "year": 2014,
       "title": "元气囝仔",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/95/70/83868_FfaxZ.jpg",
+      "coverUrl": "covers/83868.jpg",
       "name": "元气囝仔",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/95/70/83868_FfaxZ.jpg",
+      "cover": "covers/83868.jpg",
       "ratingCount": 5096
     },
     {
@@ -4404,9 +4404,9 @@ const animeData = {
       "bangumiId": 83402,
       "year": 2014,
       "title": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f8/d7/83402_BBeb9.jpg",
+      "coverUrl": "covers/83402.jpg",
       "name": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f8/d7/83402_BBeb9.jpg",
+      "cover": "covers/83402.jpg",
       "ratingCount": 4996
     },
     {
@@ -4414,9 +4414,9 @@ const animeData = {
       "bangumiId": 80838,
       "year": 2014,
       "title": "樱Trick",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1c/2f/80838_pAzJ7.jpg",
+      "coverUrl": "covers/80838.jpg",
       "name": "樱Trick",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1c/2f/80838_pAzJ7.jpg",
+      "cover": "covers/80838.jpg",
       "ratingCount": 4906
     },
     {
@@ -4424,9 +4424,9 @@ const animeData = {
       "bangumiId": 89485,
       "year": 2014,
       "title": "极黑的布伦希尔德",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/59/50/89485_xKkzo.jpg",
+      "coverUrl": "covers/89485.jpg",
       "name": "极黑的布伦希尔德",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/59/50/89485_xKkzo.jpg",
+      "cover": "covers/89485.jpg",
       "ratingCount": 4846
     },
     {
@@ -4434,9 +4434,9 @@ const animeData = {
       "bangumiId": 92705,
       "year": 2014,
       "title": "虫师 续章",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a6/33/92705_P0yq4.jpg",
+      "coverUrl": "covers/92705.jpg",
       "name": "虫师 续章",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a6/33/92705_P0yq4.jpg",
+      "cover": "covers/92705.jpg",
       "ratingCount": 4839
     },
     {
@@ -4444,9 +4444,9 @@ const animeData = {
       "bangumiId": 80864,
       "year": 2014,
       "title": "太空丹迪",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/61/62/80864_refoz.jpg",
+      "coverUrl": "covers/80864.jpg",
       "name": "太空丹迪",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/61/62/80864_refoz.jpg",
+      "cover": "covers/80864.jpg",
       "ratingCount": 4811
     },
     {
@@ -4454,9 +4454,9 @@ const animeData = {
       "bangumiId": 100517,
       "year": 2014,
       "title": "记录的地平线 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5e/6f/100517_NvtW4.jpg",
+      "coverUrl": "covers/100517.jpg",
       "name": "记录的地平线 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5e/6f/100517_NvtW4.jpg",
+      "cover": "covers/100517.jpg",
       "ratingCount": 4588
     },
     {
@@ -4464,9 +4464,9 @@ const animeData = {
       "bangumiId": 79226,
       "year": 2014,
       "title": "精灵使的剑舞",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c0/3b/79226_8EZ7i.jpg",
+      "coverUrl": "covers/79226.jpg",
       "name": "精灵使的剑舞",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/3b/79226_8EZ7i.jpg",
+      "cover": "covers/79226.jpg",
       "ratingCount": 4581
     },
     {
@@ -4474,9 +4474,9 @@ const animeData = {
       "bangumiId": 52606,
       "year": 2014,
       "title": "天才麻将少女 全国篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/50/fa/52606_detm8.jpg",
+      "coverUrl": "covers/52606.jpg",
       "name": "天才麻将少女 全国篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/fa/52606_detm8.jpg",
+      "cover": "covers/52606.jpg",
       "ratingCount": 4506
     },
     {
@@ -4484,9 +4484,9 @@ const animeData = {
       "bangumiId": 98286,
       "year": 2014,
       "title": "三坪房间的侵略者!?",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/73/b1/98286_Fbe65.jpg",
+      "coverUrl": "covers/98286.jpg",
       "name": "三坪房间的侵略者!?",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/b1/98286_Fbe65.jpg",
+      "cover": "covers/98286.jpg",
       "ratingCount": 4436
     },
     {
@@ -4494,9 +4494,9 @@ const animeData = {
       "bangumiId": 106207,
       "year": 2014,
       "title": "虫师 续章 第2部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9c/c7/106207_z8288.jpg",
+      "coverUrl": "covers/106207.jpg",
       "name": "虫师 续章 第2部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/c7/106207_z8288.jpg",
+      "cover": "covers/106207.jpg",
       "ratingCount": 4399
     },
     {
@@ -4504,9 +4504,9 @@ const animeData = {
       "bangumiId": 86670,
       "year": 2014,
       "title": "向山进发 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bf/3b/86670_Ze8H4.jpg",
+      "coverUrl": "covers/86670.jpg",
       "name": "向山进发 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/3b/86670_Ze8H4.jpg",
+      "cover": "covers/86670.jpg",
       "ratingCount": 4382
     },
     {
@@ -4514,9 +4514,9 @@ const animeData = {
       "bangumiId": 77480,
       "year": 2014,
       "title": "银之匙 Silver Spoon 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cd/7b/77480_xuCK5.jpg",
+      "coverUrl": "covers/77480.jpg",
       "name": "银之匙 Silver Spoon 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/7b/77480_xuCK5.jpg",
+      "cover": "covers/77480.jpg",
       "ratingCount": 4378
     }
   ],
@@ -4526,9 +4526,9 @@ const animeData = {
       "bangumiId": 115908,
       "year": 2015,
       "title": "吹响吧！上低音号",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/37/df/115908_c0uQj.jpg",
+      "coverUrl": "covers/115908.jpg",
       "name": "吹响吧！上低音号",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/df/115908_c0uQj.jpg",
+      "cover": "covers/115908.jpg",
       "ratingCount": 22405
     },
     {
@@ -4536,9 +4536,9 @@ const animeData = {
       "bangumiId": 127563,
       "year": 2015,
       "title": "一拳超人",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8c/a2/127563_nl66u.jpg",
+      "coverUrl": "covers/127563.jpg",
       "name": "一拳超人",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8c/a2/127563_nl66u.jpg",
+      "cover": "covers/127563.jpg",
       "ratingCount": 21974
     },
     {
@@ -4546,9 +4546,9 @@ const animeData = {
       "bangumiId": 120925,
       "year": 2015,
       "title": "夏洛特",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9b/d6/120925_Zp040.jpg",
+      "coverUrl": "covers/120925.jpg",
       "name": "夏洛特",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9b/d6/120925_Zp040.jpg",
+      "cover": "covers/120925.jpg",
       "ratingCount": 20484
     },
     {
@@ -4556,9 +4556,9 @@ const animeData = {
       "bangumiId": 100403,
       "year": 2015,
       "title": "路人女主的养成方法",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6b/01/100403_R8KN2.jpg",
+      "coverUrl": "covers/100403.jpg",
       "name": "路人女主的养成方法",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6b/01/100403_R8KN2.jpg",
+      "cover": "covers/100403.jpg",
       "ratingCount": 20263
     },
     {
@@ -4566,9 +4566,9 @@ const animeData = {
       "bangumiId": 102134,
       "year": 2015,
       "title": "我的青春恋爱物语果然有问题 续",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1e/ef/102134_luzUc.jpg",
+      "coverUrl": "covers/102134.jpg",
       "name": "我的青春恋爱物语果然有问题 续",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/ef/102134_luzUc.jpg",
+      "cover": "covers/102134.jpg",
       "ratingCount": 19448
     },
     {
@@ -4576,9 +4576,9 @@ const animeData = {
       "bangumiId": 109386,
       "year": 2015,
       "title": "Fate/stay night [Unlimited Blade Works] 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b2/e7/109386_q20wy.jpg",
+      "coverUrl": "covers/109386.jpg",
       "name": "Fate/stay night [Unlimited Blade Works] 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/e7/109386_q20wy.jpg",
+      "cover": "covers/109386.jpg",
       "ratingCount": 18963
     },
     {
@@ -4586,9 +4586,9 @@ const animeData = {
       "bangumiId": 113292,
       "year": 2015,
       "title": "JOJO的奇妙冒险 星尘斗士 埃及篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1b/e9/113292_z4z21.jpg",
+      "coverUrl": "covers/113292.jpg",
       "name": "JOJO的奇妙冒险 星尘斗士 埃及篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1b/e9/113292_z4z21.jpg",
+      "cover": "covers/113292.jpg",
       "ratingCount": 18155
     },
     {
@@ -4596,9 +4596,9 @@ const animeData = {
       "bangumiId": 120187,
       "year": 2015,
       "title": "干物妹！小埋",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/41/2c/120187_nXjYb.jpg",
+      "coverUrl": "covers/120187.jpg",
       "name": "干物妹！小埋",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/2c/120187_nXjYb.jpg",
+      "cover": "covers/120187.jpg",
       "ratingCount": 17087
     },
     {
@@ -4606,9 +4606,9 @@ const animeData = {
       "bangumiId": 112146,
       "year": 2015,
       "title": "OVERLORD",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cd/a9/112146_qr9m3.jpg",
+      "coverUrl": "covers/112146.jpg",
       "name": "OVERLORD",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/a9/112146_qr9m3.jpg",
+      "cover": "covers/112146.jpg",
       "ratingCount": 14850
     },
     {
@@ -4616,9 +4616,9 @@ const animeData = {
       "bangumiId": 114685,
       "year": 2015,
       "title": "可塑性记忆",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1d/08/114685_Ege3l.jpg",
+      "coverUrl": "covers/114685.jpg",
       "name": "可塑性记忆",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/08/114685_Ege3l.jpg",
+      "cover": "covers/114685.jpg",
       "ratingCount": 12888
     },
     {
@@ -4626,9 +4626,9 @@ const animeData = {
       "bangumiId": 106818,
       "year": 2015,
       "title": "暗杀教室",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f4/91/106818_YJ4JT.jpg",
+      "coverUrl": "covers/106818.jpg",
       "name": "暗杀教室",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/91/106818_YJ4JT.jpg",
+      "cover": "covers/106818.jpg",
       "ratingCount": 11410
     },
     {
@@ -4636,9 +4636,9 @@ const animeData = {
       "bangumiId": 105075,
       "year": 2015,
       "title": "血界战线",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f9/2c/105075_iNy58.jpg",
+      "coverUrl": "covers/105075.jpg",
       "name": "血界战线",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f9/2c/105075_iNy58.jpg",
+      "cover": "covers/105075.jpg",
       "ratingCount": 9751
     },
     {
@@ -4646,9 +4646,9 @@ const animeData = {
       "bangumiId": 116287,
       "year": 2015,
       "title": "在地下城寻求邂逅是否搞错了什么",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3e/74/116287_EqO1e.jpg",
+      "coverUrl": "covers/116287.jpg",
       "name": "在地下城寻求邂逅是否搞错了什么",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3e/74/116287_EqO1e.jpg",
+      "cover": "covers/116287.jpg",
       "ratingCount": 9571
     },
     {
@@ -4656,9 +4656,9 @@ const animeData = {
       "bangumiId": 106693,
       "year": 2015,
       "title": "学园孤岛",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e9/a7/106693_68MDM.jpg",
+      "coverUrl": "covers/106693.jpg",
       "name": "学园孤岛",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e9/a7/106693_68MDM.jpg",
+      "cover": "covers/106693.jpg",
       "ratingCount": 9381
     },
     {
@@ -4666,9 +4666,9 @@ const animeData = {
       "bangumiId": 116461,
       "year": 2015,
       "title": "食戟之灵",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/96/99/116461_zl6M2.jpg",
+      "coverUrl": "covers/116461.jpg",
       "name": "食戟之灵",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/99/116461_zl6M2.jpg",
+      "cover": "covers/116461.jpg",
       "ratingCount": 9197
     },
     {
@@ -4676,9 +4676,9 @@ const animeData = {
       "bangumiId": 115780,
       "year": 2015,
       "title": "没有黄段子存在的无聊世界",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/13/84/115780_P3a76.jpg",
+      "coverUrl": "covers/115780.jpg",
       "name": "没有黄段子存在的无聊世界",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/84/115780_P3a76.jpg",
+      "cover": "covers/115780.jpg",
       "ratingCount": 9163
     },
     {
@@ -4686,9 +4686,9 @@ const animeData = {
       "bangumiId": 138829,
       "year": 2015,
       "title": "终物语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b0/4d/138829_QtBqr.jpg",
+      "coverUrl": "covers/138829.jpg",
       "name": "终物语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b0/4d/138829_QtBqr.jpg",
+      "cover": "covers/138829.jpg",
       "ratingCount": 8942
     },
     {
@@ -4696,9 +4696,9 @@ const animeData = {
       "bangumiId": 129988,
       "year": 2015,
       "title": "野良神 ARAGOTO",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c6/07/129988_JSsja.jpg",
+      "coverUrl": "covers/129988.jpg",
       "name": "野良神 ARAGOTO",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c6/07/129988_JSsja.jpg",
+      "cover": "covers/129988.jpg",
       "ratingCount": 8707
     },
     {
@@ -4706,9 +4706,9 @@ const animeData = {
       "bangumiId": 110048,
       "year": 2015,
       "title": "监狱学园",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1c/0b/110048_JHz0j.jpg",
+      "coverUrl": "covers/110048.jpg",
       "name": "监狱学园",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1c/0b/110048_JHz0j.jpg",
+      "cover": "covers/110048.jpg",
       "ratingCount": 8622
     },
     {
@@ -4716,9 +4716,9 @@ const animeData = {
       "bangumiId": 114758,
       "year": 2015,
       "title": "伪恋：",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/22/cd/114758_27XTt.jpg",
+      "coverUrl": "covers/114758.jpg",
       "name": "伪恋：",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/22/cd/114758_27XTt.jpg",
+      "cover": "covers/114758.jpg",
       "ratingCount": 8590
     },
     {
@@ -4726,9 +4726,9 @@ const animeData = {
       "bangumiId": 123568,
       "year": 2015,
       "title": "请问您今天要来点兔子吗？？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/39/a4/123568_FeekE.jpg",
+      "coverUrl": "covers/123568.jpg",
       "name": "请问您今天要来点兔子吗？？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/a4/123568_FeekE.jpg",
+      "cover": "covers/123568.jpg",
       "ratingCount": 8449
     },
     {
@@ -4736,9 +4736,9 @@ const animeData = {
       "bangumiId": 115292,
       "year": 2015,
       "title": "东京喰种√A",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/32/73/115292_RnE82.jpg",
+      "coverUrl": "covers/115292.jpg",
       "name": "东京喰种√A",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/73/115292_RnE82.jpg",
+      "cover": "covers/115292.jpg",
       "ratingCount": 8085
     },
     {
@@ -4746,9 +4746,9 @@ const animeData = {
       "bangumiId": 127724,
       "year": 2015,
       "title": "落第骑士英雄谭",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/56/1a/127724_DSo0K.jpg",
+      "coverUrl": "covers/127724.jpg",
       "name": "落第骑士英雄谭",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/1a/127724_DSo0K.jpg",
+      "cover": "covers/127724.jpg",
       "ratingCount": 7642
     },
     {
@@ -4756,9 +4756,9 @@ const animeData = {
       "bangumiId": 101442,
       "year": 2015,
       "title": "悠哉日常大王 Repeat",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8b/6b/101442_EM1Vg.jpg",
+      "coverUrl": "covers/101442.jpg",
       "name": "悠哉日常大王 Repeat",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8b/6b/101442_EM1Vg.jpg",
+      "cover": "covers/101442.jpg",
       "ratingCount": 7634
     },
     {
@@ -4766,9 +4766,9 @@ const animeData = {
       "bangumiId": 120236,
       "year": 2015,
       "title": "排球少年 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/04/3d/120236_AffBR.jpg",
+      "coverUrl": "covers/120236.jpg",
       "name": "排球少年 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/04/3d/120236_AffBR.jpg",
+      "cover": "covers/120236.jpg",
       "ratingCount": 7309
     },
     {
@@ -4776,9 +4776,9 @@ const animeData = {
       "bangumiId": 112151,
       "year": 2015,
       "title": "终结的炽天使",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3c/bd/112151_qJg8v.jpg",
+      "coverUrl": "covers/112151.jpg",
       "name": "终结的炽天使",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3c/bd/112151_qJg8v.jpg",
+      "cover": "covers/112151.jpg",
       "ratingCount": 7027
     },
     {
@@ -4786,9 +4786,9 @@ const animeData = {
       "bangumiId": 99941,
       "year": 2015,
       "title": "无头骑士异闻录×2 承",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4a/e4/99941_7lPf5.jpg",
+      "coverUrl": "covers/99941.jpg",
       "name": "无头骑士异闻录×2 承",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/e4/99941_7lPf5.jpg",
+      "cover": "covers/99941.jpg",
       "ratingCount": 5701
     },
     {
@@ -4796,9 +4796,9 @@ const animeData = {
       "bangumiId": 121108,
       "year": 2015,
       "title": "关于完全听不懂老公在说什么的事 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/79/07/121108_SY1Zk.jpg",
+      "coverUrl": "covers/121108.jpg",
       "name": "关于完全听不懂老公在说什么的事 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/79/07/121108_SY1Zk.jpg",
+      "cover": "covers/121108.jpg",
       "ratingCount": 5421
     },
     {
@@ -4806,9 +4806,9 @@ const animeData = {
       "bangumiId": 130234,
       "year": 2015,
       "title": "灰色的乐园",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/59/29/130234_11gjt.jpg",
+      "coverUrl": "covers/130234.jpg",
       "name": "灰色的乐园",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/59/29/130234_11gjt.jpg",
+      "cover": "covers/130234.jpg",
       "ratingCount": 4893
     },
     {
@@ -4816,9 +4816,9 @@ const animeData = {
       "bangumiId": 120791,
       "year": 2015,
       "title": "银魂°",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/92/f6/120791_0Sfdz.jpg",
+      "coverUrl": "covers/120791.jpg",
       "name": "银魂°",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/92/f6/120791_0Sfdz.jpg",
+      "cover": "covers/120791.jpg",
       "ratingCount": 4801
     },
     {
@@ -4826,9 +4826,9 @@ const animeData = {
       "bangumiId": 127573,
       "year": 2015,
       "title": "摇曳百合 3☆High!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3e/f2/127573_HfPRJ.jpg",
+      "coverUrl": "covers/127573.jpg",
       "name": "摇曳百合 3☆High!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3e/f2/127573_HfPRJ.jpg",
+      "cover": "covers/127573.jpg",
       "ratingCount": 4735
     },
     {
@@ -4836,9 +4836,9 @@ const animeData = {
       "bangumiId": 100205,
       "year": 2015,
       "title": "新妹魔王的契约者",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/84/98/100205_vVRzI.jpg",
+      "coverUrl": "covers/100205.jpg",
       "name": "新妹魔王的契约者",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/98/100205_vVRzI.jpg",
+      "cover": "covers/100205.jpg",
       "ratingCount": 4721
     },
     {
@@ -4846,9 +4846,9 @@ const animeData = {
       "bangumiId": 84386,
       "year": 2015,
       "title": "舰队Collection",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/36/81/84386_2KHHI.jpg",
+      "coverUrl": "covers/84386.jpg",
       "name": "舰队Collection",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/81/84386_2KHHI.jpg",
+      "cover": "covers/84386.jpg",
       "ratingCount": 4669
     },
     {
@@ -4856,9 +4856,9 @@ const animeData = {
       "bangumiId": 114967,
       "year": 2015,
       "title": "无头骑士异闻录×2 转",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/53/ef/114967_U49lI.jpg",
+      "coverUrl": "covers/114967.jpg",
       "name": "无头骑士异闻录×2 转",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/ef/114967_U49lI.jpg",
+      "cover": "covers/114967.jpg",
       "ratingCount": 4634
     },
     {
@@ -4866,9 +4866,9 @@ const animeData = {
       "bangumiId": 113134,
       "year": 2015,
       "title": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0f/31/113134_NkaCg.jpg",
+      "coverUrl": "covers/113134.jpg",
       "name": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/31/113134_NkaCg.jpg",
+      "cover": "covers/113134.jpg",
       "ratingCount": 4479
     },
     {
@@ -4876,9 +4876,9 @@ const animeData = {
       "bangumiId": 107835,
       "year": 2015,
       "title": "ALDNOAH.ZERO 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3b/a6/107835_WtiiI.jpg",
+      "coverUrl": "covers/107835.jpg",
       "name": "ALDNOAH.ZERO 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3b/a6/107835_WtiiI.jpg",
+      "cover": "covers/107835.jpg",
       "ratingCount": 4449
     },
     {
@@ -4886,9 +4886,9 @@ const animeData = {
       "bangumiId": 121187,
       "year": 2015,
       "title": "灰色的迷宫",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/97/b5/121187_8uDwu.jpg",
+      "coverUrl": "covers/121187.jpg",
       "name": "灰色的迷宫",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/97/b5/121187_8uDwu.jpg",
+      "cover": "covers/121187.jpg",
       "ratingCount": 4434
     },
     {
@@ -4896,9 +4896,9 @@ const animeData = {
       "bangumiId": 118906,
       "year": 2015,
       "title": "山田君与7个魔女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2c/7a/118906_sPkAr.jpg",
+      "coverUrl": "covers/118906.jpg",
       "name": "山田君与7个魔女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2c/7a/118906_sPkAr.jpg",
+      "cover": "covers/118906.jpg",
       "ratingCount": 4390
     },
     {
@@ -4906,9 +4906,9 @@ const animeData = {
       "bangumiId": 126461,
       "year": 2015,
       "title": "樱子小姐的脚下埋着尸体",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d8/d7/126461_c1O04.jpg",
+      "coverUrl": "covers/126461.jpg",
       "name": "樱子小姐的脚下埋着尸体",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/d7/126461_c1O04.jpg",
+      "cover": "covers/126461.jpg",
       "ratingCount": 4371
     },
     {
@@ -4916,9 +4916,9 @@ const animeData = {
       "bangumiId": 105255,
       "year": 2015,
       "title": "希德尼娅的骑士 第九惑星战役",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e8/a6/105255_Ldl25.jpg",
+      "coverUrl": "covers/105255.jpg",
       "name": "希德尼娅的骑士 第九惑星战役",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e8/a6/105255_Ldl25.jpg",
+      "cover": "covers/105255.jpg",
       "ratingCount": 4330
     },
     {
@@ -4926,9 +4926,9 @@ const animeData = {
       "bangumiId": 110648,
       "year": 2015,
       "title": "迷糊餐厅 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/59/dc/110648_52R1q.jpg",
+      "coverUrl": "covers/110648.jpg",
       "name": "迷糊餐厅 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/59/dc/110648_52R1q.jpg",
+      "cover": "covers/110648.jpg",
       "ratingCount": 4248
     },
     {
@@ -4936,9 +4936,9 @@ const animeData = {
       "bangumiId": 120763,
       "year": 2015,
       "title": "出包王女Darkness 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/38/c9/120763_Tz4Xl.jpg",
+      "coverUrl": "covers/120763.jpg",
       "name": "出包王女Darkness 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/38/c9/120763_Tz4Xl.jpg",
+      "cover": "covers/120763.jpg",
       "ratingCount": 4240
     },
     {
@@ -4946,9 +4946,9 @@ const animeData = {
       "bangumiId": 130250,
       "year": 2015,
       "title": "学战都市 六芒星",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fa/05/130250_V5992.jpg",
+      "coverUrl": "covers/130250.jpg",
       "name": "学战都市 六芒星",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fa/05/130250_V5992.jpg",
+      "cover": "covers/130250.jpg",
       "ratingCount": 4201
     },
     {
@@ -4956,9 +4956,9 @@ const animeData = {
       "bangumiId": 108757,
       "year": 2015,
       "title": "绝对双刃",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1d/11/108757_1eYma.jpg",
+      "coverUrl": "covers/108757.jpg",
       "name": "绝对双刃",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/11/108757_1eYma.jpg",
+      "cover": "covers/108757.jpg",
       "ratingCount": 4151
     },
     {
@@ -4966,9 +4966,9 @@ const animeData = {
       "bangumiId": 120705,
       "year": 2015,
       "title": "终结的炽天使 名古屋决战篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bf/69/120705_vJwsZ.jpg",
+      "coverUrl": "covers/120705.jpg",
       "name": "终结的炽天使 名古屋决战篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/69/120705_vJwsZ.jpg",
+      "cover": "covers/120705.jpg",
       "ratingCount": 4079
     },
     {
@@ -4976,9 +4976,9 @@ const animeData = {
       "bangumiId": 119889,
       "year": 2015,
       "title": "我老婆是学生会长",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c3/49/119889_191zj.jpg",
+      "coverUrl": "covers/119889.jpg",
       "name": "我老婆是学生会长",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c3/49/119889_191zj.jpg",
+      "cover": "covers/119889.jpg",
       "ratingCount": 4048
     },
     {
@@ -4986,9 +4986,9 @@ const animeData = {
       "bangumiId": 118067,
       "year": 2015,
       "title": "六花的勇者",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/72/41/118067_1O0l2.jpg",
+      "coverUrl": "covers/118067.jpg",
       "name": "六花的勇者",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/72/41/118067_1O0l2.jpg",
+      "cover": "covers/118067.jpg",
       "ratingCount": 4019
     },
     {
@@ -4996,9 +4996,9 @@ const animeData = {
       "bangumiId": 118785,
       "year": 2015,
       "title": "乱步奇谭 拉普拉斯的游戏",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c4/2d/118785_RrA1D.jpg",
+      "coverUrl": "covers/118785.jpg",
       "name": "乱步奇谭 拉普拉斯的游戏",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c4/2d/118785_RrA1D.jpg",
+      "cover": "covers/118785.jpg",
       "ratingCount": 3729
     },
     {
@@ -5006,9 +5006,9 @@ const animeData = {
       "bangumiId": 107671,
       "year": 2015,
       "title": "我被绑架到贵族女校当「庶民样本」",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ca/df/107671_UQSJx.jpg",
+      "coverUrl": "covers/107671.jpg",
       "name": "我被绑架到贵族女校当「庶民样本」",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ca/df/107671_UQSJx.jpg",
+      "cover": "covers/107671.jpg",
       "ratingCount": 3662
     },
     {
@@ -5016,9 +5016,9 @@ const animeData = {
       "bangumiId": 126034,
       "year": 2015,
       "title": "赤发白雪姬",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7d/82/126034_zXVXx.jpg",
+      "coverUrl": "covers/126034.jpg",
       "name": "赤发白雪姬",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7d/82/126034_zXVXx.jpg",
+      "cover": "covers/126034.jpg",
       "ratingCount": 3591
     }
   ],
@@ -5028,9 +5028,9 @@ const animeData = {
       "bangumiId": 140001,
       "year": 2016,
       "title": "Re：从零开始的异世界生活",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cb/78/140001_Ew1mo.jpg",
+      "coverUrl": "covers/140001.jpg",
       "name": "Re：从零开始的异世界生活",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cb/78/140001_Ew1mo.jpg",
+      "cover": "covers/140001.jpg",
       "ratingCount": 24742
     },
     {
@@ -5038,9 +5038,9 @@ const animeData = {
       "bangumiId": 135275,
       "year": 2016,
       "title": "为美好的世界献上祝福！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/56/de/135275_G3liq.jpg",
+      "coverUrl": "covers/135275.jpg",
       "name": "为美好的世界献上祝福！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/de/135275_G3liq.jpg",
+      "cover": "covers/135275.jpg",
       "ratingCount": 23680
     },
     {
@@ -5048,9 +5048,9 @@ const animeData = {
       "bangumiId": 152091,
       "year": 2016,
       "title": "吹响吧！上低音号 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/69/28/152091_Bg7Hc.jpg",
+      "coverUrl": "covers/152091.jpg",
       "name": "吹响吧！上低音号 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/28/152091_Bg7Hc.jpg",
+      "cover": "covers/152091.jpg",
       "ratingCount": 18081
     },
     {
@@ -5058,9 +5058,9 @@ const animeData = {
       "bangumiId": 158316,
       "year": 2016,
       "title": "灵能百分百",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2b/85/158316_gz1mM.jpg",
+      "coverUrl": "covers/158316.jpg",
       "name": "灵能百分百",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2b/85/158316_gz1mM.jpg",
+      "cover": "covers/158316.jpg",
       "ratingCount": 17189
     },
     {
@@ -5068,9 +5068,9 @@ const animeData = {
       "bangumiId": 181354,
       "year": 2016,
       "title": "齐木楠雄的灾难",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b3/28/181354_smUU3.jpg",
+      "coverUrl": "covers/181354.jpg",
       "name": "齐木楠雄的灾难",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/28/181354_smUU3.jpg",
+      "cover": "covers/181354.jpg",
       "ratingCount": 16510
     },
     {
@@ -5078,9 +5078,9 @@ const animeData = {
       "bangumiId": 150490,
       "year": 2016,
       "title": "JOJO的奇妙冒险 不灭钻石",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d0/d5/150490_h8ffV.jpg",
+      "coverUrl": "covers/150490.jpg",
       "name": "JOJO的奇妙冒险 不灭钻石",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d0/d5/150490_h8ffV.jpg",
+      "cover": "covers/150490.jpg",
       "ratingCount": 15736
     },
     {
@@ -5088,9 +5088,9 @@ const animeData = {
       "bangumiId": 137722,
       "year": 2016,
       "title": "只有我不存在的城市",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/39/2f/137722_Iid43.jpg",
+      "coverUrl": "covers/137722.jpg",
       "name": "只有我不存在的城市",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/2f/137722_Iid43.jpg",
+      "cover": "covers/137722.jpg",
       "ratingCount": 14673
     },
     {
@@ -5098,9 +5098,9 @@ const animeData = {
       "bangumiId": 165829,
       "year": 2016,
       "title": "在下坂本，有何贵干？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7c/01/165829_cwSZV.jpg",
+      "coverUrl": "covers/165829.jpg",
       "name": "在下坂本，有何贵干？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7c/01/165829_cwSZV.jpg",
+      "cover": "covers/165829.jpg",
       "ratingCount": 14176
     },
     {
@@ -5108,9 +5108,9 @@ const animeData = {
       "bangumiId": 126173,
       "year": 2016,
       "title": "ReLIFE",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e0/a2/126173_II0Y1.jpg",
+      "coverUrl": "covers/126173.jpg",
       "name": "ReLIFE",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e0/a2/126173_II0Y1.jpg",
+      "cover": "covers/126173.jpg",
       "ratingCount": 12731
     },
     {
@@ -5118,9 +5118,9 @@ const animeData = {
       "bangumiId": 150746,
       "year": 2016,
       "title": "这个美术社大有问题！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b6/fb/150746_AAL5A.jpg",
+      "coverUrl": "covers/150746.jpg",
       "name": "这个美术社大有问题！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b6/fb/150746_AAL5A.jpg",
+      "cover": "covers/150746.jpg",
       "ratingCount": 11738
     },
     {
@@ -5128,9 +5128,9 @@ const animeData = {
       "bangumiId": 147068,
       "year": 2016,
       "title": "3月的狮子",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a7/86/147068_60GJJ.jpg",
+      "coverUrl": "covers/147068.jpg",
       "name": "3月的狮子",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a7/86/147068_60GJJ.jpg",
+      "cover": "covers/147068.jpg",
       "ratingCount": 11323
     },
     {
@@ -5138,9 +5138,9 @@ const animeData = {
       "bangumiId": 118781,
       "year": 2016,
       "title": "甲铁城的卡巴内利",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4e/0a/118781_ZHz9k.jpg",
+      "coverUrl": "covers/118781.jpg",
       "name": "甲铁城的卡巴内利",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4e/0a/118781_ZHz9k.jpg",
+      "cover": "covers/118781.jpg",
       "ratingCount": 10786
     },
     {
@@ -5148,9 +5148,9 @@ const animeData = {
       "bangumiId": 150775,
       "year": 2016,
       "title": "NEW GAME!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0f/79/150775_rRSAT.jpg",
+      "coverUrl": "covers/150775.jpg",
       "name": "NEW GAME!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/79/150775_rRSAT.jpg",
+      "cover": "covers/150775.jpg",
       "ratingCount": 9514
     },
     {
@@ -5158,9 +5158,9 @@ const animeData = {
       "bangumiId": 148726,
       "year": 2016,
       "title": "灰与幻想的格林姆迦尔",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0c/20/148726_J77TB.jpg",
+      "coverUrl": "covers/148726.jpg",
       "name": "灰与幻想的格林姆迦尔",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0c/20/148726_J77TB.jpg",
+      "cover": "covers/148726.jpg",
       "ratingCount": 8836
     },
     {
@@ -5168,9 +5168,9 @@ const animeData = {
       "bangumiId": 131891,
       "year": 2016,
       "title": "暗杀教室 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/68/64/131891_dR2ZT.jpg",
+      "coverUrl": "covers/131891.jpg",
       "name": "暗杀教室 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/68/64/131891_dR2ZT.jpg",
+      "cover": "covers/131891.jpg",
       "ratingCount": 8232
     },
     {
@@ -5178,9 +5178,9 @@ const animeData = {
       "bangumiId": 142758,
       "year": 2016,
       "title": "线上游戏的老婆不可能是女生？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/64/bd/142758_4WO7N.jpg",
+      "coverUrl": "covers/142758.jpg",
       "name": "线上游戏的老婆不可能是女生？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/64/bd/142758_4WO7N.jpg",
+      "cover": "covers/142758.jpg",
       "ratingCount": 8104
     },
     {
@@ -5188,9 +5188,9 @@ const animeData = {
       "bangumiId": 150955,
       "year": 2016,
       "title": "我的英雄学院",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c3/83/150955_dHMf9.jpg",
+      "coverUrl": "covers/150955.jpg",
       "name": "我的英雄学院",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c3/83/150955_dHMf9.jpg",
+      "cover": "covers/150955.jpg",
       "ratingCount": 7587
     },
     {
@@ -5198,9 +5198,9 @@ const animeData = {
       "bangumiId": 173849,
       "year": 2016,
       "title": "排球少年 乌野高校 VS 白鸟泽学园高校",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1c/c6/173849_R21bS.jpg",
+      "coverUrl": "covers/173849.jpg",
       "name": "排球少年 乌野高校 VS 白鸟泽学园高校",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1c/c6/173849_R21bS.jpg",
+      "cover": "covers/173849.jpg",
       "ratingCount": 6680
     },
     {
@@ -5208,9 +5208,9 @@ const animeData = {
       "bangumiId": 146093,
       "year": 2016,
       "title": "亚人",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0b/17/146093_LATHF.jpg",
+      "coverUrl": "covers/146093.jpg",
       "name": "亚人",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0b/17/146093_LATHF.jpg",
+      "cover": "covers/146093.jpg",
       "ratingCount": 6546
     },
     {
@@ -5218,9 +5218,9 @@ const animeData = {
       "bangumiId": 160124,
       "year": 2016,
       "title": "食戟之灵 贰之皿",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/57/35/160124_Yhhq2.jpg",
+      "coverUrl": "covers/160124.jpg",
       "name": "食戟之灵 贰之皿",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/57/35/160124_Yhhq2.jpg",
+      "cover": "covers/160124.jpg",
       "ratingCount": 6117
     },
     {
@@ -5228,9 +5228,9 @@ const animeData = {
       "bangumiId": 163046,
       "year": 2016,
       "title": "迷家",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c0/fc/163046_YU34C.jpg",
+      "coverUrl": "covers/163046.jpg",
       "name": "迷家",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/fc/163046_YU34C.jpg",
+      "cover": "covers/163046.jpg",
       "ratingCount": 5645
     },
     {
@@ -5238,9 +5238,9 @@ const animeData = {
       "bangumiId": 94040,
       "year": 2016,
       "title": "无彩限的怪灵世界",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/20/7e/94040_kOkAg.jpg",
+      "coverUrl": "covers/94040.jpg",
       "name": "无彩限的怪灵世界",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/20/7e/94040_kOkAg.jpg",
+      "cover": "covers/94040.jpg",
       "ratingCount": 5594
     },
     {
@@ -5248,9 +5248,9 @@ const animeData = {
       "bangumiId": 144357,
       "year": 2016,
       "title": "文豪野犬",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/01/4b/144357_Lg83V.jpg",
+      "coverUrl": "covers/144357.jpg",
       "name": "文豪野犬",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/4b/144357_Lg83V.jpg",
+      "cover": "covers/144357.jpg",
       "ratingCount": 5560
     },
     {
@@ -5258,9 +5258,9 @@ const animeData = {
       "bangumiId": 146994,
       "year": 2016,
       "title": "粗点心战争",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a9/23/146994_7SYIy.jpg",
+      "coverUrl": "covers/146994.jpg",
       "name": "粗点心战争",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a9/23/146994_7SYIy.jpg",
+      "cover": "covers/146994.jpg",
       "ratingCount": 5439
     },
     {
@@ -5268,9 +5268,9 @@ const animeData = {
       "bangumiId": 168204,
       "year": 2016,
       "title": "宇宙巡警露露子",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/eb/e9/168204_Mymk9.jpg",
+      "coverUrl": "covers/168204.jpg",
       "name": "宇宙巡警露露子",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/e9/168204_Mymk9.jpg",
+      "cover": "covers/168204.jpg",
       "ratingCount": 5309
     },
     {
@@ -5278,9 +5278,9 @@ const animeData = {
       "bangumiId": 167434,
       "year": 2016,
       "title": "少女编号",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9a/31/167434_B0BSn.jpg",
+      "coverUrl": "covers/167434.jpg",
       "name": "少女编号",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9a/31/167434_B0BSn.jpg",
+      "cover": "covers/167434.jpg",
       "ratingCount": 5254
     },
     {
@@ -5288,9 +5288,9 @@ const animeData = {
       "bangumiId": 203861,
       "year": 2016,
       "title": "超自然9人组",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/23/21/174544_wMupg.jpg",
+      "coverUrl": "covers/203861.jpg",
       "name": "超自然9人组",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/23/21/174544_wMupg.jpg",
+      "cover": "covers/203861.jpg",
       "ratingCount": 5188
     },
     {
@@ -5298,9 +5298,9 @@ const animeData = {
       "bangumiId": 141799,
       "year": 2016,
       "title": "飞翔的魔女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a5/25/141799_81ZfO.jpg",
+      "coverUrl": "covers/141799.jpg",
       "name": "飞翔的魔女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a5/25/141799_81ZfO.jpg",
+      "cover": "covers/141799.jpg",
       "ratingCount": 5038
     },
     {
@@ -5308,9 +5308,9 @@ const animeData = {
       "bangumiId": 196773,
       "year": 2016,
       "title": "Fate/Grand Order -First Order-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dd/fa/196773_Y19Yd.jpg",
+      "coverUrl": "covers/196773.jpg",
       "name": "Fate/Grand Order -First Order-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/fa/196773_Y19Yd.jpg",
+      "cover": "covers/196773.jpg",
       "ratingCount": 4602
     },
     {
@@ -5318,9 +5318,9 @@ const animeData = {
       "bangumiId": 158415,
       "year": 2016,
       "title": "弹丸论破3 -The End of 希望之峰学园- 未来篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/db/9a/158415_mzDLd.jpg",
+      "coverUrl": "covers/158415.jpg",
       "name": "弹丸论破3 -The End of 希望之峰学园- 未来篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/db/9a/158415_mzDLd.jpg",
+      "cover": "covers/158415.jpg",
       "ratingCount": 4555
     },
     {
@@ -5328,9 +5328,9 @@ const animeData = {
       "bangumiId": 177092,
       "year": 2016,
       "title": "弹丸论破3 -The End of 希望之峰学园- 绝望篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/44/3b/177092_S86z8.jpg",
+      "coverUrl": "covers/177092.jpg",
       "name": "弹丸论破3 -The End of 希望之峰学园- 绝望篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/44/3b/177092_S86z8.jpg",
+      "cover": "covers/177092.jpg",
       "ratingCount": 4486
     },
     {
@@ -5338,9 +5338,9 @@ const animeData = {
       "bangumiId": 147568,
       "year": 2016,
       "title": "Rewrite",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5e/cc/147568_0XYiM.jpg",
+      "coverUrl": "covers/147568.jpg",
       "name": "Rewrite",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5e/cc/147568_0XYiM.jpg",
+      "cover": "covers/147568.jpg",
       "ratingCount": 4445
     },
     {
@@ -5348,9 +5348,9 @@ const animeData = {
       "bangumiId": 174584,
       "year": 2016,
       "title": "轻拍翻转小魔女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a4/cb/174584_7tQO4.jpg",
+      "coverUrl": "covers/174584.jpg",
       "name": "轻拍翻转小魔女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a4/cb/174584_7tQO4.jpg",
+      "cover": "covers/174584.jpg",
       "ratingCount": 4380
     },
     {
@@ -5358,9 +5358,9 @@ const animeData = {
       "bangumiId": 114968,
       "year": 2016,
       "title": "无头骑士异闻录×2 结",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/56/4c/114968_Cj1aA.jpg",
+      "coverUrl": "covers/114968.jpg",
       "name": "无头骑士异闻录×2 结",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/4c/114968_Cj1aA.jpg",
+      "cover": "covers/114968.jpg",
       "ratingCount": 4228
     },
     {
@@ -5368,9 +5368,9 @@ const animeData = {
       "bangumiId": 174638,
       "year": 2016,
       "title": "夏目友人帐 伍",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f4/8b/174638_zPvJZ.jpg",
+      "coverUrl": "covers/174638.jpg",
       "name": "夏目友人帐 伍",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/8b/174638_zPvJZ.jpg",
+      "cover": "covers/174638.jpg",
       "ratingCount": 4018
     },
     {
@@ -5378,9 +5378,9 @@ const animeData = {
       "bangumiId": 181640,
       "year": 2016,
       "title": "亚人 第2部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c0/fb/181640_2o333.jpg",
+      "coverUrl": "covers/181640.jpg",
       "name": "亚人 第2部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/fb/181640_2o333.jpg",
+      "cover": "covers/181640.jpg",
       "ratingCount": 3858
     },
     {
@@ -5388,9 +5388,9 @@ const animeData = {
       "bangumiId": 119394,
       "year": 2016,
       "title": "昭和元禄落语心中",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/10/10/119394_06TrB.jpg",
+      "coverUrl": "covers/119394.jpg",
       "name": "昭和元禄落语心中",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/10/10/119394_06TrB.jpg",
+      "cover": "covers/119394.jpg",
       "ratingCount": 3845
     },
     {
@@ -5398,9 +5398,9 @@ const animeData = {
       "bangumiId": 147466,
       "year": 2016,
       "title": "Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/66/eb/147466_3vEo1.jpg",
+      "coverUrl": "covers/147466.jpg",
       "name": "Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/eb/147466_3vEo1.jpg",
+      "cover": "covers/147466.jpg",
       "ratingCount": 3803
     },
     {
@@ -5408,9 +5408,9 @@ const animeData = {
       "bangumiId": 171068,
       "year": 2016,
       "title": "文豪野犬 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9a/1c/171068_XIwkj.jpg",
+      "coverUrl": "covers/171068.jpg",
       "name": "文豪野犬 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9a/1c/171068_XIwkj.jpg",
+      "cover": "covers/171068.jpg",
       "ratingCount": 3768
     },
     {
@@ -5418,9 +5418,9 @@ const animeData = {
       "bangumiId": 165553,
       "year": 2016,
       "title": "LoveLive! Sunshine!!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d3/37/165553_5f88z.jpg",
+      "coverUrl": "covers/165553.jpg",
       "name": "LoveLive! Sunshine!!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/37/165553_5f88z.jpg",
+      "cover": "covers/165553.jpg",
       "ratingCount": 3564
     },
     {
@@ -5428,9 +5428,9 @@ const animeData = {
       "bangumiId": 100858,
       "year": 2016,
       "title": "超时空要塞Δ",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/31/79/100858_95wYv.jpg",
+      "coverUrl": "covers/100858.jpg",
       "name": "超时空要塞Δ",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/31/79/100858_95wYv.jpg",
+      "cover": "covers/100858.jpg",
       "ratingCount": 3476
     },
     {
@@ -5438,9 +5438,9 @@ const animeData = {
       "bangumiId": 133387,
       "year": 2016,
       "title": "最弱无败神装机龙",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f4/1f/133387_KVJ2a.jpg",
+      "coverUrl": "covers/133387.jpg",
       "name": "最弱无败神装机龙",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/1f/133387_KVJ2a.jpg",
+      "cover": "covers/133387.jpg",
       "ratingCount": 3369
     },
     {
@@ -5448,9 +5448,9 @@ const animeData = {
       "bangumiId": 174998,
       "year": 2016,
       "title": "冰上的尤里",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e6/55/174998_4Zc3U.jpg",
+      "coverUrl": "covers/174998.jpg",
       "name": "冰上的尤里",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e6/55/174998_4Zc3U.jpg",
+      "cover": "covers/174998.jpg",
       "ratingCount": 3368
     },
     {
@@ -5458,9 +5458,9 @@ const animeData = {
       "bangumiId": 164649,
       "year": 2016,
       "title": "她和她的猫 -Everything Flows-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/91/32/164649_rn935.jpg",
+      "coverUrl": "covers/164649.jpg",
       "name": "她和她的猫 -Everything Flows-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/91/32/164649_rn935.jpg",
+      "cover": "covers/164649.jpg",
       "ratingCount": 3323
     },
     {
@@ -5468,9 +5468,9 @@ const animeData = {
       "bangumiId": 174142,
       "year": 2016,
       "title": "编舟记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/71/ff/174142_HirNZ.jpg",
+      "coverUrl": "covers/174142.jpg",
       "name": "编舟记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/71/ff/174142_HirNZ.jpg",
+      "cover": "covers/174142.jpg",
       "ratingCount": 3195
     },
     {
@@ -5478,9 +5478,9 @@ const animeData = {
       "bangumiId": 144843,
       "year": 2016,
       "title": "高校舰队",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/83/dd/144843_1nqUr.jpg",
+      "coverUrl": "covers/144843.jpg",
       "name": "高校舰队",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/83/dd/144843_1nqUr.jpg",
+      "cover": "covers/144843.jpg",
       "ratingCount": 3160
     },
     {
@@ -5488,9 +5488,9 @@ const animeData = {
       "bangumiId": 155704,
       "year": 2016,
       "title": "田中君总是如此慵懒",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cc/1d/155704_uU755.jpg",
+      "coverUrl": "covers/155704.jpg",
       "name": "田中君总是如此慵懒",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cc/1d/155704_uU755.jpg",
+      "cover": "covers/155704.jpg",
       "ratingCount": 3148
     },
     {
@@ -5498,9 +5498,9 @@ const animeData = {
       "bangumiId": 184840,
       "year": 2016,
       "title": "终末的伊泽塔",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2c/15/184840_1kbri.jpg",
+      "coverUrl": "covers/184840.jpg",
       "name": "终末的伊泽塔",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2c/15/184840_1kbri.jpg",
+      "cover": "covers/184840.jpg",
       "ratingCount": 3113
     },
     {
@@ -5508,9 +5508,9 @@ const animeData = {
       "bangumiId": 147613,
       "year": 2016,
       "title": "学战都市 六芒星 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/34/95/147613_1nZ10.jpg",
+      "coverUrl": "covers/147613.jpg",
       "name": "学战都市 六芒星 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/34/95/147613_1nZ10.jpg",
+      "cover": "covers/147613.jpg",
       "ratingCount": 3030
     },
     {
@@ -5518,9 +5518,9 @@ const animeData = {
       "bangumiId": 176599,
       "year": 2016,
       "title": "WWW.迷糊餐厅",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/69/61/176599_d1Lsu.jpg",
+      "coverUrl": "covers/176599.jpg",
       "name": "WWW.迷糊餐厅",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/61/176599_d1Lsu.jpg",
+      "cover": "covers/176599.jpg",
       "ratingCount": 3024
     }
   ],
@@ -5530,9 +5530,9 @@ const animeData = {
       "bangumiId": 179949,
       "year": 2017,
       "title": "小林家的龙女仆",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e9/15/179949_c2j50.jpg",
+      "coverUrl": "covers/179949.jpg",
       "name": "小林家的龙女仆",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e9/15/179949_c2j50.jpg",
+      "cover": "covers/179949.jpg",
       "ratingCount": 22934
     },
     {
@@ -5540,9 +5540,9 @@ const animeData = {
       "bangumiId": 118335,
       "year": 2017,
       "title": "进击的巨人 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0e/ca/212293_J3Bv5.jpg",
+      "coverUrl": "covers/118335.jpg",
       "name": "进击的巨人 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/ca/212293_J3Bv5.jpg",
+      "cover": "covers/118335.jpg",
       "ratingCount": 22133
     },
     {
@@ -5550,9 +5550,9 @@ const animeData = {
       "bangumiId": 172498,
       "year": 2017,
       "title": "埃罗芒阿老师",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/87/bf/172498_wfm40.jpg",
+      "coverUrl": "covers/172498.jpg",
       "name": "埃罗芒阿老师",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/bf/172498_wfm40.jpg",
+      "cover": "covers/172498.jpg",
       "ratingCount": 19585
     },
     {
@@ -5560,9 +5560,9 @@ const animeData = {
       "bangumiId": 174043,
       "year": 2017,
       "title": "为美好的世界献上祝福！ 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/53/e6/174043_Mt8Xb.jpg",
+      "coverUrl": "covers/174043.jpg",
       "name": "为美好的世界献上祝福！ 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/e6/174043_Mt8Xb.jpg",
+      "cover": "covers/174043.jpg",
       "ratingCount": 19365
     },
     {
@@ -5570,9 +5570,9 @@ const animeData = {
       "bangumiId": 203526,
       "year": 2017,
       "title": "来自深渊",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f7/bf/203526_q2P6P.jpg",
+      "coverUrl": "covers/203526.jpg",
       "name": "来自深渊",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f7/bf/203526_q2P6P.jpg",
+      "cover": "covers/203526.jpg",
       "ratingCount": 19258
     },
     {
@@ -5580,9 +5580,9 @@ const animeData = {
       "bangumiId": 218707,
       "year": 2017,
       "title": "少女终末旅行",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg",
+      "coverUrl": "covers/218707.jpg",
       "name": "少女终末旅行",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg",
+      "cover": "covers/218707.jpg",
       "ratingCount": 17133
     },
     {
@@ -5590,9 +5590,9 @@ const animeData = {
       "bangumiId": 207573,
       "year": 2017,
       "title": "月色真美",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a8/41/207573_95N29.jpg",
+      "coverUrl": "covers/207573.jpg",
       "name": "月色真美",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/41/207573_95N29.jpg",
+      "cover": "covers/207573.jpg",
       "ratingCount": 17001
     },
     {
@@ -5600,9 +5600,9 @@ const animeData = {
       "bangumiId": 214272,
       "year": 2017,
       "title": "欢迎来到实力至上主义的教室",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/87/01/214272_vlcWz.jpg",
+      "coverUrl": "covers/214272.jpg",
       "name": "欢迎来到实力至上主义的教室",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/01/214272_vlcWz.jpg",
+      "cover": "covers/214272.jpg",
       "ratingCount": 15960
     },
     {
@@ -5610,9 +5610,9 @@ const animeData = {
       "bangumiId": 132734,
       "year": 2017,
       "title": "路人女主的养成方法 ♭",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3a/ce/132734_CcMW0.jpg",
+      "coverUrl": "covers/132734.jpg",
       "name": "路人女主的养成方法 ♭",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3a/ce/132734_CcMW0.jpg",
+      "cover": "covers/132734.jpg",
       "ratingCount": 15444
     },
     {
@@ -5620,9 +5620,9 @@ const animeData = {
       "bangumiId": 185943,
       "year": 2017,
       "title": "末日时在做什么？有没有空？可以来拯救吗？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a0/5f/185943_VDh22.jpg",
+      "coverUrl": "covers/185943.jpg",
       "name": "末日时在做什么？有没有空？可以来拯救吗？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a0/5f/185943_VDh22.jpg",
+      "cover": "covers/185943.jpg",
       "ratingCount": 13909
     },
     {
@@ -5630,9 +5630,9 @@ const animeData = {
       "bangumiId": 188091,
       "year": 2017,
       "title": "珈百璃的堕落",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/39/3d/188091_IDY33.jpg",
+      "coverUrl": "covers/188091.jpg",
       "name": "珈百璃的堕落",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/3d/188091_IDY33.jpg",
+      "cover": "covers/188091.jpg",
       "ratingCount": 12530
     },
     {
@@ -5640,9 +5640,9 @@ const animeData = {
       "bangumiId": 214799,
       "year": 2017,
       "title": "宝石之国",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2f/07/214799_tGQ11.jpg",
+      "coverUrl": "covers/214799.jpg",
       "name": "宝石之国",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2f/07/214799_tGQ11.jpg",
+      "cover": "covers/214799.jpg",
       "ratingCount": 11818
     },
     {
@@ -5650,9 +5650,9 @@ const animeData = {
       "bangumiId": 208754,
       "year": 2017,
       "title": "徒然喜欢你",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/79/ae/208754_JyZ00.jpg",
+      "coverUrl": "covers/208754.jpg",
       "name": "徒然喜欢你",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/79/ae/208754_JyZ00.jpg",
+      "cover": "covers/208754.jpg",
       "ratingCount": 10745
     },
     {
@@ -5660,9 +5660,9 @@ const animeData = {
       "bangumiId": 211567,
       "year": 2017,
       "title": "3月的狮子 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5c/49/211567_pGm5Q.jpg",
+      "coverUrl": "covers/211567.jpg",
       "name": "3月的狮子 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5c/49/211567_pGm5Q.jpg",
+      "cover": "covers/211567.jpg",
       "ratingCount": 10687
     },
     {
@@ -5670,9 +5670,9 @@ const animeData = {
       "bangumiId": 208450,
       "year": 2017,
       "title": "笨女孩",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bf/83/208450_0l5MJ.jpg",
+      "coverUrl": "covers/208450.jpg",
       "name": "笨女孩",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/83/208450_0l5MJ.jpg",
+      "cover": "covers/208450.jpg",
       "ratingCount": 10645
     },
     {
@@ -5680,9 +5680,9 @@ const animeData = {
       "bangumiId": 212775,
       "year": 2017,
       "title": "干物妹！小埋R",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/27/da/212775_as9It.jpg",
+      "coverUrl": "covers/212775.jpg",
       "name": "干物妹！小埋R",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/da/212775_as9It.jpg",
+      "cover": "covers/212775.jpg",
       "ratingCount": 10269
     },
     {
@@ -5690,9 +5690,9 @@ const animeData = {
       "bangumiId": 185792,
       "year": 2017,
       "title": "小魔女学园",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c5/09/185792_YmcaM.jpg",
+      "coverUrl": "covers/185792.jpg",
       "name": "小魔女学园",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/09/185792_YmcaM.jpg",
+      "cover": "covers/185792.jpg",
       "ratingCount": 10266
     },
     {
@@ -5700,9 +5700,9 @@ const animeData = {
       "bangumiId": 193378,
       "year": 2017,
       "title": "重启咲良田",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b1/c7/193378_KgztF.jpg",
+      "coverUrl": "covers/193378.jpg",
       "name": "重启咲良田",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/c7/193378_KgztF.jpg",
+      "cover": "covers/193378.jpg",
       "ratingCount": 8929
     },
     {
@@ -5710,9 +5710,9 @@ const animeData = {
       "bangumiId": 209408,
       "year": 2017,
       "title": "狂赌之渊",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/41/1f/209408_IMIAi.jpg",
+      "coverUrl": "covers/209408.jpg",
       "name": "狂赌之渊",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/1f/209408_IMIAi.jpg",
+      "cover": "covers/209408.jpg",
       "ratingCount": 8834
     },
     {
@@ -5720,9 +5720,9 @@ const animeData = {
       "bangumiId": 204145,
       "year": 2017,
       "title": "调教咖啡厅",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f4/fe/204145_mbsLs.jpg",
+      "coverUrl": "covers/204145.jpg",
       "name": "调教咖啡厅",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/fe/204145_mbsLs.jpg",
+      "cover": "covers/204145.jpg",
       "ratingCount": 8339
     },
     {
@@ -5730,9 +5730,9 @@ const animeData = {
       "bangumiId": 174143,
       "year": 2017,
       "title": "人渣的本愿",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2c/9c/174143_77j72.jpg",
+      "coverUrl": "covers/174143.jpg",
       "name": "人渣的本愿",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2c/9c/174143_77j72.jpg",
+      "cover": "covers/174143.jpg",
       "ratingCount": 8266
     },
     {
@@ -5740,9 +5740,9 @@ const animeData = {
       "bangumiId": 175596,
       "year": 2017,
       "title": "终物语（下）",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/53/29/175596_Dp6j4.jpg",
+      "coverUrl": "covers/175596.jpg",
       "name": "终物语（下）",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/29/175596_Dp6j4.jpg",
+      "cover": "covers/175596.jpg",
       "ratingCount": 8149
     },
     {
@@ -5750,9 +5750,9 @@ const animeData = {
       "bangumiId": 208908,
       "year": 2017,
       "title": "NEW GAME!!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/32/44/208908_AATp0.jpg",
+      "coverUrl": "covers/208908.jpg",
       "name": "NEW GAME!!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/44/208908_AATp0.jpg",
+      "cover": "covers/208908.jpg",
       "ratingCount": 7724
     },
     {
@@ -5760,9 +5760,9 @@ const animeData = {
       "bangumiId": 167655,
       "year": 2017,
       "title": "幼女战记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dd/e3/167655_O0npY.jpg",
+      "coverUrl": "covers/167655.jpg",
       "name": "幼女战记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/e3/167655_O0npY.jpg",
+      "cover": "covers/167655.jpg",
       "ratingCount": 7633
     },
     {
@@ -5770,9 +5770,9 @@ const animeData = {
       "bangumiId": 212278,
       "year": 2017,
       "title": "Just Because!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cf/9d/212278_zwYLL.jpg",
+      "coverUrl": "covers/212278.jpg",
       "name": "Just Because!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/9d/212278_zwYLL.jpg",
+      "cover": "covers/212278.jpg",
       "ratingCount": 7367
     },
     {
@@ -5780,9 +5780,9 @@ const animeData = {
       "bangumiId": 185762,
       "year": 2017,
       "title": "政宗君的复仇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/05/bf/185762_xyM3h.jpg",
+      "coverUrl": "covers/185762.jpg",
       "name": "政宗君的复仇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/05/bf/185762_xyM3h.jpg",
+      "cover": "covers/185762.jpg",
       "ratingCount": 7352
     },
     {
@@ -5790,9 +5790,9 @@ const animeData = {
       "bangumiId": 195816,
       "year": 2017,
       "title": "GAMERS电玩咖",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c9/f3/195816_oXlKL.jpg",
+      "coverUrl": "covers/195816.jpg",
       "name": "GAMERS电玩咖",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c9/f3/195816_oXlKL.jpg",
+      "cover": "covers/195816.jpg",
       "ratingCount": 7294
     },
     {
@@ -5800,9 +5800,9 @@ const animeData = {
       "bangumiId": 202419,
       "year": 2017,
       "title": "Re：创世主们",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/46/27/202419_Zt1ts.jpg",
+      "coverUrl": "covers/202419.jpg",
       "name": "Re：创世主们",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/46/27/202419_Zt1ts.jpg",
+      "cover": "covers/202419.jpg",
       "ratingCount": 7286
     },
     {
@@ -5810,9 +5810,9 @@ const animeData = {
       "bangumiId": 213076,
       "year": 2017,
       "title": "如果有妹妹就好了。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d0/59/213076_J5y9R.jpg",
+      "coverUrl": "covers/213076.jpg",
       "name": "如果有妹妹就好了。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d0/59/213076_J5y9R.jpg",
+      "cover": "covers/213076.jpg",
       "ratingCount": 7187
     },
     {
@@ -5820,9 +5820,9 @@ const animeData = {
       "bangumiId": 198395,
       "year": 2017,
       "title": "One Room",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/40/69/198395_zRIuN.jpg",
+      "coverUrl": "covers/198395.jpg",
       "name": "One Room",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/40/69/198395_zRIuN.jpg",
+      "cover": "covers/198395.jpg",
       "ratingCount": 6909
     },
     {
@@ -5830,9 +5830,9 @@ const animeData = {
       "bangumiId": 199392,
       "year": 2017,
       "title": "血界战线 & BEYOND",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/98/77/199392_j2kAA.jpg",
+      "coverUrl": "covers/199392.jpg",
       "name": "血界战线 & BEYOND",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/77/199392_j2kAA.jpg",
+      "cover": "covers/199392.jpg",
       "ratingCount": 6866
     },
     {
@@ -5840,9 +5840,9 @@ const animeData = {
       "bangumiId": 204855,
       "year": 2017,
       "title": "Fate/Apocrypha",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b5/e2/204855_54956.jpg",
+      "coverUrl": "covers/204855.jpg",
       "name": "Fate/Apocrypha",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b5/e2/204855_54956.jpg",
+      "cover": "covers/204855.jpg",
       "ratingCount": 6395
     },
     {
@@ -5850,9 +5850,9 @@ const animeData = {
       "bangumiId": 176478,
       "year": 2017,
       "title": "兽娘动物园",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/18/1f/176478_kk61b.jpg",
+      "coverUrl": "covers/176478.jpg",
       "name": "兽娘动物园",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/18/1f/176478_kk61b.jpg",
+      "cover": "covers/176478.jpg",
       "ratingCount": 6382
     },
     {
@@ -5860,9 +5860,9 @@ const animeData = {
       "bangumiId": 174138,
       "year": 2017,
       "title": "不正经的魔术讲师与禁忌教典",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b2/af/174138_0BOO7.jpg",
+      "coverUrl": "covers/174138.jpg",
       "name": "不正经的魔术讲师与禁忌教典",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/af/174138_0BOO7.jpg",
+      "cover": "covers/174138.jpg",
       "ratingCount": 5957
     },
     {
@@ -5870,9 +5870,9 @@ const animeData = {
       "bangumiId": 185761,
       "year": 2017,
       "title": "我的英雄学院 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8e/5c/185761_1Z9KH.jpg",
+      "coverUrl": "covers/185761.jpg",
       "name": "我的英雄学院 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/5c/185761_1Z9KH.jpg",
+      "cover": "covers/185761.jpg",
       "ratingCount": 5762
     },
     {
@@ -5880,9 +5880,9 @@ const animeData = {
       "bangumiId": 211936,
       "year": 2017,
       "title": "Princess Principal",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/22/a5/211936_7I7vb.jpg",
+      "coverUrl": "covers/211936.jpg",
       "name": "Princess Principal",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/22/a5/211936_7I7vb.jpg",
+      "cover": "covers/211936.jpg",
       "ratingCount": 5593
     },
     {
@@ -5890,9 +5890,9 @@ const animeData = {
       "bangumiId": 186515,
       "year": 2017,
       "title": "BanG Dream!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+      "coverUrl": "covers/186515.jpg",
       "name": "BanG Dream!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+      "cover": "covers/186515.jpg",
       "ratingCount": 5162
     },
     {
@@ -5900,9 +5900,9 @@ const animeData = {
       "bangumiId": 211934,
       "year": 2017,
       "title": "此花绮谭",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ab/fd/211934_HHeOH.jpg",
+      "coverUrl": "covers/211934.jpg",
       "name": "此花绮谭",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ab/fd/211934_HHeOH.jpg",
+      "cover": "covers/211934.jpg",
       "ratingCount": 5046
     },
     {
@@ -5910,9 +5910,9 @@ const animeData = {
       "bangumiId": 173303,
       "year": 2017,
       "title": "Urara迷路帖",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d8/88/173303_pSp45.jpg",
+      "coverUrl": "covers/173303.jpg",
       "name": "Urara迷路帖",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/88/173303_pSp45.jpg",
+      "cover": "covers/173303.jpg",
       "ratingCount": 4900
     },
     {
@@ -5920,9 +5920,9 @@ const animeData = {
       "bangumiId": 194259,
       "year": 2017,
       "title": "从零开始的魔法书",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7a/f2/194259_CC7nc.jpg",
+      "coverUrl": "covers/194259.jpg",
       "name": "从零开始的魔法书",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7a/f2/194259_CC7nc.jpg",
+      "cover": "covers/194259.jpg",
       "ratingCount": 4367
     },
     {
@@ -5930,9 +5930,9 @@ const animeData = {
       "bangumiId": 217632,
       "year": 2017,
       "title": "食戟之灵 餐之皿",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c7/f9/217632_wrjSL.jpg",
+      "coverUrl": "covers/217632.jpg",
       "name": "食戟之灵 餐之皿",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/f9/217632_wrjSL.jpg",
+      "cover": "covers/217632.jpg",
       "ratingCount": 4326
     },
     {
@@ -5940,9 +5940,9 @@ const animeData = {
       "bangumiId": 192252,
       "year": 2017,
       "title": "异世界食堂",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/53/49/192252_L9Ip9.jpg",
+      "coverUrl": "covers/192252.jpg",
       "name": "异世界食堂",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/49/192252_L9Ip9.jpg",
+      "cover": "covers/192252.jpg",
       "ratingCount": 4037
     },
     {
@@ -5950,9 +5950,9 @@ const animeData = {
       "bangumiId": 210864,
       "year": 2017,
       "title": "魔法使的新娘",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7c/ba/210864_W0Teb.jpg",
+      "coverUrl": "covers/210864.jpg",
       "name": "魔法使的新娘",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7c/ba/210864_W0Teb.jpg",
+      "cover": "covers/210864.jpg",
       "ratingCount": 4031
     },
     {
@@ -5960,9 +5960,9 @@ const animeData = {
       "bangumiId": 211723,
       "year": 2017,
       "title": "带着智能手机闯荡异世界。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/28/7f/211723_EEfet.jpg",
+      "coverUrl": "covers/211723.jpg",
       "name": "带着智能手机闯荡异世界。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/7f/211723_EEfet.jpg",
+      "cover": "covers/211723.jpg",
       "ratingCount": 3867
     },
     {
@@ -5970,9 +5970,9 @@ const animeData = {
       "bangumiId": 191056,
       "year": 2017,
       "title": "龙的牙医",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6a/98/191056_l1Cl1.jpg",
+      "coverUrl": "covers/191056.jpg",
       "name": "龙的牙医",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6a/98/191056_l1Cl1.jpg",
+      "cover": "covers/191056.jpg",
       "ratingCount": 3780
     },
     {
@@ -5980,9 +5980,9 @@ const animeData = {
       "bangumiId": 183492,
       "year": 2017,
       "title": "ACCA13区监察课",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/de/5d/183492_gtzxP.jpg",
+      "coverUrl": "covers/183492.jpg",
       "name": "ACCA13区监察课",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/de/5d/183492_gtzxP.jpg",
+      "cover": "covers/183492.jpg",
       "ratingCount": 3702
     },
     {
@@ -5990,9 +5990,9 @@ const animeData = {
       "bangumiId": 193445,
       "year": 2017,
       "title": "骑士&魔法",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/68/c4/193445_879w8.jpg",
+      "coverUrl": "covers/193445.jpg",
       "name": "骑士&魔法",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/68/c4/193445_879w8.jpg",
+      "cover": "covers/193445.jpg",
       "ratingCount": 3679
     },
     {
@@ -6000,9 +6000,9 @@ const animeData = {
       "bangumiId": 200547,
       "year": 2017,
       "title": "樱花任务",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/15/bd/200547_rfV5Y.jpg",
+      "coverUrl": "covers/200547.jpg",
       "name": "樱花任务",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/bd/200547_rfV5Y.jpg",
+      "cover": "covers/200547.jpg",
       "ratingCount": 3666
     },
     {
@@ -6010,9 +6010,9 @@ const animeData = {
       "bangumiId": 211068,
       "year": 2017,
       "title": "奇诺之旅",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/47/df/211068_49qlq.jpg",
+      "coverUrl": "covers/211068.jpg",
       "name": "奇诺之旅",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/47/df/211068_49qlq.jpg",
+      "cover": "covers/211068.jpg",
       "ratingCount": 3630
     },
     {
@@ -6020,9 +6020,9 @@ const animeData = {
       "bangumiId": 203387,
       "year": 2017,
       "title": "夏目友人帐 陆",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e1/4d/203387_RD6Ll.jpg",
+      "coverUrl": "covers/203387.jpg",
       "name": "夏目友人帐 陆",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e1/4d/203387_RD6Ll.jpg",
+      "cover": "covers/203387.jpg",
       "ratingCount": 3468
     }
   ],
@@ -6032,9 +6032,9 @@ const animeData = {
       "bangumiId": 240038,
       "year": 2018,
       "title": "青春猪头少年不会梦到兔女郎学姐",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b9/45/240038_b5j7g.jpg",
+      "coverUrl": "covers/240038.jpg",
       "name": "青春猪头少年不会梦到兔女郎学姐",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b9/45/240038_b5j7g.jpg",
+      "cover": "covers/240038.jpg",
       "ratingCount": 24846
     },
     {
@@ -6042,9 +6042,9 @@ const animeData = {
       "bangumiId": 183878,
       "year": 2018,
       "title": "紫罗兰永恒花园",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1e/e2/183878_Fef1o.jpg",
+      "coverUrl": "covers/183878.jpg",
       "name": "紫罗兰永恒花园",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/e2/183878_Fef1o.jpg",
+      "cover": "covers/183878.jpg",
       "ratingCount": 22633
     },
     {
@@ -6052,9 +6052,9 @@ const animeData = {
       "bangumiId": 217300,
       "year": 2018,
       "title": "进击的巨人 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/18/86/217300_WGgTy.jpg",
+      "coverUrl": "covers/217300.jpg",
       "name": "进击的巨人 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/18/86/217300_WGgTy.jpg",
+      "cover": "covers/217300.jpg",
       "ratingCount": 21058
     },
     {
@@ -6062,9 +6062,9 @@ const animeData = {
       "bangumiId": 235130,
       "year": 2018,
       "title": "碧蓝之海",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1f/13/235130_suy3s.jpg",
+      "coverUrl": "covers/235130.jpg",
       "name": "碧蓝之海",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1f/13/235130_suy3s.jpg",
+      "cover": "covers/235130.jpg",
       "ratingCount": 18449
     },
     {
@@ -6072,9 +6072,9 @@ const animeData = {
       "bangumiId": 207195,
       "year": 2018,
       "title": "摇曳露营△",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/18/bc/207195_2Cp3o.jpg",
+      "coverUrl": "covers/207195.jpg",
       "name": "摇曳露营△",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/18/bc/207195_2Cp3o.jpg",
+      "cover": "covers/207195.jpg",
       "ratingCount": 17613
     },
     {
@@ -6082,9 +6082,9 @@ const animeData = {
       "bangumiId": 214265,
       "year": 2018,
       "title": "少女☆歌剧 Revue Starlight",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ca/48/214265_uHAIG.jpg",
+      "coverUrl": "covers/214265.jpg",
       "name": "少女☆歌剧 Revue Starlight",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ca/48/214265_uHAIG.jpg",
+      "cover": "covers/214265.jpg",
       "ratingCount": 16673
     },
     {
@@ -6092,9 +6092,9 @@ const animeData = {
       "bangumiId": 129807,
       "year": 2018,
       "title": "命运石之门 0",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f6/91/129807_9VAi4.jpg",
+      "coverUrl": "covers/129807.jpg",
       "name": "命运石之门 0",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f6/91/129807_9VAi4.jpg",
+      "cover": "covers/129807.jpg",
       "ratingCount": 16385
     },
     {
@@ -6102,9 +6102,9 @@ const animeData = {
       "bangumiId": 235128,
       "year": 2018,
       "title": "JOJO的奇妙冒险 黄金之风",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/42/29/235128_RYOcp.jpg",
+      "coverUrl": "covers/235128.jpg",
       "name": "JOJO的奇妙冒险 黄金之风",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/42/29/235128_RYOcp.jpg",
+      "cover": "covers/235128.jpg",
       "ratingCount": 15942
     },
     {
@@ -6112,9 +6112,9 @@ const animeData = {
       "bangumiId": 218708,
       "year": 2018,
       "title": "比宇宙更远的地方",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/16/de/218708_99YjL.jpg",
+      "coverUrl": "covers/218708.jpg",
       "name": "比宇宙更远的地方",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/16/de/218708_99YjL.jpg",
+      "cover": "covers/218708.jpg",
       "ratingCount": 15867
     },
     {
@@ -6122,9 +6122,9 @@ const animeData = {
       "bangumiId": 252655,
       "year": 2018,
       "title": "佐贺偶像是传奇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a4/ef/252655_8X396.jpg",
+      "coverUrl": "covers/252655.jpg",
       "name": "佐贺偶像是传奇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a4/ef/252655_8X396.jpg",
+      "cover": "covers/252655.jpg",
       "ratingCount": 15106
     },
     {
@@ -6132,9 +6132,9 @@ const animeData = {
       "bangumiId": 218711,
       "year": 2018,
       "title": "DARLING in the FRANXX",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/77/dd/218711_5Z5t1.jpg",
+      "coverUrl": "covers/218711.jpg",
       "name": "DARLING in the FRANXX",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/77/dd/218711_5Z5t1.jpg",
+      "cover": "covers/218711.jpg",
       "ratingCount": 14893
     },
     {
@@ -6142,9 +6142,9 @@ const animeData = {
       "bangumiId": 239816,
       "year": 2018,
       "title": "关于我转生变成史莱姆这档事",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7b/d6/239816_BbNdb.jpg",
+      "coverUrl": "covers/239816.jpg",
       "name": "关于我转生变成史莱姆这档事",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7b/d6/239816_BbNdb.jpg",
+      "cover": "covers/239816.jpg",
       "ratingCount": 14670
     },
     {
@@ -6152,9 +6152,9 @@ const animeData = {
       "bangumiId": 235612,
       "year": 2018,
       "title": "工作细胞",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/84/fc/235612_EHO4Q.jpg",
+      "coverUrl": "covers/235612.jpg",
       "name": "工作细胞",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/fc/235612_EHO4Q.jpg",
+      "cover": "covers/235612.jpg",
       "ratingCount": 13465
     },
     {
@@ -6162,9 +6162,9 @@ const animeData = {
       "bangumiId": 218712,
       "year": 2018,
       "title": "SSSS.古立特",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d1/78/218712_c2Db6.jpg",
+      "coverUrl": "covers/218712.jpg",
       "name": "SSSS.古立特",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d1/78/218712_c2Db6.jpg",
+      "cover": "covers/218712.jpg",
       "ratingCount": 11971
     },
     {
@@ -6172,9 +6172,9 @@ const animeData = {
       "bangumiId": 212003,
       "year": 2018,
       "title": "赛马娘 Pretty Derby",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/91/c0/212003_pPk1M.jpg",
+      "coverUrl": "covers/212003.jpg",
       "name": "赛马娘 Pretty Derby",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/91/c0/212003_pPk1M.jpg",
+      "cover": "covers/212003.jpg",
       "ratingCount": 11836
     },
     {
@@ -6182,9 +6182,9 @@ const animeData = {
       "bangumiId": 219200,
       "year": 2018,
       "title": "擅长捉弄的高木同学",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/09/16/219200_wFT9i.jpg",
+      "coverUrl": "covers/219200.jpg",
       "name": "擅长捉弄的高木同学",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/09/16/219200_wFT9i.jpg",
+      "cover": "covers/219200.jpg",
       "ratingCount": 11775
     },
     {
@@ -6192,9 +6192,9 @@ const animeData = {
       "bangumiId": 204027,
       "year": 2018,
       "title": "齐木楠雄的灾难 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/37/08/204027_irnYl.jpg",
+      "coverUrl": "covers/204027.jpg",
       "name": "齐木楠雄的灾难 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/08/204027_irnYl.jpg",
+      "cover": "covers/204027.jpg",
       "ratingCount": 11708
     },
     {
@@ -6202,9 +6202,9 @@ const animeData = {
       "bangumiId": 211027,
       "year": 2018,
       "title": "OVERLORD 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0f/01/211027_669oE.jpg",
+      "coverUrl": "covers/211027.jpg",
       "name": "OVERLORD 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/01/211027_669oE.jpg",
+      "cover": "covers/211027.jpg",
       "ratingCount": 11182
     },
     {
@@ -6212,9 +6212,9 @@ const animeData = {
       "bangumiId": 219658,
       "year": 2018,
       "title": "龙王的工作！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/58/d3/219658_Reey1.jpg",
+      "coverUrl": "covers/219658.jpg",
       "name": "龙王的工作！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/58/d3/219658_Reey1.jpg",
+      "cover": "covers/219658.jpg",
       "ratingCount": 11163
     },
     {
@@ -6222,9 +6222,9 @@ const animeData = {
       "bangumiId": 243981,
       "year": 2018,
       "title": "终将成为你",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bc/72/243981_J20I2.jpg",
+      "coverUrl": "covers/243981.jpg",
       "name": "终将成为你",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bc/72/243981_J20I2.jpg",
+      "cover": "covers/243981.jpg",
       "ratingCount": 11124
     },
     {
@@ -6232,9 +6232,9 @@ const animeData = {
       "bangumiId": 248154,
       "year": 2018,
       "title": "强风吹拂",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d0/e0/248154_D8z6D.jpg",
+      "coverUrl": "covers/248154.jpg",
       "name": "强风吹拂",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d0/e0/248154_D8z6D.jpg",
+      "cover": "covers/248154.jpg",
       "ratingCount": 10818
     },
     {
@@ -6242,9 +6242,9 @@ const animeData = {
       "bangumiId": 225604,
       "year": 2018,
       "title": "刀剑神域 爱丽丝篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4a/5d/225604_97yaR.jpg",
+      "coverUrl": "covers/225604.jpg",
       "name": "刀剑神域 爱丽丝篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/5d/225604_97yaR.jpg",
+      "cover": "covers/225604.jpg",
       "ratingCount": 9805
     },
     {
@@ -6252,9 +6252,9 @@ const animeData = {
       "bangumiId": 242170,
       "year": 2018,
       "title": "OVERLORD 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/47/d4/242170_iz9Ko.jpg",
+      "coverUrl": "covers/242170.jpg",
       "name": "OVERLORD 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/47/d4/242170_iz9Ko.jpg",
+      "cover": "covers/242170.jpg",
       "ratingCount": 9752
     },
     {
@@ -6262,9 +6262,9 @@ const animeData = {
       "bangumiId": 225631,
       "year": 2018,
       "title": "黑社会的超能力女儿",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/11/f9/225631_0p0sS.jpg",
+      "coverUrl": "covers/225631.jpg",
       "name": "黑社会的超能力女儿",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/11/f9/225631_0p0sS.jpg",
+      "cover": "covers/225631.jpg",
       "ratingCount": 9693
     },
     {
@@ -6272,9 +6272,9 @@ const animeData = {
       "bangumiId": 227718,
       "year": 2018,
       "title": "MEGALO BOX",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/50/29/227718_50fU0.jpg",
+      "coverUrl": "covers/227718.jpg",
       "name": "MEGALO BOX",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/29/227718_50fU0.jpg",
+      "cover": "covers/227718.jpg",
       "ratingCount": 9533
     },
     {
@@ -6282,9 +6282,9 @@ const animeData = {
       "bangumiId": 238006,
       "year": 2018,
       "title": "哥布林杀手",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c7/2a/238006_OJZy1.jpg",
+      "coverUrl": "covers/238006.jpg",
       "name": "哥布林杀手",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/2a/238006_OJZy1.jpg",
+      "cover": "covers/238006.jpg",
       "ratingCount": 8740
     },
     {
@@ -6292,9 +6292,9 @@ const animeData = {
       "bangumiId": 220566,
       "year": 2018,
       "title": "杀戮天使",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1a/b7/220566_0CMxK.jpg",
+      "coverUrl": "covers/220566.jpg",
       "name": "杀戮天使",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1a/b7/220566_0CMxK.jpg",
+      "cover": "covers/220566.jpg",
       "ratingCount": 8346
     },
     {
@@ -6302,9 +6302,9 @@ const animeData = {
       "bangumiId": 251831,
       "year": 2018,
       "title": "齐木楠雄的灾难 完结篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/10/70/251831_9b63Y.jpg",
+      "coverUrl": "covers/251831.jpg",
       "name": "齐木楠雄的灾难 完结篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/10/70/251831_9b63Y.jpg",
+      "cover": "covers/251831.jpg",
       "ratingCount": 7902
     },
     {
@@ -6312,9 +6312,9 @@ const animeData = {
       "bangumiId": 226540,
       "year": 2018,
       "title": "魔法禁书目录 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/be/35/226540_664yS.jpg",
+      "coverUrl": "covers/226540.jpg",
       "name": "魔法禁书目录 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/be/35/226540_664yS.jpg",
+      "cover": "covers/226540.jpg",
       "ratingCount": 7469
     },
     {
@@ -6322,9 +6322,9 @@ const animeData = {
       "bangumiId": 212279,
       "year": 2018,
       "title": "pop子和pipi美的日常",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/37/4a/212279_iG7S3.jpg",
+      "coverUrl": "covers/212279.jpg",
       "name": "pop子和pipi美的日常",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/4a/212279_iG7S3.jpg",
+      "cover": "covers/212279.jpg",
       "ratingCount": 7090
     },
     {
@@ -6332,9 +6332,9 @@ const animeData = {
       "bangumiId": 198098,
       "year": 2018,
       "title": "citrus～柑橘味香气～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8e/45/198098_g44Mz.jpg",
+      "coverUrl": "covers/198098.jpg",
       "name": "citrus～柑橘味香气～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/45/198098_g44Mz.jpg",
+      "cover": "covers/198098.jpg",
       "ratingCount": 6990
     },
     {
@@ -6342,9 +6342,9 @@ const animeData = {
       "bangumiId": 231722,
       "year": 2018,
       "title": "邪神与厨二病少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/49/c0/231722_1DDIx.jpg",
+      "coverUrl": "covers/231722.jpg",
       "name": "邪神与厨二病少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/49/c0/231722_1DDIx.jpg",
+      "cover": "covers/231722.jpg",
       "ratingCount": 6702
     },
     {
@@ -6352,9 +6352,9 @@ const animeData = {
       "bangumiId": 91205,
       "year": 2018,
       "title": "高分少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/79/bb/91205_WzBkF.jpg",
+      "coverUrl": "covers/91205.jpg",
       "name": "高分少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/79/bb/91205_WzBkF.jpg",
+      "cover": "covers/91205.jpg",
       "ratingCount": 6549
     },
     {
@@ -6362,9 +6362,9 @@ const animeData = {
       "bangumiId": 236020,
       "year": 2018,
       "title": "来玩游戏吧",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fb/c2/236020_6wt6b.jpg",
+      "coverUrl": "covers/236020.jpg",
       "name": "来玩游戏吧",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fb/c2/236020_6wt6b.jpg",
+      "cover": "covers/236020.jpg",
       "ratingCount": 6299
     },
     {
@@ -6372,9 +6372,9 @@ const animeData = {
       "bangumiId": 231278,
       "year": 2018,
       "title": "后街女孩",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5d/10/231278_FrbN1.jpg",
+      "coverUrl": "covers/231278.jpg",
       "name": "后街女孩",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5d/10/231278_FrbN1.jpg",
+      "cover": "covers/231278.jpg",
       "ratingCount": 6019
     },
     {
@@ -6382,9 +6382,9 @@ const animeData = {
       "bangumiId": 220312,
       "year": 2018,
       "title": "宅男腐女恋爱真难",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/65/a5/220312_ErRl1.jpg",
+      "coverUrl": "covers/220312.jpg",
       "name": "宅男腐女恋爱真难",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/a5/220312_ErRl1.jpg",
+      "cover": "covers/220312.jpg",
       "ratingCount": 5712
     },
     {
@@ -6392,9 +6392,9 @@ const animeData = {
       "bangumiId": 210458,
       "year": 2018,
       "title": "恋如雨止",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/15/36/210458_Cn1uz.jpg",
+      "coverUrl": "covers/210458.jpg",
       "name": "恋如雨止",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/36/210458_Cn1uz.jpg",
+      "cover": "covers/210458.jpg",
       "ratingCount": 5163
     },
     {
@@ -6402,9 +6402,9 @@ const animeData = {
       "bangumiId": 241158,
       "year": 2018,
       "title": "邻家的吸血鬼小妹",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b7/12/241158_H3b25.jpg",
+      "coverUrl": "covers/241158.jpg",
       "name": "邻家的吸血鬼小妹",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/12/241158_H3b25.jpg",
+      "cover": "covers/241158.jpg",
       "ratingCount": 5154
     },
     {
@@ -6412,9 +6412,9 @@ const animeData = {
       "bangumiId": 226750,
       "year": 2018,
       "title": "刀剑神域外传 Gun Gale Online",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/29/40/226750_3fW9q.jpg",
+      "coverUrl": "covers/226750.jpg",
       "name": "刀剑神域外传 Gun Gale Online",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/40/226750_3fW9q.jpg",
+      "cover": "covers/226750.jpg",
       "ratingCount": 5063
     },
     {
@@ -6422,9 +6422,9 @@ const animeData = {
       "bangumiId": 148481,
       "year": 2018,
       "title": "东京喰种:re",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/eb/20/148481_v7x7A.jpg",
+      "coverUrl": "covers/148481.jpg",
       "name": "东京喰种:re",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/20/148481_v7x7A.jpg",
+      "cover": "covers/148481.jpg",
       "ratingCount": 5056
     },
     {
@@ -6432,9 +6432,9 @@ const animeData = {
       "bangumiId": 226507,
       "year": 2018,
       "title": "One Room 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/87/1e/226507_dBZCh.jpg",
+      "coverUrl": "covers/226507.jpg",
       "name": "One Room 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/1e/226507_dBZCh.jpg",
+      "cover": "covers/226507.jpg",
       "ratingCount": 5032
     },
     {
@@ -6442,9 +6442,9 @@ const animeData = {
       "bangumiId": 175601,
       "year": 2018,
       "title": "Fate/EXTRA Last Encore",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ff/e7/175601_cshc8.jpg",
+      "coverUrl": "covers/175601.jpg",
       "name": "Fate/EXTRA Last Encore",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ff/e7/175601_cshc8.jpg",
+      "cover": "covers/175601.jpg",
       "ratingCount": 4985
     },
     {
@@ -6452,9 +6452,9 @@ const animeData = {
       "bangumiId": 240828,
       "year": 2018,
       "title": "Happy Sugar Life",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e2/68/240828_H4uLo.jpg",
+      "coverUrl": "covers/240828.jpg",
       "name": "Happy Sugar Life",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e2/68/240828_H4uLo.jpg",
+      "cover": "covers/240828.jpg",
       "ratingCount": 4826
     },
     {
@@ -6462,9 +6462,9 @@ const animeData = {
       "bangumiId": 226677,
       "year": 2018,
       "title": "我的英雄学院 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7e/2c/226677_z5K1m.jpg",
+      "coverUrl": "covers/226677.jpg",
       "name": "我的英雄学院 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7e/2c/226677_z5K1m.jpg",
+      "cover": "covers/226677.jpg",
       "ratingCount": 4736
     },
     {
@@ -6472,9 +6472,9 @@ const animeData = {
       "bangumiId": 236224,
       "year": 2018,
       "title": "异世界魔王与召唤少女的奴隶魔术",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/53/20/236224_OcW1t.jpg",
+      "coverUrl": "covers/236224.jpg",
       "name": "异世界魔王与召唤少女的奴隶魔术",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/20/236224_OcW1t.jpg",
+      "cover": "covers/236224.jpg",
       "ratingCount": 4587
     },
     {
@@ -6482,9 +6482,9 @@ const animeData = {
       "bangumiId": 228026,
       "year": 2018,
       "title": "刻刻",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bb/43/228026_dy35F.jpg",
+      "coverUrl": "covers/228026.jpg",
       "name": "刻刻",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bb/43/228026_dy35F.jpg",
+      "cover": "covers/228026.jpg",
       "ratingCount": 4586
     },
     {
@@ -6492,9 +6492,9 @@ const animeData = {
       "bangumiId": 221127,
       "year": 2018,
       "title": "黄金神威",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0d/59/221127_v6nv6.jpg",
+      "coverUrl": "covers/221127.jpg",
       "name": "黄金神威",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0d/59/221127_v6nv6.jpg",
+      "cover": "covers/221127.jpg",
       "ratingCount": 4500
     },
     {
@@ -6502,9 +6502,9 @@ const animeData = {
       "bangumiId": 244878,
       "year": 2018,
       "title": "东京喰种:re 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b7/5c/244878_i6FE9.jpg",
+      "coverUrl": "covers/244878.jpg",
       "name": "东京喰种:re 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/5c/244878_i6FE9.jpg",
+      "cover": "covers/244878.jpg",
       "ratingCount": 4442
     },
     {
@@ -6512,9 +6512,9 @@ const animeData = {
       "bangumiId": 240562,
       "year": 2018,
       "title": "来自多彩世界的明天",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/53/f0/240562_1Ce5Q.jpg",
+      "coverUrl": "covers/240562.jpg",
       "name": "来自多彩世界的明天",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/f0/240562_1Ce5Q.jpg",
+      "cover": "covers/240562.jpg",
       "ratingCount": 4003
     },
     {
@@ -6522,9 +6522,9 @@ const animeData = {
       "bangumiId": 216310,
       "year": 2018,
       "title": "向山进发 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/49/a2/216310_ci5yT.jpg",
+      "coverUrl": "covers/216310.jpg",
       "name": "向山进发 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/49/a2/216310_ci5yT.jpg",
+      "cover": "covers/216310.jpg",
       "ratingCount": 3936
     }
   ],
@@ -6534,9 +6534,9 @@ const animeData = {
       "bangumiId": 248175,
       "year": 2019,
       "title": "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2a/f7/248175_2w4zT.jpg",
+      "coverUrl": "covers/248175.jpg",
       "name": "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2a/f7/248175_2w4zT.jpg",
+      "cover": "covers/248175.jpg",
       "ratingCount": 27921
     },
     {
@@ -6544,9 +6544,9 @@ const animeData = {
       "bangumiId": 263750,
       "year": 2019,
       "title": "进击的巨人 第三季 Part.2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c2/56/263750_56TBs.jpg",
+      "coverUrl": "covers/263750.jpg",
       "name": "进击的巨人 第三季 Part.2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c2/56/263750_56TBs.jpg",
+      "cover": "covers/263750.jpg",
       "ratingCount": 23580
     },
     {
@@ -6554,9 +6554,9 @@ const animeData = {
       "bangumiId": 245665,
       "year": 2019,
       "title": "鬼灭之刃",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9d/d1/245665_5an54.jpg",
+      "coverUrl": "covers/245665.jpg",
       "name": "鬼灭之刃",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/d1/245665_5an54.jpg",
+      "cover": "covers/245665.jpg",
       "ratingCount": 21963
     },
     {
@@ -6564,9 +6564,9 @@ const animeData = {
       "bangumiId": 240760,
       "year": 2019,
       "title": "灵能百分百 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8e/c7/240760_xB0VY.jpg",
+      "coverUrl": "covers/240760.jpg",
       "name": "灵能百分百 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/c7/240760_xB0VY.jpg",
+      "cover": "covers/240760.jpg",
       "ratingCount": 15326
     },
     {
@@ -6574,9 +6574,9 @@ const animeData = {
       "bangumiId": 240386,
       "year": 2019,
       "title": "冰海战记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/31/8f/240386_6Q62q.jpg",
+      "coverUrl": "covers/240386.jpg",
       "name": "冰海战记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/31/8f/240386_6Q62q.jpg",
+      "cover": "covers/240386.jpg",
       "ratingCount": 13329
     },
     {
@@ -6584,9 +6584,9 @@ const animeData = {
       "bangumiId": 266157,
       "year": 2019,
       "title": "慎重勇者 ～这个勇者明明超强却过分慎重～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/02/3c/266157_1FVwV.jpg",
+      "coverUrl": "covers/266157.jpg",
       "name": "慎重勇者 ～这个勇者明明超强却过分慎重～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/02/3c/266157_1FVwV.jpg",
+      "cover": "covers/266157.jpg",
       "ratingCount": 12924
     },
     {
@@ -6594,9 +6594,9 @@ const animeData = {
       "bangumiId": 243916,
       "year": 2019,
       "title": "约定的梦幻岛",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ff/49/243916_XXJsd.jpg",
+      "coverUrl": "covers/243916.jpg",
       "name": "约定的梦幻岛",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ff/49/243916_XXJsd.jpg",
+      "cover": "covers/243916.jpg",
       "ratingCount": 12369
     },
     {
@@ -6604,9 +6604,9 @@ const animeData = {
       "bangumiId": 249637,
       "year": 2019,
       "title": "天使降临到了我身边！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f3/2d/249637_2r3gw.jpg",
+      "coverUrl": "covers/249637.jpg",
       "name": "天使降临到了我身边！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f3/2d/249637_2r3gw.jpg",
+      "cover": "covers/249637.jpg",
       "ratingCount": 12141
     },
     {
@@ -6614,9 +6614,9 @@ const animeData = {
       "bangumiId": 265708,
       "year": 2019,
       "title": "女高中生的无所事事",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f3/d0/265708_QDkDe.jpg",
+      "coverUrl": "covers/265708.jpg",
       "name": "女高中生的无所事事",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f3/d0/265708_QDkDe.jpg",
+      "cover": "covers/265708.jpg",
       "ratingCount": 12078
     },
     {
@@ -6624,9 +6624,9 @@ const animeData = {
       "bangumiId": 272510,
       "year": 2019,
       "title": "街角魔族",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/af/22/272510_BZ00p.jpg",
+      "coverUrl": "covers/272510.jpg",
       "name": "街角魔族",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/af/22/272510_BZ00p.jpg",
+      "cover": "covers/272510.jpg",
       "ratingCount": 11615
     },
     {
@@ -6634,9 +6634,9 @@ const animeData = {
       "bangumiId": 256114,
       "year": 2019,
       "title": "五等分的新娘",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fd/cd/256114_mvRVq.jpg",
+      "coverUrl": "covers/256114.jpg",
       "name": "五等分的新娘",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fd/cd/256114_mvRVq.jpg",
+      "cover": "covers/256114.jpg",
       "ratingCount": 11372
     },
     {
@@ -6644,9 +6644,9 @@ const animeData = {
       "bangumiId": 271151,
       "year": 2019,
       "title": "擅长捉弄的高木同学 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f5/c8/271151_UB2n6.jpg",
+      "coverUrl": "covers/271151.jpg",
       "name": "擅长捉弄的高木同学 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f5/c8/271151_UB2n6.jpg",
+      "cover": "covers/271151.jpg",
       "ratingCount": 9367
     },
     {
@@ -6654,9 +6654,9 @@ const animeData = {
       "bangumiId": 266794,
       "year": 2019,
       "title": "石纪元",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/08/3a/266794_imVve.jpg",
+      "coverUrl": "covers/266794.jpg",
       "name": "石纪元",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/08/3a/266794_imVve.jpg",
+      "cover": "covers/266794.jpg",
       "ratingCount": 9271
     },
     {
@@ -6664,9 +6664,9 @@ const animeData = {
       "bangumiId": 273843,
       "year": 2019,
       "title": "动物狂想曲",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f6/f2/273843_YMdDZ.jpg",
+      "coverUrl": "covers/273843.jpg",
       "name": "动物狂想曲",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f6/f2/273843_YMdDZ.jpg",
+      "cover": "covers/273843.jpg",
       "ratingCount": 9156
     },
     {
@@ -6674,9 +6674,9 @@ const animeData = {
       "bangumiId": 193619,
       "year": 2019,
       "title": "一拳超人 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/63/0f/193619_MLNLZ.jpg",
+      "coverUrl": "covers/193619.jpg",
       "name": "一拳超人 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/63/0f/193619_MLNLZ.jpg",
+      "cover": "covers/193619.jpg",
       "ratingCount": 9128
     },
     {
@@ -6684,9 +6684,9 @@ const animeData = {
       "bangumiId": 279457,
       "year": 2019,
       "title": "刀剑神域 爱丽丝篇 异界战争",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dd/a6/279457_2p2B9.jpg",
+      "coverUrl": "covers/279457.jpg",
       "name": "刀剑神域 爱丽丝篇 异界战争",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/a6/279457_2p2B9.jpg",
+      "cover": "covers/279457.jpg",
       "ratingCount": 8457
     },
     {
@@ -6694,9 +6694,9 @@ const animeData = {
       "bangumiId": 217660,
       "year": 2019,
       "title": "盾之勇者成名录",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b9/9b/217660_h3554.jpg",
+      "coverUrl": "covers/217660.jpg",
       "name": "盾之勇者成名录",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b9/9b/217660_h3554.jpg",
+      "cover": "covers/217660.jpg",
       "ratingCount": 8336
     },
     {
@@ -6704,9 +6704,9 @@ const animeData = {
       "bangumiId": 228254,
       "year": 2019,
       "title": "约会大作战 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/73/8c/228254_X7Y56.jpg",
+      "coverUrl": "covers/228254.jpg",
       "name": "约会大作战 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/8c/228254_X7Y56.jpg",
+      "cover": "covers/228254.jpg",
       "ratingCount": 7117
     },
     {
@@ -6714,9 +6714,9 @@ const animeData = {
       "bangumiId": 255526,
       "year": 2019,
       "title": "Fate/Grand Order -绝对魔兽战线巴比伦尼亚-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b3/ad/255526_b1o55.jpg",
+      "coverUrl": "covers/255526.jpg",
       "name": "Fate/Grand Order -绝对魔兽战线巴比伦尼亚-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/ad/255526_b1o55.jpg",
+      "cover": "covers/255526.jpg",
       "ratingCount": 6470
     },
     {
@@ -6724,9 +6724,9 @@ const animeData = {
       "bangumiId": 267732,
       "year": 2019,
       "title": "君主·埃尔梅罗二世事件簿 魔眼收集列车 Grace note",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1e/f7/267732_41wjh.jpg",
+      "coverUrl": "covers/267732.jpg",
       "name": "君主·埃尔梅罗二世事件簿 魔眼收集列车 Grace note",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/f7/267732_41wjh.jpg",
+      "cover": "covers/267732.jpg",
       "ratingCount": 6175
     },
     {
@@ -6734,9 +6734,9 @@ const animeData = {
       "bangumiId": 240838,
       "year": 2019,
       "title": "多罗罗",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d3/da/240838_5Ax95.jpg",
+      "coverUrl": "covers/240838.jpg",
       "name": "多罗罗",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/da/240838_5Ax95.jpg",
+      "cover": "covers/240838.jpg",
       "ratingCount": 6168
     },
     {
@@ -6744,9 +6744,9 @@ const animeData = {
       "bangumiId": 238004,
       "year": 2019,
       "title": "在地下城寻求邂逅是否搞错了什么 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8e/d1/238004_F9Hgn.jpg",
+      "coverUrl": "covers/238004.jpg",
       "name": "在地下城寻求邂逅是否搞错了什么 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/d1/238004_F9Hgn.jpg",
+      "cover": "covers/238004.jpg",
       "ratingCount": 6131
     },
     {
@@ -6754,9 +6754,9 @@ const animeData = {
       "bangumiId": 240039,
       "year": 2019,
       "title": "不吉波普不笑",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/41/2a/240039_DSzs2.jpg",
+      "coverUrl": "covers/240039.jpg",
       "name": "不吉波普不笑",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/2a/240039_DSzs2.jpg",
+      "cover": "covers/240039.jpg",
       "ratingCount": 6102
     },
     {
@@ -6764,9 +6764,9 @@ const animeData = {
       "bangumiId": 231414,
       "year": 2019,
       "title": "平凡职业造就世界最强",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d8/51/231414_8I56c.jpg",
+      "coverUrl": "covers/231414.jpg",
       "name": "平凡职业造就世界最强",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/51/231414_8I56c.jpg",
+      "cover": "covers/231414.jpg",
       "ratingCount": 5972
     },
     {
@@ -6774,9 +6774,9 @@ const animeData = {
       "bangumiId": 253628,
       "year": 2019,
       "title": "家有女友",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/33/f9/253628_F42y2.jpg",
+      "coverUrl": "covers/253628.jpg",
       "name": "家有女友",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/33/f9/253628_F42y2.jpg",
+      "cover": "covers/253628.jpg",
       "ratingCount": 5795
     },
     {
@@ -6784,9 +6784,9 @@ const animeData = {
       "bangumiId": 262939,
       "year": 2019,
       "title": "某科学的一方通行",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3f/11/262939_ZhtWQ.jpg",
+      "coverUrl": "covers/262939.jpg",
       "name": "某科学的一方通行",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3f/11/262939_ZhtWQ.jpg",
+      "cover": "covers/262939.jpg",
       "ratingCount": 5760
     },
     {
@@ -6794,9 +6794,9 @@ const animeData = {
       "bangumiId": 278569,
       "year": 2019,
       "title": "高分少女 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bc/f7/278569_XOcJU.jpg",
+      "coverUrl": "covers/278569.jpg",
       "name": "高分少女 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bc/f7/278569_XOcJU.jpg",
+      "cover": "covers/278569.jpg",
       "ratingCount": 5424
     },
     {
@@ -6804,9 +6804,9 @@ const animeData = {
       "bangumiId": 239912,
       "year": 2019,
       "title": "CAROLE & TUESDAY",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/50/aa/239912_hCaW2.jpg",
+      "coverUrl": "covers/239912.jpg",
       "name": "CAROLE & TUESDAY",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/aa/239912_hCaW2.jpg",
+      "cover": "covers/239912.jpg",
       "ratingCount": 5268
     },
     {
@@ -6814,9 +6814,9 @@ const animeData = {
       "bangumiId": 257369,
       "year": 2019,
       "title": "我们真的学不来",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/21/a6/257369_32HM0.jpg",
+      "coverUrl": "covers/257369.jpg",
       "name": "我们真的学不来",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/21/a6/257369_32HM0.jpg",
+      "cover": "covers/257369.jpg",
       "ratingCount": 5113
     },
     {
@@ -6824,9 +6824,9 @@ const animeData = {
       "bangumiId": 234778,
       "year": 2019,
       "title": "狂赌之渊××",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cd/ca/234778_BWQfd.jpg",
+      "coverUrl": "covers/234778.jpg",
       "name": "狂赌之渊××",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/ca/234778_BWQfd.jpg",
+      "cover": "covers/234778.jpg",
       "ratingCount": 5112
     },
     {
@@ -6834,9 +6834,9 @@ const animeData = {
       "bangumiId": 262943,
       "year": 2019,
       "title": "喜欢本大爷的竟然就你一个？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/22/d7/262943_Kk8nT.jpg",
+      "coverUrl": "covers/262943.jpg",
       "name": "喜欢本大爷的竟然就你一个？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/22/d7/262943_Kk8nT.jpg",
+      "cover": "covers/262943.jpg",
       "ratingCount": 4938
     },
     {
@@ -6844,9 +6844,9 @@ const animeData = {
       "bangumiId": 238962,
       "year": 2019,
       "title": "我，不是说了能力要平均值么！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2e/97/238962_JPj2j.jpg",
+      "coverUrl": "covers/238962.jpg",
       "name": "我，不是说了能力要平均值么！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2e/97/238962_JPj2j.jpg",
+      "cover": "covers/238962.jpg",
       "ratingCount": 4861
     },
     {
@@ -6854,9 +6854,9 @@ const animeData = {
       "bangumiId": 268070,
       "year": 2019,
       "title": "骚动时节的少女们啊",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/22/ad/268070_UEueQ.jpg",
+      "coverUrl": "covers/268070.jpg",
       "name": "骚动时节的少女们啊",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/22/ad/268070_UEueQ.jpg",
+      "cover": "covers/268070.jpg",
       "ratingCount": 4857
     },
     {
@@ -6864,9 +6864,9 @@ const animeData = {
       "bangumiId": 275371,
       "year": 2019,
       "title": "只要可爱即使是变态你也会喜欢我吧？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/54/bb/275371_naGaN.jpg",
+      "coverUrl": "covers/275371.jpg",
       "name": "只要可爱即使是变态你也会喜欢我吧？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/54/bb/275371_naGaN.jpg",
+      "cover": "covers/275371.jpg",
       "ratingCount": 4761
     },
     {
@@ -6874,9 +6874,9 @@ const animeData = {
       "bangumiId": 276187,
       "year": 2019,
       "title": "你遭难了吗？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ce/70/276187_EyOp6.jpg",
+      "coverUrl": "covers/276187.jpg",
       "name": "你遭难了吗？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ce/70/276187_EyOp6.jpg",
+      "cover": "covers/276187.jpg",
       "ratingCount": 4475
     },
     {
@@ -6884,9 +6884,9 @@ const animeData = {
       "bangumiId": 246429,
       "year": 2019,
       "title": "BanG Dream! 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f3/246429_L8TbT.jpg",
+      "coverUrl": "covers/246429.jpg",
       "name": "BanG Dream! 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f3/246429_L8TbT.jpg",
+      "cover": "covers/246429.jpg",
       "ratingCount": 4421
     },
     {
@@ -6894,9 +6894,9 @@ const animeData = {
       "bangumiId": 268510,
       "year": 2019,
       "title": "川柳少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b4/fb/268510_XKKrF.jpg",
+      "coverUrl": "covers/268510.jpg",
       "name": "川柳少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b4/fb/268510_XKKrF.jpg",
+      "cover": "covers/268510.jpg",
       "ratingCount": 4420
     },
     {
@@ -6904,9 +6904,9 @@ const animeData = {
       "bangumiId": 266372,
       "year": 2019,
       "title": "炎炎消防队",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e5/f5/266372_2E8SA.jpg",
+      "coverUrl": "covers/266372.jpg",
       "name": "炎炎消防队",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e5/f5/266372_2E8SA.jpg",
+      "cover": "covers/266372.jpg",
       "ratingCount": 4415
     },
     {
@@ -6914,9 +6914,9 @@ const animeData = {
       "bangumiId": 247417,
       "year": 2019,
       "title": "笨拙之极的上野",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1f/3f/247417_O2YP9.jpg",
+      "coverUrl": "covers/247417.jpg",
       "name": "笨拙之极的上野",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1f/3f/247417_O2YP9.jpg",
+      "cover": "covers/247417.jpg",
       "ratingCount": 4403
     },
     {
@@ -6924,9 +6924,9 @@ const animeData = {
       "bangumiId": 226256,
       "year": 2019,
       "title": "贤者之孙",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dc/81/226256_dZdQ2.jpg",
+      "coverUrl": "covers/226256.jpg",
       "name": "贤者之孙",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dc/81/226256_dZdQ2.jpg",
+      "cover": "covers/226256.jpg",
       "ratingCount": 4091
     },
     {
@@ -6934,9 +6934,9 @@ const animeData = {
       "bangumiId": 273844,
       "year": 2019,
       "title": "入间同学入魔了",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b9/273844_JQ26Q.jpg",
+      "coverUrl": "covers/273844.jpg",
       "name": "入间同学入魔了",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b9/273844_JQ26Q.jpg",
+      "cover": "covers/273844.jpg",
       "ratingCount": 4083
     },
     {
@@ -6944,9 +6944,9 @@ const animeData = {
       "bangumiId": 271724,
       "year": 2019,
       "title": "流汗吧！健身少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b7/271724_32Jou.jpg",
+      "coverUrl": "covers/271724.jpg",
       "name": "流汗吧！健身少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b7/271724_32Jou.jpg",
+      "cover": "covers/271724.jpg",
       "ratingCount": 4042
     },
     {
@@ -6954,9 +6954,9 @@ const animeData = {
       "bangumiId": 285130,
       "year": 2019,
       "title": "我们真的学不来！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/80/0f/285130_brGSR.jpg",
+      "coverUrl": "covers/285130.jpg",
       "name": "我们真的学不来！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/80/0f/285130_brGSR.jpg",
+      "cover": "covers/285130.jpg",
       "ratingCount": 3916
     },
     {
@@ -6964,9 +6964,9 @@ const animeData = {
       "bangumiId": 262865,
       "year": 2019,
       "title": "异世界四重奏",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c0/e9/262865_P6q49.jpg",
+      "coverUrl": "covers/262865.jpg",
       "name": "异世界四重奏",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/e9/262865_P6q49.jpg",
+      "cover": "covers/262865.jpg",
       "ratingCount": 3837
     },
     {
@@ -6974,9 +6974,9 @@ const animeData = {
       "bangumiId": 268412,
       "year": 2019,
       "title": "淫乱的青酱不能学习",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7d/87/268412_P63Pf.jpg",
+      "coverUrl": "covers/268412.jpg",
       "name": "淫乱的青酱不能学习",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7d/87/268412_P63Pf.jpg",
+      "cover": "covers/268412.jpg",
       "ratingCount": 3780
     },
     {
@@ -6984,9 +6984,9 @@ const animeData = {
       "bangumiId": 239646,
       "year": 2019,
       "title": "皿三昧",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ca/e6/239646_x7BYi.jpg",
+      "coverUrl": "covers/239646.jpg",
       "name": "皿三昧",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ca/e6/239646_x7BYi.jpg",
+      "cover": "covers/239646.jpg",
       "ratingCount": 3486
     },
     {
@@ -6994,9 +6994,9 @@ const animeData = {
       "bangumiId": 145354,
       "year": 2019,
       "title": "玛纳利亚的密友",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b1/66/145354_v6n1Q.jpg",
+      "coverUrl": "covers/145354.jpg",
       "name": "玛纳利亚的密友",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/66/145354_v6n1Q.jpg",
+      "cover": "covers/145354.jpg",
       "ratingCount": 3485
     },
     {
@@ -7004,9 +7004,9 @@ const animeData = {
       "bangumiId": 237423,
       "year": 2019,
       "title": "烟草",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b2/01/237423_S1Sxz.jpg",
+      "coverUrl": "covers/237423.jpg",
       "name": "烟草",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/01/237423_S1Sxz.jpg",
+      "cover": "covers/237423.jpg",
       "ratingCount": 3421
     },
     {
@@ -7014,9 +7014,9 @@ const animeData = {
       "bangumiId": 273877,
       "year": 2019,
       "title": "彼方的阿斯特拉",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2e/1e/273877_VS2qn.jpg",
+      "coverUrl": "covers/273877.jpg",
       "name": "彼方的阿斯特拉",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2e/1e/273877_VS2qn.jpg",
+      "cover": "covers/273877.jpg",
       "ratingCount": 3419
     },
     {
@@ -7024,9 +7024,9 @@ const animeData = {
       "bangumiId": 262111,
       "year": 2019,
       "title": "为什么老师会在这里！？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ef/65/262111_Qczq5.jpg",
+      "coverUrl": "covers/262111.jpg",
       "name": "为什么老师会在这里！？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/65/262111_Qczq5.jpg",
+      "cover": "covers/262111.jpg",
       "ratingCount": 3175
     }
   ],
@@ -7036,9 +7036,9 @@ const animeData = {
       "bangumiId": 293049,
       "year": 2020,
       "title": "辉夜大小姐想让我告白?～天才们的恋爱头脑战～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/36/16/293049_0e0re.jpg",
+      "coverUrl": "covers/293049.jpg",
       "name": "辉夜大小姐想让我告白?～天才们的恋爱头脑战～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/16/293049_0e0re.jpg",
+      "cover": "covers/293049.jpg",
       "ratingCount": 24905
     },
     {
@@ -7046,9 +7046,9 @@ const animeData = {
       "bangumiId": 294993,
       "year": 2020,
       "title": "咒术回战",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/60/fe/294993_JrrzK.jpg",
+      "coverUrl": "covers/294993.jpg",
       "name": "咒术回战",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/60/fe/294993_JrrzK.jpg",
+      "cover": "covers/294993.jpg",
       "ratingCount": 17382
     },
     {
@@ -7056,9 +7056,9 @@ const animeData = {
       "bangumiId": 292970,
       "year": 2020,
       "title": "魔女之旅",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/99/17/292970_mxMxx.jpg",
+      "coverUrl": "covers/292970.jpg",
       "name": "魔女之旅",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/17/292970_mxMxx.jpg",
+      "cover": "covers/292970.jpg",
       "ratingCount": 17234
     },
     {
@@ -7066,9 +7066,9 @@ const animeData = {
       "bangumiId": 278826,
       "year": 2020,
       "title": "Re：从零开始的异世界生活 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/16/79/278826_w85gd.jpg",
+      "coverUrl": "covers/278826.jpg",
       "name": "Re：从零开始的异世界生活 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/16/79/278826_w85gd.jpg",
+      "cover": "covers/278826.jpg",
       "ratingCount": 16142
     },
     {
@@ -7076,9 +7076,9 @@ const animeData = {
       "bangumiId": 285776,
       "year": 2020,
       "title": "异度侵入",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/73/90/285776_57c5p.jpg",
+      "coverUrl": "covers/285776.jpg",
       "name": "异度侵入",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/90/285776_57c5p.jpg",
+      "cover": "covers/285776.jpg",
       "ratingCount": 15870
     },
     {
@@ -7086,9 +7086,9 @@ const animeData = {
       "bangumiId": 285666,
       "year": 2020,
       "title": "进击的巨人 最终季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/88/6b/285666_bS9Sw.jpg",
+      "coverUrl": "covers/285666.jpg",
       "name": "进击的巨人 最终季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/88/6b/285666_bS9Sw.jpg",
+      "cover": "covers/285666.jpg",
       "ratingCount": 15513
     },
     {
@@ -7096,9 +7096,9 @@ const animeData = {
       "bangumiId": 285482,
       "year": 2020,
       "title": "异种族风俗娘评鉴指南",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dc/8a/285482_c5RRj.jpg",
+      "coverUrl": "covers/285482.jpg",
       "name": "异种族风俗娘评鉴指南",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dc/8a/285482_c5RRj.jpg",
+      "cover": "covers/285482.jpg",
       "ratingCount": 14361
     },
     {
@@ -7106,9 +7106,9 @@ const animeData = {
       "bangumiId": 262940,
       "year": 2020,
       "title": "某科学的超电磁炮T",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/aa/db/262940_z2mQQ.jpg",
+      "coverUrl": "covers/262940.jpg",
       "name": "某科学的超电磁炮T",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/aa/db/262940_z2mQQ.jpg",
+      "cover": "covers/262940.jpg",
       "ratingCount": 12912
     },
     {
@@ -7116,9 +7116,9 @@ const animeData = {
       "bangumiId": 277954,
       "year": 2020,
       "title": "我的青春恋爱物语果然有问题 完",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ba/69/277954_s8qHA.jpg",
+      "coverUrl": "covers/277954.jpg",
       "name": "我的青春恋爱物语果然有问题 完",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/69/277954_s8qHA.jpg",
+      "cover": "covers/277954.jpg",
       "ratingCount": 12382
     },
     {
@@ -7126,9 +7126,9 @@ const animeData = {
       "bangumiId": 301541,
       "year": 2020,
       "title": "总之就是非常可爱",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/66/50/301541_p2z4K.jpg",
+      "coverUrl": "covers/301541.jpg",
       "name": "总之就是非常可爱",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/50/301541_p2z4K.jpg",
+      "cover": "covers/301541.jpg",
       "ratingCount": 11204
     },
     {
@@ -7136,9 +7136,9 @@ const animeData = {
       "bangumiId": 271687,
       "year": 2020,
       "title": "虚构推理",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6c/3b/271687_1326P.jpg",
+      "coverUrl": "covers/271687.jpg",
       "name": "虚构推理",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/3b/271687_1326P.jpg",
+      "cover": "covers/271687.jpg",
       "ratingCount": 10756
     },
     {
@@ -7146,9 +7146,9 @@ const animeData = {
       "bangumiId": 268545,
       "year": 2020,
       "title": "因为太怕痛就全点防御力了。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c7/35/268545_yPJHc.jpg",
+      "coverUrl": "covers/268545.jpg",
       "name": "因为太怕痛就全点防御力了。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/35/268545_yPJHc.jpg",
+      "cover": "covers/268545.jpg",
       "ratingCount": 9737
     },
     {
@@ -7156,9 +7156,9 @@ const animeData = {
       "bangumiId": 282433,
       "year": 2020,
       "title": "别对映像研出手！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5f/18/282433_9wDx9.jpg",
+      "coverUrl": "covers/282433.jpg",
       "name": "别对映像研出手！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5f/18/282433_9wDx9.jpg",
+      "cover": "covers/282433.jpg",
       "ratingCount": 9021
     },
     {
@@ -7166,9 +7166,9 @@ const animeData = {
       "bangumiId": 264089,
       "year": 2020,
       "title": "转生成为了只有乙女游戏破灭Flag的邪恶大小姐",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/12/db/264089_1EkJP.jpg",
+      "coverUrl": "covers/264089.jpg",
       "name": "转生成为了只有乙女游戏破灭Flag的邪恶大小姐",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/12/db/264089_1EkJP.jpg",
+      "cover": "covers/264089.jpg",
       "ratingCount": 7877
     },
     {
@@ -7176,9 +7176,9 @@ const animeData = {
       "bangumiId": 296195,
       "year": 2020,
       "title": "Re：从零开始的异世界生活 新编集版",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/72/ef/296195_n0KqL.jpg",
+      "coverUrl": "covers/296195.jpg",
       "name": "Re：从零开始的异世界生活 新编集版",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/72/ef/296195_n0KqL.jpg",
+      "cover": "covers/296195.jpg",
       "ratingCount": 7780
     },
     {
@@ -7186,9 +7186,9 @@ const animeData = {
       "bangumiId": 292238,
       "year": 2020,
       "title": "刀剑神域 爱丽丝篇 异界战争 -终章-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/21/a1/292238_u43yn.jpg",
+      "coverUrl": "covers/292238.jpg",
       "name": "刀剑神域 爱丽丝篇 异界战争 -终章-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/21/a1/292238_u43yn.jpg",
+      "cover": "covers/292238.jpg",
       "ratingCount": 7499
     },
     {
@@ -7196,9 +7196,9 @@ const animeData = {
       "bangumiId": 306429,
       "year": 2020,
       "title": "成神之日",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/10/d5/306429_2Me50.jpg",
+      "coverUrl": "covers/306429.jpg",
       "name": "成神之日",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/10/d5/306429_2Me50.jpg",
+      "cover": "covers/306429.jpg",
       "ratingCount": 7402
     },
     {
@@ -7206,9 +7206,9 @@ const animeData = {
       "bangumiId": 282372,
       "year": 2020,
       "title": "安达与岛村",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0f/a4/282372_pqp0S.jpg",
+      "coverUrl": "covers/282372.jpg",
       "name": "安达与岛村",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/a4/282372_pqp0S.jpg",
+      "cover": "covers/282372.jpg",
       "ratingCount": 7298
     },
     {
@@ -7216,9 +7216,9 @@ const animeData = {
       "bangumiId": 294713,
       "year": 2020,
       "title": "隐瞒之事",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8b/91/294713_MwaxY.jpg",
+      "coverUrl": "covers/294713.jpg",
       "name": "隐瞒之事",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8b/91/294713_MwaxY.jpg",
+      "cover": "covers/294713.jpg",
       "ratingCount": 7179
     },
     {
@@ -7226,9 +7226,9 @@ const animeData = {
       "bangumiId": 296076,
       "year": 2020,
       "title": "租借女友",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7a/37/296076_6cP6Q.jpg",
+      "coverUrl": "covers/296076.jpg",
       "name": "租借女友",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7a/37/296076_6cP6Q.jpg",
+      "cover": "covers/296076.jpg",
       "ratingCount": 6911
     },
     {
@@ -7236,9 +7236,9 @@ const animeData = {
       "bangumiId": 302418,
       "year": 2020,
       "title": "无能的奈奈",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/02/7e/302418_0sZ4N.jpg",
+      "coverUrl": "covers/302418.jpg",
       "name": "无能的奈奈",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/02/7e/302418_0sZ4N.jpg",
+      "cover": "covers/302418.jpg",
       "ratingCount": 6818
     },
     {
@@ -7246,9 +7246,9 @@ const animeData = {
       "bangumiId": 292222,
       "year": 2020,
       "title": "魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3b/ad/292222_Jgflx.jpg",
+      "coverUrl": "covers/292222.jpg",
       "name": "魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3b/ad/292222_Jgflx.jpg",
+      "cover": "covers/292222.jpg",
       "ratingCount": 6795
     },
     {
@@ -7256,9 +7256,9 @@ const animeData = {
       "bangumiId": 290426,
       "year": 2020,
       "title": "在魔王城说晚安",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b1/c3/290426_165P5.jpg",
+      "coverUrl": "covers/290426.jpg",
       "name": "在魔王城说晚安",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/c3/290426_165P5.jpg",
+      "cover": "covers/290426.jpg",
       "ratingCount": 6639
     },
     {
@@ -7266,9 +7266,9 @@ const animeData = {
       "bangumiId": 274646,
       "year": 2020,
       "title": "公主连结 Re:Dive",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b0/09/274646_yTEYw.jpg",
+      "coverUrl": "covers/274646.jpg",
       "name": "公主连结 Re:Dive",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b0/09/274646_yTEYw.jpg",
+      "cover": "covers/274646.jpg",
       "ratingCount": 6434
     },
     {
@@ -7276,9 +7276,9 @@ const animeData = {
       "bangumiId": 296659,
       "year": 2020,
       "title": "Love Live! 虹咲学园校园偶像同好会",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a7/35/296659_o709D.jpg",
+      "coverUrl": "covers/296659.jpg",
       "name": "Love Live! 虹咲学园校园偶像同好会",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a7/35/296659_o709D.jpg",
+      "cover": "covers/296659.jpg",
       "ratingCount": 6052
     },
     {
@@ -7286,9 +7286,9 @@ const animeData = {
       "bangumiId": 271145,
       "year": 2020,
       "title": "理科生坠入情网，故尝试证明。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/35/bb/271145_e4LNZ.jpg",
+      "coverUrl": "covers/271145.jpg",
       "name": "理科生坠入情网，故尝试证明。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/35/bb/271145_e4LNZ.jpg",
+      "cover": "covers/271145.jpg",
       "ratingCount": 5712
     },
     {
@@ -7296,9 +7296,9 @@ const animeData = {
       "bangumiId": 272188,
       "year": 2020,
       "title": "邪神与厨二病少女’",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cb/30/272188_DPj3G.jpg",
+      "coverUrl": "covers/272188.jpg",
       "name": "邪神与厨二病少女’",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cb/30/272188_DPj3G.jpg",
+      "cover": "covers/272188.jpg",
       "ratingCount": 5627
     },
     {
@@ -7306,9 +7306,9 @@ const animeData = {
       "bangumiId": 280516,
       "year": 2020,
       "title": "昨日之歌",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/13/da/280516_TvEE7.jpg",
+      "coverUrl": "covers/280516.jpg",
       "name": "昨日之歌",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/da/280516_TvEE7.jpg",
+      "cover": "covers/280516.jpg",
       "ratingCount": 5515
     },
     {
@@ -7316,9 +7316,9 @@ const animeData = {
       "bangumiId": 302076,
       "year": 2020,
       "title": "全员恶玉",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/87/96/302076_18361.jpg",
+      "coverUrl": "covers/302076.jpg",
       "name": "全员恶玉",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/96/302076_18361.jpg",
+      "cover": "covers/302076.jpg",
       "ratingCount": 5241
     },
     {
@@ -7326,9 +7326,9 @@ const animeData = {
       "bangumiId": 260770,
       "year": 2020,
       "title": "请问您今天要来点兔子吗？BLOOM",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0a/16/260770_x4N8v.jpg",
+      "coverUrl": "covers/260770.jpg",
       "name": "请问您今天要来点兔子吗？BLOOM",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0a/16/260770_x4N8v.jpg",
+      "cover": "covers/260770.jpg",
       "ratingCount": 5238
     },
     {
@@ -7336,9 +7336,9 @@ const animeData = {
       "bangumiId": 276150,
       "year": 2020,
       "title": "恋爱小行星",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/eb/9f/276150_tJJGx.jpg",
+      "coverUrl": "covers/276150.jpg",
       "name": "恋爱小行星",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/9f/276150_tJJGx.jpg",
+      "cover": "covers/276150.jpg",
       "ratingCount": 5103
     },
     {
@@ -7346,9 +7346,9 @@ const animeData = {
       "bangumiId": 291412,
       "year": 2020,
       "title": "在地下城寻求邂逅是否搞错了什么 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b6/d5/291412_zE2C2.jpg",
+      "coverUrl": "covers/291412.jpg",
       "name": "在地下城寻求邂逅是否搞错了什么 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b6/d5/291412_zE2C2.jpg",
+      "cover": "covers/291412.jpg",
       "ratingCount": 4863
     },
     {
@@ -7356,9 +7356,9 @@ const animeData = {
       "bangumiId": 266301,
       "year": 2020,
       "title": "异兽魔都",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8c/2b/266301_1A1qq.jpg",
+      "coverUrl": "covers/266301.jpg",
       "name": "异兽魔都",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8c/2b/266301_1A1qq.jpg",
+      "cover": "covers/266301.jpg",
       "ratingCount": 4680
     },
     {
@@ -7366,9 +7366,9 @@ const animeData = {
       "bangumiId": 277551,
       "year": 2020,
       "title": "地缚少年花子君",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/10/34/277551_nlGL0.jpg",
+      "coverUrl": "covers/277551.jpg",
       "name": "地缚少年花子君",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/10/34/277551_nlGL0.jpg",
+      "cover": "covers/277551.jpg",
       "ratingCount": 4605
     },
     {
@@ -7376,9 +7376,9 @@ const animeData = {
       "bangumiId": 285879,
       "year": 2020,
       "title": "没落要塞",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ff/65/285879_l1lG6.jpg",
+      "coverUrl": "covers/285879.jpg",
       "name": "没落要塞",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ff/65/285879_l1lG6.jpg",
+      "cover": "covers/285879.jpg",
       "ratingCount": 4585
     },
     {
@@ -7386,9 +7386,9 @@ const animeData = {
       "bangumiId": 159690,
       "year": 2020,
       "title": "魔法纪录 魔法少女小圆外传",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/35/5b/159690_2mim1.jpg",
+      "coverUrl": "covers/159690.jpg",
       "name": "魔法纪录 魔法少女小圆外传",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/35/5b/159690_2mim1.jpg",
+      "cover": "covers/159690.jpg",
       "ratingCount": 4523
     },
     {
@@ -7396,9 +7396,9 @@ const animeData = {
       "bangumiId": 285813,
       "year": 2020,
       "title": "大欺诈师",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/96/1a/285813_mpzM4.jpg",
+      "coverUrl": "covers/285813.jpg",
       "name": "大欺诈师",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/1a/285813_mpzM4.jpg",
+      "cover": "covers/285813.jpg",
       "ratingCount": 4350
     },
     {
@@ -7406,9 +7406,9 @@ const animeData = {
       "bangumiId": 299498,
       "year": 2020,
       "title": "宇崎学妹想要玩！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5a/42/299498_PNyTT.jpg",
+      "coverUrl": "covers/299498.jpg",
       "name": "宇崎学妹想要玩！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5a/42/299498_PNyTT.jpg",
+      "cover": "covers/299498.jpg",
       "ratingCount": 4344
     },
     {
@@ -7416,9 +7416,9 @@ const animeData = {
       "bangumiId": 301233,
       "year": 2020,
       "title": "One Room 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/40/5b/301233_mq8zr.jpg",
+      "coverUrl": "covers/301233.jpg",
       "name": "One Room 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/40/5b/301233_mq8zr.jpg",
+      "cover": "covers/301233.jpg",
       "ratingCount": 4330
     },
     {
@@ -7426,9 +7426,9 @@ const animeData = {
       "bangumiId": 285905,
       "year": 2020,
       "title": "动物新世代",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/24/5a/285905_3tF33.jpg",
+      "coverUrl": "covers/285905.jpg",
       "name": "动物新世代",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/24/5a/285905_3tF33.jpg",
+      "cover": "covers/285905.jpg",
       "ratingCount": 4329
     },
     {
@@ -7436,9 +7436,9 @@ const animeData = {
       "bangumiId": 246430,
       "year": 2020,
       "title": "BanG Dream! 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/42/9f/246430_BpvBB.jpg",
+      "coverUrl": "covers/246430.jpg",
       "name": "BanG Dream! 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/42/9f/246430_BpvBB.jpg",
+      "cover": "covers/246430.jpg",
       "ratingCount": 3700
     },
     {
@@ -7446,9 +7446,9 @@ const animeData = {
       "bangumiId": 266070,
       "year": 2020,
       "title": "房间露营△",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/17/64/266070_ptQWq.jpg",
+      "coverUrl": "covers/266070.jpg",
       "name": "房间露营△",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/64/266070_ptQWq.jpg",
+      "cover": "covers/266070.jpg",
       "ratingCount": 3629
     },
     {
@@ -7456,9 +7456,9 @@ const animeData = {
       "bangumiId": 276705,
       "year": 2020,
       "title": "格莱普尼尔",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/aa/57/276705_i8qRn.jpg",
+      "coverUrl": "covers/276705.jpg",
       "name": "格莱普尼尔",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/aa/57/276705_i8qRn.jpg",
+      "cover": "covers/276705.jpg",
       "ratingCount": 3590
     },
     {
@@ -7466,9 +7466,9 @@ const animeData = {
       "bangumiId": 285901,
       "year": 2020,
       "title": "黄金神威 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/72/f9/285901_94tQr.jpg",
+      "coverUrl": "covers/285901.jpg",
       "name": "黄金神威 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/72/f9/285901_94tQr.jpg",
+      "cover": "covers/285901.jpg",
       "ratingCount": 3586
     },
     {
@@ -7476,9 +7476,9 @@ const animeData = {
       "bangumiId": 292359,
       "year": 2020,
       "title": "听着这电波",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/43/e0/292359_6WO66.jpg",
+      "coverUrl": "covers/292359.jpg",
       "name": "听着这电波",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/43/e0/292359_6WO66.jpg",
+      "cover": "covers/292359.jpg",
       "ratingCount": 3532
     },
     {
@@ -7486,9 +7486,9 @@ const animeData = {
       "bangumiId": 269918,
       "year": 2020,
       "title": "排球少年 TO THE TOP",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/32/2c/269918_A60Ia.jpg",
+      "coverUrl": "covers/269918.jpg",
       "name": "排球少年 TO THE TOP",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/2c/269918_A60Ia.jpg",
+      "cover": "covers/269918.jpg",
       "ratingCount": 3518
     },
     {
@@ -7496,9 +7496,9 @@ const animeData = {
       "bangumiId": 297969,
       "year": 2020,
       "title": "寒蝉鸣泣之时 业",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1e/83/297969_Cn5jJ.jpg",
+      "coverUrl": "covers/297969.jpg",
       "name": "寒蝉鸣泣之时 业",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/83/297969_Cn5jJ.jpg",
+      "cover": "covers/297969.jpg",
       "ratingCount": 3487
     },
     {
@@ -7506,9 +7506,9 @@ const animeData = {
       "bangumiId": 301469,
       "year": 2020,
       "title": "我立于百万生命之上",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/08/01/301469_cPTHi.jpg",
+      "coverUrl": "covers/301469.jpg",
       "name": "我立于百万生命之上",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/08/01/301469_cPTHi.jpg",
+      "cover": "covers/301469.jpg",
       "ratingCount": 3463
     },
     {
@@ -7516,9 +7516,9 @@ const animeData = {
       "bangumiId": 266147,
       "year": 2020,
       "title": "达尔文游戏",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/18/a4/266147_kQR5x.jpg",
+      "coverUrl": "covers/266147.jpg",
       "name": "达尔文游戏",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/18/a4/266147_kQR5x.jpg",
+      "cover": "covers/266147.jpg",
       "ratingCount": 3372
     },
     {
@@ -7526,9 +7526,9 @@ const animeData = {
       "bangumiId": 292273,
       "year": 2020,
       "title": "你与我最后的战场，亦或是世界起始的圣战",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/20/f7/292273_Nxf0x.jpg",
+      "coverUrl": "covers/292273.jpg",
       "name": "你与我最后的战场，亦或是世界起始的圣战",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/20/f7/292273_Nxf0x.jpg",
+      "cover": "covers/292273.jpg",
       "ratingCount": 3354
     }
   ],
@@ -7538,9 +7538,9 @@ const animeData = {
       "bangumiId": 277554,
       "year": 2021,
       "title": "无职转生～到了异世界就拿出真本事～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
+      "coverUrl": "covers/277554.jpg",
       "name": "无职转生～到了异世界就拿出真本事～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
+      "cover": "covers/277554.jpg",
       "ratingCount": 26765
     },
     {
@@ -7548,9 +7548,9 @@ const animeData = {
       "bangumiId": 325585,
       "year": 2021,
       "title": "无职转生～到了异世界就拿出真本事～ 第2部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/60/4d/325585_tfU01.jpg",
+      "coverUrl": "covers/325585.jpg",
       "name": "无职转生～到了异世界就拿出真本事～ 第2部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/60/4d/325585_tfU01.jpg",
+      "cover": "covers/325585.jpg",
       "ratingCount": 25069
     },
     {
@@ -7558,9 +7558,9 @@ const animeData = {
       "bangumiId": 325285,
       "year": 2021,
       "title": "奇巧计程车",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/65/90/325285_4688X.jpg",
+      "coverUrl": "covers/325285.jpg",
       "name": "奇巧计程车",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/90/325285_4688X.jpg",
+      "cover": "covers/325285.jpg",
       "ratingCount": 21925
     },
     {
@@ -7568,9 +7568,9 @@ const animeData = {
       "bangumiId": 315574,
       "year": 2021,
       "title": "赛马娘 Pretty Derby 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1c/6b/315574_tLgrT.jpg",
+      "coverUrl": "covers/315574.jpg",
       "name": "赛马娘 Pretty Derby 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1c/6b/315574_tLgrT.jpg",
+      "cover": "covers/315574.jpg",
       "ratingCount": 17873
     },
     {
@@ -7578,9 +7578,9 @@ const animeData = {
       "bangumiId": 302189,
       "year": 2021,
       "title": "86 -不存在的战区-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a4/b3/302189_1034v.jpg",
+      "coverUrl": "covers/302189.jpg",
       "name": "86 -不存在的战区-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a4/b3/302189_1034v.jpg",
+      "cover": "covers/302189.jpg",
       "ratingCount": 16881
     },
     {
@@ -7588,9 +7588,9 @@ const animeData = {
       "bangumiId": 331887,
       "year": 2021,
       "title": "86 -不存在的战区- 第2部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/85/0e/331887_rZdb9.jpg",
+      "coverUrl": "covers/331887.jpg",
       "name": "86 -不存在的战区- 第2部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/85/0e/331887_rZdb9.jpg",
+      "cover": "covers/331887.jpg",
       "ratingCount": 15647
     },
     {
@@ -7598,9 +7598,9 @@ const animeData = {
       "bangumiId": 274234,
       "year": 2021,
       "title": "小林家的龙女仆S",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/17/ed/274234_iZ22k.jpg",
+      "coverUrl": "covers/274234.jpg",
       "name": "小林家的龙女仆S",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/ed/274234_iZ22k.jpg",
+      "cover": "covers/274234.jpg",
       "ratingCount": 14323
     },
     {
@@ -7608,9 +7608,9 @@ const animeData = {
       "bangumiId": 316247,
       "year": 2021,
       "title": "Re：从零开始的异世界生活 第二季 后半部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/aa/64/316247_Yd3F5.jpg",
+      "coverUrl": "covers/316247.jpg",
       "name": "Re：从零开始的异世界生活 第二季 后半部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/aa/64/316247_Yd3F5.jpg",
+      "cover": "covers/316247.jpg",
       "ratingCount": 13889
     },
     {
@@ -7618,9 +7618,9 @@ const animeData = {
       "bangumiId": 315069,
       "year": 2021,
       "title": "堀与宫村",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/23/a2/315069_2zYW6.jpg",
+      "coverUrl": "covers/315069.jpg",
       "name": "堀与宫村",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/23/a2/315069_2zYW6.jpg",
+      "cover": "covers/315069.jpg",
       "ratingCount": 13737
     },
     {
@@ -7628,9 +7628,9 @@ const animeData = {
       "bangumiId": 295017,
       "year": 2021,
       "title": "回复术士的重来人生",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c7/3f/295017_90As6.jpg",
+      "coverUrl": "covers/295017.jpg",
       "name": "回复术士的重来人生",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/3f/295017_90As6.jpg",
+      "cover": "covers/295017.jpg",
       "ratingCount": 12996
     },
     {
@@ -7638,9 +7638,9 @@ const animeData = {
       "bangumiId": 296367,
       "year": 2021,
       "title": "SSSS.电光机王",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a1/11/296367_yPic1.jpg",
+      "coverUrl": "covers/296367.jpg",
       "name": "SSSS.电光机王",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a1/11/296367_yPic1.jpg",
+      "cover": "covers/296367.jpg",
       "ratingCount": 12660
     },
     {
@@ -7648,9 +7648,9 @@ const animeData = {
       "bangumiId": 328195,
       "year": 2021,
       "title": "鬼灭之刃 游郭篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7a/26/328195_kGv1r.jpg",
+      "coverUrl": "covers/328195.jpg",
       "name": "鬼灭之刃 游郭篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7a/26/328195_kGv1r.jpg",
+      "cover": "covers/328195.jpg",
       "ratingCount": 12560
     },
     {
@@ -7658,9 +7658,9 @@ const animeData = {
       "bangumiId": 262897,
       "year": 2021,
       "title": "摇曳露营△ 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0f/50/262897_d3555.jpg",
+      "coverUrl": "covers/262897.jpg",
       "name": "摇曳露营△ 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/50/262897_d3555.jpg",
+      "cover": "covers/262897.jpg",
       "ratingCount": 12527
     },
     {
@@ -7668,9 +7668,9 @@ const animeData = {
       "bangumiId": 316607,
       "year": 2021,
       "title": "奇蛋物语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dd/60/316607_2mvjv.jpg",
+      "coverUrl": "covers/316607.jpg",
       "name": "奇蛋物语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/60/316607_2mvjv.jpg",
+      "cover": "covers/316607.jpg",
       "ratingCount": 10995
     },
     {
@@ -7678,9 +7678,9 @@ const animeData = {
       "bangumiId": 350764,
       "year": 2021,
       "title": "鬼灭之刃 无限列车篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/65/8e/350764_Aibau.jpg",
+      "coverUrl": "covers/350764.jpg",
       "name": "鬼灭之刃 无限列车篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/8e/350764_Aibau.jpg",
+      "cover": "covers/350764.jpg",
       "ratingCount": 10423
     },
     {
@@ -7688,9 +7688,9 @@ const animeData = {
       "bangumiId": 332649,
       "year": 2021,
       "title": "漂流少年",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/30/fb/332649_32TAQ.jpg",
+      "coverUrl": "covers/332649.jpg",
       "name": "漂流少年",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/30/fb/332649_32TAQ.jpg",
+      "cover": "covers/332649.jpg",
       "ratingCount": 10305
     },
     {
@@ -7698,9 +7698,9 @@ const animeData = {
       "bangumiId": 287488,
       "year": 2021,
       "title": "佐贺偶像是传奇 复仇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/02/c7/287488_1FJYC.jpg",
+      "coverUrl": "covers/287488.jpg",
       "name": "佐贺偶像是传奇 复仇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/02/c7/287488_1FJYC.jpg",
+      "cover": "covers/287488.jpg",
       "ratingCount": 9500
     },
     {
@@ -7708,9 +7708,9 @@ const animeData = {
       "bangumiId": 325286,
       "year": 2021,
       "title": "薇薇 -萤石眼之歌-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a0/50/325286_9WQNW.jpg",
+      "coverUrl": "covers/325286.jpg",
       "name": "薇薇 -萤石眼之歌-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a0/50/325286_9WQNW.jpg",
+      "cover": "covers/325286.jpg",
       "ratingCount": 8653
     },
     {
@@ -7718,9 +7718,9 @@ const animeData = {
       "bangumiId": 328313,
       "year": 2021,
       "title": "世界顶尖的暗杀者转生为异世界贵族",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/49/32/328313_oQlyW.jpg",
+      "coverUrl": "covers/328313.jpg",
       "name": "世界顶尖的暗杀者转生为异世界贵族",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/49/32/328313_oQlyW.jpg",
+      "cover": "covers/328313.jpg",
       "ratingCount": 8524
     },
     {
@@ -7728,9 +7728,9 @@ const animeData = {
       "bangumiId": 278031,
       "year": 2021,
       "title": "关于我转生变成史莱姆这档事 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e6/78/278031_skvSD.jpg",
+      "coverUrl": "covers/278031.jpg",
       "name": "关于我转生变成史莱姆这档事 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e6/78/278031_skvSD.jpg",
+      "cover": "covers/278031.jpg",
       "ratingCount": 8209
     },
     {
@@ -7738,9 +7738,9 @@ const animeData = {
       "bangumiId": 309668,
       "year": 2021,
       "title": "异世界迷宫黑心企业",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cd/25/309668_i1qWh.jpg",
+      "coverUrl": "covers/309668.jpg",
       "name": "异世界迷宫黑心企业",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/25/309668_i1qWh.jpg",
+      "cover": "covers/309668.jpg",
       "ratingCount": 7155
     },
     {
@@ -7748,9 +7748,9 @@ const animeData = {
       "bangumiId": 296109,
       "year": 2021,
       "title": "国王排名",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9a/c1/296109_8GeaM.jpg",
+      "coverUrl": "covers/296109.jpg",
       "name": "国王排名",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9a/c1/296109_8GeaM.jpg",
+      "cover": "covers/296109.jpg",
       "ratingCount": 7090
     },
     {
@@ -7758,9 +7758,9 @@ const animeData = {
       "bangumiId": 282000,
       "year": 2021,
       "title": "五等分的新娘∬",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6c/00/282000_6HHwK.jpg",
+      "coverUrl": "covers/282000.jpg",
       "name": "五等分的新娘∬",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/00/282000_6HHwK.jpg",
+      "cover": "covers/282000.jpg",
       "ratingCount": 6902
     },
     {
@@ -7768,9 +7768,9 @@ const animeData = {
       "bangumiId": 302523,
       "year": 2021,
       "title": "关于我转生变成史莱姆这档事 第二季 第2部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c5/e7/302523_1wCsw.jpg",
+      "coverUrl": "covers/302523.jpg",
       "name": "关于我转生变成史莱姆这档事 第二季 第2部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/e7/302523_1wCsw.jpg",
+      "cover": "covers/302523.jpg",
       "ratingCount": 6810
     },
     {
@@ -7778,9 +7778,9 @@ const animeData = {
       "bangumiId": 252782,
       "year": 2021,
       "title": "转生成蜘蛛又怎样！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/83/73/252782_aWyEn.jpg",
+      "coverUrl": "covers/252782.jpg",
       "name": "转生成蜘蛛又怎样！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/83/73/252782_aWyEn.jpg",
+      "cover": "covers/252782.jpg",
       "ratingCount": 6685
     },
     {
@@ -7788,9 +7788,9 @@ const animeData = {
       "bangumiId": 335225,
       "year": 2021,
       "title": "古见同学有交流障碍症",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e4/44/335225_UmKwl.jpg",
+      "coverUrl": "covers/335225.jpg",
       "name": "古见同学有交流障碍症",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e4/44/335225_UmKwl.jpg",
+      "cover": "covers/335225.jpg",
       "ratingCount": 6661
     },
     {
@@ -7798,9 +7798,9 @@ const animeData = {
       "bangumiId": 282684,
       "year": 2021,
       "title": "悠哉日常大王 Nonstop",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ac/b7/282684_5lN9Z.jpg",
+      "coverUrl": "covers/282684.jpg",
       "name": "悠哉日常大王 Nonstop",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ac/b7/282684_5lN9Z.jpg",
+      "cover": "covers/282684.jpg",
       "ratingCount": 6412
     },
     {
@@ -7808,9 +7808,9 @@ const animeData = {
       "bangumiId": 304065,
       "year": 2021,
       "title": "工作细胞BLACK",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bf/76/304065_NMdGk.jpg",
+      "coverUrl": "covers/304065.jpg",
       "name": "工作细胞BLACK",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/76/304065_NMdGk.jpg",
+      "cover": "covers/304065.jpg",
       "ratingCount": 6327
     },
     {
@@ -7818,9 +7818,9 @@ const animeData = {
       "bangumiId": 278815,
       "year": 2021,
       "title": "工作细胞！！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ae/11/278815_veMhu.jpg",
+      "coverUrl": "covers/278815.jpg",
       "name": "工作细胞！！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ae/11/278815_veMhu.jpg",
+      "cover": "covers/278815.jpg",
       "ratingCount": 6296
     },
     {
@@ -7828,9 +7828,9 @@ const animeData = {
       "bangumiId": 292969,
       "year": 2021,
       "title": "打了300年的史莱姆，不知不觉就练到了满级",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/01/e4/292969_RLbg9.jpg",
+      "coverUrl": "covers/292969.jpg",
       "name": "打了300年的史莱姆，不知不觉就练到了满级",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/e4/292969_RLbg9.jpg",
+      "cover": "covers/292969.jpg",
       "ratingCount": 6229
     },
     {
@@ -7838,9 +7838,9 @@ const animeData = {
       "bangumiId": 306742,
       "year": 2021,
       "title": "Love Live! Superstar!!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bf/92/306742_MvLk2.jpg",
+      "coverUrl": "covers/306742.jpg",
       "name": "Love Live! Superstar!!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/92/306742_MvLk2.jpg",
+      "cover": "covers/306742.jpg",
       "ratingCount": 6218
     },
     {
@@ -7848,9 +7848,9 @@ const animeData = {
       "bangumiId": 312723,
       "year": 2021,
       "title": "平稳世代的韦驮天们",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/15/af/312723_5SGC6.jpg",
+      "coverUrl": "covers/312723.jpg",
       "name": "平稳世代的韦驮天们",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/af/312723_5SGC6.jpg",
+      "cover": "covers/312723.jpg",
       "ratingCount": 6171
     },
     {
@@ -7858,9 +7858,9 @@ const animeData = {
       "bangumiId": 296870,
       "year": 2021,
       "title": "我们的重制人生",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1d/ea/296870_gtFm2.jpg",
+      "coverUrl": "covers/296870.jpg",
       "name": "我们的重制人生",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/ea/296870_gtFm2.jpg",
+      "cover": "covers/296870.jpg",
       "ratingCount": 6092
     },
     {
@@ -7868,9 +7868,9 @@ const animeData = {
       "bangumiId": 296261,
       "year": 2021,
       "title": "石纪元 石之战争",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/50/b5/296261_5xbbe.jpg",
+      "coverUrl": "covers/296261.jpg",
       "name": "石纪元 石之战争",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/b5/296261_5xbbe.jpg",
+      "cover": "covers/296261.jpg",
       "ratingCount": 5857
     },
     {
@@ -7878,9 +7878,9 @@ const animeData = {
       "bangumiId": 297954,
       "year": 2021,
       "title": "致不灭的你",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5c/9c/297954_NyA7J.jpg",
+      "coverUrl": "covers/297954.jpg",
       "name": "致不灭的你",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5c/9c/297954_NyA7J.jpg",
+      "cover": "covers/297954.jpg",
       "ratingCount": 5722
     },
     {
@@ -7888,9 +7888,9 @@ const animeData = {
       "bangumiId": 297254,
       "year": 2021,
       "title": "剃须。然后捡到女高中生。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e9/78/297254_kdK52.jpg",
+      "coverUrl": "covers/297254.jpg",
       "name": "剃须。然后捡到女高中生。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e9/78/297254_kdK52.jpg",
+      "cover": "covers/297254.jpg",
       "ratingCount": 5659
     },
     {
@@ -7898,9 +7898,9 @@ const animeData = {
       "bangumiId": 294836,
       "year": 2021,
       "title": "NOMAD MEGALO BOX 2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/28/0b/294836_U1HD5.jpg",
+      "coverUrl": "covers/294836.jpg",
       "name": "NOMAD MEGALO BOX 2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/0b/294836_U1HD5.jpg",
+      "cover": "covers/294836.jpg",
       "ratingCount": 5573
     },
     {
@@ -7908,9 +7908,9 @@ const animeData = {
       "bangumiId": 297396,
       "year": 2021,
       "title": "巴克·亚罗",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/94/8c/297396_hNlBL.jpg",
+      "coverUrl": "covers/297396.jpg",
       "name": "巴克·亚罗",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/94/8c/297396_hNlBL.jpg",
+      "cover": "covers/297396.jpg",
       "ratingCount": 5182
     },
     {
@@ -7918,9 +7918,9 @@ const animeData = {
       "bangumiId": 330973,
       "year": 2021,
       "title": "看得见的女孩",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bc/6b/330973_HpbMw.jpg",
+      "coverUrl": "covers/330973.jpg",
       "name": "看得见的女孩",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bc/6b/330973_HpbMw.jpg",
+      "cover": "covers/330973.jpg",
       "ratingCount": 5104
     },
     {
@@ -7928,9 +7928,9 @@ const animeData = {
       "bangumiId": 309670,
       "year": 2021,
       "title": "关于前辈很烦人的事",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/68/a5/309670_SCMw3.jpg",
+      "coverUrl": "covers/309670.jpg",
       "name": "关于前辈很烦人的事",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/68/a5/309670_SCMw3.jpg",
+      "cover": "covers/309670.jpg",
       "ratingCount": 5098
     },
     {
@@ -7938,9 +7938,9 @@ const animeData = {
       "bangumiId": 319739,
       "year": 2021,
       "title": "因为不是命中注定的同伴而被赶出了勇者的队伍、从此以后过上了悠闲的隐居生活",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/00/6d/319739_BJNJC.jpg",
+      "coverUrl": "covers/319739.jpg",
       "name": "因为不是命中注定的同伴而被赶出了勇者的队伍、从此以后过上了悠闲的隐居生活",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/00/6d/319739_BJNJC.jpg",
+      "cover": "covers/319739.jpg",
       "ratingCount": 4745
     },
     {
@@ -7948,9 +7948,9 @@ const animeData = {
       "bangumiId": 292527,
       "year": 2021,
       "title": "弱角友崎同学",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c8/42/292527_0G0zk.jpg",
+      "coverUrl": "covers/292527.jpg",
       "name": "弱角友崎同学",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/42/292527_0G0zk.jpg",
+      "cover": "covers/292527.jpg",
       "ratingCount": 4645
     },
     {
@@ -7958,9 +7958,9 @@ const animeData = {
       "bangumiId": 331535,
       "year": 2021,
       "title": "宿命回响：命运节拍",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/93/b0/331535_i2s69.jpg",
+      "coverUrl": "covers/331535.jpg",
       "name": "宿命回响：命运节拍",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/93/b0/331535_i2s69.jpg",
+      "cover": "covers/331535.jpg",
       "ratingCount": 4519
     },
     {
@@ -7968,9 +7968,9 @@ const animeData = {
       "bangumiId": 302190,
       "year": 2021,
       "title": "派遣战斗员！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/99/dc/302190_1NJ2Z.jpg",
+      "coverUrl": "covers/302190.jpg",
       "name": "派遣战斗员！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/dc/302190_1NJ2Z.jpg",
+      "cover": "covers/302190.jpg",
       "ratingCount": 4482
     },
     {
@@ -7978,9 +7978,9 @@ const animeData = {
       "bangumiId": 325727,
       "year": 2021,
       "title": "侦探已经死了。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e0/8e/325727_U1eEj.jpg",
+      "coverUrl": "covers/325727.jpg",
       "name": "侦探已经死了。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e0/8e/325727_U1eEj.jpg",
+      "cover": "covers/325727.jpg",
       "ratingCount": 4366
     },
     {
@@ -7988,9 +7988,9 @@ const animeData = {
       "bangumiId": 297224,
       "year": 2021,
       "title": "动物狂想曲 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f4/44/297224_DaR7k.jpg",
+      "coverUrl": "covers/297224.jpg",
       "name": "动物狂想曲 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/44/297224_DaR7k.jpg",
+      "cover": "covers/297224.jpg",
       "ratingCount": 4320
     },
     {
@@ -7998,9 +7998,9 @@ const animeData = {
       "bangumiId": 319513,
       "year": 2021,
       "title": "女友成堆",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/37/5e/319513_yGTQq.jpg",
+      "coverUrl": "covers/319513.jpg",
       "name": "女友成堆",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/5e/319513_yGTQq.jpg",
+      "cover": "covers/319513.jpg",
       "ratingCount": 4238
     },
     {
@@ -8008,9 +8008,9 @@ const animeData = {
       "bangumiId": 299673,
       "year": 2021,
       "title": "转生史莱姆日记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4f/2f/299673_l8B8U.jpg",
+      "coverUrl": "covers/299673.jpg",
       "name": "转生史莱姆日记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4f/2f/299673_l8B8U.jpg",
+      "cover": "covers/299673.jpg",
       "ratingCount": 4171
     },
     {
@@ -8018,9 +8018,9 @@ const animeData = {
       "bangumiId": 320851,
       "year": 2021,
       "title": "精灵幻想记",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ad/ee/320851_MPMXr.jpg",
+      "coverUrl": "covers/320851.jpg",
       "name": "精灵幻想记",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ad/ee/320851_MPMXr.jpg",
+      "cover": "covers/320851.jpg",
       "ratingCount": 3970
     },
     {
@@ -8028,9 +8028,9 @@ const animeData = {
       "bangumiId": 325281,
       "year": 2021,
       "title": "白沙的水族馆",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d4/a3/325281_CZa9A.jpg",
+      "coverUrl": "covers/325281.jpg",
       "name": "白沙的水族馆",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d4/a3/325281_CZa9A.jpg",
+      "cover": "covers/325281.jpg",
       "ratingCount": 3786
     }
   ],
@@ -8040,9 +8040,9 @@ const animeData = {
       "bangumiId": 328609,
       "year": 2022,
       "title": "孤独摇滚！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e2/e7/328609_2EHLJ.jpg",
+      "coverUrl": "covers/328609.jpg",
       "name": "孤独摇滚！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e2/e7/328609_2EHLJ.jpg",
+      "cover": "covers/328609.jpg",
       "ratingCount": 40819
     },
     {
@@ -8050,9 +8050,9 @@ const animeData = {
       "bangumiId": 317613,
       "year": 2022,
       "title": "辉夜大小姐想让我告白-超级浪漫-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cf/9c/317613_bpGX4.jpg",
+      "coverUrl": "covers/317613.jpg",
       "name": "辉夜大小姐想让我告白-超级浪漫-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/9c/317613_bpGX4.jpg",
+      "cover": "covers/317613.jpg",
       "ratingCount": 23610
     },
     {
@@ -8060,9 +8060,9 @@ const animeData = {
       "bangumiId": 329906,
       "year": 2022,
       "title": "间谍过家家",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/de/4a/329906_hmtVD.jpg",
+      "coverUrl": "covers/329906.jpg",
       "name": "间谍过家家",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/de/4a/329906_hmtVD.jpg",
+      "cover": "covers/329906.jpg",
       "ratingCount": 23598
     },
     {
@@ -8070,9 +8070,9 @@ const animeData = {
       "bangumiId": 326895,
       "year": 2022,
       "title": "夏日重现",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f5/326895_j1S2n.jpg",
+      "coverUrl": "covers/326895.jpg",
       "name": "夏日重现",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f5/326895_j1S2n.jpg",
+      "cover": "covers/326895.jpg",
       "ratingCount": 20719
     },
     {
@@ -8080,9 +8080,9 @@ const animeData = {
       "bangumiId": 364450,
       "year": 2022,
       "title": "莉可丽丝",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/65/19/364450_xx2zx.jpg",
+      "coverUrl": "covers/364450.jpg",
       "name": "莉可丽丝",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/19/364450_xx2zx.jpg",
+      "cover": "covers/364450.jpg",
       "ratingCount": 20453
     },
     {
@@ -8090,9 +8090,9 @@ const animeData = {
       "bangumiId": 339326,
       "year": 2022,
       "title": "异世界舅舅",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1a/75/339326_v466V.jpg",
+      "coverUrl": "covers/339326.jpg",
       "name": "异世界舅舅",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1a/75/339326_v466V.jpg",
+      "cover": "covers/339326.jpg",
       "ratingCount": 19836
     },
     {
@@ -8100,9 +8100,9 @@ const animeData = {
       "bangumiId": 321885,
       "year": 2022,
       "title": "链锯人",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/26/b4/321885_92uzU.jpg",
+      "coverUrl": "covers/321885.jpg",
       "name": "链锯人",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/26/b4/321885_92uzU.jpg",
+      "cover": "covers/321885.jpg",
       "ratingCount": 19101
     },
     {
@@ -8110,9 +8110,9 @@ const animeData = {
       "bangumiId": 333158,
       "year": 2022,
       "title": "更衣人偶坠入爱河",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9c/4d/333158_PA0F4.jpg",
+      "coverUrl": "covers/333158.jpg",
       "name": "更衣人偶坠入爱河",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/4d/333158_PA0F4.jpg",
+      "cover": "covers/333158.jpg",
       "ratingCount": 17237
     },
     {
@@ -8120,9 +8120,9 @@ const animeData = {
       "bangumiId": 373267,
       "year": 2022,
       "title": "间谍过家家 第2部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3c/82/373267_ffBO8.jpg",
+      "coverUrl": "covers/373267.jpg",
       "name": "间谍过家家 第2部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3c/82/373267_ffBO8.jpg",
+      "cover": "covers/373267.jpg",
       "ratingCount": 14784
     },
     {
@@ -8130,9 +8130,9 @@ const animeData = {
       "bangumiId": 375817,
       "year": 2022,
       "title": "契约之吻",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/25/cd/375817_O7LGk.jpg",
+      "coverUrl": "covers/375817.jpg",
       "name": "契约之吻",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/25/cd/375817_O7LGk.jpg",
+      "cover": "covers/375817.jpg",
       "ratingCount": 13905
     },
     {
@@ -8140,9 +8140,9 @@ const animeData = {
       "bangumiId": 329114,
       "year": 2022,
       "title": "想要成为影之实力者！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/39/96/329114_mB55b.jpg",
+      "coverUrl": "covers/329114.jpg",
       "name": "想要成为影之实力者！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/96/329114_mB55b.jpg",
+      "cover": "covers/329114.jpg",
       "ratingCount": 13806
     },
     {
@@ -8150,9 +8150,9 @@ const animeData = {
       "bangumiId": 298477,
       "year": 2022,
       "title": "来自深渊 烈日的黄金乡",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ae/18/298477_eBaQ8.jpg",
+      "coverUrl": "covers/298477.jpg",
       "name": "来自深渊 烈日的黄金乡",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ae/18/298477_eBaQ8.jpg",
+      "cover": "covers/298477.jpg",
       "ratingCount": 13748
     },
     {
@@ -8160,9 +8160,9 @@ const animeData = {
       "bangumiId": 331752,
       "year": 2022,
       "title": "进击的巨人 最终季 Part.2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/61/0c/331752_iRPHK.jpg",
+      "coverUrl": "covers/331752.jpg",
       "name": "进击的巨人 最终季 Part.2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/61/0c/331752_iRPHK.jpg",
+      "cover": "covers/331752.jpg",
       "ratingCount": 13371
     },
     {
@@ -8170,9 +8170,9 @@ const animeData = {
       "bangumiId": 353605,
       "year": 2022,
       "title": "灵能百分百 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c4/353605_t8jsh.jpg",
+      "coverUrl": "covers/353605.jpg",
       "name": "灵能百分百 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c4/353605_t8jsh.jpg",
+      "cover": "covers/353605.jpg",
       "ratingCount": 11994
     },
     {
@@ -8180,9 +8180,9 @@ const animeData = {
       "bangumiId": 356756,
       "year": 2022,
       "title": "派对浪客诸葛孔明",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/93/98/356756_ro03P.jpg",
+      "coverUrl": "covers/356756.jpg",
       "name": "派对浪客诸葛孔明",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/93/98/356756_ro03P.jpg",
+      "cover": "covers/356756.jpg",
       "ratingCount": 11483
     },
     {
@@ -8190,9 +8190,9 @@ const animeData = {
       "bangumiId": 356774,
       "year": 2022,
       "title": "彻夜之歌",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/dd/cd/356774_zOW55.jpg",
+      "coverUrl": "covers/356774.jpg",
       "name": "彻夜之歌",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/cd/356774_zOW55.jpg",
+      "cover": "covers/356774.jpg",
       "ratingCount": 11148
     },
     {
@@ -8200,9 +8200,9 @@ const animeData = {
       "bangumiId": 333664,
       "year": 2022,
       "title": "相合之物",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/41/49/333664_d4Py9.jpg",
+      "coverUrl": "covers/333664.jpg",
       "name": "相合之物",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/49/333664_d4Py9.jpg",
+      "cover": "covers/333664.jpg",
       "ratingCount": 10664
     },
     {
@@ -8210,9 +8210,9 @@ const animeData = {
       "bangumiId": 332261,
       "year": 2022,
       "title": "JOJO的奇妙冒险 石之海",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d6/4f/332261_szZEK.jpg",
+      "coverUrl": "covers/332261.jpg",
       "name": "JOJO的奇妙冒险 石之海",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d6/4f/332261_szZEK.jpg",
+      "cover": "covers/332261.jpg",
       "ratingCount": 10301
     },
     {
@@ -8220,9 +8220,9 @@ const animeData = {
       "bangumiId": 349441,
       "year": 2022,
       "title": "机动战士高达 水星的魔女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f1/fd/349441_uND33.jpg",
+      "coverUrl": "covers/349441.jpg",
       "name": "机动战士高达 水星的魔女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f1/fd/349441_uND33.jpg",
+      "cover": "covers/349441.jpg",
       "ratingCount": 9097
     },
     {
@@ -8230,9 +8230,9 @@ const animeData = {
       "bangumiId": 313852,
       "year": 2022,
       "title": "街角魔族 2丁目",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ef/d3/313852_550li.jpg",
+      "coverUrl": "covers/313852.jpg",
       "name": "街角魔族 2丁目",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/d3/313852_550li.jpg",
+      "cover": "covers/313852.jpg",
       "ratingCount": 8798
     },
     {
@@ -8240,9 +8240,9 @@ const animeData = {
       "bangumiId": 347887,
       "year": 2022,
       "title": "擅长捉弄的高木同学 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2d/ad/347887_j0DFj.jpg",
+      "coverUrl": "covers/347887.jpg",
       "name": "擅长捉弄的高木同学 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2d/ad/347887_j0DFj.jpg",
+      "cover": "covers/347887.jpg",
       "ratingCount": 8407
     },
     {
@@ -8250,9 +8250,9 @@ const animeData = {
       "bangumiId": 389450,
       "year": 2022,
       "title": "秋叶原冥途战争",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/da/3d/389450_0hbeB.jpg",
+      "coverUrl": "covers/389450.jpg",
       "name": "秋叶原冥途战争",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/da/3d/389450_0hbeB.jpg",
+      "cover": "covers/389450.jpg",
       "ratingCount": 8141
     },
     {
@@ -8260,9 +8260,9 @@ const animeData = {
       "bangumiId": 371546,
       "year": 2022,
       "title": "欢迎来到实力至上主义的教室 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c8/8a/371546_Df9ri.jpg",
+      "coverUrl": "covers/371546.jpg",
       "name": "欢迎来到实力至上主义的教室 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/8a/371546_Df9ri.jpg",
+      "cover": "covers/371546.jpg",
       "ratingCount": 7849
     },
     {
@@ -8270,9 +8270,9 @@ const animeData = {
       "bangumiId": 331480,
       "year": 2022,
       "title": "明日同学的水手服",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/07/95/331480_c2aq9.jpg",
+      "coverUrl": "covers/331480.jpg",
       "name": "明日同学的水手服",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/07/95/331480_c2aq9.jpg",
+      "cover": "covers/331480.jpg",
       "ratingCount": 7491
     },
     {
@@ -8280,9 +8280,9 @@ const animeData = {
       "bangumiId": 335389,
       "year": 2022,
       "title": "OVERLORD 第四季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/69/c7/335389_Z8WRS.jpg",
+      "coverUrl": "covers/335389.jpg",
       "name": "OVERLORD 第四季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/c7/335389_Z8WRS.jpg",
+      "cover": "covers/335389.jpg",
       "ratingCount": 7478
     },
     {
@@ -8290,9 +8290,9 @@ const animeData = {
       "bangumiId": 375735,
       "year": 2022,
       "title": "恋爱FLOPS",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ba/375735_AR8Al.jpg",
+      "coverUrl": "covers/375735.jpg",
       "name": "恋爱FLOPS",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ba/375735_AR8Al.jpg",
+      "cover": "covers/375735.jpg",
       "ratingCount": 7451
     },
     {
@@ -8300,9 +8300,9 @@ const animeData = {
       "bangumiId": 375913,
       "year": 2022,
       "title": "JOJO的奇妙冒险 石之海 第2部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/84/a6/375913_ApBCz.jpg",
+      "coverUrl": "covers/375913.jpg",
       "name": "JOJO的奇妙冒险 石之海 第2部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/a6/375913_ApBCz.jpg",
+      "cover": "covers/375913.jpg",
       "ratingCount": 6800
     },
     {
@@ -8310,9 +8310,9 @@ const animeData = {
       "bangumiId": 373712,
       "year": 2022,
       "title": "不道德公会",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c3/52/373712_WAhb0.jpg",
+      "coverUrl": "covers/373712.jpg",
       "name": "不道德公会",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c3/52/373712_WAhb0.jpg",
+      "cover": "covers/373712.jpg",
       "ratingCount": 6585
     },
     {
@@ -8320,9 +8320,9 @@ const animeData = {
       "bangumiId": 343106,
       "year": 2022,
       "title": "继母的拖油瓶是我的前女友",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/49/54/343106_cT6ZV.jpg",
+      "coverUrl": "covers/343106.jpg",
       "name": "继母的拖油瓶是我的前女友",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/49/54/343106_cT6ZV.jpg",
+      "cover": "covers/343106.jpg",
       "ratingCount": 6100
     },
     {
@@ -8330,9 +8330,9 @@ const animeData = {
       "bangumiId": 343656,
       "year": 2022,
       "title": "测不准的阿波连同学",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bd/15/343656_j6eWd.jpg",
+      "coverUrl": "covers/343656.jpg",
       "name": "测不准的阿波连同学",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bd/15/343656_j6eWd.jpg",
+      "cover": "covers/343656.jpg",
       "ratingCount": 6049
     },
     {
@@ -8340,9 +8340,9 @@ const animeData = {
       "bangumiId": 326868,
       "year": 2022,
       "title": "天才王子的赤字国家振兴术",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/26/e2/326868_Kb630.jpg",
+      "coverUrl": "covers/326868.jpg",
       "name": "天才王子的赤字国家振兴术",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/26/e2/326868_Kb630.jpg",
+      "cover": "covers/326868.jpg",
       "ratingCount": 5819
     },
     {
@@ -8350,9 +8350,9 @@ const animeData = {
       "bangumiId": 302128,
       "year": 2022,
       "title": "约会大作战 第四季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6c/2a/302128_82c5B.jpg",
+      "coverUrl": "covers/302128.jpg",
       "name": "约会大作战 第四季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/2a/302128_82c5B.jpg",
+      "cover": "covers/302128.jpg",
       "ratingCount": 5439
     },
     {
@@ -8360,9 +8360,9 @@ const animeData = {
       "bangumiId": 336458,
       "year": 2022,
       "title": "与成为异世界美少女的大叔一起",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/35/19/336458_k6K0q.jpg",
+      "coverUrl": "covers/336458.jpg",
       "name": "与成为异世界美少女的大叔一起",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/35/19/336458_k6K0q.jpg",
+      "cover": "covers/336458.jpg",
       "ratingCount": 4955
     },
     {
@@ -8370,9 +8370,9 @@ const animeData = {
       "bangumiId": 302286,
       "year": 2022,
       "title": "死神 千年血战篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b7/58/302286_s3o3E.jpg",
+      "coverUrl": "covers/302286.jpg",
       "name": "死神 千年血战篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/58/302286_s3o3E.jpg",
+      "cover": "covers/302286.jpg",
       "ratingCount": 4792
     },
     {
@@ -8380,9 +8380,9 @@ const animeData = {
       "bangumiId": 331445,
       "year": 2022,
       "title": "少女手工",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ba/28/331445_cUsfp.jpg",
+      "coverUrl": "covers/331445.jpg",
       "name": "少女手工",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/28/331445_cUsfp.jpg",
+      "cover": "covers/331445.jpg",
       "ratingCount": 4778
     },
     {
@@ -8390,9 +8390,9 @@ const animeData = {
       "bangumiId": 348335,
       "year": 2022,
       "title": "平家物语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3f/f3/348335_OPwHW.jpg",
+      "coverUrl": "covers/348335.jpg",
       "name": "平家物语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3f/f3/348335_OPwHW.jpg",
+      "cover": "covers/348335.jpg",
       "ratingCount": 4763
     },
     {
@@ -8400,9 +8400,9 @@ const animeData = {
       "bangumiId": 322130,
       "year": 2022,
       "title": "异世界迷宫里的后宫生活",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b3/a6/322130_g6hkc.jpg",
+      "coverUrl": "covers/322130.jpg",
       "name": "异世界迷宫里的后宫生活",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/a6/322130_g6hkc.jpg",
+      "cover": "covers/322130.jpg",
       "ratingCount": 4685
     },
     {
@@ -8410,9 +8410,9 @@ const animeData = {
       "bangumiId": 335579,
       "year": 2022,
       "title": "Love Live! 虹咲学园校园偶像同好会 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/78/6f/335579_3ldtt.jpg",
+      "coverUrl": "covers/335579.jpg",
       "name": "Love Live! 虹咲学园校园偶像同好会 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/78/6f/335579_3ldtt.jpg",
+      "cover": "covers/335579.jpg",
       "ratingCount": 4415
     },
     {
@@ -8420,9 +8420,9 @@ const animeData = {
       "bangumiId": 363242,
       "year": 2022,
       "title": "古见同学有交流障碍症 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bc/0d/363242_0tZ06.jpg",
+      "coverUrl": "covers/363242.jpg",
       "name": "古见同学有交流障碍症 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bc/0d/363242_0tZ06.jpg",
+      "cover": "covers/363242.jpg",
       "ratingCount": 4248
     },
     {
@@ -8430,9 +8430,9 @@ const animeData = {
       "bangumiId": 290980,
       "year": 2022,
       "title": "向山进发 Next Summit",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/64/5a/290980_Jju6q.jpg",
+      "coverUrl": "covers/290980.jpg",
       "name": "向山进发 Next Summit",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/64/5a/290980_Jju6q.jpg",
+      "cover": "covers/290980.jpg",
       "ratingCount": 4083
     },
     {
@@ -8440,9 +8440,9 @@ const animeData = {
       "bangumiId": 326871,
       "year": 2022,
       "title": "处刑少女的生存之道",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b0/95/326871_6Sp4i.jpg",
+      "coverUrl": "covers/326871.jpg",
       "name": "处刑少女的生存之道",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b0/95/326871_6Sp4i.jpg",
+      "cover": "covers/326871.jpg",
       "ratingCount": 4015
     },
     {
@@ -8450,9 +8450,9 @@ const animeData = {
       "bangumiId": 324295,
       "year": 2022,
       "title": "式守同学不只可爱而已",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6a/7b/324295_Klk2K.jpg",
+      "coverUrl": "covers/324295.jpg",
       "name": "式守同学不只可爱而已",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6a/7b/324295_Klk2K.jpg",
+      "cover": "covers/324295.jpg",
       "ratingCount": 3986
     },
     {
@@ -8460,9 +8460,9 @@ const animeData = {
       "bangumiId": 344422,
       "year": 2022,
       "title": "秘密内幕～女子警察的逆袭～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/eb/9b/344422_46dJQ.jpg",
+      "coverUrl": "covers/344422.jpg",
       "name": "秘密内幕～女子警察的逆袭～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/9b/344422_46dJQ.jpg",
+      "cover": "covers/344422.jpg",
       "ratingCount": 3985
     },
     {
@@ -8470,9 +8470,9 @@ const animeData = {
       "bangumiId": 363600,
       "year": 2022,
       "title": "pop子和pipi美的日常 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/29/26/363600_zBwnq.jpg",
+      "coverUrl": "covers/363600.jpg",
       "name": "pop子和pipi美的日常 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/26/363600_zBwnq.jpg",
+      "cover": "covers/363600.jpg",
       "ratingCount": 3782
     },
     {
@@ -8480,9 +8480,9 @@ const animeData = {
       "bangumiId": 326874,
       "year": 2022,
       "title": "在地下城寻求邂逅是否搞错了什么 第四季 新章 迷宫篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b1/05/326874_YZh22.jpg",
+      "coverUrl": "covers/326874.jpg",
       "name": "在地下城寻求邂逅是否搞错了什么 第四季 新章 迷宫篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/05/326874_YZh22.jpg",
+      "cover": "covers/326874.jpg",
       "ratingCount": 3663
     },
     {
@@ -8490,9 +8490,9 @@ const animeData = {
       "bangumiId": 316131,
       "year": 2022,
       "title": "邪神与厨二病少女 X",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4b/90/316131_179OO.jpg",
+      "coverUrl": "covers/316131.jpg",
       "name": "邪神与厨二病少女 X",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4b/90/316131_179OO.jpg",
+      "cover": "covers/316131.jpg",
       "ratingCount": 3588
     },
     {
@@ -8500,9 +8500,9 @@ const animeData = {
       "bangumiId": 331479,
       "year": 2022,
       "title": "石纪元 龙水",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/20/d9/331479_taxcT.jpg",
+      "coverUrl": "covers/331479.jpg",
       "name": "石纪元 龙水",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/20/d9/331479_taxcT.jpg",
+      "cover": "covers/331479.jpg",
       "ratingCount": 3569
     },
     {
@@ -8510,9 +8510,9 @@ const animeData = {
       "bangumiId": 350224,
       "year": 2022,
       "title": "转生成为魔剑",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e5/10/350224_GkByG.jpg",
+      "coverUrl": "covers/350224.jpg",
       "name": "转生成为魔剑",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e5/10/350224_GkByG.jpg",
+      "cover": "covers/350224.jpg",
       "ratingCount": 3538
     },
     {
@@ -8520,9 +8520,9 @@ const animeData = {
       "bangumiId": 289906,
       "year": 2022,
       "title": "盾之勇者成名录 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/98/f0/289906_QOjZb.jpg",
+      "coverUrl": "covers/289906.jpg",
       "name": "盾之勇者成名录 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/f0/289906_QOjZb.jpg",
+      "cover": "covers/289906.jpg",
       "ratingCount": 3421
     },
     {
@@ -8530,9 +8530,9 @@ const animeData = {
       "bangumiId": 341163,
       "year": 2022,
       "title": "蓝色监狱",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b4/db/341163_l525N.jpg",
+      "coverUrl": "covers/341163.jpg",
       "name": "蓝色监狱",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b4/db/341163_l525N.jpg",
+      "cover": "covers/341163.jpg",
       "ratingCount": 3411
     }
   ],
@@ -8542,9 +8542,9 @@ const animeData = {
       "bangumiId": 400602,
       "year": 2023,
       "title": "葬送的芙莉莲",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/13/c5/400602_ZI8Y9.jpg",
+      "coverUrl": "covers/400602.jpg",
       "name": "葬送的芙莉莲",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/c5/400602_ZI8Y9.jpg",
+      "cover": "covers/400602.jpg",
       "ratingCount": 36174
     },
     {
@@ -8552,9 +8552,9 @@ const animeData = {
       "bangumiId": 428735,
       "year": 2023,
       "title": "BanG Dream! It's MyGO!!!!!",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e7/a7/428735_1v11n.jpg",
+      "coverUrl": "covers/428735.jpg",
       "name": "BanG Dream! It's MyGO!!!!!",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e7/a7/428735_1v11n.jpg",
+      "cover": "covers/428735.jpg",
       "ratingCount": 31766
     },
     {
@@ -8562,9 +8562,9 @@ const animeData = {
       "bangumiId": 386809,
       "year": 2023,
       "title": "【我推的孩子】",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/98/5e/386809_1yR81.jpg",
+      "coverUrl": "covers/386809.jpg",
       "name": "【我推的孩子】",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/5e/386809_1yR81.jpg",
+      "cover": "covers/386809.jpg",
       "ratingCount": 21309
     },
     {
@@ -8572,9 +8572,9 @@ const animeData = {
       "bangumiId": 378862,
       "year": 2023,
       "title": "别当欧尼酱了！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7e/ca/378862_24TnR.jpg",
+      "coverUrl": "covers/378862.jpg",
       "name": "别当欧尼酱了！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7e/ca/378862_24TnR.jpg",
+      "cover": "covers/378862.jpg",
       "ratingCount": 19104
     },
     {
@@ -8582,9 +8582,9 @@ const animeData = {
       "bangumiId": 373247,
       "year": 2023,
       "title": "无职转生 第二季 ～到了异世界就拿出真本事～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
+      "coverUrl": "covers/373247.jpg",
       "name": "无职转生 第二季 ～到了异世界就拿出真本事～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
+      "cover": "covers/373247.jpg",
       "ratingCount": 16867
     },
     {
@@ -8592,9 +8592,9 @@ const animeData = {
       "bangumiId": 394260,
       "year": 2023,
       "title": "我心里危险的东西",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/01/ee/394260_VMqvV.jpg",
+      "coverUrl": "covers/394260.jpg",
       "name": "我心里危险的东西",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/ee/394260_VMqvV.jpg",
+      "cover": "covers/394260.jpg",
       "ratingCount": 16052
     },
     {
@@ -8602,9 +8602,9 @@ const animeData = {
       "bangumiId": 404804,
       "year": 2023,
       "title": "天国大魔境",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ba/c9/404804_1sTp8.jpg",
+      "coverUrl": "covers/404804.jpg",
       "name": "天国大魔境",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/c9/404804_1sTp8.jpg",
+      "cover": "covers/404804.jpg",
       "ratingCount": 15156
     },
     {
@@ -8612,9 +8612,9 @@ const animeData = {
       "bangumiId": 420628,
       "year": 2023,
       "title": "药屋少女的呢喃",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fe/31/420628_2ZEz0.jpg",
+      "coverUrl": "covers/420628.jpg",
       "name": "药屋少女的呢喃",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/31/420628_2ZEz0.jpg",
+      "cover": "covers/420628.jpg",
       "ratingCount": 11667
     },
     {
@@ -8622,9 +8622,9 @@ const animeData = {
       "bangumiId": 357961,
       "year": 2023,
       "title": "跃动青春",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/63/4e/357961_RtPiz.jpg",
+      "coverUrl": "covers/357961.jpg",
       "name": "跃动青春",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/63/4e/357961_RtPiz.jpg",
+      "cover": "covers/357961.jpg",
       "ratingCount": 11289
     },
     {
@@ -8632,9 +8632,9 @@ const animeData = {
       "bangumiId": 411427,
       "year": 2023,
       "title": "间谍过家家 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/69/5b/411427_1Bw95.jpg",
+      "coverUrl": "covers/411427.jpg",
       "name": "间谍过家家 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/5b/411427_1Bw95.jpg",
+      "cover": "covers/411427.jpg",
       "ratingCount": 11032
     },
     {
@@ -8642,9 +8642,9 @@ const animeData = {
       "bangumiId": 415779,
       "year": 2023,
       "title": "进击的巨人 最终季 完结篇 后篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d3/dc/415779_6TeGp.jpg",
+      "coverUrl": "covers/415779.jpg",
       "name": "进击的巨人 最终季 完结篇 后篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/dc/415779_6TeGp.jpg",
+      "cover": "covers/415779.jpg",
       "ratingCount": 10988
     },
     {
@@ -8652,9 +8652,9 @@ const animeData = {
       "bangumiId": 376739,
       "year": 2023,
       "title": "进击的巨人 最终季 完结篇 前篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4f/33/376739_KMN9x.jpg",
+      "coverUrl": "covers/376739.jpg",
       "name": "进击的巨人 最终季 完结篇 前篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4f/33/376739_KMN9x.jpg",
+      "cover": "covers/376739.jpg",
       "ratingCount": 10879
     },
     {
@@ -8662,9 +8662,9 @@ const animeData = {
       "bangumiId": 424379,
       "year": 2023,
       "title": "超超超超超喜欢你的100个女朋友",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/37/03/424379_UfMuk.jpg",
+      "coverUrl": "covers/424379.jpg",
       "name": "超超超超超喜欢你的100个女朋友",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/03/424379_UfMuk.jpg",
+      "cover": "covers/424379.jpg",
       "ratingCount": 10827
     },
     {
@@ -8672,9 +8672,9 @@ const animeData = {
       "bangumiId": 369304,
       "year": 2023,
       "title": "咒术回战 怀玉･玉折 / 涩谷事变",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4b/85/369304_gC7HZ.jpg",
+      "coverUrl": "covers/369304.jpg",
       "name": "咒术回战 怀玉･玉折 / 涩谷事变",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4b/85/369304_gC7HZ.jpg",
+      "cover": "covers/369304.jpg",
       "ratingCount": 10671
     },
     {
@@ -8682,9 +8682,9 @@ const animeData = {
       "bangumiId": 419846,
       "year": 2023,
       "title": "想要成为影之实力者！ 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/86/5a/419846_UWUv4.jpg",
+      "coverUrl": "covers/419846.jpg",
       "name": "想要成为影之实力者！ 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/86/5a/419846_UWUv4.jpg",
+      "cover": "covers/419846.jpg",
       "ratingCount": 10643
     },
     {
@@ -8692,9 +8692,9 @@ const animeData = {
       "bangumiId": 369768,
       "year": 2023,
       "title": "鬼灭之刃 刀匠村篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c9/bb/369768_F05zh.jpg",
+      "coverUrl": "covers/369768.jpg",
       "name": "鬼灭之刃 刀匠村篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c9/bb/369768_F05zh.jpg",
+      "cover": "covers/369768.jpg",
       "ratingCount": 10422
     },
     {
@@ -8702,9 +8702,9 @@ const animeData = {
       "bangumiId": 385209,
       "year": 2023,
       "title": "为美好的世界献上爆焰！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c7/89/385209_hWE7n.jpg",
+      "coverUrl": "covers/385209.jpg",
       "name": "为美好的世界献上爆焰！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/89/385209_hWE7n.jpg",
+      "cover": "covers/385209.jpg",
       "ratingCount": 10261
     },
     {
@@ -8712,9 +8712,9 @@ const animeData = {
       "bangumiId": 425211,
       "year": 2023,
       "title": "辉夜大小姐想让我告白-初吻不会结束-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ca/79/425211_bPbra.jpg",
+      "coverUrl": "covers/425211.jpg",
       "name": "辉夜大小姐想让我告白-初吻不会结束-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ca/79/425211_bPbra.jpg",
+      "cover": "covers/425211.jpg",
       "ratingCount": 9958
     },
     {
@@ -8722,9 +8722,9 @@ const animeData = {
       "bangumiId": 395714,
       "year": 2023,
       "title": "转生公主与天才千金的魔法革命",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fd/3c/395714_5EeZx.jpg",
+      "coverUrl": "covers/395714.jpg",
       "name": "转生公主与天才千金的魔法革命",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fd/3c/395714_5EeZx.jpg",
+      "cover": "covers/395714.jpg",
       "ratingCount": 9491
     },
     {
@@ -8732,9 +8732,9 @@ const animeData = {
       "bangumiId": 377607,
       "year": 2023,
       "title": "无神世界的神明活动",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e5/59/377607_8w26i.jpg",
+      "coverUrl": "covers/377607.jpg",
       "name": "无神世界的神明活动",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e5/59/377607_8w26i.jpg",
+      "cover": "covers/377607.jpg",
       "ratingCount": 8971
     },
     {
@@ -8742,9 +8742,9 @@ const animeData = {
       "bangumiId": 296739,
       "year": 2023,
       "title": "冰海战记 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a4/16/296739_6U6Hg.jpg",
+      "coverUrl": "covers/296739.jpg",
       "name": "冰海战记 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a4/16/296739_6U6Hg.jpg",
+      "cover": "covers/296739.jpg",
       "ratingCount": 8179
     },
     {
@@ -8752,9 +8752,9 @@ const animeData = {
       "bangumiId": 413741,
       "year": 2023,
       "title": "16bit的感动 ANOTHER LAYER",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a7/73/413741_39Urq.jpg",
+      "coverUrl": "covers/413741.jpg",
       "name": "16bit的感动 ANOTHER LAYER",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a7/73/413741_39Urq.jpg",
+      "cover": "covers/413741.jpg",
       "ratingCount": 8062
     },
     {
@@ -8762,9 +8762,9 @@ const animeData = {
       "bangumiId": 376703,
       "year": 2023,
       "title": "偶像大师 灰姑娘女孩 U149",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/58/c1/376703_g5559.jpg",
+      "coverUrl": "covers/376703.jpg",
       "name": "偶像大师 灰姑娘女孩 U149",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/58/c1/376703_g5559.jpg",
+      "cover": "covers/376703.jpg",
       "ratingCount": 7558
     },
     {
@@ -8772,9 +8772,9 @@ const animeData = {
       "bangumiId": 402128,
       "year": 2023,
       "title": "命运-奇异赝品 黎明低语",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/90/01/402128_ppPaA.jpg",
+      "coverUrl": "covers/402128.jpg",
       "name": "命运-奇异赝品 黎明低语",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/90/01/402128_ppPaA.jpg",
+      "cover": "covers/402128.jpg",
       "ratingCount": 7318
     },
     {
@@ -8782,9 +8782,9 @@ const animeData = {
       "bangumiId": 390980,
       "year": 2023,
       "title": "香格里拉边境",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ed/01/390980_3u0Bb.jpg",
+      "coverUrl": "covers/390980.jpg",
       "name": "香格里拉边境",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ed/01/390980_3u0Bb.jpg",
+      "cover": "covers/390980.jpg",
       "ratingCount": 7213
     },
     {
@@ -8792,9 +8792,9 @@ const animeData = {
       "bangumiId": 395782,
       "year": 2023,
       "title": "JOJO的奇妙冒险 石之海 第3部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f7/40/395782_2KxQx.jpg",
+      "coverUrl": "covers/395782.jpg",
       "name": "JOJO的奇妙冒险 石之海 第3部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f7/40/395782_2KxQx.jpg",
+      "cover": "covers/395782.jpg",
       "ratingCount": 6303
     },
     {
@@ -8802,9 +8802,9 @@ const animeData = {
       "bangumiId": 403238,
       "year": 2023,
       "title": "机动战士高达 水星的魔女 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e9/eb/403238_A9mS1.jpg",
+      "coverUrl": "covers/403238.jpg",
       "name": "机动战士高达 水星的魔女 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e9/eb/403238_A9mS1.jpg",
+      "cover": "covers/403238.jpg",
       "ratingCount": 6104
     },
     {
@@ -8812,9 +8812,9 @@ const animeData = {
       "bangumiId": 425591,
       "year": 2023,
       "title": "不死少女 杀人笑剧",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6b/c0/425591_Llbje.jpg",
+      "coverUrl": "covers/425591.jpg",
       "name": "不死少女 杀人笑剧",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6b/c0/425591_Llbje.jpg",
+      "cover": "covers/425591.jpg",
       "ratingCount": 6102
     },
     {
@@ -8822,9 +8822,9 @@ const animeData = {
       "bangumiId": 414461,
       "year": 2023,
       "title": "僵尸百分百～在成为僵尸前要做的100件事～",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c0/fe/414461_9BW1L.jpg",
+      "coverUrl": "covers/414461.jpg",
       "name": "僵尸百分百～在成为僵尸前要做的100件事～",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/fe/414461_9BW1L.jpg",
+      "cover": "covers/414461.jpg",
       "ratingCount": 5987
     },
     {
@@ -8832,9 +8832,9 @@ const animeData = {
       "bangumiId": 325808,
       "year": 2023,
       "title": "地狱乐",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e6/b1/325808_4OXIC.jpg",
+      "coverUrl": "covers/325808.jpg",
       "name": "地狱乐",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e6/b1/325808_4OXIC.jpg",
+      "cover": "covers/325808.jpg",
       "ratingCount": 5960
     },
     {
@@ -8842,9 +8842,9 @@ const animeData = {
       "bangumiId": 414214,
       "year": 2023,
       "title": "家里蹲吸血姬的苦闷",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/15/35/414214_Q2LdO.jpg",
+      "coverUrl": "covers/414214.jpg",
       "name": "家里蹲吸血姬的苦闷",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/35/414214_Q2LdO.jpg",
+      "cover": "covers/414214.jpg",
       "ratingCount": 5470
     },
     {
@@ -8852,9 +8852,9 @@ const animeData = {
       "bangumiId": 364822,
       "year": 2023,
       "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/37/d1/364822_y0BAy.jpg",
+      "coverUrl": "covers/364822.jpg",
       "name": "关于邻家的天使大人不知不觉把我惯成了废人这档子事",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/d1/364822_y0BAy.jpg",
+      "cover": "covers/364822.jpg",
       "ratingCount": 5331
     },
     {
@@ -8862,9 +8862,9 @@ const animeData = {
       "bangumiId": 397808,
       "year": 2023,
       "title": "不死不幸",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/eb/e9/397808_m3g00.jpg",
+      "coverUrl": "covers/397808.jpg",
       "name": "不死不幸",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/e9/397808_m3g00.jpg",
+      "cover": "covers/397808.jpg",
       "ratingCount": 5258
     },
     {
@@ -8872,9 +8872,9 @@ const animeData = {
       "bangumiId": 387822,
       "year": 2023,
       "title": "白圣女与黑牧师",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0f/0b/387822_nHUhn.jpg",
+      "coverUrl": "covers/387822.jpg",
       "name": "白圣女与黑牧师",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/0b/387822_nHUhn.jpg",
+      "cover": "covers/387822.jpg",
       "ratingCount": 5241
     },
     {
@@ -8882,9 +8882,9 @@ const animeData = {
       "bangumiId": 365437,
       "year": 2023,
       "title": "放学后失眠的你",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0e/c3/365437_CCAFu.jpg",
+      "coverUrl": "covers/365437.jpg",
       "name": "放学后失眠的你",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/c3/365437_CCAFu.jpg",
+      "cover": "covers/365437.jpg",
       "ratingCount": 5028
     },
     {
@@ -8892,9 +8892,9 @@ const animeData = {
       "bangumiId": 407332,
       "year": 2023,
       "title": "赛马娘 Pretty Derby 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c1/30/407332_0I58c.jpg",
+      "coverUrl": "covers/407332.jpg",
       "name": "赛马娘 Pretty Derby 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c1/30/407332_0I58c.jpg",
+      "cover": "covers/407332.jpg",
       "ratingCount": 4851
     },
     {
@@ -8902,9 +8902,9 @@ const animeData = {
       "bangumiId": 320839,
       "year": 2023,
       "title": "虚构推理 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/44/09/320839_3sL1e.jpg",
+      "coverUrl": "covers/320839.jpg",
       "name": "虚构推理 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/44/09/320839_3sL1e.jpg",
+      "cover": "covers/320839.jpg",
       "ratingCount": 4703
     },
     {
@@ -8912,9 +8912,9 @@ const animeData = {
       "bangumiId": 425992,
       "year": 2023,
       "title": "堀与宫村 -piece-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/75/b2/425992_kV5CF.jpg",
+      "coverUrl": "covers/425992.jpg",
       "name": "堀与宫村 -piece-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/b2/425992_kV5CF.jpg",
+      "cover": "covers/425992.jpg",
       "ratingCount": 4630
     },
     {
@@ -8922,9 +8922,9 @@ const animeData = {
       "bangumiId": 376137,
       "year": 2023,
       "title": "异世界悠闲农家",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/09/1a/376137_OjCOB.jpg",
+      "coverUrl": "covers/376137.jpg",
       "name": "异世界悠闲农家",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/09/1a/376137_OjCOB.jpg",
+      "cover": "covers/376137.jpg",
       "ratingCount": 4409
     },
     {
@@ -8932,9 +8932,9 @@ const animeData = {
       "bangumiId": 302766,
       "year": 2023,
       "title": "因为太怕痛就全点防御力了。2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a5/3c/302766_Vqzpu.jpg",
+      "coverUrl": "covers/302766.jpg",
       "name": "因为太怕痛就全点防御力了。2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a5/3c/302766_Vqzpu.jpg",
+      "cover": "covers/302766.jpg",
       "ratingCount": 4303
     },
     {
@@ -8942,9 +8942,9 @@ const animeData = {
       "bangumiId": 363101,
       "year": 2023,
       "title": "石纪元 新世界",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1d/02/363101_T8SWw.jpg",
+      "coverUrl": "covers/363101.jpg",
       "name": "石纪元 新世界",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/02/363101_T8SWw.jpg",
+      "cover": "covers/363101.jpg",
       "ratingCount": 4215
     },
     {
@@ -8952,9 +8952,9 @@ const animeData = {
       "bangumiId": 389571,
       "year": 2023,
       "title": "物理魔法使马修",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/72/c3/389571_2T0OF.jpg",
+      "coverUrl": "covers/389571.jpg",
       "name": "物理魔法使马修",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/72/c3/389571_2T0OF.jpg",
+      "cover": "covers/389571.jpg",
       "ratingCount": 4088
     },
     {
@@ -8962,9 +8962,9 @@ const animeData = {
       "bangumiId": 374319,
       "year": 2023,
       "title": "无意间变成狗，被喜欢的女生捡回家。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/83/d3/374319_JSG4d.jpg",
+      "coverUrl": "covers/374319.jpg",
       "name": "无意间变成狗，被喜欢的女生捡回家。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/83/d3/374319_JSG4d.jpg",
+      "cover": "covers/374319.jpg",
       "ratingCount": 4076
     },
     {
@@ -8972,9 +8972,9 @@ const animeData = {
       "bangumiId": 404115,
       "year": 2023,
       "title": "星灵感应",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e7/be/404115_P7u1Q.jpg",
+      "coverUrl": "covers/404115.jpg",
       "name": "星灵感应",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e7/be/404115_P7u1Q.jpg",
+      "cover": "covers/404115.jpg",
       "ratingCount": 4064
     },
     {
@@ -8982,9 +8982,9 @@ const animeData = {
       "bangumiId": 424372,
       "year": 2023,
       "title": "石纪元 新世界 第2部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/17/03/424372_h6JZ1.jpg",
+      "coverUrl": "covers/424372.jpg",
       "name": "石纪元 新世界 第2部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/03/424372_h6JZ1.jpg",
+      "cover": "covers/424372.jpg",
       "ratingCount": 4054
     },
     {
@@ -8992,9 +8992,9 @@ const animeData = {
       "bangumiId": 355798,
       "year": 2023,
       "title": "总之就是非常可爱 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/16/65/355798_bZmZ5.jpg",
+      "coverUrl": "covers/355798.jpg",
       "name": "总之就是非常可爱 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/16/65/355798_bZmZ5.jpg",
+      "cover": "covers/355798.jpg",
       "ratingCount": 4041
     },
     {
@@ -9002,9 +9002,9 @@ const animeData = {
       "bangumiId": 366165,
       "year": 2023,
       "title": "万事屋斋藤、到异世界",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5a/a2/366165_27AaS.jpg",
+      "coverUrl": "covers/366165.jpg",
       "name": "万事屋斋藤、到异世界",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5a/a2/366165_27AaS.jpg",
+      "cover": "covers/366165.jpg",
       "ratingCount": 4029
     },
     {
@@ -9012,9 +9012,9 @@ const animeData = {
       "bangumiId": 393238,
       "year": 2023,
       "title": "拥有超常技能的异世界流浪美食家",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3f/cf/393238_ZB8x3.jpg",
+      "coverUrl": "covers/393238.jpg",
       "name": "拥有超常技能的异世界流浪美食家",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3f/cf/393238_ZB8x3.jpg",
+      "cover": "covers/393238.jpg",
       "ratingCount": 3875
     },
     {
@@ -9022,9 +9022,9 @@ const animeData = {
       "bangumiId": 326867,
       "year": 2023,
       "title": "哥布林杀手 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/47/8a/326867_iZQxQ.jpg",
+      "coverUrl": "covers/326867.jpg",
       "name": "哥布林杀手 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/47/8a/326867_iZQxQ.jpg",
+      "cover": "covers/326867.jpg",
       "ratingCount": 3875
     },
     {
@@ -9032,9 +9032,9 @@ const animeData = {
       "bangumiId": 381793,
       "year": 2023,
       "title": "久保同学不放过我",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/12/39/381793_oNshs.jpg",
+      "coverUrl": "covers/381793.jpg",
       "name": "久保同学不放过我",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/12/39/381793_oNshs.jpg",
+      "cover": "covers/381793.jpg",
       "ratingCount": 3713
     }
   ],
@@ -9044,9 +9044,9 @@ const animeData = {
       "bangumiId": 464376,
       "year": 2024,
       "title": "败犬女主太多了！",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e4/dc/464376_NsZRw.jpg",
+      "coverUrl": "covers/464376.jpg",
       "name": "败犬女主太多了！",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e4/dc/464376_NsZRw.jpg",
+      "cover": "covers/464376.jpg",
       "ratingCount": 28303
     },
     {
@@ -9054,9 +9054,9 @@ const animeData = {
       "bangumiId": 431767,
       "year": 2024,
       "title": "少女乐队的呐喊",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/75/c1/431767_bX7FZ.jpg",
+      "coverUrl": "covers/431767.jpg",
       "name": "少女乐队的呐喊",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/c1/431767_bX7FZ.jpg",
+      "cover": "covers/431767.jpg",
       "ratingCount": 24654
     },
     {
@@ -9064,9 +9064,9 @@ const animeData = {
       "bangumiId": 395378,
       "year": 2024,
       "title": "迷宫饭",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c5/88/395378_jztpO.jpg",
+      "coverUrl": "covers/395378.jpg",
       "name": "迷宫饭",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/88/395378_jztpO.jpg",
+      "cover": "covers/395378.jpg",
       "ratingCount": 18001
     },
     {
@@ -9074,9 +9074,9 @@ const animeData = {
       "bangumiId": 467461,
       "year": 2024,
       "title": "胆大党",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/44/7d/467461_HHw4K.jpg",
+      "coverUrl": "covers/467461.jpg",
       "name": "胆大党",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/44/7d/467461_HHw4K.jpg",
+      "cover": "covers/467461.jpg",
       "ratingCount": 16556
     },
     {
@@ -9084,9 +9084,9 @@ const animeData = {
       "bangumiId": 444557,
       "year": 2024,
       "title": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
+      "coverUrl": "covers/444557.jpg",
       "name": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
+      "cover": "covers/444557.jpg",
       "ratingCount": 14959
     },
     {
@@ -9094,9 +9094,9 @@ const animeData = {
       "bangumiId": 441795,
       "year": 2024,
       "title": "我心里危险的东西 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ba/7e/441795_q6Sc3.jpg",
+      "coverUrl": "covers/441795.jpg",
       "name": "我心里危险的东西 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/7e/441795_q6Sc3.jpg",
+      "cover": "covers/441795.jpg",
       "ratingCount": 14077
     },
     {
@@ -9104,9 +9104,9 @@ const animeData = {
       "bangumiId": 342667,
       "year": 2024,
       "title": "为美好的世界献上祝福！第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4c/8a/342667_0RfU8.jpg",
+      "coverUrl": "covers/342667.jpg",
       "name": "为美好的世界献上祝福！第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4c/8a/342667_0RfU8.jpg",
+      "cover": "covers/342667.jpg",
       "ratingCount": 13840
     },
     {
@@ -9114,9 +9114,9 @@ const animeData = {
       "bangumiId": 424663,
       "year": 2024,
       "title": "梦想成为魔法少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/96/d1/424663_mM5GN.jpg",
+      "coverUrl": "covers/424663.jpg",
       "name": "梦想成为魔法少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/d1/424663_mM5GN.jpg",
+      "cover": "covers/424663.jpg",
       "ratingCount": 13319
     },
     {
@@ -9124,9 +9124,9 @@ const animeData = {
       "bangumiId": 424883,
       "year": 2024,
       "title": "不时轻声地以俄语遮羞的邻座艾莉同学",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7c/8e/424883_BpzVb.jpg",
+      "coverUrl": "covers/424883.jpg",
       "name": "不时轻声地以俄语遮羞的邻座艾莉同学",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7c/8e/424883_BpzVb.jpg",
+      "cover": "covers/424883.jpg",
       "ratingCount": 13179
     },
     {
@@ -9134,9 +9134,9 @@ const animeData = {
       "bangumiId": 443428,
       "year": 2024,
       "title": "【我推的孩子】 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d1/1c/443428_FIhFu.jpg",
+      "coverUrl": "covers/443428.jpg",
       "name": "【我推的孩子】 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d1/1c/443428_FIhFu.jpg",
+      "cover": "covers/443428.jpg",
       "ratingCount": 12733
     },
     {
@@ -9144,9 +9144,9 @@ const animeData = {
       "bangumiId": 283643,
       "year": 2024,
       "title": "吹响吧！上低音号 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ef/8f/283643_2bcm7.jpg",
+      "coverUrl": "covers/283643.jpg",
       "name": "吹响吧！上低音号 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/8f/283643_2bcm7.jpg",
+      "cover": "covers/283643.jpg",
       "ratingCount": 11699
     },
     {
@@ -9154,9 +9154,9 @@ const animeData = {
       "bangumiId": 393037,
       "year": 2024,
       "title": "义妹生活",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/40/01/393037_I7mvN.jpg",
+      "coverUrl": "covers/393037.jpg",
       "name": "义妹生活",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/40/01/393037_I7mvN.jpg",
+      "cover": "covers/393037.jpg",
       "ratingCount": 11551
     },
     {
@@ -9164,9 +9164,9 @@ const animeData = {
       "bangumiId": 390353,
       "year": 2024,
       "title": "我独自升级",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f5/2e/390353_07vz7.jpg",
+      "coverUrl": "covers/390353.jpg",
       "name": "我独自升级",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f5/2e/390353_07vz7.jpg",
+      "cover": "covers/390353.jpg",
       "ratingCount": 10511
     },
     {
@@ -9174,9 +9174,9 @@ const animeData = {
       "bangumiId": 425909,
       "year": 2024,
       "title": "夜晚的水母不会游泳",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f2/8f/425909_M7W7T.jpg",
+      "coverUrl": "covers/425909.jpg",
       "name": "夜晚的水母不会游泳",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f2/8f/425909_M7W7T.jpg",
+      "cover": "covers/425909.jpg",
       "ratingCount": 10329
     },
     {
@@ -9184,9 +9184,9 @@ const animeData = {
       "bangumiId": 425998,
       "year": 2024,
       "title": "Re：从零开始的异世界生活 第三季 袭击篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/26/d6/425998_dnzr8.jpg",
+      "coverUrl": "covers/425998.jpg",
       "name": "Re：从零开始的异世界生活 第三季 袭击篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/26/d6/425998_dnzr8.jpg",
+      "cover": "covers/425998.jpg",
       "ratingCount": 9121
     },
     {
@@ -9194,9 +9194,9 @@ const animeData = {
       "bangumiId": 404809,
       "year": 2024,
       "title": "末日列车去哪里？",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/96/6c/404809_H2HnH.jpg",
+      "coverUrl": "covers/404809.jpg",
       "name": "末日列车去哪里？",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/6c/404809_H2HnH.jpg",
+      "cover": "covers/404809.jpg",
       "ratingCount": 7936
     },
     {
@@ -9204,9 +9204,9 @@ const animeData = {
       "bangumiId": 441939,
       "year": 2024,
       "title": "鬼灭之刃 柱训练篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+      "coverUrl": "covers/441939.jpg",
       "name": "鬼灭之刃 柱训练篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+      "cover": "covers/441939.jpg",
       "ratingCount": 7727
     },
     {
@@ -9214,9 +9214,9 @@ const animeData = {
       "bangumiId": 474906,
       "year": 2024,
       "title": "小市民系列",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e2/f4/474906_z0h44.jpg",
+      "coverUrl": "covers/474906.jpg",
       "name": "小市民系列",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e2/f4/474906_z0h44.jpg",
+      "cover": "covers/474906.jpg",
       "ratingCount": 7500
     },
     {
@@ -9224,9 +9224,9 @@ const animeData = {
       "bangumiId": 484761,
       "year": 2024,
       "title": "鹿乃子乃子乃子虎视眈眈",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b1/7b/484761_r83E8.jpg",
+      "coverUrl": "covers/484761.jpg",
       "name": "鹿乃子乃子乃子虎视眈眈",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/7b/484761_r83E8.jpg",
+      "cover": "covers/484761.jpg",
       "ratingCount": 7312
     },
     {
@@ -9234,9 +9234,9 @@ const animeData = {
       "bangumiId": 477207,
       "year": 2024,
       "title": "深夜重拳",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/477207_0lA1U.jpg",
+      "coverUrl": "covers/477207.jpg",
       "name": "深夜重拳",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/477207_0lA1U.jpg",
+      "cover": "covers/477207.jpg",
       "ratingCount": 7224
     },
     {
@@ -9244,9 +9244,9 @@ const animeData = {
       "bangumiId": 448478,
       "year": 2024,
       "title": "失忆投捕",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/70/80/448478_47IsZ.jpg",
+      "coverUrl": "covers/448478.jpg",
       "name": "失忆投捕",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/70/80/448478_47IsZ.jpg",
+      "cover": "covers/448478.jpg",
       "ratingCount": 6869
     },
     {
@@ -9254,9 +9254,9 @@ const animeData = {
       "bangumiId": 460306,
       "year": 2024,
       "title": "青之箱",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ab/e5/460306_s7Y8n.jpg",
+      "coverUrl": "covers/460306.jpg",
       "name": "青之箱",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ab/e5/460306_s7Y8n.jpg",
+      "cover": "covers/460306.jpg",
       "ratingCount": 6586
     },
     {
@@ -9264,9 +9264,9 @@ const animeData = {
       "bangumiId": 424573,
       "year": 2024,
       "title": "擅长逃跑的殿下",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/32/14/424573_YYLzT.jpg",
+      "coverUrl": "covers/424573.jpg",
       "name": "擅长逃跑的殿下",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/14/424573_YYLzT.jpg",
+      "cover": "covers/424573.jpg",
       "ratingCount": 6573
     },
     {
@@ -9274,9 +9274,9 @@ const animeData = {
       "bangumiId": 444403,
       "year": 2024,
       "title": "怪人的沙拉碗",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b8/0b/444403_u441B.jpg",
+      "coverUrl": "covers/444403.jpg",
       "name": "怪人的沙拉碗",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b8/0b/444403_u441B.jpg",
+      "cover": "covers/444403.jpg",
       "ratingCount": 6456
     },
     {
@@ -9284,9 +9284,9 @@ const animeData = {
       "bangumiId": 479477,
       "year": 2024,
       "title": "杖与剑的魔剑谭",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6d/e5/479477_19844.jpg",
+      "coverUrl": "covers/479477.jpg",
       "name": "杖与剑的魔剑谭",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6d/e5/479477_19844.jpg",
+      "cover": "covers/479477.jpg",
       "ratingCount": 6133
     },
     {
@@ -9294,9 +9294,9 @@ const animeData = {
       "bangumiId": 489820,
       "year": 2024,
       "title": "乱马1/2",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/13/a3/489820_Hre3R.jpg",
+      "coverUrl": "covers/489820.jpg",
       "name": "乱马1/2",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/a3/489820_Hre3R.jpg",
+      "cover": "covers/489820.jpg",
       "ratingCount": 5941
     },
     {
@@ -9304,9 +9304,9 @@ const animeData = {
       "bangumiId": 357962,
       "year": 2024,
       "title": "魔都精兵的奴隶",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ae/19/357962_eEjJA.jpg",
+      "coverUrl": "covers/357962.jpg",
       "name": "魔都精兵的奴隶",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ae/19/357962_eEjJA.jpg",
+      "cover": "covers/357962.jpg",
       "ratingCount": 5804
     },
     {
@@ -9314,9 +9314,9 @@ const animeData = {
       "bangumiId": 397604,
       "year": 2024,
       "title": "亚托莉 -我挚爱的时光-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/66/6d/397604_TgJ63.jpg",
+      "coverUrl": "covers/397604.jpg",
       "name": "亚托莉 -我挚爱的时光-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/6d/397604_TgJ63.jpg",
+      "cover": "covers/397604.jpg",
       "ratingCount": 5652
     },
     {
@@ -9324,9 +9324,9 @@ const animeData = {
       "bangumiId": 394623,
       "year": 2024,
       "title": "怪兽8号",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9c/d2/394623_qErlO.jpg",
+      "coverUrl": "covers/394623.jpg",
       "name": "怪兽8号",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/d2/394623_qErlO.jpg",
+      "cover": "covers/394623.jpg",
       "ratingCount": 5641
     },
     {
@@ -9334,9 +9334,9 @@ const animeData = {
       "bangumiId": 373266,
       "year": 2024,
       "title": "欢迎来到实力至上主义的教室 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/50/4d/373266_BiqQm.jpg",
+      "coverUrl": "covers/373266.jpg",
       "name": "欢迎来到实力至上主义的教室 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/4d/373266_BiqQm.jpg",
+      "cover": "covers/373266.jpg",
       "ratingCount": 5610
     },
     {
@@ -9344,9 +9344,9 @@ const animeData = {
       "bangumiId": 389156,
       "year": 2024,
       "title": "地。 ―关于地球的运动―",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5f/84/389156_J4gqQ.jpg",
+      "coverUrl": "covers/389156.jpg",
       "name": "地。 ―关于地球的运动―",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5f/84/389156_J4gqQ.jpg",
+      "cover": "covers/389156.jpg",
       "ratingCount": 5557
     },
     {
@@ -9354,9 +9354,9 @@ const animeData = {
       "bangumiId": 505895,
       "year": 2024,
       "title": "悲喜渔生",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/06/f9/505895_OvNf1.jpg",
+      "coverUrl": "covers/505895.jpg",
       "name": "悲喜渔生",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/06/f9/505895_OvNf1.jpg",
+      "cover": "covers/505895.jpg",
       "ratingCount": 5410
     },
     {
@@ -9364,9 +9364,9 @@ const animeData = {
       "bangumiId": 405785,
       "year": 2024,
       "title": "摇曳露营△ 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/19/1a/405785_u9it9.jpg",
+      "coverUrl": "covers/405785.jpg",
       "name": "摇曳露营△ 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/19/1a/405785_u9it9.jpg",
+      "cover": "covers/405785.jpg",
       "ratingCount": 5368
     },
     {
@@ -9374,9 +9374,9 @@ const animeData = {
       "bangumiId": 465884,
       "year": 2024,
       "title": "魔法少女与邪恶曾经敌对。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c9/4f/465884_fqZbB.jpg",
+      "coverUrl": "covers/465884.jpg",
       "name": "魔法少女与邪恶曾经敌对。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c9/4f/465884_fqZbB.jpg",
+      "cover": "covers/465884.jpg",
       "ratingCount": 5086
     },
     {
@@ -9384,9 +9384,9 @@ const animeData = {
       "bangumiId": 425991,
       "year": 2024,
       "title": "魔王2099",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/31/d7/425991_JFQel.jpg",
+      "coverUrl": "covers/425991.jpg",
       "name": "魔王2099",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/31/d7/425991_JFQel.jpg",
+      "cover": "covers/425991.jpg",
       "ratingCount": 4726
     },
     {
@@ -9394,9 +9394,9 @@ const animeData = {
       "bangumiId": 407133,
       "year": 2024,
       "title": "转生为第七王子，随心所欲的魔法学习之路",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2b/b7/407133_hGMQM.jpg",
+      "coverUrl": "covers/407133.jpg",
       "name": "转生为第七王子，随心所欲的魔法学习之路",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2b/b7/407133_hGMQM.jpg",
+      "cover": "covers/407133.jpg",
       "ratingCount": 4712
     },
     {
@@ -9404,9 +9404,9 @@ const animeData = {
       "bangumiId": 410346,
       "year": 2024,
       "title": "2.5次元的诱惑",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/53/13/410346_MmQCm.jpg",
+      "coverUrl": "covers/410346.jpg",
       "name": "2.5次元的诱惑",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/13/410346_MmQCm.jpg",
+      "cover": "covers/410346.jpg",
       "ratingCount": 4706
     },
     {
@@ -9414,9 +9414,9 @@ const animeData = {
       "bangumiId": 443112,
       "year": 2024,
       "title": "公主大人“拷问”的时间到了",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/84/36/443112_EqKp0.jpg",
+      "coverUrl": "covers/443112.jpg",
       "name": "公主大人“拷问”的时间到了",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/36/443112_EqKp0.jpg",
+      "cover": "covers/443112.jpg",
       "ratingCount": 4610
     },
     {
@@ -9424,9 +9424,9 @@ const animeData = {
       "bangumiId": 409441,
       "year": 2024,
       "title": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ef/c7/409441_wrBwz.jpg",
+      "coverUrl": "covers/409441.jpg",
       "name": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/c7/409441_wrBwz.jpg",
+      "cover": "covers/409441.jpg",
       "ratingCount": 4399
     },
     {
@@ -9434,9 +9434,9 @@ const animeData = {
       "bangumiId": 470045,
       "year": 2024,
       "title": "噗妮露是可爱史莱姆",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/fe/ab/470045_zA9BA.jpg",
+      "coverUrl": "covers/470045.jpg",
       "name": "噗妮露是可爱史莱姆",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/ab/470045_zA9BA.jpg",
+      "cover": "covers/470045.jpg",
       "ratingCount": 4335
     },
     {
@@ -9444,9 +9444,9 @@ const animeData = {
       "bangumiId": 407573,
       "year": 2024,
       "title": "关于我转生变成史莱姆这档事 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f0/f4/407573_993Vy.jpg",
+      "coverUrl": "covers/407573.jpg",
       "name": "关于我转生变成史莱姆这档事 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f0/f4/407573_993Vy.jpg",
+      "cover": "covers/407573.jpg",
       "ratingCount": 4335
     },
     {
@@ -9454,9 +9454,9 @@ const animeData = {
       "bangumiId": 372010,
       "year": 2024,
       "title": "狼与香辛料 行商邂逅贤狼",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/08/df/372010_KBWk9.jpg",
+      "coverUrl": "covers/372010.jpg",
       "name": "狼与香辛料 行商邂逅贤狼",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/08/df/372010_KBWk9.jpg",
+      "cover": "covers/372010.jpg",
       "ratingCount": 4326
     },
     {
@@ -9464,9 +9464,9 @@ const animeData = {
       "bangumiId": 518519,
       "year": 2024,
       "title": "航海王：粉丝来信",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/be/42/518519_DMDo8.jpg",
+      "coverUrl": "covers/518519.jpg",
       "name": "航海王：粉丝来信",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/be/42/518519_DMDo8.jpg",
+      "cover": "covers/518519.jpg",
       "ratingCount": 4287
     },
     {
@@ -9474,9 +9474,9 @@ const animeData = {
       "bangumiId": 490824,
       "year": 2024,
       "title": "哎咕岛消失的舔甜歌姬",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9f/21/490824_8oJpo.jpg",
+      "coverUrl": "covers/490824.jpg",
       "name": "哎咕岛消失的舔甜歌姬",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9f/21/490824_8oJpo.jpg",
+      "cover": "covers/490824.jpg",
       "ratingCount": 3964
     },
     {
@@ -9484,9 +9484,9 @@ const animeData = {
       "bangumiId": 428823,
       "year": 2024,
       "title": "疑似后宫",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0c/fd/428823_vuwNR.jpg",
+      "coverUrl": "covers/428823.jpg",
       "name": "疑似后宫",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0c/fd/428823_vuwNR.jpg",
+      "cover": "covers/428823.jpg",
       "ratingCount": 3677
     },
     {
@@ -9494,9 +9494,9 @@ const animeData = {
       "bangumiId": 481410,
       "year": 2024,
       "title": "叹气的亡灵想隐退",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/76/9a/481410_f635f.jpg",
+      "coverUrl": "covers/481410.jpg",
       "name": "叹气的亡灵想隐退",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/76/9a/481410_f635f.jpg",
+      "cover": "covers/481410.jpg",
       "ratingCount": 3572
     },
     {
@@ -9504,9 +9504,9 @@ const animeData = {
       "bangumiId": 389466,
       "year": 2024,
       "title": "约会大作战 第五季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2f/86/389466_2K1dH.jpg",
+      "coverUrl": "covers/389466.jpg",
       "name": "约会大作战 第五季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2f/86/389466_2K1dH.jpg",
+      "cover": "covers/389466.jpg",
       "ratingCount": 3511
     },
     {
@@ -9514,9 +9514,9 @@ const animeData = {
       "bangumiId": 438187,
       "year": 2024,
       "title": "勇气爆发 Bang Bravern",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3a/98/438187_scKt5.jpg",
+      "coverUrl": "covers/438187.jpg",
       "name": "勇气爆发 Bang Bravern",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3a/98/438187_scKt5.jpg",
+      "cover": "covers/438187.jpg",
       "ratingCount": 3295
     },
     {
@@ -9524,9 +9524,9 @@ const animeData = {
       "bangumiId": 463778,
       "year": 2024,
       "title": "在地下城寻求邂逅是否搞错了什么 第五季 丰饶的女神篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/bc/42/463778_AEsHA.jpg",
+      "coverUrl": "covers/463778.jpg",
       "name": "在地下城寻求邂逅是否搞错了什么 第五季 丰饶的女神篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bc/42/463778_AEsHA.jpg",
+      "cover": "covers/463778.jpg",
       "ratingCount": 3275
     },
     {
@@ -9534,9 +9534,9 @@ const animeData = {
       "bangumiId": 487684,
       "year": 2024,
       "title": "香格里拉边境 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e0/24/487684_nwsBN.jpg",
+      "coverUrl": "covers/487684.jpg",
       "name": "香格里拉边境 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e0/24/487684_nwsBN.jpg",
+      "cover": "covers/487684.jpg",
       "ratingCount": 3181
     }
   ],
@@ -9546,9 +9546,9 @@ const animeData = {
       "bangumiId": 454684,
       "year": 2025,
       "title": "BanG Dream! Ave Mujica",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/77/c3/454684_ZH5tU.jpg",
+      "coverUrl": "covers/454684.jpg",
       "name": "BanG Dream! Ave Mujica",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/77/c3/454684_ZH5tU.jpg",
+      "cover": "covers/454684.jpg",
       "ratingCount": 21913
     },
     {
@@ -9556,9 +9556,9 @@ const animeData = {
       "bangumiId": 509986,
       "year": 2025,
       "title": "末日后酒店",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/6e/1a/509986_99qsc.jpg",
+      "coverUrl": "covers/509986.jpg",
       "name": "末日后酒店",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6e/1a/509986_99qsc.jpg",
+      "cover": "covers/509986.jpg",
       "ratingCount": 16098
     },
     {
@@ -9566,9 +9566,9 @@ const animeData = {
       "bangumiId": 430699,
       "year": 2025,
       "title": "金牌得主",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3c/430699_hsj90.jpg",
+      "coverUrl": "covers/430699.jpg",
       "name": "金牌得主",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3c/430699_hsj90.jpg",
+      "cover": "covers/430699.jpg",
       "ratingCount": 13832
     },
     {
@@ -9576,9 +9576,9 @@ const animeData = {
       "bangumiId": 524707,
       "year": 2025,
       "title": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ae/03/524707_1quxk.jpg",
+      "coverUrl": "covers/524707.jpg",
       "name": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ae/03/524707_1quxk.jpg",
+      "cover": "covers/524707.jpg",
       "ratingCount": 11710
     },
     {
@@ -9586,9 +9586,9 @@ const animeData = {
       "bangumiId": 531159,
       "year": 2025,
       "title": "时光流逝，饭菜依旧美味",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d3/5d/531159_BayD9.jpg",
+      "coverUrl": "covers/531159.jpg",
       "name": "时光流逝，饭菜依旧美味",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/5d/531159_BayD9.jpg",
+      "cover": "covers/531159.jpg",
       "ratingCount": 11431
     },
     {
@@ -9596,9 +9596,9 @@ const animeData = {
       "bangumiId": 477825,
       "year": 2025,
       "title": "拔作岛",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/ee/a3/477825_5H55M.jpg",
+      "coverUrl": "covers/477825.jpg",
       "name": "拔作岛",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ee/a3/477825_5H55M.jpg",
+      "cover": "covers/477825.jpg",
       "ratingCount": 9931
     },
     {
@@ -9606,9 +9606,9 @@ const animeData = {
       "bangumiId": 487630,
       "year": 2025,
       "title": "我独自升级 第二季 -起于暗影-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d8/5d/487630_5YZQ6.jpg",
+      "coverUrl": "covers/487630.jpg",
       "name": "我独自升级 第二季 -起于暗影-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/5d/487630_5YZQ6.jpg",
+      "cover": "covers/487630.jpg",
       "ratingCount": 9715
     },
     {
@@ -9616,9 +9616,9 @@ const animeData = {
       "bangumiId": 565802,
       "year": 2025,
       "title": "辉夜大小姐想让我告白 通往大人的阶梯",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9b/f5/565802_PRfRL.jpg",
+      "coverUrl": "covers/565802.jpg",
       "name": "辉夜大小姐想让我告白 通往大人的阶梯",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9b/f5/565802_PRfRL.jpg",
+      "cover": "covers/565802.jpg",
       "ratingCount": 9605
     },
     {
@@ -9626,9 +9626,9 @@ const animeData = {
       "bangumiId": 515880,
       "year": 2025,
       "title": "碧蓝之海 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d6/29/515880_96Oxr.jpg",
+      "coverUrl": "covers/515880.jpg",
       "name": "碧蓝之海 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d6/29/515880_96Oxr.jpg",
+      "cover": "covers/515880.jpg",
       "ratingCount": 9295
     },
     {
@@ -9636,9 +9636,9 @@ const animeData = {
       "bangumiId": 512190,
       "year": 2025,
       "title": "琉璃的宝石",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/27/d7/512190_3FtCT.jpg",
+      "coverUrl": "covers/512190.jpg",
       "name": "琉璃的宝石",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/d7/512190_3FtCT.jpg",
+      "cover": "covers/512190.jpg",
       "ratingCount": 9292
     },
     {
@@ -9646,9 +9646,9 @@ const animeData = {
       "bangumiId": 398951,
       "year": 2025,
       "title": "更衣人偶坠入爱河 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/38/44/398951_M97dM.jpg",
+      "coverUrl": "covers/398951.jpg",
       "name": "更衣人偶坠入爱河 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/38/44/398951_M97dM.jpg",
+      "cover": "covers/398951.jpg",
       "ratingCount": 9228
     },
     {
@@ -9656,9 +9656,9 @@ const animeData = {
       "bangumiId": 529431,
       "year": 2025,
       "title": "胆大党 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/4a/2b/529431_a7joa.jpg",
+      "coverUrl": "covers/529431.jpg",
       "name": "胆大党 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/2b/529431_a7joa.jpg",
+      "cover": "covers/529431.jpg",
       "ratingCount": 9071
     },
     {
@@ -9666,9 +9666,9 @@ const animeData = {
       "bangumiId": 509297,
       "year": 2025,
       "title": "赛马娘 芦毛灰姑娘",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9e/fa/509297_VQ3P9.jpg",
+      "coverUrl": "covers/509297.jpg",
       "name": "赛马娘 芦毛灰姑娘",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9e/fa/509297_VQ3P9.jpg",
+      "cover": "covers/509297.jpg",
       "ratingCount": 9041
     },
     {
@@ -9676,9 +9676,9 @@ const animeData = {
       "bangumiId": 526816,
       "year": 2025,
       "title": "机动战士高达 GQuuuuuuX",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/27/84/526816_i7w6d.jpg",
+      "coverUrl": "covers/526816.jpg",
       "name": "机动战士高达 GQuuuuuuX",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/84/526816_i7w6d.jpg",
+      "cover": "covers/526816.jpg",
       "ratingCount": 8848
     },
     {
@@ -9686,9 +9686,9 @@ const animeData = {
       "bangumiId": 514358,
       "year": 2025,
       "title": "小城日常",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b2/c2/514358_oRoZH.jpg",
+      "coverUrl": "covers/514358.jpg",
       "name": "小城日常",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/c2/514358_oRoZH.jpg",
+      "cover": "covers/514358.jpg",
       "ratingCount": 8493
     },
     {
@@ -9696,9 +9696,9 @@ const animeData = {
       "bangumiId": 485936,
       "year": 2025,
       "title": "mono女孩",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a6/39/485936_y0bX8.jpg",
+      "coverUrl": "covers/485936.jpg",
       "name": "mono女孩",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a6/39/485936_y0bX8.jpg",
+      "cover": "covers/485936.jpg",
       "ratingCount": 8101
     },
     {
@@ -9706,9 +9706,9 @@ const animeData = {
       "bangumiId": 363957,
       "year": 2025,
       "title": "夏日口袋",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/23/ce/363957_pgptl.jpg",
+      "coverUrl": "covers/363957.jpg",
       "name": "夏日口袋",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/23/ce/363957_pgptl.jpg",
+      "cover": "covers/363957.jpg",
       "ratingCount": 8059
     },
     {
@@ -9716,9 +9716,9 @@ const animeData = {
       "bangumiId": 510728,
       "year": 2025,
       "title": "Re：从零开始的异世界生活 第三季 反击篇",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2e/d7/510728_P22GO.jpg",
+      "coverUrl": "covers/510728.jpg",
       "name": "Re：从零开始的异世界生活 第三季 反击篇",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2e/d7/510728_P22GO.jpg",
+      "cover": "covers/510728.jpg",
       "ratingCount": 7592
     },
     {
@@ -9726,9 +9726,9 @@ const animeData = {
       "bangumiId": 506677,
       "year": 2025,
       "title": "Silent Witch 沉默魔女的秘密",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a0/60/506677_B74d5.jpg",
+      "coverUrl": "covers/506677.jpg",
       "name": "Silent Witch 沉默魔女的秘密",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a0/60/506677_B74d5.jpg",
+      "cover": "covers/506677.jpg",
       "ratingCount": 7306
     },
     {
@@ -9736,9 +9736,9 @@ const animeData = {
       "bangumiId": 486347,
       "year": 2025,
       "title": "药屋少女的呢喃 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b3/486347_jKVqi.jpg",
+      "coverUrl": "covers/486347.jpg",
       "name": "药屋少女的呢喃 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b3/486347_jKVqi.jpg",
+      "cover": "covers/486347.jpg",
       "ratingCount": 7205
     },
     {
@@ -9746,9 +9746,9 @@ const animeData = {
       "bangumiId": 471793,
       "year": 2025,
       "title": "超超超超超喜欢你的100个女朋友 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
+      "coverUrl": "covers/471793.jpg",
       "name": "超超超超超喜欢你的100个女朋友 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
+      "cover": "covers/471793.jpg",
       "ratingCount": 7162
     },
     {
@@ -9756,9 +9756,9 @@ const animeData = {
       "bangumiId": 390555,
       "year": 2025,
       "title": "新 吊带袜天使",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/52/88/390555_11QS3.jpg",
+      "coverUrl": "covers/390555.jpg",
       "name": "新 吊带袜天使",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/52/88/390555_11QS3.jpg",
+      "cover": "covers/390555.jpg",
       "ratingCount": 6977
     },
     {
@@ -9766,9 +9766,9 @@ const animeData = {
       "bangumiId": 528438,
       "year": 2025,
       "title": "明天，美食广场见。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/0d/5b/528438_cyCPQ.jpg",
+      "coverUrl": "covers/528438.jpg",
       "name": "明天，美食广场见。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0d/5b/528438_cyCPQ.jpg",
+      "cover": "covers/528438.jpg",
       "ratingCount": 6877
     },
     {
@@ -9776,9 +9776,9 @@ const animeData = {
       "bangumiId": 506672,
       "year": 2025,
       "title": "魔女与使魔",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5e/4f/506672_K9EQT.jpg",
+      "coverUrl": "covers/506672.jpg",
       "name": "魔女与使魔",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5e/4f/506672_K9EQT.jpg",
+      "cover": "covers/506672.jpg",
       "ratingCount": 6542
     },
     {
@@ -9786,9 +9786,9 @@ const animeData = {
       "bangumiId": 513345,
       "year": 2025,
       "title": "薰香花朵凛然绽放",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b8/0d/513345_jv4wM.jpg",
+      "coverUrl": "covers/513345.jpg",
       "name": "薰香花朵凛然绽放",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b8/0d/513345_jv4wM.jpg",
+      "cover": "covers/513345.jpg",
       "ratingCount": 6299
     },
     {
@@ -9796,9 +9796,9 @@ const animeData = {
       "bangumiId": 504678,
       "year": 2025,
       "title": "摇滚乃是淑女的爱好",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c4/b5/504678_iCezc.jpg",
+      "coverUrl": "covers/504678.jpg",
       "name": "摇滚乃是淑女的爱好",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c4/b5/504678_iCezc.jpg",
+      "cover": "covers/504678.jpg",
       "ratingCount": 6126
     },
     {
@@ -9806,9 +9806,9 @@ const animeData = {
       "bangumiId": 486039,
       "year": 2025,
       "title": "全修。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/40/cc/486039_0S1ar.jpg",
+      "coverUrl": "covers/486039.jpg",
       "name": "全修。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/40/cc/486039_0S1ar.jpg",
+      "cover": "covers/486039.jpg",
       "ratingCount": 6100
     },
     {
@@ -9816,9 +9816,9 @@ const animeData = {
       "bangumiId": 491569,
       "year": 2025,
       "title": "忍者与杀手二人组的日常生活",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/15/a3/491569_R42i0.jpg",
+      "coverUrl": "covers/491569.jpg",
       "name": "忍者与杀手二人组的日常生活",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/a3/491569_R42i0.jpg",
+      "cover": "covers/491569.jpg",
       "ratingCount": 6001
     },
     {
@@ -9826,9 +9826,9 @@ const animeData = {
       "bangumiId": 484623,
       "year": 2025,
       "title": "彻夜之歌 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/15/5f/484623_6EWej.jpg",
+      "coverUrl": "covers/484623.jpg",
       "name": "彻夜之歌 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/5f/484623_6EWej.jpg",
+      "cover": "covers/484623.jpg",
       "ratingCount": 5926
     },
     {
@@ -9836,9 +9836,9 @@ const animeData = {
       "bangumiId": 498378,
       "year": 2025,
       "title": "间谍过家家 第三季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3d/79/498378_3ycrL.jpg",
+      "coverUrl": "covers/498378.jpg",
       "name": "间谍过家家 第三季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3d/79/498378_3ycrL.jpg",
+      "cover": "covers/498378.jpg",
       "ratingCount": 5831
     },
     {
@@ -9846,9 +9846,9 @@ const animeData = {
       "bangumiId": 526448,
       "year": 2025,
       "title": "古诺希亚",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/17/82/526448_ssr71.jpg",
+      "coverUrl": "covers/526448.jpg",
       "name": "古诺希亚",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/82/526448_ssr71.jpg",
+      "cover": "covers/526448.jpg",
       "ratingCount": 5779
     },
     {
@@ -9856,9 +9856,9 @@ const animeData = {
       "bangumiId": 473497,
       "year": 2025,
       "title": "中年上班族转生恶役",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c5/4f/473497_xuDG1.jpg",
+      "coverUrl": "covers/473497.jpg",
       "name": "中年上班族转生恶役",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/4f/473497_xuDG1.jpg",
+      "cover": "covers/473497.jpg",
       "ratingCount": 5008
     },
     {
@@ -9866,9 +9866,9 @@ const animeData = {
       "bangumiId": 446296,
       "year": 2025,
       "title": "拉撒路",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/29/22/446296_rRM5n.jpg",
+      "coverUrl": "covers/446296.jpg",
       "name": "拉撒路",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/22/446296_rRM5n.jpg",
+      "cover": "covers/446296.jpg",
       "ratingCount": 4850
     },
     {
@@ -9876,9 +9876,9 @@ const animeData = {
       "bangumiId": 467930,
       "year": 2025,
       "title": "青春猪头少年不会梦到圣诞服女郎",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/d3/a3/467930_jH4s4.jpg",
+      "coverUrl": "covers/467930.jpg",
       "name": "青春猪头少年不会梦到圣诞服女郎",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/a3/467930_jH4s4.jpg",
+      "cover": "covers/467930.jpg",
       "ratingCount": 4818
     },
     {
@@ -9886,9 +9886,9 @@ const animeData = {
       "bangumiId": 513018,
       "year": 2025,
       "title": "小市民系列 第二季",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/e3/4e/513018_as6S2.jpg",
+      "coverUrl": "covers/513018.jpg",
       "name": "小市民系列 第二季",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e3/4e/513018_as6S2.jpg",
+      "cover": "covers/513018.jpg",
       "ratingCount": 4756
     },
     {
@@ -9896,9 +9896,9 @@ const animeData = {
       "bangumiId": 507634,
       "year": 2025,
       "title": "弹珠汽水瓶里的千岁同学",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/7a/e8/507634_i9u9F.jpg",
+      "coverUrl": "covers/507634.jpg",
       "name": "弹珠汽水瓶里的千岁同学",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7a/e8/507634_i9u9F.jpg",
+      "cover": "covers/507634.jpg",
       "ratingCount": 4565
     },
     {
@@ -9906,9 +9906,9 @@ const animeData = {
       "bangumiId": 545328,
       "year": 2025,
       "title": "银河特急 银河☆地铁",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/46/4d/545328_2RRhx.jpg",
+      "coverUrl": "covers/545328.jpg",
       "name": "银河特急 银河☆地铁",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/46/4d/545328_2RRhx.jpg",
+      "cover": "covers/545328.jpg",
       "ratingCount": 4387
     },
     {
@@ -9916,9 +9916,9 @@ const animeData = {
       "bangumiId": 520842,
       "year": 2025,
       "title": "对我垂涎欲滴的非人少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/2c/af/520842_J06fL.jpg",
+      "coverUrl": "covers/520842.jpg",
       "name": "对我垂涎欲滴的非人少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2c/af/520842_J06fL.jpg",
+      "cover": "covers/520842.jpg",
       "ratingCount": 4182
     },
     {
@@ -9926,9 +9926,9 @@ const animeData = {
       "bangumiId": 498934,
       "year": 2025,
       "title": "群花绽放，彷如修罗",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/b8/26/498934_KffF9.jpg",
+      "coverUrl": "covers/498934.jpg",
       "name": "群花绽放，彷如修罗",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b8/26/498934_KffF9.jpg",
+      "cover": "covers/498934.jpg",
       "ratingCount": 4181
     },
     {
@@ -9936,9 +9936,9 @@ const animeData = {
       "bangumiId": 496617,
       "year": 2025,
       "title": "坂本日常",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/09/b4/496617_291T2.jpg",
+      "coverUrl": "covers/496617.jpg",
       "name": "坂本日常",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/09/b4/496617_291T2.jpg",
+      "cover": "covers/496617.jpg",
       "ratingCount": 4103
     },
     {
@@ -9946,9 +9946,9 @@ const animeData = {
       "bangumiId": 511207,
       "year": 2025,
       "title": "前桥魔女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a8/e1/511207_gAoK3.jpg",
+      "coverUrl": "covers/511207.jpg",
       "name": "前桥魔女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/e1/511207_gAoK3.jpg",
+      "cover": "covers/511207.jpg",
       "ratingCount": 4102
     },
     {
@@ -9956,9 +9956,9 @@ const animeData = {
       "bangumiId": 510256,
       "year": 2025,
       "title": "与游戏中心的少女异文化交流的故事",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/55/d5/510256_09w10.jpg",
+      "coverUrl": "covers/510256.jpg",
       "name": "与游戏中心的少女异文化交流的故事",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/55/d5/510256_09w10.jpg",
+      "cover": "covers/510256.jpg",
       "ratingCount": 4090
     },
     {
@@ -9966,9 +9966,9 @@ const animeData = {
       "bangumiId": 530377,
       "year": 2025,
       "title": "赛马娘 芦毛灰姑娘 第2部分",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ee/530377_sLCN8.jpg",
+      "coverUrl": "covers/530377.jpg",
       "name": "赛马娘 芦毛灰姑娘 第2部分",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ee/530377_sLCN8.jpg",
+      "cover": "covers/530377.jpg",
       "ratingCount": 4043
     },
     {
@@ -9976,9 +9976,9 @@ const animeData = {
       "bangumiId": 518090,
       "year": 2025,
       "title": "九龙大众浪漫",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/3e/a1/518090_lCsju.jpg",
+      "coverUrl": "covers/518090.jpg",
       "name": "九龙大众浪漫",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3e/a1/518090_lCsju.jpg",
+      "cover": "covers/518090.jpg",
       "ratingCount": 3941
     },
     {
@@ -9986,9 +9986,9 @@ const animeData = {
       "bangumiId": 502142,
       "year": 2025,
       "title": "Clevatess-魔兽之王与婴儿与尸之勇者-",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/5c/49/502142_XG5pA.jpg",
+      "coverUrl": "covers/502142.jpg",
       "name": "Clevatess-魔兽之王与婴儿与尸之勇者-",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5c/49/502142_XG5pA.jpg",
+      "cover": "covers/502142.jpg",
       "ratingCount": 3914
     },
     {
@@ -9996,9 +9996,9 @@ const animeData = {
       "bangumiId": 395493,
       "year": 2025,
       "title": "男女之间的友情存在吗？（不，不存在!!）",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/17/74/395493_FAWf3.jpg",
+      "coverUrl": "covers/395493.jpg",
       "name": "男女之间的友情存在吗？（不，不存在!!）",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/74/395493_FAWf3.jpg",
+      "cover": "covers/395493.jpg",
       "ratingCount": 3791
     },
     {
@@ -10006,9 +10006,9 @@ const animeData = {
       "bangumiId": 501614,
       "year": 2025,
       "title": "不良少女",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/df/1b/501614_SzXy2.jpg",
+      "coverUrl": "covers/501614.jpg",
       "name": "不良少女",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/df/1b/501614_SzXy2.jpg",
+      "cover": "covers/501614.jpg",
       "ratingCount": 3706
     },
     {
@@ -10016,9 +10016,9 @@ const animeData = {
       "bangumiId": 496086,
       "year": 2025,
       "title": "光死去的夏天",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/c6/a6/496086_2tPPi.jpg",
+      "coverUrl": "covers/496086.jpg",
       "name": "光死去的夏天",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c6/a6/496086_2tPPi.jpg",
+      "cover": "covers/496086.jpg",
       "ratingCount": 3585
     },
     {
@@ -10026,9 +10026,9 @@ const animeData = {
       "bangumiId": 501023,
       "year": 2025,
       "title": "我和班上最讨厌的女生结婚了。",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/a3/f5/501023_yl6U2.jpg",
+      "coverUrl": "covers/501023.jpg",
       "name": "我和班上最讨厌的女生结婚了。",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a3/f5/501023_yl6U2.jpg",
+      "cover": "covers/501023.jpg",
       "ratingCount": 3461
     },
     {
@@ -10036,9 +10036,9 @@ const animeData = {
       "bangumiId": 445827,
       "year": 2025,
       "title": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS",
-      "coverUrl": "https://lain.bgm.tv/r/400/pic/cover/l/8f/8a/445827_L6Zh0.jpg",
+      "coverUrl": "covers/445827.jpg",
       "name": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS",
-      "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8f/8a/445827_L6Zh0.jpg",
+      "cover": "covers/445827.jpg",
       "ratingCount": 3268
     }
   ]

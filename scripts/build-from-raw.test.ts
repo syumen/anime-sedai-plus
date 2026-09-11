@@ -24,6 +24,32 @@ afterEach(async () => {
 
 const item = (id: number | string, name = `Title ${id}`) => ({ id, name, cover: "https://lain.bgm.tv/pic/test.jpg" })
 
+test("prefers exact Subject ID jpg files and preserves remote fallback, order and metadata", async () => {
+  const root = await fixture({
+    [SOURCE_FILENAME]: { years: { "2025": { items: [
+      { ...item(99, "same name"), ratingCount: 300 },
+      { ...item(12, "same name"), ratingCount: 200 },
+      item(30), item(40),
+    ] } } },
+  })
+  const covers = path.join(root, "public/covers")
+  await mkdir(covers, { recursive: true })
+  await writeFile(path.join(covers, "99.jpg"), "local fixture")
+  await writeFile(path.join(covers, "12.png"), "wrong extension")
+  await mkdir(path.join(covers, "30.jpg"))
+  await writeFile(path.join(covers, "999.jpg"), "extra cover")
+  const { data } = await buildFromRaw({ projectRoot: root })
+  expect(data["2025"]!.map(entry => entry.id)).toEqual([99, 12, 30, 40])
+  expect(data["2025"]![0]).toMatchObject({
+    bangumiId: 99, year: 2025, title: "same name", name: "same name", ratingCount: 300,
+    coverUrl: "covers/99.jpg", cover: "covers/99.jpg",
+  })
+  for (const entry of data["2025"]!.slice(1)) expect(entry.coverUrl).toBe("https://lain.bgm.tv/pic/test.jpg")
+  expect(data["2025"]![1]!.ratingCount).toBe(200)
+  const generated = await import(`${path.join(root, "anime-data.js")}?local-covers`)
+  expect(generated.default).toEqual(data)
+})
+
 test("reads only the selected dataset, preserving raw order and deduplicating within each year", async () => {
   const root = await fixture({
     [SOURCE_FILENAME]: { meta: {}, years: {

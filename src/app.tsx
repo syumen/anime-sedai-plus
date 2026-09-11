@@ -214,7 +214,10 @@ export const App = () => {
                             `}
                             title={displayTitle}
                             onPointerDown={(event) => {
-                              if (coverPreview.begin(event, item.coverUrl)) {
+                              const coverUrl = item.coverUrl?.startsWith("covers/")
+                                ? `${import.meta.env.BASE_URL}${item.coverUrl}`
+                                : item.coverUrl
+                              if (coverPreview.begin(event, coverUrl)) {
                                 event.currentTarget.setPointerCapture(event.pointerId)
                               }
                             }}

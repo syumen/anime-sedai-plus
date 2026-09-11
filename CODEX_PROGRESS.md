@@ -1,28 +1,20 @@
-Current Stage: final UI complete
+Current Stage: local anime covers complete
 
 Dataset:
-2006–2025
-50/year
-1000 total
+- 2006–2025; 50/year; 1000 total
+- IDs, titles, years, order and ratingCount unchanged
 
 Completed:
-- watched tracking
-- LocalStorage
-- statistics
-- long press cover preview
-- responsive UI review
-- mobile layout verified
+- 1000 existing .jpg covers matched by Bangumi Subject ID
+- Missing: 0; extra: 0; remote fallback: 0
+- Builder generates relative covers/{id}.jpg and keeps remote fallback when a file is absent
+- Preview resolves local paths through import.meta.env.BASE_URL
+- anime-data.js contains no lain.bgm.tv addresses
+- Covers remain on demand; no initial image requests
+- VPN left enabled; 5 different years verified with real local images
+- Root and /anime-watch-table/ builds: 5 local HTTP 200 image requests each; no Bangumi image requests
+- Long press release preserves watched state; existing interaction and UI unchanged
+- 24 tests, TypeScript check and existing Bun build passed
 
-Verification:
-- Desktop: 1440px / 11 columns; 1920px / 16 columns; years vertically centered
-- Mobile: 390px / 4 columns; 44px cells; no horizontal overflow; scrolling verified
-- Titles: 12px desktop / 11px mobile; maximum two lines; full title tooltip retained
-- Click, cancel, refresh persistence, statistics and mouse/touch long press regression passed
-- 80%, 67% and 50% zoom simulated with scaled viewports; no overlapping cells
-- Native pinch remains enabled by viewport and touch-action; no physical device pinch test
-- 23 tests and TypeScript check passed; direct Vite build passed without rebuilding data
-- Final production page reload: 1000 items, no new JavaScript errors
-- Data, watched storage and long press interaction logic unchanged
-
-Next:
-- deployment
+Problems:
+- None
