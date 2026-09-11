@@ -138,9 +138,9 @@ export const App = () => {
   return (
     <>
       <div className="flex flex-col gap-4 pb-10">
-        <div className="p-4 flex flex-col md:items-center">
+        <div className="px-2 py-3 md:p-4 flex flex-col md:items-center">
           <div
-            className="self-start mb-4 text-green-700 tabular-nums"
+            className="self-start mb-2 text-sm text-green-700 tabular-nums"
             role="status"
             aria-live="polite"
             aria-atomic="true"
@@ -148,9 +148,9 @@ export const App = () => {
             <div className="font-bold">
               {t("watchedCount", { count: watchedCount, total: totalAnime })}
             </div>
-            <div className="text-sm">{watchedPercentage}%</div>
+            <div className="text-xs">{watchedPercentage}%</div>
           </div>
-          <div className="flex w-full flex-col gap-2 mb-4 md:flex-row md:items-center md:justify-center">
+          <div className="flex w-full flex-wrap items-center gap-2 mb-3 md:justify-center">
             <div className="flex items-center gap-2">
               <span className="text-sm text-gray-600">{t("yearRange")}:</span>
               <select
@@ -169,13 +169,13 @@ export const App = () => {
             </div>
             <LanguageToggle />
           </div>
-          <div className="w-full overflow-x-auto">
+          <div className="w-full min-w-0">
             <div
               className="anime-catalog flex flex-col border border-b-0 bg-white mx-auto"
               ref={wrapper}
             >
-              <div className="border-b justify-between p-2 text-lg  font-bold flex">
-                <h1>
+              <div className="border-b justify-between p-2 text-sm md:text-base font-bold flex">
+                <h1 className="min-w-0 break-words">
                   {t("title")}
                   <span className="remove"> - {t("subtitle")}</span>
                   <span className="ml-2 text-zinc-400 font-medium">
@@ -187,22 +187,8 @@ export const App = () => {
                 const items = animeData[year] || []
                 return (
                   <div key={year} className="flex border-b" data-year={year}>
-                    <div
-                      className={`
-                      bg-red-500 shrink-0 text-white flex items-start font-bold justify-center p-1 border-black
-                      min-h-16 md:min-h-20
-                      ${language === "en" ? "w-16 md:w-20" : "w-16 md:w-20"}
-                    `}
-                    >
-                      <span
-                        className={`${
-                          language === "en"
-                            ? "text-sm md:text-base"
-                            : "text-base"
-                        } text-center sticky top-4 py-3`}
-                      >
-                        {year}
-                      </span>
+                    <div className="anime-year-label bg-red-500 shrink-0 text-white flex items-center font-bold justify-center p-1">
+                      <span>{year}</span>
                     </div>
                     <div className="anime-year-items">
                       {items.map((item) => {
@@ -217,9 +203,8 @@ export const App = () => {
                             aria-label={displayTitle}
                             aria-pressed={isWatched}
                             className={`
-                              anime-cell border-l break-words text-center flex flex-col items-center
-                              p-1 gap-1 overflow-hidden cursor-pointer
-                              ${language === "en" ? "text-xs" : "text-sm"} 
+                              anime-cell break-words text-center flex flex-col items-center
+                              overflow-hidden cursor-pointer
                               ${
                                 isWatched
                                   ? "bg-green-500 text-black"
@@ -253,13 +238,7 @@ export const App = () => {
                               })
                             }}
                           >
-                            <span
-                              className={`leading-tight w-full ${
-                                language === "en"
-                                  ? "line-clamp-4"
-                                  : "line-clamp-3"
-                              }`}
-                            >
+                            <span className="leading-snug w-full line-clamp-2">
                               {displayTitle}
                             </span>
                           </button>

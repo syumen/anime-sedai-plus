@@ -17,7 +17,7 @@ export const translations = {
     copying: "复制中",
     downloading: "下载中",
     unknownError: "未知错误",
-    footer: "日本 TV 动画，按本地 Bangumi 清单顺序展示，原项目由",
+    footer: "日本 TV 动画，按Bangumi评分人数前五十顺序展示，原项目由",
     madeBy: "制作，",
     viewCode: "查看代码",
     yearRange: "年份范围",

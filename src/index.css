@@ -5,13 +5,20 @@ button {
 }
 
 .anime-catalog {
-  max-width: 1100px;
   width: 100%;
+}
+
+.anime-year-label {
+  width: 4rem;
+  font-size: 14px;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
 }
 
 .anime-year-items {
   display: grid;
-  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 7rem), 1fr));
+  grid-auto-rows: 44px;
   flex: 1;
   min-width: 0;
   align-items: stretch;
@@ -19,8 +26,10 @@ button {
 
 .anime-cell {
   min-width: 0;
-  min-height: 5rem;
+  padding: 4px;
+  font-size: 12px;
   justify-content: center;
+  border-left: 1px solid #e4e4e7;
   border-bottom: 1px solid #e4e4e7;
   user-select: none;
   -webkit-user-select: none;
@@ -45,10 +54,10 @@ button {
   .cover-preview { width: 190px; }
 }
 
-@media (max-width: 900px) {
-  .anime-year-items { grid-template-columns: repeat(8, minmax(0, 1fr)); }
-}
-
 @media (max-width: 600px) {
-  .anime-year-items { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .anime-year-label { width: 2.75rem; font-size: 13px; }
+  .anime-year-items {
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 4.25rem), 1fr));
+  }
+  .anime-cell { font-size: 11px; padding: 3px; }
 }
