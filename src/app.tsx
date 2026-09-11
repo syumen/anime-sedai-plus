@@ -1,10 +1,12 @@
 import { useMemo, useRef, useEffect } from "react"
-import animeData, { getAnimeTitle } from "../anime-data"
+import animeData from "../anime-data.js"
 import { domToBlob } from "modern-screenshot"
 import { toast } from "sonner"
 import { usePersistState } from "./hooks"
 import { useI18n } from "./i18n-context"
 import { LanguageToggle } from "./LanguageToggle"
+import { useWatchedAnime } from "./use-watched-anime"
+import { watchedKey } from "./watched-state"
 
 type YearRange = "5" | "10" | "15" | "all"
 
@@ -13,11 +15,7 @@ const allYears = Object.keys(animeData).sort((a, b) => Number(a) - Number(b))
 
 export const App = () => {
   const { t, language } = useI18n()
-  const [watchedAnime, setWatchedAnime] = usePersistState<string[]>(
-    // Keep the original storage key and unique Chinese titles to preserve saved marks.
-    "selectedAnime",
-    []
-  )
+  const [watchedAnime, setWatchedAnime] = useWatchedAnime()
   const [yearRange, setYearRange] = usePersistState<YearRange>(
     "yearRange",
     "all"
@@ -34,7 +32,7 @@ export const App = () => {
   const visibleAnimeKeys = useMemo(() => {
     return visibleYears.flatMap((year) => {
       const items = animeData[year] || []
-      return items.slice(0, 12).map((item) => getAnimeTitle(item, "zh"))
+      return items.map((item) => watchedKey(item.id))
     })
   }, [visibleYears])
 
@@ -152,7 +150,7 @@ export const App = () => {
           </div>
           <div className="w-full overflow-x-auto">
             <div
-              className="flex flex-col border border-b-0 bg-white w-fit mx-auto"
+              className="anime-catalog flex flex-col border border-b-0 bg-white mx-auto"
               ref={wrapper}
             >
               <div className="border-b justify-between p-2 text-lg  font-bold flex">
@@ -167,11 +165,11 @@ export const App = () => {
               {visibleYears.map((year) => {
                 const items = animeData[year] || []
                 return (
-                  <div key={year} className="flex border-b">
+                  <div key={year} className="flex border-b" data-year={year}>
                     <div
                       className={`
-                      bg-red-500 shrink-0 text-white flex items-center font-bold justify-center p-1 border-black
-                      h-16 md:h-20 
+                      bg-red-500 shrink-0 text-white flex items-start font-bold justify-center p-1 border-black
+                      min-h-16 md:min-h-20
                       ${language === "en" ? "w-16 md:w-20" : "w-16 md:w-20"}
                     `}
                     >
@@ -180,30 +178,26 @@ export const App = () => {
                           language === "en"
                             ? "text-sm md:text-base"
                             : "text-base"
-                        } text-center`}
+                        } text-center sticky top-4 py-3`}
                       >
                         {year}
                       </span>
                     </div>
-                    <div className="flex shrink-0">
-                      {items.slice(0, 12).map((item) => {
-                        const animeKey = getAnimeTitle(item, "zh")
-                        const displayTitle = getAnimeTitle(item, language)
+                    <div className="anime-year-items">
+                      {items.map((item) => {
+                        const animeKey = watchedKey(item.id)
+                        const displayTitle = item.name.trim() ? item.name : `#${item.id}`
                         const isWatched = watchedAnimeKeySet.has(animeKey)
                         return (
                           <button
                             key={animeKey}
                             type="button"
+                            data-anime-id={item.id}
+                            aria-label={displayTitle}
                             aria-pressed={isWatched}
                             className={`
-                              h-16 md:h-20 
-                              ${
-                                language === "en"
-                                  ? "w-20 md:w-24"
-                                  : "w-16 md:w-20"
-                              }
-                              border-l break-words text-center shrink-0 inline-flex items-center 
-                              p-1 overflow-hidden justify-center cursor-pointer 
+                              anime-cell border-l break-words text-center flex flex-col items-center
+                              p-1 gap-1 overflow-hidden cursor-pointer
                               ${language === "en" ? "text-xs" : "text-sm"} 
                               ${
                                 isWatched
@@ -224,6 +218,18 @@ export const App = () => {
                               })
                             }}
                           >
+                            <span className="anime-cover bg-zinc-100" aria-hidden="true">
+                              {item.cover ? (
+                                <img
+                                  src={item.cover}
+                                  alt=""
+                                  loading="lazy"
+                                  decoding="async"
+                                  referrerPolicy="no-referrer"
+                                  onError={(event) => { event.currentTarget.hidden = true }}
+                                />
+                              ) : <span className="text-zinc-400">—</span>}
+                            </span>
                             <span
                               className={`leading-tight w-full ${
                                 language === "en"
@@ -236,24 +242,6 @@ export const App = () => {
                           </button>
                         )
                       })}
-                      {Array.from(
-                        { length: Math.max(0, 12 - items.length) },
-                        (_, index) => (
-                          <div
-                            key={`empty-${index}`}
-                            className={`
-                            h-16 md:h-20 
-                            ${
-                              language === "en"
-                                ? "w-20 md:w-24"
-                                : "w-16 md:w-20"
-                            }
-                            border-l bg-gray-50
-                          `}
-                          />
-                        )
-                      )}
-                      <div className="w-0 h-16 md:h-20 border-r" />
                     </div>
                   </div>
                 )
@@ -262,7 +250,7 @@ export const App = () => {
           </div>
         </div>
 
-        <div className="flex gap-2 justify-center">
+        <div className="flex flex-wrap gap-2 justify-center px-4">
           <button
             type="button"
             className="border rounded-md px-4 py-2 inline-flex"
@@ -272,7 +260,7 @@ export const App = () => {
                   return !visibleAnimeKeySet.has(title)
                 })
 
-                return [...hiddenWatchedAnime, ...visibleAnimeKeys]
+                return [...new Set([...hiddenWatchedAnime, ...visibleAnimeKeys])]
               })
             }}
           >

@@ -1,0 +1,6195 @@
+{
+  "meta": {
+    "source": "bgm.tv",
+    "region": "日本",
+    "category": "TV",
+    "crawlSort": "default",
+    "finalSort": "ratingCount-desc",
+    "topPerYear": 50,
+    "startYear": 2006,
+    "endYear": 2025,
+    "generatedAt": "2026-09-10T20:02:58.080Z"
+  },
+  "years": {
+    "2006": {
+      "fetchedTotal": 179,
+      "ratedTotal": 170,
+      "dataPages": 8,
+      "firstEmptyPage": 9,
+      "kept": 50,
+      "items": [
+        {
+          "id": 1773,
+          "name": "死亡笔记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/be/1773_rldoC.jpg",
+          "ratingCount": 25923
+        },
+        {
+          "id": 793,
+          "name": "Code Geass 反叛的鲁路修",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/da/8c/793_3y432.jpg",
+          "ratingCount": 22454
+        },
+        {
+          "id": 485,
+          "name": "凉宫春日的忧郁",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/21/8a/485_Et062.jpg",
+          "ratingCount": 19207
+        },
+        {
+          "id": 289,
+          "name": "寒蝉鸣泣之时",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/83/9a/289_h0nz0.jpg",
+          "ratingCount": 15538
+        },
+        {
+          "id": 290,
+          "name": "Fate/stay night",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f9/0f/290_6Qi5Q.jpg",
+          "ratingCount": 14069
+        },
+        {
+          "id": 247,
+          "name": "银魂",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3c/ec/247_MnPPU.jpg",
+          "ratingCount": 13909
+        },
+        {
+          "id": 995,
+          "name": "欢迎加入NHK！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2b/ca/995_1FUkm.jpg",
+          "ratingCount": 9196
+        },
+        {
+          "id": 1880,
+          "name": "零之使魔",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/14/1880_fsmcg.jpg",
+          "ratingCount": 8934
+        },
+        {
+          "id": 274,
+          "name": "Kanon",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/47/274_jNWMv.jpg",
+          "ratingCount": 7456
+        },
+        {
+          "id": 979,
+          "name": "黑礁",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c3/2d/979_Pw5W0.jpg",
+          "ratingCount": 6071
+        },
+        {
+          "id": 1487,
+          "name": "樱兰高校男公关部",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6d/3a/1487_LWPqQ.jpg",
+          "ratingCount": 5803
+        },
+        {
+          "id": 980,
+          "name": "黑礁 The Second Barrage",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d7/9a/980_b715Q.jpg",
+          "ratingCount": 5116
+        },
+        {
+          "id": 1373,
+          "name": "监狱兔 第一季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e5/6b/1373_zdYZ5.jpg",
+          "ratingCount": 4694
+        },
+        {
+          "id": 848,
+          "name": "蜂蜜与四叶草II",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/2e/848_RC9L8.jpg",
+          "ratingCount": 4499
+        },
+        {
+          "id": 2439,
+          "name": "×××HOLiC",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fc/79/2439_9R0oU.jpg",
+          "ratingCount": 4380
+        },
+        {
+          "id": 4562,
+          "name": "家庭教师HITMAN REBORN!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/44/54/4562_Ypy3y.jpg",
+          "ratingCount": 4362
+        },
+        {
+          "id": 486,
+          "name": "娜娜",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7d/04/486_Pk550.jpg",
+          "ratingCount": 3995
+        },
+        {
+          "id": 320,
+          "name": "攻壳机动队 S.A.C. Solid State Society",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/07/320_IyhUt.jpg",
+          "ratingCount": 3916
+        },
+        {
+          "id": 2460,
+          "name": "搞笑漫画日和2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e9/41/2460_78W8w.jpg",
+          "ratingCount": 3307
+        },
+        {
+          "id": 1878,
+          "name": "校园迷糊大王 二学期",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dc/5d/1878_bO9qG.jpg",
+          "ratingCount": 2999
+        },
+        {
+          "id": 1261,
+          "name": "地狱少女 二笼",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/32/1261_FHud0.jpg",
+          "ratingCount": 2972
+        },
+        {
+          "id": 1044,
+          "name": "传颂之物",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/10/19/1044_zOutt.jpg",
+          "ratingCount": 2934
+        },
+        {
+          "id": 1269,
+          "name": "水星领航员 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e0/04/1269_8hpU3.jpg",
+          "ratingCount": 2822
+        },
+        {
+          "id": 488,
+          "name": "驱魔少年",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c3/c5/488_PJu3N.jpg",
+          "ratingCount": 2007
+        },
+        {
+          "id": 5365,
+          "name": "蔷薇少女 序曲",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/05/5365_ZRtBk.jpg",
+          "ratingCount": 1656
+        },
+        {
+          "id": 3021,
+          "name": "宝可梦 钻石&珍珠",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/b9/3021_CUKiW.jpg",
+          "ratingCount": 1607
+        },
+        {
+          "id": 2813,
+          "name": "惊爆草莓",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/d3/2813_31Ekf.jpg",
+          "ratingCount": 1581
+        },
+        {
+          "id": 1839,
+          "name": "仰望半月的夜空",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/72/8f/1839_4dLsd.jpg",
+          "ratingCount": 1379
+        },
+        {
+          "id": 976,
+          "name": "怪 ～ayakashi ～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/01/976_FwSrS.jpg",
+          "ratingCount": 1377
+        },
+        {
+          "id": 2892,
+          "name": "翼·年代记 第二部",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6f/e1/2892_Zt44z.jpg",
+          "ratingCount": 1284
+        },
+        {
+          "id": 3828,
+          "name": "少女爱上姐姐",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/46/d3/3828_sYj4j.jpg",
+          "ratingCount": 1266
+        },
+        {
+          "id": 837,
+          "name": "死亡代理人",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b0/b1/837_60KBS.jpg",
+          "ratingCount": 1248
+        },
+        {
+          "id": 1531,
+          "name": "奇幻贵公子",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/ad/1531_6lLoW.jpg",
+          "ratingCount": 1231
+        },
+        {
+          "id": 4237,
+          "name": "兽爪",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5d/15/4237_vSS36.jpg",
+          "ratingCount": 1225
+        },
+        {
+          "id": 2010,
+          "name": "彩云国物语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d7/a8/2010_BERwz.jpg",
+          "ratingCount": 1146
+        },
+        {
+          "id": 1275,
+          "name": "我们的存在",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bb/04/1275_53DJl.jpg",
+          "ratingCount": 990
+        },
+        {
+          "id": 3156,
+          "name": "结界师",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/22/27/3156_2e6xt.jpg",
+          "ratingCount": 974
+        },
+        {
+          "id": 2281,
+          "name": "调酒师",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/46/2281_LPp2p.jpg",
+          "ratingCount": 969
+        },
+        {
+          "id": 4374,
+          "name": "少年阴阳师",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/52/6c/4374_1TrvT.jpg",
+          "ratingCount": 889
+        },
+        {
+          "id": 3152,
+          "name": "备长炭",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/cb/3152_8m3z9.jpg",
+          "ratingCount": 838
+        },
+        {
+          "id": 3132,
+          "name": "数码宝贝拯救者",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fb/26/3132_pKo8N.jpg",
+          "ratingCount": 741
+        },
+        {
+          "id": 1985,
+          "name": "金色琴弦～primo passo～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1f/36/1985_5zfYn.jpg",
+          "ratingCount": 679
+        },
+        {
+          "id": 1987,
+          "name": "完美小姐进化论",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d6/8a/1987_NE01q.jpg",
+          "ratingCount": 677
+        },
+        {
+          "id": 2319,
+          "name": "夜明前的琉璃色-Crescent Love-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a1/1f/2319_9DfDk.jpg",
+          "ratingCount": 676
+        },
+        {
+          "id": 3755,
+          "name": "西蒙",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/3b/3755_eEt2f.jpg",
+          "ratingCount": 667
+        },
+        {
+          "id": 8219,
+          "name": "魔法老师涅吉!?",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/00/8219_p5505.jpg",
+          "ratingCount": 667
+        },
+        {
+          "id": 9605,
+          "name": "我的女神 缤纷之翼",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/21/7d/9605_LpnL0.jpg",
+          "ratingCount": 643
+        },
+        {
+          "id": 1838,
+          "name": "死神的歌谣",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d7/65/1838_0F86Z.jpg",
+          "ratingCount": 636
+        },
+        {
+          "id": 30483,
+          "name": "家有色邻",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fb/22/30483_l8meA.jpg",
+          "ratingCount": 556
+        },
+        {
+          "id": 10704,
+          "name": "史上最强弟子兼一",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/da/cb/10704_l7Zy9.jpg",
+          "ratingCount": 556
+        }
+      ]
+    },
+    "2007": {
+      "fetchedTotal": 158,
+      "ratedTotal": 146,
+      "dataPages": 7,
+      "firstEmptyPage": 8,
+      "kept": 50,
+      "items": [
+        {
+          "id": 51,
+          "name": "CLANNAD",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/38/51_z0Ly8.jpg",
+          "ratingCount": 28483
+        },
+        {
+          "id": 276,
+          "name": "幸运星",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/db/8e/276_1Cr5K.jpg",
+          "ratingCount": 19069
+        },
+        {
+          "id": 770,
+          "name": "天元突破 红莲螺岩",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4e/a0/770_EvrMq.jpg",
+          "ratingCount": 16646
+        },
+        {
+          "id": 288,
+          "name": "寒蝉鸣泣之时 解",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/48/ae/288_HvHm5.jpg",
+          "ratingCount": 13112
+        },
+        {
+          "id": 965,
+          "name": "永生之酒",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ee/b6/965_2E7l6.jpg",
+          "ratingCount": 11701
+        },
+        {
+          "id": 292,
+          "name": "DARKER THAN BLACK -黑之契约者-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/00/292_86ZrF.jpg",
+          "ratingCount": 10004
+        },
+        {
+          "id": 827,
+          "name": "日在校园",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fa/3a/827_hh7ot.jpg",
+          "ratingCount": 9935
+        },
+        {
+          "id": 2782,
+          "name": "火影忍者疾风传",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/60/24/2782_z3jWE.jpg",
+          "ratingCount": 8119
+        },
+        {
+          "id": 799,
+          "name": "悠久之翼",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/26/799_C3Ypp.jpg",
+          "ratingCount": 7054
+        },
+        {
+          "id": 283,
+          "name": "南家三姐妹",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/49/283_qtWfz.jpg",
+          "ratingCount": 6939
+        },
+        {
+          "id": 3892,
+          "name": "赌博默示录",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fb/06/3892_xe6z2.jpg",
+          "ratingCount": 6849
+        },
+        {
+          "id": 491,
+          "name": "灼眼的夏娜II",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/55/9c/491_r0MnB.jpg",
+          "ratingCount": 6474
+        },
+        {
+          "id": 286,
+          "name": "机动战士高达00",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/16/a5/286_8Kxkz.jpg",
+          "ratingCount": 6407
+        },
+        {
+          "id": 1103,
+          "name": "零之使魔 双月骑士",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/aa/ce/1103_Gc1uq.jpg",
+          "ratingCount": 6076
+        },
+        {
+          "id": 299,
+          "name": "再见绝望先生",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/0d/299_0srrf.jpg",
+          "ratingCount": 6011
+        },
+        {
+          "id": 808,
+          "name": "旋风管家",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/ec/808_wmqKJ.jpg",
+          "ratingCount": 5641
+        },
+        {
+          "id": 805,
+          "name": "濑户的花嫁",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/6c/805_p6Jf6.jpg",
+          "ratingCount": 5407
+        },
+        {
+          "id": 794,
+          "name": "电脑线圈",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/82/48/794_tikkW.jpg",
+          "ratingCount": 4849
+        },
+        {
+          "id": 2496,
+          "name": "物怪",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/12/ff/2496_XYtR8.jpg",
+          "ratingCount": 4301
+        },
+        {
+          "id": 798,
+          "name": "sola",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9e/3c/798_Tsgqf.jpg",
+          "ratingCount": 4171
+        },
+        {
+          "id": 982,
+          "name": "大剑",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/c8/982_771Sn.jpg",
+          "ratingCount": 4009
+        },
+        {
+          "id": 1219,
+          "name": "现视研2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/15/1219_6W5mx.jpg",
+          "ratingCount": 2966
+        },
+        {
+          "id": 443,
+          "name": "交响情人梦",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/f3/443_8yZla.jpg",
+          "ratingCount": 2860
+        },
+        {
+          "id": 467,
+          "name": "地球防卫少年",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ab/81/467_me6C6.jpg",
+          "ratingCount": 2693
+        },
+        {
+          "id": 1264,
+          "name": "魔法少女奈叶StrikerS",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/8d/1264_VT1OS.jpg",
+          "ratingCount": 2381
+        },
+        {
+          "id": 1267,
+          "name": "王牌投手 振臂高挥",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b5/1a/1267_tRnJz.jpg",
+          "ratingCount": 2128
+        },
+        {
+          "id": 896,
+          "name": "向阳素描",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/06/14/896_sipL4.jpg",
+          "ratingCount": 2127
+        },
+        {
+          "id": 4193,
+          "name": "NHK15个动画短片",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/70/4193_acm67.jpg",
+          "ratingCount": 2125
+        },
+        {
+          "id": 2482,
+          "name": "萝莉的时间",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f5/5c/2482_5nN5D.jpg",
+          "ratingCount": 2021
+        },
+        {
+          "id": 2427,
+          "name": "守护甜心！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2a/aa/2427_7HCGi.jpg",
+          "ratingCount": 2019
+        },
+        {
+          "id": 1976,
+          "name": "精灵守护者",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/05/1976_2u2H8.jpg",
+          "ratingCount": 1843
+        },
+        {
+          "id": 58864,
+          "name": "监狱兔 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/ec/58864_RjuJb.jpg",
+          "ratingCount": 1741
+        },
+        {
+          "id": 4010,
+          "name": "剑豪生死斗",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/93/4010_4IYa1.jpg",
+          "ratingCount": 1722
+        },
+        {
+          "id": 3012,
+          "name": "萌菌物语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5a/01/3012_H4KKl.jpg",
+          "ratingCount": 1457
+        },
+        {
+          "id": 2396,
+          "name": "风之圣痕",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dc/f6/2396_kh7HJ.jpg",
+          "ratingCount": 1451
+        },
+        {
+          "id": 306,
+          "name": "我自己；你自己",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/eb/306_3M03m.jpg",
+          "ratingCount": 1414
+        },
+        {
+          "id": 1272,
+          "name": "竹剑少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/78/10/1272_ThY0x.jpg",
+          "ratingCount": 1261
+        },
+        {
+          "id": 2333,
+          "name": "蓝兰岛漂流记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f7/e0/2333_40X6d.jpg",
+          "ratingCount": 1193
+        },
+        {
+          "id": 308,
+          "name": "君吻 pure rouge",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/c8/308_JiaD2.jpg",
+          "ratingCount": 1148
+        },
+        {
+          "id": 3013,
+          "name": "节哀唷♥二之宫同学",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/10/3013_BQ04S.jpg",
+          "ratingCount": 1012
+        },
+        {
+          "id": 1309,
+          "name": "初音岛II",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/5a/1310_9l5VY.jpg",
+          "ratingCount": 985
+        },
+        {
+          "id": 1461,
+          "name": "虫之歌",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/95/15/1461_BNxvN.jpg",
+          "ratingCount": 974
+        },
+        {
+          "id": 2470,
+          "name": "校园乌托邦 学美向前冲！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7c/c2/2470_i77WJ.jpg",
+          "ratingCount": 921
+        },
+        {
+          "id": 2940,
+          "name": "恋爱情结",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/93/2940_5649o.jpg",
+          "ratingCount": 909
+        },
+        {
+          "id": 875,
+          "name": "爆炸头武士",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4b/0a/875_4XSsd.jpg",
+          "ratingCount": 862
+        },
+        {
+          "id": 13430,
+          "name": "鬼泣",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d7/73/13430_4uGSu.jpg",
+          "ratingCount": 858
+        },
+        {
+          "id": 1967,
+          "name": "英雄时代",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/2d/1967_EE8zY.jpg",
+          "ratingCount": 805
+        },
+        {
+          "id": 7218,
+          "name": "僵尸借贷",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e7/d6/7218_GslgG.jpg",
+          "ratingCount": 792
+        },
+        {
+          "id": 594,
+          "name": "健康全裸游泳社 海商",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/07/6a/594_2yP55.jpg",
+          "ratingCount": 695
+        },
+        {
+          "id": 3489,
+          "name": "魔女猎人",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1b/31/3489_V7vbv.jpg",
+          "ratingCount": 691
+        }
+      ]
+    },
+    "2008": {
+      "fetchedTotal": 144,
+      "ratedTotal": 139,
+      "dataPages": 6,
+      "firstEmptyPage": 7,
+      "kept": 50,
+      "items": [
+        {
+          "id": 876,
+          "name": "CLANNAD 〜AFTER STORY〜",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/67/d1/876_dCfrd.jpg",
+          "ratingCount": 31653
+        },
+        {
+          "id": 909,
+          "name": "龙与虎",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a4/30/909_e5zhk.jpg",
+          "ratingCount": 27950
+        },
+        {
+          "id": 8,
+          "name": "Code Geass 反叛的鲁路修R2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c9/f0/8_wK0z3.jpg",
+          "ratingCount": 18744
+        },
+        {
+          "id": 1014,
+          "name": "魔法禁书目录",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/76/6d/1014_nqAH8.jpg",
+          "ratingCount": 15906
+        },
+        {
+          "id": 259,
+          "name": "夏目友人帐",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/a0/259_7C5D9.jpg",
+          "ratingCount": 12107
+        },
+        {
+          "id": 282,
+          "name": "狼与香辛料",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6a/9a/282_yTm70.jpg",
+          "ratingCount": 12040
+        },
+        {
+          "id": 309,
+          "name": "真实之泪",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ed/de/309_958Es.jpg",
+          "ratingCount": 7342
+        },
+        {
+          "id": 849,
+          "name": "出包王女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/8c/849_9xbj1.jpg",
+          "ratingCount": 7228
+        },
+        {
+          "id": 1029,
+          "name": "悠久之翼2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/d2/1029_Zc2U6.jpg",
+          "ratingCount": 6039
+        },
+        {
+          "id": 1010,
+          "name": "机动战士高达00 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/48/1010_872sf.jpg",
+          "ratingCount": 5584
+        },
+        {
+          "id": 763,
+          "name": "零之使魔 三美姬的轮舞",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ee/fc/763_w955d.jpg",
+          "ratingCount": 5029
+        },
+        {
+          "id": 885,
+          "name": "食灵-零-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/fe/885_xLd0r.jpg",
+          "ratingCount": 4921
+        },
+        {
+          "id": 883,
+          "name": "黑执事",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/21/0f/883_9w87Y.jpg",
+          "ratingCount": 4458
+        },
+        {
+          "id": 902,
+          "name": "神薙",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b6/a1/902_PAkZx.jpg",
+          "ratingCount": 4401
+        },
+        {
+          "id": 236,
+          "name": "超时空要塞Frontier",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/16/236_CBL7B.jpg",
+          "ratingCount": 4050
+        },
+        {
+          "id": 300,
+          "name": "俗・再见绝望先生",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/94/f6/300_2tyI5.jpg",
+          "ratingCount": 3893
+        },
+        {
+          "id": 890,
+          "name": "南家三姐妹 再来一碗",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/02/4d/890_dbMzz.jpg",
+          "ratingCount": 3794
+        },
+        {
+          "id": 866,
+          "name": "噬魂师",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ca/81/866_5X5OW.jpg",
+          "ratingCount": 3757
+        },
+        {
+          "id": 2459,
+          "name": "搞笑漫画日和3",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8b/db/2459_T0439.jpg",
+          "ratingCount": 3230
+        },
+        {
+          "id": 2896,
+          "name": "×××HOLiC◆继",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e8/f2/2896_Lhk5E.jpg",
+          "ratingCount": 3221
+        },
+        {
+          "id": 2810,
+          "name": "我的狐仙女友",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/37/2810_3DsaQ.jpg",
+          "ratingCount": 2944
+        },
+        {
+          "id": 1270,
+          "name": "水星领航员 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/50/1270_Yo7p2.jpg",
+          "ratingCount": 2942
+        },
+        {
+          "id": 281,
+          "name": "死后文",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e3/79/281_jP4z4.jpg",
+          "ratingCount": 2793
+        },
+        {
+          "id": 698,
+          "name": "强袭魔女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/bc/698_pF36F.jpg",
+          "ratingCount": 2711
+        },
+        {
+          "id": 884,
+          "name": "混沌头",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/0c/884_PPxeJ.jpg",
+          "ratingCount": 2497
+        },
+        {
+          "id": 1625,
+          "name": "海马",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a9/81/1625_59HVn.jpg",
+          "ratingCount": 2420
+        },
+        {
+          "id": 1120,
+          "name": "地狱少女 三鼎",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c6/03/1120_sIQmO.jpg",
+          "ratingCount": 2365
+        },
+        {
+          "id": 1271,
+          "name": "夕阳染红的街道",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c1/e3/1271_zqew1.jpg",
+          "ratingCount": 2362
+        },
+        {
+          "id": 1609,
+          "name": "游戏王5D's",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a2/cc/1609_g4R4R.jpg",
+          "ratingCount": 2291
+        },
+        {
+          "id": 1970,
+          "name": "吸血鬼骑士",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/00/04/1970_2306k.jpg",
+          "ratingCount": 1996
+        },
+        {
+          "id": 1038,
+          "name": "超智游戏",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6d/70/1038_f4e4F.jpg",
+          "ratingCount": 1995
+        },
+        {
+          "id": 1963,
+          "name": "SA特优生",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c2/15/1963_xoxic.jpg",
+          "ratingCount": 1893
+        },
+        {
+          "id": 2474,
+          "name": "十字架与吸血鬼",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0b/f7/2474_dsDsz.jpg",
+          "ratingCount": 1884
+        },
+        {
+          "id": 916,
+          "name": "魍魉之匣",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/23/ce/916_5JUCJ.jpg",
+          "ratingCount": 1871
+        },
+        {
+          "id": 1257,
+          "name": "记忆女神的女儿们",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/75/1257_VHRVH.jpg",
+          "ratingCount": 1860
+        },
+        {
+          "id": 294,
+          "name": "图书馆战争",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/68/83/294_lwW9k.jpg",
+          "ratingCount": 1824
+        },
+        {
+          "id": 1966,
+          "name": "交响情人梦 巴黎篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/83/1966_gSCg8.jpg",
+          "ratingCount": 1785
+        },
+        {
+          "id": 762,
+          "name": "乃木坂春香的秘密",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/06/99/762_2TFR2.jpg",
+          "ratingCount": 1659
+        },
+        {
+          "id": 58865,
+          "name": "监狱兔 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/3e/58865_T0Ad5.jpg",
+          "ratingCount": 1576
+        },
+        {
+          "id": 330,
+          "name": "向阳素描×365",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/73/330_252oN.jpg",
+          "ratingCount": 1576
+        },
+        {
+          "id": 325,
+          "name": "鹡鸰女神",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/89/f0/325_26e33.jpg",
+          "ratingCount": 1560
+        },
+        {
+          "id": 1971,
+          "name": "吸血鬼骑士 Guilty",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/de/73/1971_573M3.jpg",
+          "ratingCount": 1492
+        },
+        {
+          "id": 317,
+          "name": "我家有个狐仙大人",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5b/8a/317_jfglf.jpg",
+          "ratingCount": 1472
+        },
+        {
+          "id": 1703,
+          "name": "纯情罗曼史",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/5c/1703_NblJp.jpg",
+          "ratingCount": 1460
+        },
+        {
+          "id": 2286,
+          "name": "隐之王",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fa/24/2286_gja2Q.jpg",
+          "ratingCount": 1424
+        },
+        {
+          "id": 810,
+          "name": "H2O 赤砂的印记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b6/ed/810_oBpOO.jpg",
+          "ratingCount": 1397
+        },
+        {
+          "id": 968,
+          "name": "天体战士",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8f/46/968_k8lyP.jpg",
+          "ratingCount": 1342
+        },
+        {
+          "id": 811,
+          "name": "恋姬无双",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/67/0e/811_1KdD0.jpg",
+          "ratingCount": 1320
+        },
+        {
+          "id": 3413,
+          "name": "今天的五年二班",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/30/19/3413_FqfYQ.jpg",
+          "ratingCount": 1314
+        },
+        {
+          "id": 2475,
+          "name": "十字架与吸血鬼 CAPU2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/c8/2475_21ivi.jpg",
+          "ratingCount": 1281
+        }
+      ]
+    },
+    "2009": {
+      "fetchedTotal": 142,
+      "ratedTotal": 139,
+      "dataPages": 6,
+      "firstEmptyPage": 7,
+      "kept": 50,
+      "items": [
+        {
+          "id": 1424,
+          "name": "轻音少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/48/9d/1424_q8FMQ.jpg",
+          "ratingCount": 30885
+        },
+        {
+          "id": 1671,
+          "name": "化物语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/64/7c/1671_vQ2W9.jpg",
+          "ratingCount": 25137
+        },
+        {
+          "id": 1428,
+          "name": "钢之炼金术师 FULLMETAL ALCHEMIST",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/06/63/1428_xwkMI.jpg",
+          "ratingCount": 25054
+        },
+        {
+          "id": 2585,
+          "name": "某科学的超电磁炮",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/e7/2585_pn2eP.jpg",
+          "ratingCount": 23444
+        },
+        {
+          "id": 1606,
+          "name": "凉宫春日的忧郁 2009",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/49/5d/1606_64k44.jpg",
+          "ratingCount": 20230
+        },
+        {
+          "id": 2617,
+          "name": "天降之物",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/e3/2617_TM8mX.jpg",
+          "ratingCount": 8995
+        },
+        {
+          "id": 2567,
+          "name": "学生会的一己之见",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/a0/2567_090zo.jpg",
+          "ratingCount": 8687
+        },
+        {
+          "id": 1512,
+          "name": "狼与香辛料 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/3d/1512_1HCN1.jpg",
+          "ratingCount": 8500
+        },
+        {
+          "id": 891,
+          "name": "续 夏目友人帐",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/bc/891_d5mwr.jpg",
+          "ratingCount": 8026
+        },
+        {
+          "id": 1444,
+          "name": "天才麻将少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/af/e4/1444_n67JG.jpg",
+          "ratingCount": 6983
+        },
+        {
+          "id": 2790,
+          "name": "好想告诉你",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ec/0b/2790_gng9Z.jpg",
+          "ratingCount": 6022
+        },
+        {
+          "id": 2354,
+          "name": "DARKER THAN BLACK -流星的双子-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d2/54/2354_6QmTz.jpg",
+          "ratingCount": 5863
+        },
+        {
+          "id": 1451,
+          "name": "东之伊甸",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/80/a8/1451_uU8k9.jpg",
+          "ratingCount": 5239
+        },
+        {
+          "id": 2609,
+          "name": "妖精的尾巴",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/33/9a/2609_3ak4F.jpg",
+          "ratingCount": 4776
+        },
+        {
+          "id": 993,
+          "name": "白色相簿",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7b/13/993_6PQ58.jpg",
+          "ratingCount": 4529
+        },
+        {
+          "id": 889,
+          "name": "南家三姐妹 欢迎回来",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/07/87/889_qF2Qq.jpg",
+          "ratingCount": 3830
+        },
+        {
+          "id": 1377,
+          "name": "海猫鸣泣之时",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f5/23/1377_ivd27.jpg",
+          "ratingCount": 3685
+        },
+        {
+          "id": 894,
+          "name": "玛利亚狂热",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4b/02/894_GgUhH.jpg",
+          "ratingCount": 3677
+        },
+        {
+          "id": 1952,
+          "name": "迦南",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/11/13/1952_NkgN5.jpg",
+          "ratingCount": 3517
+        },
+        {
+          "id": 1427,
+          "name": "旋风管家 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/97/0a/1427_20BXp.jpg",
+          "ratingCount": 3475
+        },
+        {
+          "id": 2586,
+          "name": "白色相簿-后半",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/71/2586_TKsEE.jpg",
+          "ratingCount": 3180
+        },
+        {
+          "id": 1420,
+          "name": "潘多拉之心",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/90/db/1420_N2BJm.jpg",
+          "ratingCount": 3110
+        },
+        {
+          "id": 1742,
+          "name": "忏・再见绝望先生",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6e/62/1742_NoLLg.jpg",
+          "ratingCount": 3110
+        },
+        {
+          "id": 2129,
+          "name": "肯普法",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/4b/2129_fX9b7.jpg",
+          "ratingCount": 3100
+        },
+        {
+          "id": 1743,
+          "name": "东京地震8.0",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/95/5a/1743_F029H.jpg",
+          "ratingCount": 2962
+        },
+        {
+          "id": 2785,
+          "name": "犬夜叉 完结篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5b/e2/2785_5IaII.jpg",
+          "ratingCount": 2894
+        },
+        {
+          "id": 1426,
+          "name": "幻灵镇魂曲",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/9f/1426_2E03Q.jpg",
+          "ratingCount": 2592
+        },
+        {
+          "id": 2882,
+          "name": "青之文学",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2e/f3/2882_4r1zo.jpg",
+          "ratingCount": 2468
+        },
+        {
+          "id": 1757,
+          "name": "公主恋人！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d2/cd/1757_zppzs.jpg",
+          "ratingCount": 2147
+        },
+        {
+          "id": 2478,
+          "name": "小鸠。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/f0/2478_ITui7.jpg",
+          "ratingCount": 1884
+        },
+        {
+          "id": 2566,
+          "name": "11eyes",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/42/fe/2566_M2Bsq.jpg",
+          "ratingCount": 1844
+        },
+        {
+          "id": 2103,
+          "name": "龙珠改",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7b/1c/2103_VR9mM.jpg",
+          "ratingCount": 1636
+        },
+        {
+          "id": 1758,
+          "name": "青之花",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/26/12/1758_3GntO.jpg",
+          "ratingCount": 1625
+        },
+        {
+          "id": 2735,
+          "name": "猫愿三角恋",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/49/2735_snpkp.jpg",
+          "ratingCount": 1623
+        },
+        {
+          "id": 26295,
+          "name": "鲁邦三世VS名侦探柯南",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a9/31/26295_9UaWj.jpg",
+          "ratingCount": 1573
+        },
+        {
+          "id": 1443,
+          "name": "四叶游戏",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8f/b5/1443_fn2vz.jpg",
+          "ratingCount": 1469
+        },
+        {
+          "id": 2476,
+          "name": "信蜂",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/06/2476_PGVrR.jpg",
+          "ratingCount": 1391
+        },
+        {
+          "id": 1429,
+          "name": "战国BASARA",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/35/1429_dA31o.jpg",
+          "ratingCount": 1369
+        },
+        {
+          "id": 1450,
+          "name": "初恋限定。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/cc/1450_ZiiZD.jpg",
+          "ratingCount": 1346
+        },
+        {
+          "id": 1421,
+          "name": "战场女武神",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9a/a4/1421_8kok3.jpg",
+          "ratingCount": 1250
+        },
+        {
+          "id": 1822,
+          "name": "加奈日记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/08/1822_03s3j.jpg",
+          "ratingCount": 1241
+        },
+        {
+          "id": 1182,
+          "name": "空罐少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/73/1182_37tgx.jpg",
+          "ratingCount": 1198
+        },
+        {
+          "id": 2661,
+          "name": "轻声密语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/24/17/2661_T8WAJ.jpg",
+          "ratingCount": 1164
+        },
+        {
+          "id": 2771,
+          "name": "圣剑锻造师",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/e1/2771_bSWiL.jpg",
+          "ratingCount": 1163
+        },
+        {
+          "id": 1131,
+          "name": "明日的与一",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/70/1131_qtJj4.jpg",
+          "ratingCount": 1117
+        },
+        {
+          "id": 1454,
+          "name": "夏之岚!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3b/bf/1454_47lsn.jpg",
+          "ratingCount": 1088
+        },
+        {
+          "id": 1321,
+          "name": "圣母在上 第4季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f9/be/1321_wMmWM.jpg",
+          "ratingCount": 1042
+        },
+        {
+          "id": 1730,
+          "name": "简单易懂的现代魔法",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/85/13/1730_O4CLh.jpg",
+          "ratingCount": 1028
+        },
+        {
+          "id": 1455,
+          "name": "钢壳都市雷吉欧斯",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0a/1b/1455_B85eP.jpg",
+          "ratingCount": 1012
+        },
+        {
+          "id": 888,
+          "name": "迷宫塔 ～乌鲁克之剑～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0a/11/888_OOk6d.jpg",
+          "ratingCount": 1011
+        }
+      ]
+    },
+    "2010": {
+      "fetchedTotal": 123,
+      "ratedTotal": 116,
+      "dataPages": 6,
+      "firstEmptyPage": 7,
+      "kept": 50,
+      "items": [
+        {
+          "id": 3774,
+          "name": "轻音少女 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/f1/3774_hs9Fr.jpg",
+          "ratingCount": 25108
+        },
+        {
+          "id": 1851,
+          "name": "天使的心跳！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ff/14/1851_ZFEg7.jpg",
+          "ratingCount": 23638
+        },
+        {
+          "id": 5436,
+          "name": "我的妹妹哪有这么可爱！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/8c/5436_MNxnb.jpg",
+          "ratingCount": 17651
+        },
+        {
+          "id": 4019,
+          "name": "四叠半神话大系",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7f/c6/4019_f34f4.jpg",
+          "ratingCount": 15583
+        },
+        {
+          "id": 7157,
+          "name": "缘之空",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6e/01/7157_hF46A.jpg",
+          "ratingCount": 14871
+        },
+        {
+          "id": 2463,
+          "name": "无头骑士异闻录",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/18/43/2463_FGJkn.jpg",
+          "ratingCount": 14273
+        },
+        {
+          "id": 8402,
+          "name": "吊带袜天使",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a7/49/8402_Q9mLv.jpg",
+          "ratingCount": 14209
+        },
+        {
+          "id": 3326,
+          "name": "笨蛋，测验，召唤兽",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/db/a1/3326_lwy94.jpg",
+          "ratingCount": 14028
+        },
+        {
+          "id": 7843,
+          "name": "魔法禁书目录 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8d/91/7843_KPkpp.jpg",
+          "ratingCount": 12760
+        },
+        {
+          "id": 5649,
+          "name": "妄想学生会",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/33/7c/5649_r9s6i.jpg",
+          "ratingCount": 10677
+        },
+        {
+          "id": 5976,
+          "name": "只有神知道的世界",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e1/05/5976_irRRH.jpg",
+          "ratingCount": 8591
+        },
+        {
+          "id": 2464,
+          "name": "荒川爆笑团",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/70/c4/2464_ZwB1N.jpg",
+          "ratingCount": 8344
+        },
+        {
+          "id": 5647,
+          "name": "学园默示录 HIGHSCHOOL OF THE DEAD",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/06/56/5647_E0U53.jpg",
+          "ratingCount": 7631
+        },
+        {
+          "id": 3428,
+          "name": "爆漫王。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/45/00/3428_NPdDd.jpg",
+          "ratingCount": 7177
+        },
+        {
+          "id": 4255,
+          "name": "迷糊餐厅",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/db/4255_jm37v.jpg",
+          "ratingCount": 7161
+        },
+        {
+          "id": 7150,
+          "name": "天降之物f",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c2/0b/7150_5EEG1.jpg",
+          "ratingCount": 6760
+        },
+        {
+          "id": 5653,
+          "name": "尸鬼",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d7/e4/5653_5ugTB.jpg",
+          "ratingCount": 6094
+        },
+        {
+          "id": 4313,
+          "name": "会长是女仆大人！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/77/16/4313_Ov8p2.jpg",
+          "ratingCount": 5857
+        },
+        {
+          "id": 8081,
+          "name": "荒川爆笑团2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/fe/8081_o68Z8.jpg",
+          "ratingCount": 5802
+        },
+        {
+          "id": 7883,
+          "name": "即使如此小镇依然转动",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3f/8e/7883_NLYr5.jpg",
+          "ratingCount": 5772
+        },
+        {
+          "id": 4284,
+          "name": "亲吻姐姐",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/b0/4284_wf3UE.jpg",
+          "ratingCount": 5488
+        },
+        {
+          "id": 7842,
+          "name": "侵略!乌贼娘",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/88/1c/7842_Q1rdM.jpg",
+          "ratingCount": 5438
+        },
+        {
+          "id": 5656,
+          "name": "圣诞之吻SS",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ae/5e/5656_WUY5N.jpg",
+          "ratingCount": 5218
+        },
+        {
+          "id": 3471,
+          "name": "刀语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/51/3471_974gQ.jpg",
+          "ratingCount": 4439
+        },
+        {
+          "id": 8546,
+          "name": "更多 出包王女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2f/40/8546_gBpmI.jpg",
+          "ratingCount": 4384
+        },
+        {
+          "id": 5474,
+          "name": "滑头鬼之孙",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4d/ea/5474_A8w8F.jpg",
+          "ratingCount": 3899
+        },
+        {
+          "id": 5652,
+          "name": "大神与七位伙伴",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b4/f1/5652_7ZtqP.jpg",
+          "ratingCount": 3395
+        },
+        {
+          "id": 7348,
+          "name": "驭星者 闪亮的拓人",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/63/7348_2Ciub.jpg",
+          "ratingCount": 3084
+        },
+        {
+          "id": 3848,
+          "name": "花丸幼稚园",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/42/c8/3848_Z5Lnm.jpg",
+          "ratingCount": 2813
+        },
+        {
+          "id": 3482,
+          "name": "搞笑漫画日和＋",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/fe/3482_D1SG8.jpg",
+          "ratingCount": 2754
+        },
+        {
+          "id": 4330,
+          "name": "魔术快斗",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0d/5b/4330_czWc0.jpg",
+          "ratingCount": 2683
+        },
+        {
+          "id": 1748,
+          "name": "黑执事Ⅱ",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/54/e3/1748_fKaeF.jpg",
+          "ratingCount": 2624
+        },
+        {
+          "id": 5658,
+          "name": "超元气三姐妹",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8c/96/5658_xXJX8.jpg",
+          "ratingCount": 2622
+        },
+        {
+          "id": 8390,
+          "name": "MM一族！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3d/cf/8390_CC7bt.jpg",
+          "ratingCount": 2606
+        },
+        {
+          "id": 3479,
+          "name": "圣痕炼金士",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/50/3479_WG3cc.jpg",
+          "ratingCount": 2553
+        },
+        {
+          "id": 5654,
+          "name": "传说中勇者的传说",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/70/5654_tTpot.jpg",
+          "ratingCount": 2547
+        },
+        {
+          "id": 3449,
+          "name": "守护猫娘绯鞠",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/86/a1/3449_xy9Sr.jpg",
+          "ratingCount": 2524
+        },
+        {
+          "id": 4292,
+          "name": "迷途猫OVER RUN",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8d/8f/4292_DC0c5.jpg",
+          "ratingCount": 2292
+        },
+        {
+          "id": 3477,
+          "name": "空之音",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6d/69/3477_D8GRd.jpg",
+          "ratingCount": 2111
+        },
+        {
+          "id": 4290,
+          "name": "B型H系",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/58/4290_BH1BE.jpg",
+          "ratingCount": 2083
+        },
+        {
+          "id": 5651,
+          "name": "强袭魔女2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2e/5651_0969e.jpg",
+          "ratingCount": 2073
+        },
+        {
+          "id": 7844,
+          "name": "FORTUNE ARTERIAL -赤之约束-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/56/7844_CP968.jpg",
+          "ratingCount": 1980
+        },
+        {
+          "id": 3478,
+          "name": "交响情人梦Finale",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b0/71/3478_1LJKF.jpg",
+          "ratingCount": 1939
+        },
+        {
+          "id": 4291,
+          "name": "最后大魔王",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/14/8d/4291_yQtyt.jpg",
+          "ratingCount": 1876
+        },
+        {
+          "id": 3446,
+          "name": "管家后宫学园",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5b/4a/3446_IjnDQ.jpg",
+          "ratingCount": 1833
+        },
+        {
+          "id": 3241,
+          "name": "吸血鬼同盟",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a6/4b/3241_NeZOQ.jpg",
+          "ratingCount": 1627
+        },
+        {
+          "id": 4328,
+          "name": "江户盗贼团五叶",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/43/4328_z8RCr.jpg",
+          "ratingCount": 1603
+        },
+        {
+          "id": 4077,
+          "name": "王牌投手 振臂高挥～夏日大会篇～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ec/0f/4077_R6tHA.jpg",
+          "ratingCount": 1589
+        },
+        {
+          "id": 6933,
+          "name": "百花缭乱 SAMURAI GIRLS",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/2e/6933_5PLlI.jpg",
+          "ratingCount": 1564
+        },
+        {
+          "id": 4315,
+          "name": "薄樱鬼",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/85/26/4315_9cksk.jpg",
+          "ratingCount": 1546
+        }
+      ]
+    },
+    "2011": {
+      "fetchedTotal": 158,
+      "ratedTotal": 149,
+      "dataPages": 7,
+      "firstEmptyPage": 8,
+      "kept": 50,
+      "items": [
+        {
+          "id": 10380,
+          "name": "命运石之门",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a9/79/10380_YwP4R.jpg",
+          "ratingCount": 40460
+        },
+        {
+          "id": 9717,
+          "name": "魔法少女小圆",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cb/57/9717_sAVag.jpg",
+          "ratingCount": 38835
+        },
+        {
+          "id": 10639,
+          "name": "Fate/Zero",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/86/1f/10639_w4sHs.jpg",
+          "ratingCount": 31326
+        },
+        {
+          "id": 10440,
+          "name": "我们仍未知道那天所看见的花的名字。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/e8/10440_8HP6O.jpg",
+          "ratingCount": 27444
+        },
+        {
+          "id": 9912,
+          "name": "日常",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/14/9912_vHEd6.jpg",
+          "ratingCount": 25602
+        },
+        {
+          "id": 18635,
+          "name": "罪恶王冠",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7d/4c/18635_71IIr.jpg",
+          "ratingCount": 17421
+        },
+        {
+          "id": 16235,
+          "name": "未来日记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0a/3d/16235_5GJQH.jpg",
+          "ratingCount": 15591
+        },
+        {
+          "id": 11834,
+          "name": "银魂'",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e1/36/11834_fEZvv.jpg",
+          "ratingCount": 13718
+        },
+        {
+          "id": 22759,
+          "name": "花开伊吕波",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/2d/22759_A5N6H.jpg",
+          "ratingCount": 12793
+        },
+        {
+          "id": 18624,
+          "name": "回转企鹅罐",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/92/f6/18624_ZFj5M.jpg",
+          "ratingCount": 12192
+        },
+        {
+          "id": 11145,
+          "name": "笨蛋，测验，召唤兽！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7e/8d/11145_6s6G6.jpg",
+          "ratingCount": 11446
+        },
+        {
+          "id": 17883,
+          "name": "我的朋友很少",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/80/d1/17883_58mrm.jpg",
+          "ratingCount": 10767
+        },
+        {
+          "id": 9781,
+          "name": "GOSICK",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/3d/9781_Kkik8.jpg",
+          "ratingCount": 10190
+        },
+        {
+          "id": 10377,
+          "name": "电波女与青春男",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/4e/10377_2xnN5.jpg",
+          "ratingCount": 9522
+        },
+        {
+          "id": 14588,
+          "name": "摇曳百合",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/43/d9/14588_bDB2r.jpg",
+          "ratingCount": 9243
+        },
+        {
+          "id": 12536,
+          "name": "夏目友人帐 叁",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/35/94/12536_8KsS8.jpg",
+          "ratingCount": 9153
+        },
+        {
+          "id": 11577,
+          "name": "偶像大师",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/6a/11577_5U5G1.jpg",
+          "ratingCount": 8791
+        },
+        {
+          "id": 10843,
+          "name": "白兔糖",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/96/10843_WM4xX.jpg",
+          "ratingCount": 8727
+        },
+        {
+          "id": 9774,
+          "name": "这个是僵尸吗？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d2/36/9774_pWnwE.jpg",
+          "ratingCount": 7682
+        },
+        {
+          "id": 10226,
+          "name": "绯弹的亚里亚",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ed/fc/10226_m4mvu.jpg",
+          "ratingCount": 7302
+        },
+        {
+          "id": 9800,
+          "name": "IS〈无限斯特拉托斯〉",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/bc/9800_eIkZW.jpg",
+          "ratingCount": 7210
+        },
+        {
+          "id": 10339,
+          "name": "青之驱魔师",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e2/06/10339_UJ5JJ.jpg",
+          "ratingCount": 6975
+        },
+        {
+          "id": 21032,
+          "name": "猎人",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fb/a6/21032_3I1I9.jpg",
+          "ratingCount": 6611
+        },
+        {
+          "id": 10739,
+          "name": "只有神知道的世界 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ff/68/10739_Ktz9a.jpg",
+          "ratingCount": 6325
+        },
+        {
+          "id": 15237,
+          "name": "神的记事本",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/60/eb/15237_y1hzw.jpg",
+          "ratingCount": 6266
+        },
+        {
+          "id": 10459,
+          "name": "迷茫管家与懦弱的我",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/03/da/10459_HH35c.jpg",
+          "ratingCount": 5959
+        },
+        {
+          "id": 20547,
+          "name": "迷糊餐厅 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/59/2b/20547_Fqawr.jpg",
+          "ratingCount": 5856
+        },
+        {
+          "id": 18631,
+          "name": "灼眼的夏娜III -Final-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/47/18631_j5o2m.jpg",
+          "ratingCount": 5602
+        },
+        {
+          "id": 22588,
+          "name": "爆漫王。2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/45/8c/22588_xECYm.jpg",
+          "ratingCount": 5422
+        },
+        {
+          "id": 18294,
+          "name": "歌牌情缘",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/b2/18294_be4AB.jpg",
+          "ratingCount": 5329
+        },
+        {
+          "id": 14667,
+          "name": "丹特丽安的书架",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/db/14667_FznyN.jpg",
+          "ratingCount": 5322
+        },
+        {
+          "id": 12317,
+          "name": "赌博默示录 破戒录篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/ca/12317_Qqy2H.jpg",
+          "ratingCount": 4724
+        },
+        {
+          "id": 10742,
+          "name": "恶魔阿萨谢尔在召唤你",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4c/26/10742_ggQGw.jpg",
+          "ratingCount": 4712
+        },
+        {
+          "id": 12703,
+          "name": "境界线上的地平线",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/49/12703_aJh82.jpg",
+          "ratingCount": 4540
+        },
+        {
+          "id": 10844,
+          "name": "金钱掌控",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/97/10844_6BapN.jpg",
+          "ratingCount": 4494
+        },
+        {
+          "id": 10842,
+          "name": "未来都市NO.6",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/3c/10842_KT5z4.jpg",
+          "ratingCount": 4490
+        },
+        {
+          "id": 9757,
+          "name": "好想告诉你 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/a7/9757_P0sls.jpg",
+          "ratingCount": 4462
+        },
+        {
+          "id": 18004,
+          "name": "侵略!?乌贼娘",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e1/4f/18004_Bu7uU.jpg",
+          "ratingCount": 4116
+        },
+        {
+          "id": 9853,
+          "name": "灵异E接触",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/69/9853_RFMwS.jpg",
+          "ratingCount": 3899
+        },
+        {
+          "id": 19540,
+          "name": "便・当",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/ac/19540_k1ctE.jpg",
+          "ratingCount": 3895
+        },
+        {
+          "id": 18629,
+          "name": "C3 -魔方少女-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/78/18629_vsczk.jpg",
+          "ratingCount": 3466
+        },
+        {
+          "id": 12192,
+          "name": "滑头鬼之孙～千年魔京～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9b/de/12192_d48ku.jpg",
+          "ratingCount": 3447
+        },
+        {
+          "id": 13485,
+          "name": "萝球社！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/57/f6/13485_y8bb5.jpg",
+          "ratingCount": 3376
+        },
+        {
+          "id": 14427,
+          "name": "BLOOD-C",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/76/fb/14427_w47ht.jpg",
+          "ratingCount": 3327
+        },
+        {
+          "id": 15489,
+          "name": "女神异闻录4",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b9/f9/15489_R7sR7.jpg",
+          "ratingCount": 3229
+        },
+        {
+          "id": 8474,
+          "name": "放浪男孩",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cb/7c/8474_I1CAM.jpg",
+          "ratingCount": 3186
+        },
+        {
+          "id": 12557,
+          "name": "纯白交响曲",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/00/5f/12557_MLQQE.jpg",
+          "ratingCount": 3102
+        },
+        {
+          "id": 9801,
+          "name": "腹黑妹妹控兄记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b5/9801_dOz6d.jpg",
+          "ratingCount": 3084
+        },
+        {
+          "id": 14220,
+          "name": "少年同盟",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9e/6b/14220_4i0Mg.jpg",
+          "ratingCount": 2990
+        },
+        {
+          "id": 9779,
+          "name": "恶魔奶爸",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8d/e4/9779_kFiS0.jpg",
+          "ratingCount": 2936
+        }
+      ]
+    },
+    "2012": {
+      "fetchedTotal": 173,
+      "ratedTotal": 168,
+      "dataPages": 8,
+      "firstEmptyPage": 9,
+      "kept": 50,
+      "items": [
+        {
+          "id": 27364,
+          "name": "冰菓",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/38/27364_1ZFmr.jpg",
+          "ratingCount": 33331
+        },
+        {
+          "id": 29648,
+          "name": "中二病也要谈恋爱！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3d/fd/29648_LOcOx.jpg",
+          "ratingCount": 26538
+        },
+        {
+          "id": 23686,
+          "name": "刀剑神域",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2e/c8/23686_e36x9.jpg",
+          "ratingCount": 25734
+        },
+        {
+          "id": 24790,
+          "name": "男子高中生的日常",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/73/24790_4wdXB.jpg",
+          "ratingCount": 22953
+        },
+        {
+          "id": 41488,
+          "name": "樱花庄的宠物女孩",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/a2/41488_qw09G.jpg",
+          "ratingCount": 19140
+        },
+        {
+          "id": 43558,
+          "name": "JOJO的奇妙冒险",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/23/5d/43558_ECoSc.jpg",
+          "ratingCount": 18880
+        },
+        {
+          "id": 23161,
+          "name": "伪物语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/28/23161_y2AEb.jpg",
+          "ratingCount": 15406
+        },
+        {
+          "id": 37785,
+          "name": "来自新世界",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9a/64/37785_aBBEd.jpg",
+          "ratingCount": 15348
+        },
+        {
+          "id": 37685,
+          "name": "心理测量者",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bb/0a/37685_JLl2k.jpg",
+          "ratingCount": 14733
+        },
+        {
+          "id": 20851,
+          "name": "Another",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/39/20851_V4eXe.jpg",
+          "ratingCount": 14332
+        },
+        {
+          "id": 56117,
+          "name": "猫物语（黑）",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f1/d6/56117_o7a7a.jpg",
+          "ratingCount": 11307
+        },
+        {
+          "id": 28230,
+          "name": "散华礼弥",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/f7/28230_hnla8.jpg",
+          "ratingCount": 10041
+        },
+        {
+          "id": 26449,
+          "name": "人类衰退之后",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/39/26449_G0Xzx.jpg",
+          "ratingCount": 9190
+        },
+        {
+          "id": 40533,
+          "name": "邻座的怪同学",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a0/ab/40533_SkUil.jpg",
+          "ratingCount": 9168
+        },
+        {
+          "id": 24508,
+          "name": "潜行吧！奈亚子",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f8/c0/24508_GalOa.jpg",
+          "ratingCount": 8972
+        },
+        {
+          "id": 23685,
+          "name": "加速世界",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/d8/23685_Y1wYG.jpg",
+          "ratingCount": 8727
+        },
+        {
+          "id": 40310,
+          "name": "少女与战车",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a3/af/40310_suEF6.jpg",
+          "ratingCount": 8326
+        },
+        {
+          "id": 37154,
+          "name": "恋爱随意链接",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/07/2e/37154_69Axl.jpg",
+          "ratingCount": 8104
+        },
+        {
+          "id": 28900,
+          "name": "摇曳百合♪♪",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f2/9f/28900_PB3pC.jpg",
+          "ratingCount": 7666
+        },
+        {
+          "id": 38069,
+          "name": "K",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/ed/38069_SPp4e.jpg",
+          "ratingCount": 7288
+        },
+        {
+          "id": 23495,
+          "name": "夏目友人帐 肆",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/82/23495_GEgun.jpg",
+          "ratingCount": 6692
+        },
+        {
+          "id": 37137,
+          "name": "TARI TARI",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/de/a5/37137_2F57F.jpg",
+          "ratingCount": 6386
+        },
+        {
+          "id": 39794,
+          "name": "绝园的暴风雨",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/8d/39794_NPpd7.jpg",
+          "ratingCount": 6166
+        },
+        {
+          "id": 15910,
+          "name": "恶魔高校 D×D",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/03/9b/15910_5XjQ5.jpg",
+          "ratingCount": 6092
+        },
+        {
+          "id": 38040,
+          "name": "Little Busters!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/46/ea/38040_KFMP9.jpg",
+          "ratingCount": 6061
+        },
+        {
+          "id": 37694,
+          "name": "出包王女Darkness",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/46/3e/37694_M7zzE.jpg",
+          "ratingCount": 6017
+        },
+        {
+          "id": 22179,
+          "name": "黑岩射手",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fa/4c/22179_fkp9h.jpg",
+          "ratingCount": 5515
+        },
+        {
+          "id": 20582,
+          "name": "妖狐×仆SS",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/7d/20582_6vGg9.jpg",
+          "ratingCount": 5459
+        },
+        {
+          "id": 23684,
+          "name": "黑子的篮球",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/09/07/23684_6OrHi.jpg",
+          "ratingCount": 5249
+        },
+        {
+          "id": 33352,
+          "name": "爆漫王。3",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/09/33352_J6F40.jpg",
+          "ratingCount": 5185
+        },
+        {
+          "id": 25823,
+          "name": "零之使魔F",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c4/9b/25823_RgPyZ.jpg",
+          "ratingCount": 5163
+        },
+        {
+          "id": 18797,
+          "name": "这个是僵尸吗？OF THE DEAD",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7f/2e/18797_XZ7R7.jpg",
+          "ratingCount": 5004
+        },
+        {
+          "id": 28431,
+          "name": "一起一起这里那里",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/6d/28431_8a1pw.jpg",
+          "ratingCount": 4922
+        },
+        {
+          "id": 20799,
+          "name": "爱杀宝贝",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/c2/20799_f93pe.jpg",
+          "ratingCount": 4914
+        },
+        {
+          "id": 40339,
+          "name": "就算是哥哥只要有爱就没问题对吧",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/0c/40339_8c78Q.jpg",
+          "ratingCount": 4687
+        },
+        {
+          "id": 47576,
+          "name": "银魂' 延长战",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5a/dc/47576_5gU11.jpg",
+          "ratingCount": 4653
+        },
+        {
+          "id": 25444,
+          "name": "听爸爸的话！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d6/30/25444_NJXDO.jpg",
+          "ratingCount": 4508
+        },
+        {
+          "id": 24165,
+          "name": "天才麻将少女 阿知贺篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d0/24165_I4m4j.jpg",
+          "ratingCount": 4451
+        },
+        {
+          "id": 41529,
+          "name": "惊爆游戏!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/ee/41529_LK7kY.jpg",
+          "ratingCount": 4399
+        },
+        {
+          "id": 22657,
+          "name": "在盛夏等待",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6f/ad/22657_P0ZpP.jpg",
+          "ratingCount": 4335
+        },
+        {
+          "id": 29073,
+          "name": "军火女王",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/44/29073_Hl6lu.jpg",
+          "ratingCount": 4296
+        },
+        {
+          "id": 37722,
+          "name": "穷神",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c2/21/37722_551t1.jpg",
+          "ratingCount": 4016
+        },
+        {
+          "id": 43525,
+          "name": "元气少女缘结神",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f1/43525_lOAlP.jpg",
+          "ratingCount": 3736
+        },
+        {
+          "id": 37897,
+          "name": "女子落语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/93/b0/37897_gjhU7.jpg",
+          "ratingCount": 3658
+        },
+        {
+          "id": 24649,
+          "name": "圣诞之吻SS+ plus",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a6/0c/24649_smxVX.jpg",
+          "ratingCount": 3627
+        },
+        {
+          "id": 29060,
+          "name": "黄昏少女×失忆",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f6/76/29060_5qz7Y.jpg",
+          "ratingCount": 3604
+        },
+        {
+          "id": 42786,
+          "name": "天方魔谭MAGI",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/12/42786_kXkkg.jpg",
+          "ratingCount": 3449
+        },
+        {
+          "id": 29307,
+          "name": "境界线上的地平线 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cb/e6/29307_h19Oo.jpg",
+          "ratingCount": 3295
+        },
+        {
+          "id": 29426,
+          "name": "坂道上的阿波罗",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/44/3a/29426_iA4yJ.jpg",
+          "ratingCount": 3281
+        },
+        {
+          "id": 31413,
+          "name": "织田信奈的野望",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e8/0a/31413_h9KeN.jpg",
+          "ratingCount": 3259
+        }
+      ]
+    },
+    "2013": {
+      "fetchedTotal": 205,
+      "ratedTotal": 198,
+      "dataPages": 9,
+      "firstEmptyPage": 10,
+      "kept": 50,
+      "items": [
+        {
+          "id": 55770,
+          "name": "进击的巨人",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/78/c9/55770_HsJfh.jpg",
+          "ratingCount": 31601
+        },
+        {
+          "id": 54433,
+          "name": "我的青春恋爱物语果然有问题",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/f1/54433_JZ99l.jpg",
+          "ratingCount": 24654
+        },
+        {
+          "id": 51928,
+          "name": "某科学的超电磁炮S",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/8c/51928_wuG5D.jpg",
+          "ratingCount": 18197
+        },
+        {
+          "id": 72941,
+          "name": "斩服少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d5/d7/72941_q1DiW.jpg",
+          "ratingCount": 18061
+        },
+        {
+          "id": 49131,
+          "name": "约会大作战",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/08/49131_CIPjC.jpg",
+          "ratingCount": 15854
+        },
+        {
+          "id": 55113,
+          "name": "玉子市场",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f8/7f/55113_TR5Is.jpg",
+          "ratingCount": 15439
+        },
+        {
+          "id": 49278,
+          "name": "境界的彼方",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/32/49278_mo7EP.jpg",
+          "ratingCount": 14256
+        },
+        {
+          "id": 37898,
+          "name": "我的妹妹哪有这么可爱。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/53/37898_GB3nG.jpg",
+          "ratingCount": 13605
+        },
+        {
+          "id": 68812,
+          "name": "物语系列 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a1/67/68812_QUpB2.jpg",
+          "ratingCount": 13352
+        },
+        {
+          "id": 50814,
+          "name": "打工吧！魔王大人",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/9f/50814_B44q8.jpg",
+          "ratingCount": 12847
+        },
+        {
+          "id": 78405,
+          "name": "悠哉日常大王",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/47/fa/78405_dodKZ.jpg",
+          "ratingCount": 11566
+        },
+        {
+          "id": 49294,
+          "name": "Love Live!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/74/49294_ISOI2.jpg",
+          "ratingCount": 10297
+        },
+        {
+          "id": 45842,
+          "name": "变态王子与不笑猫。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/1e/45842_ZF94F.jpg",
+          "ratingCount": 10264
+        },
+        {
+          "id": 56093,
+          "name": "弹丸论破 希望学园与绝望高中生",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/46/56093_I1uEu.jpg",
+          "ratingCount": 10117
+        },
+        {
+          "id": 69496,
+          "name": "白色相簿2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/35/69496_xMBm7.jpg",
+          "ratingCount": 9576
+        },
+        {
+          "id": 47889,
+          "name": "来自风平浪静的明天",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/16/29/47889_gZy58.jpg",
+          "ratingCount": 9116
+        },
+        {
+          "id": 43557,
+          "name": "我女友与青梅竹马的惨烈修罗场",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c2/38/43557_jUaQk.jpg",
+          "ratingCount": 8869
+        },
+        {
+          "id": 69214,
+          "name": "我不受欢迎，怎么想都是你们的错！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/05/6c/69214_qB7Wi.jpg",
+          "ratingCount": 7438
+        },
+        {
+          "id": 61962,
+          "name": "机巧少女不会受伤",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f7/c8/61962_Xheqi.jpg",
+          "ratingCount": 7288
+        },
+        {
+          "id": 46011,
+          "name": "我的朋友很少NEXT",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/5f/46011_XH74c.jpg",
+          "ratingCount": 7180
+        },
+        {
+          "id": 64140,
+          "name": "记录的地平线",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/82/3d/64140_t3Qq3.jpg",
+          "ratingCount": 6970
+        },
+        {
+          "id": 77570,
+          "name": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7a/47/77570_hjy2A.jpg",
+          "ratingCount": 6638
+        },
+        {
+          "id": 52170,
+          "name": "问题儿童都来自异世界？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/64/17/52170_b4Bc7.jpg",
+          "ratingCount": 6492
+        },
+        {
+          "id": 43951,
+          "name": "Fate/kaleid liner 魔法少女☆伊莉雅",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1f/c3/43951_TJfCH.jpg",
+          "ratingCount": 6234
+        },
+        {
+          "id": 68035,
+          "name": "有顶天家族",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c1/0e/68035_252p4.jpg",
+          "ratingCount": 6196
+        },
+        {
+          "id": 43197,
+          "name": "魔王勇者",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ad/6b/43197_0bLWN.jpg",
+          "ratingCount": 6120
+        },
+        {
+          "id": 58015,
+          "name": "潜行吧！奈亚子W",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5a/69/58015_P8711.jpg",
+          "ratingCount": 5932
+        },
+        {
+          "id": 41658,
+          "name": "向山进发",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f3/b2/41658_Gsis2.jpg",
+          "ratingCount": 5930
+        },
+        {
+          "id": 59664,
+          "name": "银之匙 Silver Spoon",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3a/0d/59664_xK3y7.jpg",
+          "ratingCount": 5644
+        },
+        {
+          "id": 67826,
+          "name": "噬血狂袭",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/f7/67826_oa7Xa.jpg",
+          "ratingCount": 5428
+        },
+        {
+          "id": 56112,
+          "name": "只有神知道的世界 女神篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ab/e8/56112_QDldL.jpg",
+          "ratingCount": 5108
+        },
+        {
+          "id": 69484,
+          "name": "Little Busters! 〜Refrain〜",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e8/98/69484_47lg4.jpg",
+          "ratingCount": 5010
+        },
+        {
+          "id": 48031,
+          "name": "GJ部",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/a4/48031_31K3k.jpg",
+          "ratingCount": 4761
+        },
+        {
+          "id": 57978,
+          "name": "黄金拼图",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9b/42/57978_NK1n4.jpg",
+          "ratingCount": 4462
+        },
+        {
+          "id": 47685,
+          "name": "南家三姐妹 我回来了",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6e/1b/47685_QC42y.jpg",
+          "ratingCount": 4417
+        },
+        {
+          "id": 56091,
+          "name": "翠星之加尔刚蒂亚",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/2b/56091_29nQz.jpg",
+          "ratingCount": 4398
+        },
+        {
+          "id": 58850,
+          "name": "恋爱研究所",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/80/69/58850_eZLEn.jpg",
+          "ratingCount": 4343
+        },
+        {
+          "id": 48289,
+          "name": "学生会的一己之见 Lv.2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0d/81/48289_E717e.jpg",
+          "ratingCount": 4333
+        },
+        {
+          "id": 72109,
+          "name": "Free!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/70/af/72109_Uk85x.jpg",
+          "ratingCount": 4172
+        },
+        {
+          "id": 78542,
+          "name": "东京暗鸦",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/39/78542_Wh5MM.jpg",
+          "ratingCount": 4075
+        },
+        {
+          "id": 41568,
+          "name": "歌牌情缘 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/09/9c/41568_LhL6X.jpg",
+          "ratingCount": 4068
+        },
+        {
+          "id": 56951,
+          "name": "革命机Valvrave",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c1/51/56951_4OJ2O.jpg",
+          "ratingCount": 4010
+        },
+        {
+          "id": 72940,
+          "name": "狗与剪刀的正确用法",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/81/72940_Z4Nua.jpg",
+          "ratingCount": 3917
+        },
+        {
+          "id": 75533,
+          "name": "剧场版 空之境界",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/68/66/75533_k9VAC.jpg",
+          "ratingCount": 3910
+        },
+        {
+          "id": 68022,
+          "name": "IS〈无限斯特拉托斯〉第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f0/37/68022_chJ9g.jpg",
+          "ratingCount": 3902
+        },
+        {
+          "id": 48700,
+          "name": "恶魔高校 D×D NEW",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/08/a7/48700_zh99x.jpg",
+          "ratingCount": 3851
+        },
+        {
+          "id": 68031,
+          "name": "青春纪行",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6a/05/68031_kz04Q.jpg",
+          "ratingCount": 3611
+        },
+        {
+          "id": 51943,
+          "name": "神不在的星期天",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/64/51943_j717U.jpg",
+          "ratingCount": 3597
+        },
+        {
+          "id": 29074,
+          "name": "锁锁美同学@提不起劲",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e3/03/29074_zdSts.jpg",
+          "ratingCount": 3592
+        },
+        {
+          "id": 84866,
+          "name": "刀剑神域 Extra Edition",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6e/53/84866_yQ6Kq.jpg",
+          "ratingCount": 3555
+        }
+      ]
+    },
+    "2014": {
+      "fetchedTotal": 237,
+      "ratedTotal": 228,
+      "dataPages": 10,
+      "firstEmptyPage": 11,
+      "kept": 50,
+      "items": [
+        {
+          "id": 79227,
+          "name": "游戏人生",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/54/bd/79227_052R3.jpg",
+          "ratingCount": 25762
+        },
+        {
+          "id": 100444,
+          "name": "四月是你的谎言",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ec/c7/100444_96r3J.jpg",
+          "ratingCount": 23689
+        },
+        {
+          "id": 110467,
+          "name": "白箱",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/26/110467_Fx9tT.jpg",
+          "ratingCount": 23395
+        },
+        {
+          "id": 100449,
+          "name": "月刊少女野崎君",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a0/20/100449_d101j.jpg",
+          "ratingCount": 22525
+        },
+        {
+          "id": 95225,
+          "name": "Fate/stay night [Unlimited Blade Works]",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e1/5a/95225_nuqNt.jpg",
+          "ratingCount": 20080
+        },
+        {
+          "id": 85631,
+          "name": "JOJO的奇妙冒险 星尘斗士",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6b/c7/85631_Gi7oH.jpg",
+          "ratingCount": 18015
+        },
+        {
+          "id": 93739,
+          "name": "乒乓",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/63/93739_TZ9dS.jpg",
+          "ratingCount": 17572
+        },
+        {
+          "id": 88433,
+          "name": "寄生兽 生命的准则",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e3/14/88433_5Jl4M.jpg",
+          "ratingCount": 16834
+        },
+        {
+          "id": 72942,
+          "name": "中二病也要谈恋爱！恋",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/e4/72942_VniXv.jpg",
+          "ratingCount": 16552
+        },
+        {
+          "id": 93545,
+          "name": "甘城光辉游乐园",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/e5/93545_zYRKK.jpg",
+          "ratingCount": 15535
+        },
+        {
+          "id": 92382,
+          "name": "刀剑神域 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/9f/92382_zJ0gB.jpg",
+          "ratingCount": 14695
+        },
+        {
+          "id": 93714,
+          "name": "东京喰种",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/12/ab/93714_r1U22.jpg",
+          "ratingCount": 14401
+        },
+        {
+          "id": 82572,
+          "name": "野良神",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ee/de/82572_PNW44.jpg",
+          "ratingCount": 12485
+        },
+        {
+          "id": 94244,
+          "name": "斩·赤红之瞳！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5e/e3/94244_aCTut.jpg",
+          "ratingCount": 11577
+        },
+        {
+          "id": 74628,
+          "name": "伪恋",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/71/74628_8HHlL.jpg",
+          "ratingCount": 11560
+        },
+        {
+          "id": 76325,
+          "name": "约会大作战 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/55/76325_8yJ4Y.jpg",
+          "ratingCount": 10302
+        },
+        {
+          "id": 88287,
+          "name": "请问您今天要来点兔子吗？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9f/2f/88287_h4xKo.jpg",
+          "ratingCount": 10268
+        },
+        {
+          "id": 84171,
+          "name": "排球少年",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/91/d8/84171_5KpYZ.jpg",
+          "ratingCount": 9459
+        },
+        {
+          "id": 85204,
+          "name": "妄想学生会＊",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/93/55/85204_oK33O.jpg",
+          "ratingCount": 8436
+        },
+        {
+          "id": 115932,
+          "name": "凭物语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/68/115932_iPZ50.jpg",
+          "ratingCount": 8080
+        },
+        {
+          "id": 84873,
+          "name": "漆黑的子弹",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/32/84873_8NvN2.jpg",
+          "ratingCount": 7712
+        },
+        {
+          "id": 82322,
+          "name": "花物语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/24/f3/82322_pUPLZ.jpg",
+          "ratingCount": 7662
+        },
+        {
+          "id": 75989,
+          "name": "Love Live! 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/94/2a/75989_ylW5o.jpg",
+          "ratingCount": 7547
+        },
+        {
+          "id": 105426,
+          "name": "关于完全听不懂老公在说什么的事",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ee/3d/105426_dOztK.jpg",
+          "ratingCount": 7525
+        },
+        {
+          "id": 100443,
+          "name": "东京残响",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5c/34/100443_2SGZ5.jpg",
+          "ratingCount": 7248
+        },
+        {
+          "id": 84872,
+          "name": "魔法科高校的劣等生",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/95/84872_22Kz1.jpg",
+          "ratingCount": 7172
+        },
+        {
+          "id": 77625,
+          "name": "心理测量者2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/94/b7/77625_PH7mp.jpg",
+          "ratingCount": 6612
+        },
+        {
+          "id": 96918,
+          "name": "ALDNOAH.ZERO",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/95/96918_l2HJN.jpg",
+          "ratingCount": 6353
+        },
+        {
+          "id": 88493,
+          "name": "一周的朋友。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/a3/88493_tKAht.jpg",
+          "ratingCount": 6279
+        },
+        {
+          "id": 67376,
+          "name": "灰色的果实",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fc/b4/67376_WkW5k.jpg",
+          "ratingCount": 5772
+        },
+        {
+          "id": 99538,
+          "name": "日常系的异能战斗",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e2/1e/99538_khe3t.jpg",
+          "ratingCount": 5716
+        },
+        {
+          "id": 101820,
+          "name": "七大罪",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/48/8d/101820_V11cJ.jpg",
+          "ratingCount": 5539
+        },
+        {
+          "id": 77476,
+          "name": "希德尼娅的骑士",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/57/23/77476_4TwHt.jpg",
+          "ratingCount": 5512
+        },
+        {
+          "id": 89751,
+          "name": "漫画家和助手",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4b/e0/89751_4IvUa.jpg",
+          "ratingCount": 5445
+        },
+        {
+          "id": 68756,
+          "name": "农林",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ed/7e/68756_cCQbM.jpg",
+          "ratingCount": 5396
+        },
+        {
+          "id": 109328,
+          "name": "结城友奈是勇者",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2f/0c/109328_MXDN2.jpg",
+          "ratingCount": 5292
+        },
+        {
+          "id": 81186,
+          "name": "目隐都市的演绎者",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b8/e7/81186_929Xl.jpg",
+          "ratingCount": 5198
+        },
+        {
+          "id": 83868,
+          "name": "元气囝仔",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/95/70/83868_FfaxZ.jpg",
+          "ratingCount": 5096
+        },
+        {
+          "id": 83402,
+          "name": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f8/d7/83402_BBeb9.jpg",
+          "ratingCount": 4996
+        },
+        {
+          "id": 80838,
+          "name": "樱Trick",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1c/2f/80838_pAzJ7.jpg",
+          "ratingCount": 4906
+        },
+        {
+          "id": 89485,
+          "name": "极黑的布伦希尔德",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/59/50/89485_xKkzo.jpg",
+          "ratingCount": 4846
+        },
+        {
+          "id": 92705,
+          "name": "虫师 续章",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a6/33/92705_P0yq4.jpg",
+          "ratingCount": 4839
+        },
+        {
+          "id": 80864,
+          "name": "太空丹迪",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/61/62/80864_refoz.jpg",
+          "ratingCount": 4811
+        },
+        {
+          "id": 100517,
+          "name": "记录的地平线 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5e/6f/100517_NvtW4.jpg",
+          "ratingCount": 4588
+        },
+        {
+          "id": 79226,
+          "name": "精灵使的剑舞",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/3b/79226_8EZ7i.jpg",
+          "ratingCount": 4581
+        },
+        {
+          "id": 52606,
+          "name": "天才麻将少女 全国篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/fa/52606_detm8.jpg",
+          "ratingCount": 4506
+        },
+        {
+          "id": 98286,
+          "name": "三坪房间的侵略者!?",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/b1/98286_Fbe65.jpg",
+          "ratingCount": 4436
+        },
+        {
+          "id": 106207,
+          "name": "虫师 续章 第2部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/c7/106207_z8288.jpg",
+          "ratingCount": 4399
+        },
+        {
+          "id": 86670,
+          "name": "向山进发 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/3b/86670_Ze8H4.jpg",
+          "ratingCount": 4382
+        },
+        {
+          "id": 77480,
+          "name": "银之匙 Silver Spoon 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/7b/77480_xuCK5.jpg",
+          "ratingCount": 4378
+        }
+      ]
+    },
+    "2015": {
+      "fetchedTotal": 227,
+      "ratedTotal": 216,
+      "dataPages": 10,
+      "firstEmptyPage": 11,
+      "kept": 50,
+      "items": [
+        {
+          "id": 115908,
+          "name": "吹响吧！上低音号",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/df/115908_c0uQj.jpg",
+          "ratingCount": 22405
+        },
+        {
+          "id": 127563,
+          "name": "一拳超人",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8c/a2/127563_nl66u.jpg",
+          "ratingCount": 21974
+        },
+        {
+          "id": 120925,
+          "name": "夏洛特",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9b/d6/120925_Zp040.jpg",
+          "ratingCount": 20484
+        },
+        {
+          "id": 100403,
+          "name": "路人女主的养成方法",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6b/01/100403_R8KN2.jpg",
+          "ratingCount": 20263
+        },
+        {
+          "id": 102134,
+          "name": "我的青春恋爱物语果然有问题 续",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/ef/102134_luzUc.jpg",
+          "ratingCount": 19448
+        },
+        {
+          "id": 109386,
+          "name": "Fate/stay night [Unlimited Blade Works] 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/e7/109386_q20wy.jpg",
+          "ratingCount": 18963
+        },
+        {
+          "id": 113292,
+          "name": "JOJO的奇妙冒险 星尘斗士 埃及篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1b/e9/113292_z4z21.jpg",
+          "ratingCount": 18155
+        },
+        {
+          "id": 120187,
+          "name": "干物妹！小埋",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/2c/120187_nXjYb.jpg",
+          "ratingCount": 17087
+        },
+        {
+          "id": 112146,
+          "name": "OVERLORD",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/a9/112146_qr9m3.jpg",
+          "ratingCount": 14850
+        },
+        {
+          "id": 114685,
+          "name": "可塑性记忆",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/08/114685_Ege3l.jpg",
+          "ratingCount": 12888
+        },
+        {
+          "id": 106818,
+          "name": "暗杀教室",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/91/106818_YJ4JT.jpg",
+          "ratingCount": 11410
+        },
+        {
+          "id": 105075,
+          "name": "血界战线",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f9/2c/105075_iNy58.jpg",
+          "ratingCount": 9751
+        },
+        {
+          "id": 116287,
+          "name": "在地下城寻求邂逅是否搞错了什么",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3e/74/116287_EqO1e.jpg",
+          "ratingCount": 9571
+        },
+        {
+          "id": 106693,
+          "name": "学园孤岛",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e9/a7/106693_68MDM.jpg",
+          "ratingCount": 9381
+        },
+        {
+          "id": 116461,
+          "name": "食戟之灵",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/99/116461_zl6M2.jpg",
+          "ratingCount": 9197
+        },
+        {
+          "id": 115780,
+          "name": "没有黄段子存在的无聊世界",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/84/115780_P3a76.jpg",
+          "ratingCount": 9163
+        },
+        {
+          "id": 138829,
+          "name": "终物语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b0/4d/138829_QtBqr.jpg",
+          "ratingCount": 8942
+        },
+        {
+          "id": 129988,
+          "name": "野良神 ARAGOTO",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c6/07/129988_JSsja.jpg",
+          "ratingCount": 8707
+        },
+        {
+          "id": 110048,
+          "name": "监狱学园",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1c/0b/110048_JHz0j.jpg",
+          "ratingCount": 8622
+        },
+        {
+          "id": 114758,
+          "name": "伪恋：",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/22/cd/114758_27XTt.jpg",
+          "ratingCount": 8590
+        },
+        {
+          "id": 123568,
+          "name": "请问您今天要来点兔子吗？？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/a4/123568_FeekE.jpg",
+          "ratingCount": 8449
+        },
+        {
+          "id": 115292,
+          "name": "东京喰种√A",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/73/115292_RnE82.jpg",
+          "ratingCount": 8085
+        },
+        {
+          "id": 127724,
+          "name": "落第骑士英雄谭",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/1a/127724_DSo0K.jpg",
+          "ratingCount": 7642
+        },
+        {
+          "id": 101442,
+          "name": "悠哉日常大王 Repeat",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8b/6b/101442_EM1Vg.jpg",
+          "ratingCount": 7634
+        },
+        {
+          "id": 120236,
+          "name": "排球少年 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/04/3d/120236_AffBR.jpg",
+          "ratingCount": 7309
+        },
+        {
+          "id": 112151,
+          "name": "终结的炽天使",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3c/bd/112151_qJg8v.jpg",
+          "ratingCount": 7027
+        },
+        {
+          "id": 99941,
+          "name": "无头骑士异闻录×2 承",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/e4/99941_7lPf5.jpg",
+          "ratingCount": 5701
+        },
+        {
+          "id": 121108,
+          "name": "关于完全听不懂老公在说什么的事 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/79/07/121108_SY1Zk.jpg",
+          "ratingCount": 5421
+        },
+        {
+          "id": 130234,
+          "name": "灰色的乐园",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/59/29/130234_11gjt.jpg",
+          "ratingCount": 4893
+        },
+        {
+          "id": 120791,
+          "name": "银魂°",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/92/f6/120791_0Sfdz.jpg",
+          "ratingCount": 4801
+        },
+        {
+          "id": 127573,
+          "name": "摇曳百合 3☆High!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3e/f2/127573_HfPRJ.jpg",
+          "ratingCount": 4735
+        },
+        {
+          "id": 100205,
+          "name": "新妹魔王的契约者",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/98/100205_vVRzI.jpg",
+          "ratingCount": 4721
+        },
+        {
+          "id": 84386,
+          "name": "舰队Collection",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/81/84386_2KHHI.jpg",
+          "ratingCount": 4669
+        },
+        {
+          "id": 114967,
+          "name": "无头骑士异闻录×2 转",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/ef/114967_U49lI.jpg",
+          "ratingCount": 4634
+        },
+        {
+          "id": 113134,
+          "name": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/31/113134_NkaCg.jpg",
+          "ratingCount": 4479
+        },
+        {
+          "id": 107835,
+          "name": "ALDNOAH.ZERO 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3b/a6/107835_WtiiI.jpg",
+          "ratingCount": 4449
+        },
+        {
+          "id": 121187,
+          "name": "灰色的迷宫",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/97/b5/121187_8uDwu.jpg",
+          "ratingCount": 4434
+        },
+        {
+          "id": 118906,
+          "name": "山田君与7个魔女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2c/7a/118906_sPkAr.jpg",
+          "ratingCount": 4390
+        },
+        {
+          "id": 126461,
+          "name": "樱子小姐的脚下埋着尸体",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/d7/126461_c1O04.jpg",
+          "ratingCount": 4371
+        },
+        {
+          "id": 105255,
+          "name": "希德尼娅的骑士 第九惑星战役",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e8/a6/105255_Ldl25.jpg",
+          "ratingCount": 4330
+        },
+        {
+          "id": 110648,
+          "name": "迷糊餐厅 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/59/dc/110648_52R1q.jpg",
+          "ratingCount": 4248
+        },
+        {
+          "id": 120763,
+          "name": "出包王女Darkness 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/38/c9/120763_Tz4Xl.jpg",
+          "ratingCount": 4240
+        },
+        {
+          "id": 130250,
+          "name": "学战都市 六芒星",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fa/05/130250_V5992.jpg",
+          "ratingCount": 4201
+        },
+        {
+          "id": 108757,
+          "name": "绝对双刃",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/11/108757_1eYma.jpg",
+          "ratingCount": 4151
+        },
+        {
+          "id": 120705,
+          "name": "终结的炽天使 名古屋决战篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/69/120705_vJwsZ.jpg",
+          "ratingCount": 4079
+        },
+        {
+          "id": 119889,
+          "name": "我老婆是学生会长",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c3/49/119889_191zj.jpg",
+          "ratingCount": 4048
+        },
+        {
+          "id": 118067,
+          "name": "六花的勇者",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/72/41/118067_1O0l2.jpg",
+          "ratingCount": 4019
+        },
+        {
+          "id": 118785,
+          "name": "乱步奇谭 拉普拉斯的游戏",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c4/2d/118785_RrA1D.jpg",
+          "ratingCount": 3729
+        },
+        {
+          "id": 107671,
+          "name": "我被绑架到贵族女校当「庶民样本」",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ca/df/107671_UQSJx.jpg",
+          "ratingCount": 3662
+        },
+        {
+          "id": 126034,
+          "name": "赤发白雪姬",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7d/82/126034_zXVXx.jpg",
+          "ratingCount": 3591
+        }
+      ]
+    },
+    "2016": {
+      "fetchedTotal": 268,
+      "ratedTotal": 256,
+      "dataPages": 12,
+      "firstEmptyPage": 13,
+      "kept": 50,
+      "items": [
+        {
+          "id": 140001,
+          "name": "Re：从零开始的异世界生活",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cb/78/140001_Ew1mo.jpg",
+          "ratingCount": 24742
+        },
+        {
+          "id": 135275,
+          "name": "为美好的世界献上祝福！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/de/135275_G3liq.jpg",
+          "ratingCount": 23680
+        },
+        {
+          "id": 152091,
+          "name": "吹响吧！上低音号 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/28/152091_Bg7Hc.jpg",
+          "ratingCount": 18081
+        },
+        {
+          "id": 158316,
+          "name": "灵能百分百",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2b/85/158316_gz1mM.jpg",
+          "ratingCount": 17189
+        },
+        {
+          "id": 181354,
+          "name": "齐木楠雄的灾难",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/28/181354_smUU3.jpg",
+          "ratingCount": 16510
+        },
+        {
+          "id": 150490,
+          "name": "JOJO的奇妙冒险 不灭钻石",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d0/d5/150490_h8ffV.jpg",
+          "ratingCount": 15736
+        },
+        {
+          "id": 137722,
+          "name": "只有我不存在的城市",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/2f/137722_Iid43.jpg",
+          "ratingCount": 14673
+        },
+        {
+          "id": 165829,
+          "name": "在下坂本，有何贵干？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7c/01/165829_cwSZV.jpg",
+          "ratingCount": 14176
+        },
+        {
+          "id": 126173,
+          "name": "ReLIFE",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e0/a2/126173_II0Y1.jpg",
+          "ratingCount": 12731
+        },
+        {
+          "id": 150746,
+          "name": "这个美术社大有问题！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b6/fb/150746_AAL5A.jpg",
+          "ratingCount": 11738
+        },
+        {
+          "id": 147068,
+          "name": "3月的狮子",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a7/86/147068_60GJJ.jpg",
+          "ratingCount": 11323
+        },
+        {
+          "id": 118781,
+          "name": "甲铁城的卡巴内利",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4e/0a/118781_ZHz9k.jpg",
+          "ratingCount": 10786
+        },
+        {
+          "id": 150775,
+          "name": "NEW GAME!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/79/150775_rRSAT.jpg",
+          "ratingCount": 9514
+        },
+        {
+          "id": 148726,
+          "name": "灰与幻想的格林姆迦尔",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0c/20/148726_J77TB.jpg",
+          "ratingCount": 8836
+        },
+        {
+          "id": 131891,
+          "name": "暗杀教室 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/68/64/131891_dR2ZT.jpg",
+          "ratingCount": 8232
+        },
+        {
+          "id": 142758,
+          "name": "线上游戏的老婆不可能是女生？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/64/bd/142758_4WO7N.jpg",
+          "ratingCount": 8104
+        },
+        {
+          "id": 150955,
+          "name": "我的英雄学院",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c3/83/150955_dHMf9.jpg",
+          "ratingCount": 7587
+        },
+        {
+          "id": 173849,
+          "name": "排球少年 乌野高校 VS 白鸟泽学园高校",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1c/c6/173849_R21bS.jpg",
+          "ratingCount": 6680
+        },
+        {
+          "id": 146093,
+          "name": "亚人",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0b/17/146093_LATHF.jpg",
+          "ratingCount": 6546
+        },
+        {
+          "id": 160124,
+          "name": "食戟之灵 贰之皿",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/57/35/160124_Yhhq2.jpg",
+          "ratingCount": 6117
+        },
+        {
+          "id": 163046,
+          "name": "迷家",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/fc/163046_YU34C.jpg",
+          "ratingCount": 5645
+        },
+        {
+          "id": 94040,
+          "name": "无彩限的怪灵世界",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/20/7e/94040_kOkAg.jpg",
+          "ratingCount": 5594
+        },
+        {
+          "id": 144357,
+          "name": "文豪野犬",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/4b/144357_Lg83V.jpg",
+          "ratingCount": 5560
+        },
+        {
+          "id": 146994,
+          "name": "粗点心战争",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a9/23/146994_7SYIy.jpg",
+          "ratingCount": 5439
+        },
+        {
+          "id": 168204,
+          "name": "宇宙巡警露露子",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/e9/168204_Mymk9.jpg",
+          "ratingCount": 5309
+        },
+        {
+          "id": 167434,
+          "name": "少女编号",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9a/31/167434_B0BSn.jpg",
+          "ratingCount": 5254
+        },
+        {
+          "id": 203861,
+          "name": "超自然9人组",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/23/21/174544_wMupg.jpg",
+          "ratingCount": 5188
+        },
+        {
+          "id": 141799,
+          "name": "飞翔的魔女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a5/25/141799_81ZfO.jpg",
+          "ratingCount": 5038
+        },
+        {
+          "id": 196773,
+          "name": "Fate/Grand Order -First Order-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/fa/196773_Y19Yd.jpg",
+          "ratingCount": 4602
+        },
+        {
+          "id": 158415,
+          "name": "弹丸论破3 -The End of 希望之峰学园- 未来篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/db/9a/158415_mzDLd.jpg",
+          "ratingCount": 4555
+        },
+        {
+          "id": 177092,
+          "name": "弹丸论破3 -The End of 希望之峰学园- 绝望篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/44/3b/177092_S86z8.jpg",
+          "ratingCount": 4486
+        },
+        {
+          "id": 147568,
+          "name": "Rewrite",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5e/cc/147568_0XYiM.jpg",
+          "ratingCount": 4445
+        },
+        {
+          "id": 174584,
+          "name": "轻拍翻转小魔女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a4/cb/174584_7tQO4.jpg",
+          "ratingCount": 4380
+        },
+        {
+          "id": 114968,
+          "name": "无头骑士异闻录×2 结",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/56/4c/114968_Cj1aA.jpg",
+          "ratingCount": 4228
+        },
+        {
+          "id": 174638,
+          "name": "夏目友人帐 伍",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/8b/174638_zPvJZ.jpg",
+          "ratingCount": 4018
+        },
+        {
+          "id": 181640,
+          "name": "亚人 第2部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/fb/181640_2o333.jpg",
+          "ratingCount": 3858
+        },
+        {
+          "id": 119394,
+          "name": "昭和元禄落语心中",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/10/10/119394_06TrB.jpg",
+          "ratingCount": 3845
+        },
+        {
+          "id": 147466,
+          "name": "Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/eb/147466_3vEo1.jpg",
+          "ratingCount": 3803
+        },
+        {
+          "id": 171068,
+          "name": "文豪野犬 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9a/1c/171068_XIwkj.jpg",
+          "ratingCount": 3768
+        },
+        {
+          "id": 165553,
+          "name": "LoveLive! Sunshine!!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/37/165553_5f88z.jpg",
+          "ratingCount": 3564
+        },
+        {
+          "id": 100858,
+          "name": "超时空要塞Δ",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/31/79/100858_95wYv.jpg",
+          "ratingCount": 3476
+        },
+        {
+          "id": 133387,
+          "name": "最弱无败神装机龙",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/1f/133387_KVJ2a.jpg",
+          "ratingCount": 3369
+        },
+        {
+          "id": 174998,
+          "name": "冰上的尤里",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e6/55/174998_4Zc3U.jpg",
+          "ratingCount": 3368
+        },
+        {
+          "id": 164649,
+          "name": "她和她的猫 -Everything Flows-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/91/32/164649_rn935.jpg",
+          "ratingCount": 3323
+        },
+        {
+          "id": 174142,
+          "name": "编舟记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/71/ff/174142_HirNZ.jpg",
+          "ratingCount": 3195
+        },
+        {
+          "id": 144843,
+          "name": "高校舰队",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/83/dd/144843_1nqUr.jpg",
+          "ratingCount": 3160
+        },
+        {
+          "id": 155704,
+          "name": "田中君总是如此慵懒",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cc/1d/155704_uU755.jpg",
+          "ratingCount": 3148
+        },
+        {
+          "id": 184840,
+          "name": "终末的伊泽塔",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2c/15/184840_1kbri.jpg",
+          "ratingCount": 3113
+        },
+        {
+          "id": 147613,
+          "name": "学战都市 六芒星 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/34/95/147613_1nZ10.jpg",
+          "ratingCount": 3030
+        },
+        {
+          "id": 176599,
+          "name": "WWW.迷糊餐厅",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/61/176599_d1Lsu.jpg",
+          "ratingCount": 3024
+        }
+      ]
+    },
+    "2017": {
+      "fetchedTotal": 239,
+      "ratedTotal": 227,
+      "dataPages": 10,
+      "firstEmptyPage": 11,
+      "kept": 50,
+      "items": [
+        {
+          "id": 179949,
+          "name": "小林家的龙女仆",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e9/15/179949_c2j50.jpg",
+          "ratingCount": 22934
+        },
+        {
+          "id": 118335,
+          "name": "进击的巨人 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/ca/212293_J3Bv5.jpg",
+          "ratingCount": 22133
+        },
+        {
+          "id": 172498,
+          "name": "埃罗芒阿老师",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/bf/172498_wfm40.jpg",
+          "ratingCount": 19585
+        },
+        {
+          "id": 174043,
+          "name": "为美好的世界献上祝福！ 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/e6/174043_Mt8Xb.jpg",
+          "ratingCount": 19365
+        },
+        {
+          "id": 203526,
+          "name": "来自深渊",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f7/bf/203526_q2P6P.jpg",
+          "ratingCount": 19258
+        },
+        {
+          "id": 218707,
+          "name": "少女终末旅行",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/8b/218707_DBmO2.jpg",
+          "ratingCount": 17133
+        },
+        {
+          "id": 207573,
+          "name": "月色真美",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/41/207573_95N29.jpg",
+          "ratingCount": 17001
+        },
+        {
+          "id": 214272,
+          "name": "欢迎来到实力至上主义的教室",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/01/214272_vlcWz.jpg",
+          "ratingCount": 15960
+        },
+        {
+          "id": 132734,
+          "name": "路人女主的养成方法 ♭",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3a/ce/132734_CcMW0.jpg",
+          "ratingCount": 15444
+        },
+        {
+          "id": 185943,
+          "name": "末日时在做什么？有没有空？可以来拯救吗？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a0/5f/185943_VDh22.jpg",
+          "ratingCount": 13909
+        },
+        {
+          "id": 188091,
+          "name": "珈百璃的堕落",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/3d/188091_IDY33.jpg",
+          "ratingCount": 12530
+        },
+        {
+          "id": 214799,
+          "name": "宝石之国",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2f/07/214799_tGQ11.jpg",
+          "ratingCount": 11818
+        },
+        {
+          "id": 208754,
+          "name": "徒然喜欢你",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/79/ae/208754_JyZ00.jpg",
+          "ratingCount": 10745
+        },
+        {
+          "id": 211567,
+          "name": "3月的狮子 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5c/49/211567_pGm5Q.jpg",
+          "ratingCount": 10687
+        },
+        {
+          "id": 208450,
+          "name": "笨女孩",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/83/208450_0l5MJ.jpg",
+          "ratingCount": 10645
+        },
+        {
+          "id": 212775,
+          "name": "干物妹！小埋R",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/da/212775_as9It.jpg",
+          "ratingCount": 10269
+        },
+        {
+          "id": 185792,
+          "name": "小魔女学园",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/09/185792_YmcaM.jpg",
+          "ratingCount": 10266
+        },
+        {
+          "id": 193378,
+          "name": "重启咲良田",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/c7/193378_KgztF.jpg",
+          "ratingCount": 8929
+        },
+        {
+          "id": 209408,
+          "name": "狂赌之渊",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/1f/209408_IMIAi.jpg",
+          "ratingCount": 8834
+        },
+        {
+          "id": 204145,
+          "name": "调教咖啡厅",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/fe/204145_mbsLs.jpg",
+          "ratingCount": 8339
+        },
+        {
+          "id": 174143,
+          "name": "人渣的本愿",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2c/9c/174143_77j72.jpg",
+          "ratingCount": 8266
+        },
+        {
+          "id": 175596,
+          "name": "终物语（下）",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/29/175596_Dp6j4.jpg",
+          "ratingCount": 8149
+        },
+        {
+          "id": 208908,
+          "name": "NEW GAME!!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/44/208908_AATp0.jpg",
+          "ratingCount": 7724
+        },
+        {
+          "id": 167655,
+          "name": "幼女战记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/e3/167655_O0npY.jpg",
+          "ratingCount": 7633
+        },
+        {
+          "id": 212278,
+          "name": "Just Because!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/9d/212278_zwYLL.jpg",
+          "ratingCount": 7367
+        },
+        {
+          "id": 185762,
+          "name": "政宗君的复仇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/05/bf/185762_xyM3h.jpg",
+          "ratingCount": 7352
+        },
+        {
+          "id": 195816,
+          "name": "GAMERS电玩咖",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c9/f3/195816_oXlKL.jpg",
+          "ratingCount": 7294
+        },
+        {
+          "id": 202419,
+          "name": "Re：创世主们",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/46/27/202419_Zt1ts.jpg",
+          "ratingCount": 7286
+        },
+        {
+          "id": 213076,
+          "name": "如果有妹妹就好了。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d0/59/213076_J5y9R.jpg",
+          "ratingCount": 7187
+        },
+        {
+          "id": 198395,
+          "name": "One Room",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/40/69/198395_zRIuN.jpg",
+          "ratingCount": 6909
+        },
+        {
+          "id": 199392,
+          "name": "血界战线 & BEYOND",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/77/199392_j2kAA.jpg",
+          "ratingCount": 6866
+        },
+        {
+          "id": 204855,
+          "name": "Fate/Apocrypha",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b5/e2/204855_54956.jpg",
+          "ratingCount": 6395
+        },
+        {
+          "id": 176478,
+          "name": "兽娘动物园",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/18/1f/176478_kk61b.jpg",
+          "ratingCount": 6382
+        },
+        {
+          "id": 174138,
+          "name": "不正经的魔术讲师与禁忌教典",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/af/174138_0BOO7.jpg",
+          "ratingCount": 5957
+        },
+        {
+          "id": 185761,
+          "name": "我的英雄学院 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/5c/185761_1Z9KH.jpg",
+          "ratingCount": 5762
+        },
+        {
+          "id": 211936,
+          "name": "Princess Principal",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/22/a5/211936_7I7vb.jpg",
+          "ratingCount": 5593
+        },
+        {
+          "id": 186515,
+          "name": "BanG Dream!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+          "ratingCount": 5162
+        },
+        {
+          "id": 211934,
+          "name": "此花绮谭",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ab/fd/211934_HHeOH.jpg",
+          "ratingCount": 5046
+        },
+        {
+          "id": 173303,
+          "name": "Urara迷路帖",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/88/173303_pSp45.jpg",
+          "ratingCount": 4900
+        },
+        {
+          "id": 194259,
+          "name": "从零开始的魔法书",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7a/f2/194259_CC7nc.jpg",
+          "ratingCount": 4367
+        },
+        {
+          "id": 217632,
+          "name": "食戟之灵 餐之皿",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/f9/217632_wrjSL.jpg",
+          "ratingCount": 4326
+        },
+        {
+          "id": 192252,
+          "name": "异世界食堂",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/49/192252_L9Ip9.jpg",
+          "ratingCount": 4037
+        },
+        {
+          "id": 210864,
+          "name": "魔法使的新娘",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7c/ba/210864_W0Teb.jpg",
+          "ratingCount": 4031
+        },
+        {
+          "id": 211723,
+          "name": "带着智能手机闯荡异世界。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/7f/211723_EEfet.jpg",
+          "ratingCount": 3867
+        },
+        {
+          "id": 191056,
+          "name": "龙的牙医",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6a/98/191056_l1Cl1.jpg",
+          "ratingCount": 3780
+        },
+        {
+          "id": 183492,
+          "name": "ACCA13区监察课",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/de/5d/183492_gtzxP.jpg",
+          "ratingCount": 3702
+        },
+        {
+          "id": 193445,
+          "name": "骑士&魔法",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/68/c4/193445_879w8.jpg",
+          "ratingCount": 3679
+        },
+        {
+          "id": 200547,
+          "name": "樱花任务",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/bd/200547_rfV5Y.jpg",
+          "ratingCount": 3666
+        },
+        {
+          "id": 211068,
+          "name": "奇诺之旅",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/47/df/211068_49qlq.jpg",
+          "ratingCount": 3630
+        },
+        {
+          "id": 203387,
+          "name": "夏目友人帐 陆",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e1/4d/203387_RD6Ll.jpg",
+          "ratingCount": 3468
+        }
+      ]
+    },
+    "2018": {
+      "fetchedTotal": 261,
+      "ratedTotal": 251,
+      "dataPages": 11,
+      "firstEmptyPage": 12,
+      "kept": 50,
+      "items": [
+        {
+          "id": 240038,
+          "name": "青春猪头少年不会梦到兔女郎学姐",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b9/45/240038_b5j7g.jpg",
+          "ratingCount": 24846
+        },
+        {
+          "id": 183878,
+          "name": "紫罗兰永恒花园",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/e2/183878_Fef1o.jpg",
+          "ratingCount": 22633
+        },
+        {
+          "id": 217300,
+          "name": "进击的巨人 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/18/86/217300_WGgTy.jpg",
+          "ratingCount": 21058
+        },
+        {
+          "id": 235130,
+          "name": "碧蓝之海",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1f/13/235130_suy3s.jpg",
+          "ratingCount": 18449
+        },
+        {
+          "id": 207195,
+          "name": "摇曳露营△",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/18/bc/207195_2Cp3o.jpg",
+          "ratingCount": 17613
+        },
+        {
+          "id": 214265,
+          "name": "少女☆歌剧 Revue Starlight",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ca/48/214265_uHAIG.jpg",
+          "ratingCount": 16673
+        },
+        {
+          "id": 129807,
+          "name": "命运石之门 0",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f6/91/129807_9VAi4.jpg",
+          "ratingCount": 16385
+        },
+        {
+          "id": 235128,
+          "name": "JOJO的奇妙冒险 黄金之风",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/42/29/235128_RYOcp.jpg",
+          "ratingCount": 15942
+        },
+        {
+          "id": 218708,
+          "name": "比宇宙更远的地方",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/16/de/218708_99YjL.jpg",
+          "ratingCount": 15867
+        },
+        {
+          "id": 252655,
+          "name": "佐贺偶像是传奇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a4/ef/252655_8X396.jpg",
+          "ratingCount": 15106
+        },
+        {
+          "id": 218711,
+          "name": "DARLING in the FRANXX",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/77/dd/218711_5Z5t1.jpg",
+          "ratingCount": 14893
+        },
+        {
+          "id": 239816,
+          "name": "关于我转生变成史莱姆这档事",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7b/d6/239816_BbNdb.jpg",
+          "ratingCount": 14670
+        },
+        {
+          "id": 235612,
+          "name": "工作细胞",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/fc/235612_EHO4Q.jpg",
+          "ratingCount": 13465
+        },
+        {
+          "id": 218712,
+          "name": "SSSS.古立特",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d1/78/218712_c2Db6.jpg",
+          "ratingCount": 11971
+        },
+        {
+          "id": 212003,
+          "name": "赛马娘 Pretty Derby",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/91/c0/212003_pPk1M.jpg",
+          "ratingCount": 11836
+        },
+        {
+          "id": 219200,
+          "name": "擅长捉弄的高木同学",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/09/16/219200_wFT9i.jpg",
+          "ratingCount": 11775
+        },
+        {
+          "id": 204027,
+          "name": "齐木楠雄的灾难 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/08/204027_irnYl.jpg",
+          "ratingCount": 11708
+        },
+        {
+          "id": 211027,
+          "name": "OVERLORD 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/01/211027_669oE.jpg",
+          "ratingCount": 11182
+        },
+        {
+          "id": 219658,
+          "name": "龙王的工作！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/58/d3/219658_Reey1.jpg",
+          "ratingCount": 11163
+        },
+        {
+          "id": 243981,
+          "name": "终将成为你",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bc/72/243981_J20I2.jpg",
+          "ratingCount": 11124
+        },
+        {
+          "id": 248154,
+          "name": "强风吹拂",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d0/e0/248154_D8z6D.jpg",
+          "ratingCount": 10818
+        },
+        {
+          "id": 225604,
+          "name": "刀剑神域 爱丽丝篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/5d/225604_97yaR.jpg",
+          "ratingCount": 9805
+        },
+        {
+          "id": 242170,
+          "name": "OVERLORD 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/47/d4/242170_iz9Ko.jpg",
+          "ratingCount": 9752
+        },
+        {
+          "id": 225631,
+          "name": "黑社会的超能力女儿",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/11/f9/225631_0p0sS.jpg",
+          "ratingCount": 9693
+        },
+        {
+          "id": 227718,
+          "name": "MEGALO BOX",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/29/227718_50fU0.jpg",
+          "ratingCount": 9533
+        },
+        {
+          "id": 238006,
+          "name": "哥布林杀手",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/2a/238006_OJZy1.jpg",
+          "ratingCount": 8740
+        },
+        {
+          "id": 220566,
+          "name": "杀戮天使",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1a/b7/220566_0CMxK.jpg",
+          "ratingCount": 8346
+        },
+        {
+          "id": 251831,
+          "name": "齐木楠雄的灾难 完结篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/10/70/251831_9b63Y.jpg",
+          "ratingCount": 7902
+        },
+        {
+          "id": 226540,
+          "name": "魔法禁书目录 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/be/35/226540_664yS.jpg",
+          "ratingCount": 7469
+        },
+        {
+          "id": 212279,
+          "name": "pop子和pipi美的日常",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/4a/212279_iG7S3.jpg",
+          "ratingCount": 7090
+        },
+        {
+          "id": 198098,
+          "name": "citrus～柑橘味香气～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/45/198098_g44Mz.jpg",
+          "ratingCount": 6990
+        },
+        {
+          "id": 231722,
+          "name": "邪神与厨二病少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/49/c0/231722_1DDIx.jpg",
+          "ratingCount": 6702
+        },
+        {
+          "id": 91205,
+          "name": "高分少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/79/bb/91205_WzBkF.jpg",
+          "ratingCount": 6549
+        },
+        {
+          "id": 236020,
+          "name": "来玩游戏吧",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fb/c2/236020_6wt6b.jpg",
+          "ratingCount": 6299
+        },
+        {
+          "id": 231278,
+          "name": "后街女孩",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5d/10/231278_FrbN1.jpg",
+          "ratingCount": 6019
+        },
+        {
+          "id": 220312,
+          "name": "宅男腐女恋爱真难",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/a5/220312_ErRl1.jpg",
+          "ratingCount": 5712
+        },
+        {
+          "id": 210458,
+          "name": "恋如雨止",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/36/210458_Cn1uz.jpg",
+          "ratingCount": 5163
+        },
+        {
+          "id": 241158,
+          "name": "邻家的吸血鬼小妹",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/12/241158_H3b25.jpg",
+          "ratingCount": 5154
+        },
+        {
+          "id": 226750,
+          "name": "刀剑神域外传 Gun Gale Online",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/40/226750_3fW9q.jpg",
+          "ratingCount": 5063
+        },
+        {
+          "id": 148481,
+          "name": "东京喰种:re",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/20/148481_v7x7A.jpg",
+          "ratingCount": 5056
+        },
+        {
+          "id": 226507,
+          "name": "One Room 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/1e/226507_dBZCh.jpg",
+          "ratingCount": 5032
+        },
+        {
+          "id": 175601,
+          "name": "Fate/EXTRA Last Encore",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ff/e7/175601_cshc8.jpg",
+          "ratingCount": 4985
+        },
+        {
+          "id": 240828,
+          "name": "Happy Sugar Life",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e2/68/240828_H4uLo.jpg",
+          "ratingCount": 4826
+        },
+        {
+          "id": 226677,
+          "name": "我的英雄学院 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7e/2c/226677_z5K1m.jpg",
+          "ratingCount": 4736
+        },
+        {
+          "id": 236224,
+          "name": "异世界魔王与召唤少女的奴隶魔术",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/20/236224_OcW1t.jpg",
+          "ratingCount": 4587
+        },
+        {
+          "id": 228026,
+          "name": "刻刻",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bb/43/228026_dy35F.jpg",
+          "ratingCount": 4586
+        },
+        {
+          "id": 221127,
+          "name": "黄金神威",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0d/59/221127_v6nv6.jpg",
+          "ratingCount": 4500
+        },
+        {
+          "id": 244878,
+          "name": "东京喰种:re 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/5c/244878_i6FE9.jpg",
+          "ratingCount": 4442
+        },
+        {
+          "id": 240562,
+          "name": "来自多彩世界的明天",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/f0/240562_1Ce5Q.jpg",
+          "ratingCount": 4003
+        },
+        {
+          "id": 216310,
+          "name": "向山进发 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/49/a2/216310_ci5yT.jpg",
+          "ratingCount": 3936
+        }
+      ]
+    },
+    "2019": {
+      "fetchedTotal": 201,
+      "ratedTotal": 193,
+      "dataPages": 9,
+      "firstEmptyPage": 10,
+      "kept": 50,
+      "items": [
+        {
+          "id": 248175,
+          "name": "辉夜大小姐想让我告白～天才们的恋爱头脑战～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2a/f7/248175_2w4zT.jpg",
+          "ratingCount": 27921
+        },
+        {
+          "id": 263750,
+          "name": "进击的巨人 第三季 Part.2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c2/56/263750_56TBs.jpg",
+          "ratingCount": 23580
+        },
+        {
+          "id": 245665,
+          "name": "鬼灭之刃",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9d/d1/245665_5an54.jpg",
+          "ratingCount": 21963
+        },
+        {
+          "id": 240760,
+          "name": "灵能百分百 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/c7/240760_xB0VY.jpg",
+          "ratingCount": 15326
+        },
+        {
+          "id": 240386,
+          "name": "冰海战记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/31/8f/240386_6Q62q.jpg",
+          "ratingCount": 13329
+        },
+        {
+          "id": 266157,
+          "name": "慎重勇者 ～这个勇者明明超强却过分慎重～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/02/3c/266157_1FVwV.jpg",
+          "ratingCount": 12924
+        },
+        {
+          "id": 243916,
+          "name": "约定的梦幻岛",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ff/49/243916_XXJsd.jpg",
+          "ratingCount": 12369
+        },
+        {
+          "id": 249637,
+          "name": "天使降临到了我身边！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f3/2d/249637_2r3gw.jpg",
+          "ratingCount": 12141
+        },
+        {
+          "id": 265708,
+          "name": "女高中生的无所事事",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f3/d0/265708_QDkDe.jpg",
+          "ratingCount": 12078
+        },
+        {
+          "id": 272510,
+          "name": "街角魔族",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/af/22/272510_BZ00p.jpg",
+          "ratingCount": 11615
+        },
+        {
+          "id": 256114,
+          "name": "五等分的新娘",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fd/cd/256114_mvRVq.jpg",
+          "ratingCount": 11372
+        },
+        {
+          "id": 271151,
+          "name": "擅长捉弄的高木同学 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f5/c8/271151_UB2n6.jpg",
+          "ratingCount": 9367
+        },
+        {
+          "id": 266794,
+          "name": "石纪元",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/08/3a/266794_imVve.jpg",
+          "ratingCount": 9271
+        },
+        {
+          "id": 273843,
+          "name": "动物狂想曲",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f6/f2/273843_YMdDZ.jpg",
+          "ratingCount": 9156
+        },
+        {
+          "id": 193619,
+          "name": "一拳超人 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/63/0f/193619_MLNLZ.jpg",
+          "ratingCount": 9128
+        },
+        {
+          "id": 279457,
+          "name": "刀剑神域 爱丽丝篇 异界战争",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/a6/279457_2p2B9.jpg",
+          "ratingCount": 8457
+        },
+        {
+          "id": 217660,
+          "name": "盾之勇者成名录",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b9/9b/217660_h3554.jpg",
+          "ratingCount": 8336
+        },
+        {
+          "id": 228254,
+          "name": "约会大作战 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/8c/228254_X7Y56.jpg",
+          "ratingCount": 7117
+        },
+        {
+          "id": 255526,
+          "name": "Fate/Grand Order -绝对魔兽战线巴比伦尼亚-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/ad/255526_b1o55.jpg",
+          "ratingCount": 6470
+        },
+        {
+          "id": 267732,
+          "name": "君主·埃尔梅罗二世事件簿 魔眼收集列车 Grace note",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/f7/267732_41wjh.jpg",
+          "ratingCount": 6175
+        },
+        {
+          "id": 240838,
+          "name": "多罗罗",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/da/240838_5Ax95.jpg",
+          "ratingCount": 6168
+        },
+        {
+          "id": 238004,
+          "name": "在地下城寻求邂逅是否搞错了什么 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8e/d1/238004_F9Hgn.jpg",
+          "ratingCount": 6131
+        },
+        {
+          "id": 240039,
+          "name": "不吉波普不笑",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/2a/240039_DSzs2.jpg",
+          "ratingCount": 6102
+        },
+        {
+          "id": 231414,
+          "name": "平凡职业造就世界最强",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/51/231414_8I56c.jpg",
+          "ratingCount": 5972
+        },
+        {
+          "id": 253628,
+          "name": "家有女友",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/33/f9/253628_F42y2.jpg",
+          "ratingCount": 5795
+        },
+        {
+          "id": 262939,
+          "name": "某科学的一方通行",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3f/11/262939_ZhtWQ.jpg",
+          "ratingCount": 5760
+        },
+        {
+          "id": 278569,
+          "name": "高分少女 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bc/f7/278569_XOcJU.jpg",
+          "ratingCount": 5424
+        },
+        {
+          "id": 239912,
+          "name": "CAROLE & TUESDAY",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/aa/239912_hCaW2.jpg",
+          "ratingCount": 5268
+        },
+        {
+          "id": 257369,
+          "name": "我们真的学不来",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/21/a6/257369_32HM0.jpg",
+          "ratingCount": 5113
+        },
+        {
+          "id": 234778,
+          "name": "狂赌之渊××",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/ca/234778_BWQfd.jpg",
+          "ratingCount": 5112
+        },
+        {
+          "id": 262943,
+          "name": "喜欢本大爷的竟然就你一个？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/22/d7/262943_Kk8nT.jpg",
+          "ratingCount": 4938
+        },
+        {
+          "id": 238962,
+          "name": "我，不是说了能力要平均值么！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2e/97/238962_JPj2j.jpg",
+          "ratingCount": 4861
+        },
+        {
+          "id": 268070,
+          "name": "骚动时节的少女们啊",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/22/ad/268070_UEueQ.jpg",
+          "ratingCount": 4857
+        },
+        {
+          "id": 275371,
+          "name": "只要可爱即使是变态你也会喜欢我吧？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/54/bb/275371_naGaN.jpg",
+          "ratingCount": 4761
+        },
+        {
+          "id": 276187,
+          "name": "你遭难了吗？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ce/70/276187_EyOp6.jpg",
+          "ratingCount": 4475
+        },
+        {
+          "id": 246429,
+          "name": "BanG Dream! 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f3/246429_L8TbT.jpg",
+          "ratingCount": 4421
+        },
+        {
+          "id": 268510,
+          "name": "川柳少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b4/fb/268510_XKKrF.jpg",
+          "ratingCount": 4420
+        },
+        {
+          "id": 266372,
+          "name": "炎炎消防队",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e5/f5/266372_2E8SA.jpg",
+          "ratingCount": 4415
+        },
+        {
+          "id": 247417,
+          "name": "笨拙之极的上野",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1f/3f/247417_O2YP9.jpg",
+          "ratingCount": 4403
+        },
+        {
+          "id": 226256,
+          "name": "贤者之孙",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dc/81/226256_dZdQ2.jpg",
+          "ratingCount": 4091
+        },
+        {
+          "id": 273844,
+          "name": "入间同学入魔了",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b9/273844_JQ26Q.jpg",
+          "ratingCount": 4083
+        },
+        {
+          "id": 271724,
+          "name": "流汗吧！健身少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b7/271724_32Jou.jpg",
+          "ratingCount": 4042
+        },
+        {
+          "id": 285130,
+          "name": "我们真的学不来！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/80/0f/285130_brGSR.jpg",
+          "ratingCount": 3916
+        },
+        {
+          "id": 262865,
+          "name": "异世界四重奏",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/e9/262865_P6q49.jpg",
+          "ratingCount": 3837
+        },
+        {
+          "id": 268412,
+          "name": "淫乱的青酱不能学习",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7d/87/268412_P63Pf.jpg",
+          "ratingCount": 3780
+        },
+        {
+          "id": 239646,
+          "name": "皿三昧",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ca/e6/239646_x7BYi.jpg",
+          "ratingCount": 3486
+        },
+        {
+          "id": 145354,
+          "name": "玛纳利亚的密友",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/66/145354_v6n1Q.jpg",
+          "ratingCount": 3485
+        },
+        {
+          "id": 237423,
+          "name": "烟草",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/01/237423_S1Sxz.jpg",
+          "ratingCount": 3421
+        },
+        {
+          "id": 273877,
+          "name": "彼方的阿斯特拉",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2e/1e/273877_VS2qn.jpg",
+          "ratingCount": 3419
+        },
+        {
+          "id": 262111,
+          "name": "为什么老师会在这里！？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/65/262111_Qczq5.jpg",
+          "ratingCount": 3175
+        }
+      ]
+    },
+    "2020": {
+      "fetchedTotal": 205,
+      "ratedTotal": 195,
+      "dataPages": 9,
+      "firstEmptyPage": 10,
+      "kept": 50,
+      "items": [
+        {
+          "id": 293049,
+          "name": "辉夜大小姐想让我告白?～天才们的恋爱头脑战～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/36/16/293049_0e0re.jpg",
+          "ratingCount": 24905
+        },
+        {
+          "id": 294993,
+          "name": "咒术回战",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/60/fe/294993_JrrzK.jpg",
+          "ratingCount": 17382
+        },
+        {
+          "id": 292970,
+          "name": "魔女之旅",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/17/292970_mxMxx.jpg",
+          "ratingCount": 17234
+        },
+        {
+          "id": 278826,
+          "name": "Re：从零开始的异世界生活 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/16/79/278826_w85gd.jpg",
+          "ratingCount": 16142
+        },
+        {
+          "id": 285776,
+          "name": "异度侵入",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/73/90/285776_57c5p.jpg",
+          "ratingCount": 15870
+        },
+        {
+          "id": 285666,
+          "name": "进击的巨人 最终季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/88/6b/285666_bS9Sw.jpg",
+          "ratingCount": 15513
+        },
+        {
+          "id": 285482,
+          "name": "异种族风俗娘评鉴指南",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dc/8a/285482_c5RRj.jpg",
+          "ratingCount": 14361
+        },
+        {
+          "id": 262940,
+          "name": "某科学的超电磁炮T",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/aa/db/262940_z2mQQ.jpg",
+          "ratingCount": 12912
+        },
+        {
+          "id": 277954,
+          "name": "我的青春恋爱物语果然有问题 完",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/69/277954_s8qHA.jpg",
+          "ratingCount": 12382
+        },
+        {
+          "id": 301541,
+          "name": "总之就是非常可爱",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/50/301541_p2z4K.jpg",
+          "ratingCount": 11204
+        },
+        {
+          "id": 271687,
+          "name": "虚构推理",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/3b/271687_1326P.jpg",
+          "ratingCount": 10756
+        },
+        {
+          "id": 268545,
+          "name": "因为太怕痛就全点防御力了。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/35/268545_yPJHc.jpg",
+          "ratingCount": 9737
+        },
+        {
+          "id": 282433,
+          "name": "别对映像研出手！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5f/18/282433_9wDx9.jpg",
+          "ratingCount": 9021
+        },
+        {
+          "id": 264089,
+          "name": "转生成为了只有乙女游戏破灭Flag的邪恶大小姐",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/12/db/264089_1EkJP.jpg",
+          "ratingCount": 7877
+        },
+        {
+          "id": 296195,
+          "name": "Re：从零开始的异世界生活 新编集版",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/72/ef/296195_n0KqL.jpg",
+          "ratingCount": 7780
+        },
+        {
+          "id": 292238,
+          "name": "刀剑神域 爱丽丝篇 异界战争 -终章-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/21/a1/292238_u43yn.jpg",
+          "ratingCount": 7499
+        },
+        {
+          "id": 306429,
+          "name": "成神之日",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/10/d5/306429_2Me50.jpg",
+          "ratingCount": 7402
+        },
+        {
+          "id": 282372,
+          "name": "安达与岛村",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/a4/282372_pqp0S.jpg",
+          "ratingCount": 7298
+        },
+        {
+          "id": 294713,
+          "name": "隐瞒之事",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8b/91/294713_MwaxY.jpg",
+          "ratingCount": 7179
+        },
+        {
+          "id": 296076,
+          "name": "租借女友",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7a/37/296076_6cP6Q.jpg",
+          "ratingCount": 6911
+        },
+        {
+          "id": 302418,
+          "name": "无能的奈奈",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/02/7e/302418_0sZ4N.jpg",
+          "ratingCount": 6818
+        },
+        {
+          "id": 292222,
+          "name": "魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3b/ad/292222_Jgflx.jpg",
+          "ratingCount": 6795
+        },
+        {
+          "id": 290426,
+          "name": "在魔王城说晚安",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/c3/290426_165P5.jpg",
+          "ratingCount": 6639
+        },
+        {
+          "id": 274646,
+          "name": "公主连结 Re:Dive",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b0/09/274646_yTEYw.jpg",
+          "ratingCount": 6434
+        },
+        {
+          "id": 296659,
+          "name": "Love Live! 虹咲学园校园偶像同好会",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a7/35/296659_o709D.jpg",
+          "ratingCount": 6052
+        },
+        {
+          "id": 271145,
+          "name": "理科生坠入情网，故尝试证明。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/35/bb/271145_e4LNZ.jpg",
+          "ratingCount": 5712
+        },
+        {
+          "id": 272188,
+          "name": "邪神与厨二病少女’",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cb/30/272188_DPj3G.jpg",
+          "ratingCount": 5627
+        },
+        {
+          "id": 280516,
+          "name": "昨日之歌",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/da/280516_TvEE7.jpg",
+          "ratingCount": 5515
+        },
+        {
+          "id": 302076,
+          "name": "全员恶玉",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/87/96/302076_18361.jpg",
+          "ratingCount": 5241
+        },
+        {
+          "id": 260770,
+          "name": "请问您今天要来点兔子吗？BLOOM",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0a/16/260770_x4N8v.jpg",
+          "ratingCount": 5238
+        },
+        {
+          "id": 276150,
+          "name": "恋爱小行星",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/9f/276150_tJJGx.jpg",
+          "ratingCount": 5103
+        },
+        {
+          "id": 291412,
+          "name": "在地下城寻求邂逅是否搞错了什么 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b6/d5/291412_zE2C2.jpg",
+          "ratingCount": 4863
+        },
+        {
+          "id": 266301,
+          "name": "异兽魔都",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8c/2b/266301_1A1qq.jpg",
+          "ratingCount": 4680
+        },
+        {
+          "id": 277551,
+          "name": "地缚少年花子君",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/10/34/277551_nlGL0.jpg",
+          "ratingCount": 4605
+        },
+        {
+          "id": 285879,
+          "name": "没落要塞",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ff/65/285879_l1lG6.jpg",
+          "ratingCount": 4585
+        },
+        {
+          "id": 159690,
+          "name": "魔法纪录 魔法少女小圆外传",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/35/5b/159690_2mim1.jpg",
+          "ratingCount": 4523
+        },
+        {
+          "id": 285813,
+          "name": "大欺诈师",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/1a/285813_mpzM4.jpg",
+          "ratingCount": 4350
+        },
+        {
+          "id": 299498,
+          "name": "宇崎学妹想要玩！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5a/42/299498_PNyTT.jpg",
+          "ratingCount": 4344
+        },
+        {
+          "id": 301233,
+          "name": "One Room 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/40/5b/301233_mq8zr.jpg",
+          "ratingCount": 4330
+        },
+        {
+          "id": 285905,
+          "name": "动物新世代",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/24/5a/285905_3tF33.jpg",
+          "ratingCount": 4329
+        },
+        {
+          "id": 246430,
+          "name": "BanG Dream! 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/42/9f/246430_BpvBB.jpg",
+          "ratingCount": 3700
+        },
+        {
+          "id": 266070,
+          "name": "房间露营△",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/64/266070_ptQWq.jpg",
+          "ratingCount": 3629
+        },
+        {
+          "id": 276705,
+          "name": "格莱普尼尔",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/aa/57/276705_i8qRn.jpg",
+          "ratingCount": 3590
+        },
+        {
+          "id": 285901,
+          "name": "黄金神威 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/72/f9/285901_94tQr.jpg",
+          "ratingCount": 3586
+        },
+        {
+          "id": 292359,
+          "name": "听着这电波",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/43/e0/292359_6WO66.jpg",
+          "ratingCount": 3532
+        },
+        {
+          "id": 269918,
+          "name": "排球少年 TO THE TOP",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/2c/269918_A60Ia.jpg",
+          "ratingCount": 3518
+        },
+        {
+          "id": 297969,
+          "name": "寒蝉鸣泣之时 业",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1e/83/297969_Cn5jJ.jpg",
+          "ratingCount": 3487
+        },
+        {
+          "id": 301469,
+          "name": "我立于百万生命之上",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/08/01/301469_cPTHi.jpg",
+          "ratingCount": 3463
+        },
+        {
+          "id": 266147,
+          "name": "达尔文游戏",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/18/a4/266147_kQR5x.jpg",
+          "ratingCount": 3372
+        },
+        {
+          "id": 292273,
+          "name": "你与我最后的战场，亦或是世界起始的圣战",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/20/f7/292273_Nxf0x.jpg",
+          "ratingCount": 3354
+        }
+      ]
+    },
+    "2021": {
+      "fetchedTotal": 231,
+      "ratedTotal": 219,
+      "dataPages": 10,
+      "firstEmptyPage": 11,
+      "kept": 50,
+      "items": [
+        {
+          "id": 277554,
+          "name": "无职转生～到了异世界就拿出真本事～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
+          "ratingCount": 26765
+        },
+        {
+          "id": 325585,
+          "name": "无职转生～到了异世界就拿出真本事～ 第2部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/60/4d/325585_tfU01.jpg",
+          "ratingCount": 25069
+        },
+        {
+          "id": 325285,
+          "name": "奇巧计程车",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/90/325285_4688X.jpg",
+          "ratingCount": 21925
+        },
+        {
+          "id": 315574,
+          "name": "赛马娘 Pretty Derby 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1c/6b/315574_tLgrT.jpg",
+          "ratingCount": 17873
+        },
+        {
+          "id": 302189,
+          "name": "86 -不存在的战区-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a4/b3/302189_1034v.jpg",
+          "ratingCount": 16881
+        },
+        {
+          "id": 331887,
+          "name": "86 -不存在的战区- 第2部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/85/0e/331887_rZdb9.jpg",
+          "ratingCount": 15647
+        },
+        {
+          "id": 274234,
+          "name": "小林家的龙女仆S",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/ed/274234_iZ22k.jpg",
+          "ratingCount": 14323
+        },
+        {
+          "id": 316247,
+          "name": "Re：从零开始的异世界生活 第二季 后半部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/aa/64/316247_Yd3F5.jpg",
+          "ratingCount": 13889
+        },
+        {
+          "id": 315069,
+          "name": "堀与宫村",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/23/a2/315069_2zYW6.jpg",
+          "ratingCount": 13737
+        },
+        {
+          "id": 295017,
+          "name": "回复术士的重来人生",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/3f/295017_90As6.jpg",
+          "ratingCount": 12996
+        },
+        {
+          "id": 296367,
+          "name": "SSSS.电光机王",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a1/11/296367_yPic1.jpg",
+          "ratingCount": 12660
+        },
+        {
+          "id": 328195,
+          "name": "鬼灭之刃 游郭篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7a/26/328195_kGv1r.jpg",
+          "ratingCount": 12560
+        },
+        {
+          "id": 262897,
+          "name": "摇曳露营△ 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/50/262897_d3555.jpg",
+          "ratingCount": 12527
+        },
+        {
+          "id": 316607,
+          "name": "奇蛋物语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/60/316607_2mvjv.jpg",
+          "ratingCount": 10995
+        },
+        {
+          "id": 350764,
+          "name": "鬼灭之刃 无限列车篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/8e/350764_Aibau.jpg",
+          "ratingCount": 10423
+        },
+        {
+          "id": 332649,
+          "name": "漂流少年",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/30/fb/332649_32TAQ.jpg",
+          "ratingCount": 10305
+        },
+        {
+          "id": 287488,
+          "name": "佐贺偶像是传奇 复仇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/02/c7/287488_1FJYC.jpg",
+          "ratingCount": 9500
+        },
+        {
+          "id": 325286,
+          "name": "薇薇 -萤石眼之歌-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a0/50/325286_9WQNW.jpg",
+          "ratingCount": 8653
+        },
+        {
+          "id": 328313,
+          "name": "世界顶尖的暗杀者转生为异世界贵族",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/49/32/328313_oQlyW.jpg",
+          "ratingCount": 8524
+        },
+        {
+          "id": 278031,
+          "name": "关于我转生变成史莱姆这档事 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e6/78/278031_skvSD.jpg",
+          "ratingCount": 8209
+        },
+        {
+          "id": 309668,
+          "name": "异世界迷宫黑心企业",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cd/25/309668_i1qWh.jpg",
+          "ratingCount": 7155
+        },
+        {
+          "id": 296109,
+          "name": "国王排名",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9a/c1/296109_8GeaM.jpg",
+          "ratingCount": 7090
+        },
+        {
+          "id": 282000,
+          "name": "五等分的新娘∬",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/00/282000_6HHwK.jpg",
+          "ratingCount": 6902
+        },
+        {
+          "id": 302523,
+          "name": "关于我转生变成史莱姆这档事 第二季 第2部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/e7/302523_1wCsw.jpg",
+          "ratingCount": 6810
+        },
+        {
+          "id": 252782,
+          "name": "转生成蜘蛛又怎样！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/83/73/252782_aWyEn.jpg",
+          "ratingCount": 6685
+        },
+        {
+          "id": 335225,
+          "name": "古见同学有交流障碍症",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e4/44/335225_UmKwl.jpg",
+          "ratingCount": 6661
+        },
+        {
+          "id": 282684,
+          "name": "悠哉日常大王 Nonstop",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ac/b7/282684_5lN9Z.jpg",
+          "ratingCount": 6412
+        },
+        {
+          "id": 304065,
+          "name": "工作细胞BLACK",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/76/304065_NMdGk.jpg",
+          "ratingCount": 6327
+        },
+        {
+          "id": 278815,
+          "name": "工作细胞！！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ae/11/278815_veMhu.jpg",
+          "ratingCount": 6296
+        },
+        {
+          "id": 292969,
+          "name": "打了300年的史莱姆，不知不觉就练到了满级",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/e4/292969_RLbg9.jpg",
+          "ratingCount": 6229
+        },
+        {
+          "id": 306742,
+          "name": "Love Live! Superstar!!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bf/92/306742_MvLk2.jpg",
+          "ratingCount": 6218
+        },
+        {
+          "id": 312723,
+          "name": "平稳世代的韦驮天们",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/af/312723_5SGC6.jpg",
+          "ratingCount": 6171
+        },
+        {
+          "id": 296870,
+          "name": "我们的重制人生",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/ea/296870_gtFm2.jpg",
+          "ratingCount": 6092
+        },
+        {
+          "id": 296261,
+          "name": "石纪元 石之战争",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/b5/296261_5xbbe.jpg",
+          "ratingCount": 5857
+        },
+        {
+          "id": 297954,
+          "name": "致不灭的你",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5c/9c/297954_NyA7J.jpg",
+          "ratingCount": 5722
+        },
+        {
+          "id": 297254,
+          "name": "剃须。然后捡到女高中生。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e9/78/297254_kdK52.jpg",
+          "ratingCount": 5659
+        },
+        {
+          "id": 294836,
+          "name": "NOMAD MEGALO BOX 2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/28/0b/294836_U1HD5.jpg",
+          "ratingCount": 5573
+        },
+        {
+          "id": 297396,
+          "name": "巴克·亚罗",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/94/8c/297396_hNlBL.jpg",
+          "ratingCount": 5182
+        },
+        {
+          "id": 330973,
+          "name": "看得见的女孩",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bc/6b/330973_HpbMw.jpg",
+          "ratingCount": 5104
+        },
+        {
+          "id": 309670,
+          "name": "关于前辈很烦人的事",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/68/a5/309670_SCMw3.jpg",
+          "ratingCount": 5098
+        },
+        {
+          "id": 319739,
+          "name": "因为不是命中注定的同伴而被赶出了勇者的队伍、从此以后过上了悠闲的隐居生活",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/00/6d/319739_BJNJC.jpg",
+          "ratingCount": 4745
+        },
+        {
+          "id": 292527,
+          "name": "弱角友崎同学",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/42/292527_0G0zk.jpg",
+          "ratingCount": 4645
+        },
+        {
+          "id": 331535,
+          "name": "宿命回响：命运节拍",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/93/b0/331535_i2s69.jpg",
+          "ratingCount": 4519
+        },
+        {
+          "id": 302190,
+          "name": "派遣战斗员！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/99/dc/302190_1NJ2Z.jpg",
+          "ratingCount": 4482
+        },
+        {
+          "id": 325727,
+          "name": "侦探已经死了。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e0/8e/325727_U1eEj.jpg",
+          "ratingCount": 4366
+        },
+        {
+          "id": 297224,
+          "name": "动物狂想曲 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f4/44/297224_DaR7k.jpg",
+          "ratingCount": 4320
+        },
+        {
+          "id": 319513,
+          "name": "女友成堆",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/5e/319513_yGTQq.jpg",
+          "ratingCount": 4238
+        },
+        {
+          "id": 299673,
+          "name": "转生史莱姆日记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4f/2f/299673_l8B8U.jpg",
+          "ratingCount": 4171
+        },
+        {
+          "id": 320851,
+          "name": "精灵幻想记",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ad/ee/320851_MPMXr.jpg",
+          "ratingCount": 3970
+        },
+        {
+          "id": 325281,
+          "name": "白沙的水族馆",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d4/a3/325281_CZa9A.jpg",
+          "ratingCount": 3786
+        }
+      ]
+    },
+    "2022": {
+      "fetchedTotal": 229,
+      "ratedTotal": 223,
+      "dataPages": 10,
+      "firstEmptyPage": 11,
+      "kept": 50,
+      "items": [
+        {
+          "id": 328609,
+          "name": "孤独摇滚！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e2/e7/328609_2EHLJ.jpg",
+          "ratingCount": 40819
+        },
+        {
+          "id": 317613,
+          "name": "辉夜大小姐想让我告白-超级浪漫-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/9c/317613_bpGX4.jpg",
+          "ratingCount": 23610
+        },
+        {
+          "id": 329906,
+          "name": "间谍过家家",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/de/4a/329906_hmtVD.jpg",
+          "ratingCount": 23598
+        },
+        {
+          "id": 326895,
+          "name": "夏日重现",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f5/326895_j1S2n.jpg",
+          "ratingCount": 20719
+        },
+        {
+          "id": 364450,
+          "name": "莉可丽丝",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/65/19/364450_xx2zx.jpg",
+          "ratingCount": 20453
+        },
+        {
+          "id": 339326,
+          "name": "异世界舅舅",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1a/75/339326_v466V.jpg",
+          "ratingCount": 19836
+        },
+        {
+          "id": 321885,
+          "name": "链锯人",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/26/b4/321885_92uzU.jpg",
+          "ratingCount": 19101
+        },
+        {
+          "id": 333158,
+          "name": "更衣人偶坠入爱河",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/4d/333158_PA0F4.jpg",
+          "ratingCount": 17237
+        },
+        {
+          "id": 373267,
+          "name": "间谍过家家 第2部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3c/82/373267_ffBO8.jpg",
+          "ratingCount": 14784
+        },
+        {
+          "id": 375817,
+          "name": "契约之吻",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/25/cd/375817_O7LGk.jpg",
+          "ratingCount": 13905
+        },
+        {
+          "id": 329114,
+          "name": "想要成为影之实力者！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/39/96/329114_mB55b.jpg",
+          "ratingCount": 13806
+        },
+        {
+          "id": 298477,
+          "name": "来自深渊 烈日的黄金乡",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ae/18/298477_eBaQ8.jpg",
+          "ratingCount": 13748
+        },
+        {
+          "id": 331752,
+          "name": "进击的巨人 最终季 Part.2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/61/0c/331752_iRPHK.jpg",
+          "ratingCount": 13371
+        },
+        {
+          "id": 353605,
+          "name": "灵能百分百 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ac/c4/353605_t8jsh.jpg",
+          "ratingCount": 11994
+        },
+        {
+          "id": 356756,
+          "name": "派对浪客诸葛孔明",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/93/98/356756_ro03P.jpg",
+          "ratingCount": 11483
+        },
+        {
+          "id": 356774,
+          "name": "彻夜之歌",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/dd/cd/356774_zOW55.jpg",
+          "ratingCount": 11148
+        },
+        {
+          "id": 333664,
+          "name": "相合之物",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/41/49/333664_d4Py9.jpg",
+          "ratingCount": 10664
+        },
+        {
+          "id": 332261,
+          "name": "JOJO的奇妙冒险 石之海",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d6/4f/332261_szZEK.jpg",
+          "ratingCount": 10301
+        },
+        {
+          "id": 349441,
+          "name": "机动战士高达 水星的魔女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f1/fd/349441_uND33.jpg",
+          "ratingCount": 9097
+        },
+        {
+          "id": 313852,
+          "name": "街角魔族 2丁目",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/d3/313852_550li.jpg",
+          "ratingCount": 8798
+        },
+        {
+          "id": 347887,
+          "name": "擅长捉弄的高木同学 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2d/ad/347887_j0DFj.jpg",
+          "ratingCount": 8407
+        },
+        {
+          "id": 389450,
+          "name": "秋叶原冥途战争",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/da/3d/389450_0hbeB.jpg",
+          "ratingCount": 8141
+        },
+        {
+          "id": 371546,
+          "name": "欢迎来到实力至上主义的教室 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c8/8a/371546_Df9ri.jpg",
+          "ratingCount": 7849
+        },
+        {
+          "id": 331480,
+          "name": "明日同学的水手服",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/07/95/331480_c2aq9.jpg",
+          "ratingCount": 7491
+        },
+        {
+          "id": 335389,
+          "name": "OVERLORD 第四季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/c7/335389_Z8WRS.jpg",
+          "ratingCount": 7478
+        },
+        {
+          "id": 375735,
+          "name": "恋爱FLOPS",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ac/ba/375735_AR8Al.jpg",
+          "ratingCount": 7451
+        },
+        {
+          "id": 375913,
+          "name": "JOJO的奇妙冒险 石之海 第2部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/a6/375913_ApBCz.jpg",
+          "ratingCount": 6800
+        },
+        {
+          "id": 373712,
+          "name": "不道德公会",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c3/52/373712_WAhb0.jpg",
+          "ratingCount": 6585
+        },
+        {
+          "id": 343106,
+          "name": "继母的拖油瓶是我的前女友",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/49/54/343106_cT6ZV.jpg",
+          "ratingCount": 6100
+        },
+        {
+          "id": 343656,
+          "name": "测不准的阿波连同学",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bd/15/343656_j6eWd.jpg",
+          "ratingCount": 6049
+        },
+        {
+          "id": 326868,
+          "name": "天才王子的赤字国家振兴术",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/26/e2/326868_Kb630.jpg",
+          "ratingCount": 5819
+        },
+        {
+          "id": 302128,
+          "name": "约会大作战 第四季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6c/2a/302128_82c5B.jpg",
+          "ratingCount": 5439
+        },
+        {
+          "id": 336458,
+          "name": "与成为异世界美少女的大叔一起",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/35/19/336458_k6K0q.jpg",
+          "ratingCount": 4955
+        },
+        {
+          "id": 302286,
+          "name": "死神 千年血战篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b7/58/302286_s3o3E.jpg",
+          "ratingCount": 4792
+        },
+        {
+          "id": 331445,
+          "name": "少女手工",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/28/331445_cUsfp.jpg",
+          "ratingCount": 4778
+        },
+        {
+          "id": 348335,
+          "name": "平家物语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3f/f3/348335_OPwHW.jpg",
+          "ratingCount": 4763
+        },
+        {
+          "id": 322130,
+          "name": "异世界迷宫里的后宫生活",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b3/a6/322130_g6hkc.jpg",
+          "ratingCount": 4685
+        },
+        {
+          "id": 335579,
+          "name": "Love Live! 虹咲学园校园偶像同好会 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/78/6f/335579_3ldtt.jpg",
+          "ratingCount": 4415
+        },
+        {
+          "id": 363242,
+          "name": "古见同学有交流障碍症 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bc/0d/363242_0tZ06.jpg",
+          "ratingCount": 4248
+        },
+        {
+          "id": 290980,
+          "name": "向山进发 Next Summit",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/64/5a/290980_Jju6q.jpg",
+          "ratingCount": 4083
+        },
+        {
+          "id": 326871,
+          "name": "处刑少女的生存之道",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b0/95/326871_6Sp4i.jpg",
+          "ratingCount": 4015
+        },
+        {
+          "id": 324295,
+          "name": "式守同学不只可爱而已",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6a/7b/324295_Klk2K.jpg",
+          "ratingCount": 3986
+        },
+        {
+          "id": 344422,
+          "name": "秘密内幕～女子警察的逆袭～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/9b/344422_46dJQ.jpg",
+          "ratingCount": 3985
+        },
+        {
+          "id": 363600,
+          "name": "pop子和pipi美的日常 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/26/363600_zBwnq.jpg",
+          "ratingCount": 3782
+        },
+        {
+          "id": 326874,
+          "name": "在地下城寻求邂逅是否搞错了什么 第四季 新章 迷宫篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/05/326874_YZh22.jpg",
+          "ratingCount": 3663
+        },
+        {
+          "id": 316131,
+          "name": "邪神与厨二病少女 X",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4b/90/316131_179OO.jpg",
+          "ratingCount": 3588
+        },
+        {
+          "id": 331479,
+          "name": "石纪元 龙水",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/20/d9/331479_taxcT.jpg",
+          "ratingCount": 3569
+        },
+        {
+          "id": 350224,
+          "name": "转生成为魔剑",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e5/10/350224_GkByG.jpg",
+          "ratingCount": 3538
+        },
+        {
+          "id": 289906,
+          "name": "盾之勇者成名录 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/f0/289906_QOjZb.jpg",
+          "ratingCount": 3421
+        },
+        {
+          "id": 341163,
+          "name": "蓝色监狱",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b4/db/341163_l525N.jpg",
+          "ratingCount": 3411
+        }
+      ]
+    },
+    "2023": {
+      "fetchedTotal": 262,
+      "ratedTotal": 259,
+      "dataPages": 11,
+      "firstEmptyPage": 12,
+      "kept": 50,
+      "items": [
+        {
+          "id": 400602,
+          "name": "葬送的芙莉莲",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/c5/400602_ZI8Y9.jpg",
+          "ratingCount": 36174
+        },
+        {
+          "id": 428735,
+          "name": "BanG Dream! It's MyGO!!!!!",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e7/a7/428735_1v11n.jpg",
+          "ratingCount": 31766
+        },
+        {
+          "id": 386809,
+          "name": "【我推的孩子】",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/98/5e/386809_1yR81.jpg",
+          "ratingCount": 21309
+        },
+        {
+          "id": 378862,
+          "name": "别当欧尼酱了！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7e/ca/378862_24TnR.jpg",
+          "ratingCount": 19104
+        },
+        {
+          "id": 373247,
+          "name": "无职转生 第二季 ～到了异世界就拿出真本事～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/cf/55/373247_aBFR1.jpg",
+          "ratingCount": 16867
+        },
+        {
+          "id": 394260,
+          "name": "我心里危险的东西",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/01/ee/394260_VMqvV.jpg",
+          "ratingCount": 16052
+        },
+        {
+          "id": 404804,
+          "name": "天国大魔境",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/c9/404804_1sTp8.jpg",
+          "ratingCount": 15156
+        },
+        {
+          "id": 420628,
+          "name": "药屋少女的呢喃",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/31/420628_2ZEz0.jpg",
+          "ratingCount": 11667
+        },
+        {
+          "id": 357961,
+          "name": "跃动青春",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/63/4e/357961_RtPiz.jpg",
+          "ratingCount": 11289
+        },
+        {
+          "id": 411427,
+          "name": "间谍过家家 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/69/5b/411427_1Bw95.jpg",
+          "ratingCount": 11032
+        },
+        {
+          "id": 415779,
+          "name": "进击的巨人 最终季 完结篇 后篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/dc/415779_6TeGp.jpg",
+          "ratingCount": 10988
+        },
+        {
+          "id": 376739,
+          "name": "进击的巨人 最终季 完结篇 前篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4f/33/376739_KMN9x.jpg",
+          "ratingCount": 10879
+        },
+        {
+          "id": 424379,
+          "name": "超超超超超喜欢你的100个女朋友",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/03/424379_UfMuk.jpg",
+          "ratingCount": 10827
+        },
+        {
+          "id": 369304,
+          "name": "咒术回战 怀玉･玉折 / 涩谷事变",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4b/85/369304_gC7HZ.jpg",
+          "ratingCount": 10671
+        },
+        {
+          "id": 419846,
+          "name": "想要成为影之实力者！ 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/86/5a/419846_UWUv4.jpg",
+          "ratingCount": 10643
+        },
+        {
+          "id": 369768,
+          "name": "鬼灭之刃 刀匠村篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c9/bb/369768_F05zh.jpg",
+          "ratingCount": 10422
+        },
+        {
+          "id": 385209,
+          "name": "为美好的世界献上爆焰！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c7/89/385209_hWE7n.jpg",
+          "ratingCount": 10261
+        },
+        {
+          "id": 425211,
+          "name": "辉夜大小姐想让我告白-初吻不会结束-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ca/79/425211_bPbra.jpg",
+          "ratingCount": 9958
+        },
+        {
+          "id": 395714,
+          "name": "转生公主与天才千金的魔法革命",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fd/3c/395714_5EeZx.jpg",
+          "ratingCount": 9491
+        },
+        {
+          "id": 377607,
+          "name": "无神世界的神明活动",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e5/59/377607_8w26i.jpg",
+          "ratingCount": 8971
+        },
+        {
+          "id": 296739,
+          "name": "冰海战记 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a4/16/296739_6U6Hg.jpg",
+          "ratingCount": 8179
+        },
+        {
+          "id": 413741,
+          "name": "16bit的感动 ANOTHER LAYER",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a7/73/413741_39Urq.jpg",
+          "ratingCount": 8062
+        },
+        {
+          "id": 376703,
+          "name": "偶像大师 灰姑娘女孩 U149",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/58/c1/376703_g5559.jpg",
+          "ratingCount": 7558
+        },
+        {
+          "id": 402128,
+          "name": "命运-奇异赝品 黎明低语",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/90/01/402128_ppPaA.jpg",
+          "ratingCount": 7318
+        },
+        {
+          "id": 390980,
+          "name": "香格里拉边境",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ed/01/390980_3u0Bb.jpg",
+          "ratingCount": 7213
+        },
+        {
+          "id": 395782,
+          "name": "JOJO的奇妙冒险 石之海 第3部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f7/40/395782_2KxQx.jpg",
+          "ratingCount": 6303
+        },
+        {
+          "id": 403238,
+          "name": "机动战士高达 水星的魔女 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e9/eb/403238_A9mS1.jpg",
+          "ratingCount": 6104
+        },
+        {
+          "id": 425591,
+          "name": "不死少女 杀人笑剧",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6b/c0/425591_Llbje.jpg",
+          "ratingCount": 6102
+        },
+        {
+          "id": 414461,
+          "name": "僵尸百分百～在成为僵尸前要做的100件事～",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c0/fe/414461_9BW1L.jpg",
+          "ratingCount": 5987
+        },
+        {
+          "id": 325808,
+          "name": "地狱乐",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e6/b1/325808_4OXIC.jpg",
+          "ratingCount": 5960
+        },
+        {
+          "id": 414214,
+          "name": "家里蹲吸血姬的苦闷",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/35/414214_Q2LdO.jpg",
+          "ratingCount": 5470
+        },
+        {
+          "id": 364822,
+          "name": "关于邻家的天使大人不知不觉把我惯成了废人这档子事",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/37/d1/364822_y0BAy.jpg",
+          "ratingCount": 5331
+        },
+        {
+          "id": 397808,
+          "name": "不死不幸",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/eb/e9/397808_m3g00.jpg",
+          "ratingCount": 5258
+        },
+        {
+          "id": 387822,
+          "name": "白圣女与黑牧师",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0f/0b/387822_nHUhn.jpg",
+          "ratingCount": 5241
+        },
+        {
+          "id": 365437,
+          "name": "放学后失眠的你",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0e/c3/365437_CCAFu.jpg",
+          "ratingCount": 5028
+        },
+        {
+          "id": 407332,
+          "name": "赛马娘 Pretty Derby 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c1/30/407332_0I58c.jpg",
+          "ratingCount": 4851
+        },
+        {
+          "id": 320839,
+          "name": "虚构推理 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/44/09/320839_3sL1e.jpg",
+          "ratingCount": 4703
+        },
+        {
+          "id": 425992,
+          "name": "堀与宫村 -piece-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/b2/425992_kV5CF.jpg",
+          "ratingCount": 4630
+        },
+        {
+          "id": 376137,
+          "name": "异世界悠闲农家",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/09/1a/376137_OjCOB.jpg",
+          "ratingCount": 4409
+        },
+        {
+          "id": 302766,
+          "name": "因为太怕痛就全点防御力了。2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a5/3c/302766_Vqzpu.jpg",
+          "ratingCount": 4303
+        },
+        {
+          "id": 363101,
+          "name": "石纪元 新世界",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/02/363101_T8SWw.jpg",
+          "ratingCount": 4215
+        },
+        {
+          "id": 389571,
+          "name": "物理魔法使马修",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/72/c3/389571_2T0OF.jpg",
+          "ratingCount": 4088
+        },
+        {
+          "id": 374319,
+          "name": "无意间变成狗，被喜欢的女生捡回家。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/83/d3/374319_JSG4d.jpg",
+          "ratingCount": 4076
+        },
+        {
+          "id": 404115,
+          "name": "星灵感应",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e7/be/404115_P7u1Q.jpg",
+          "ratingCount": 4064
+        },
+        {
+          "id": 424372,
+          "name": "石纪元 新世界 第2部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/03/424372_h6JZ1.jpg",
+          "ratingCount": 4054
+        },
+        {
+          "id": 355798,
+          "name": "总之就是非常可爱 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/16/65/355798_bZmZ5.jpg",
+          "ratingCount": 4041
+        },
+        {
+          "id": 366165,
+          "name": "万事屋斋藤、到异世界",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5a/a2/366165_27AaS.jpg",
+          "ratingCount": 4029
+        },
+        {
+          "id": 393238,
+          "name": "拥有超常技能的异世界流浪美食家",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3f/cf/393238_ZB8x3.jpg",
+          "ratingCount": 3875
+        },
+        {
+          "id": 326867,
+          "name": "哥布林杀手 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/47/8a/326867_iZQxQ.jpg",
+          "ratingCount": 3875
+        },
+        {
+          "id": 381793,
+          "name": "久保同学不放过我",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/12/39/381793_oNshs.jpg",
+          "ratingCount": 3713
+        }
+      ]
+    },
+    "2024": {
+      "fetchedTotal": 264,
+      "ratedTotal": 261,
+      "dataPages": 11,
+      "firstEmptyPage": 12,
+      "kept": 50,
+      "items": [
+        {
+          "id": 464376,
+          "name": "败犬女主太多了！",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e4/dc/464376_NsZRw.jpg",
+          "ratingCount": 28303
+        },
+        {
+          "id": 431767,
+          "name": "少女乐队的呐喊",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/75/c1/431767_bX7FZ.jpg",
+          "ratingCount": 24654
+        },
+        {
+          "id": 395378,
+          "name": "迷宫饭",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/88/395378_jztpO.jpg",
+          "ratingCount": 18001
+        },
+        {
+          "id": 467461,
+          "name": "胆大党",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/44/7d/467461_HHw4K.jpg",
+          "ratingCount": 16556
+        },
+        {
+          "id": 444557,
+          "name": "无职转生 第二季 ～到了异世界就拿出真本事～ 第2部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg",
+          "ratingCount": 14959
+        },
+        {
+          "id": 441795,
+          "name": "我心里危险的东西 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ba/7e/441795_q6Sc3.jpg",
+          "ratingCount": 14077
+        },
+        {
+          "id": 342667,
+          "name": "为美好的世界献上祝福！第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4c/8a/342667_0RfU8.jpg",
+          "ratingCount": 13840
+        },
+        {
+          "id": 424663,
+          "name": "梦想成为魔法少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/d1/424663_mM5GN.jpg",
+          "ratingCount": 13319
+        },
+        {
+          "id": 424883,
+          "name": "不时轻声地以俄语遮羞的邻座艾莉同学",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7c/8e/424883_BpzVb.jpg",
+          "ratingCount": 13179
+        },
+        {
+          "id": 443428,
+          "name": "【我推的孩子】 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d1/1c/443428_FIhFu.jpg",
+          "ratingCount": 12733
+        },
+        {
+          "id": 283643,
+          "name": "吹响吧！上低音号 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/8f/283643_2bcm7.jpg",
+          "ratingCount": 11699
+        },
+        {
+          "id": 393037,
+          "name": "义妹生活",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/40/01/393037_I7mvN.jpg",
+          "ratingCount": 11551
+        },
+        {
+          "id": 390353,
+          "name": "我独自升级",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f5/2e/390353_07vz7.jpg",
+          "ratingCount": 10511
+        },
+        {
+          "id": 425909,
+          "name": "夜晚的水母不会游泳",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f2/8f/425909_M7W7T.jpg",
+          "ratingCount": 10329
+        },
+        {
+          "id": 425998,
+          "name": "Re：从零开始的异世界生活 第三季 袭击篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/26/d6/425998_dnzr8.jpg",
+          "ratingCount": 9121
+        },
+        {
+          "id": 404809,
+          "name": "末日列车去哪里？",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/96/6c/404809_H2HnH.jpg",
+          "ratingCount": 7936
+        },
+        {
+          "id": 441939,
+          "name": "鬼灭之刃 柱训练篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+          "ratingCount": 7727
+        },
+        {
+          "id": 474906,
+          "name": "小市民系列",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e2/f4/474906_z0h44.jpg",
+          "ratingCount": 7500
+        },
+        {
+          "id": 484761,
+          "name": "鹿乃子乃子乃子虎视眈眈",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b1/7b/484761_r83E8.jpg",
+          "ratingCount": 7312
+        },
+        {
+          "id": 477207,
+          "name": "深夜重拳",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0c/cf/477207_0lA1U.jpg",
+          "ratingCount": 7224
+        },
+        {
+          "id": 448478,
+          "name": "失忆投捕",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/70/80/448478_47IsZ.jpg",
+          "ratingCount": 6869
+        },
+        {
+          "id": 460306,
+          "name": "青之箱",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ab/e5/460306_s7Y8n.jpg",
+          "ratingCount": 6586
+        },
+        {
+          "id": 424573,
+          "name": "擅长逃跑的殿下",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/32/14/424573_YYLzT.jpg",
+          "ratingCount": 6573
+        },
+        {
+          "id": 444403,
+          "name": "怪人的沙拉碗",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b8/0b/444403_u441B.jpg",
+          "ratingCount": 6456
+        },
+        {
+          "id": 479477,
+          "name": "杖与剑的魔剑谭",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6d/e5/479477_19844.jpg",
+          "ratingCount": 6133
+        },
+        {
+          "id": 489820,
+          "name": "乱马1/2",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/13/a3/489820_Hre3R.jpg",
+          "ratingCount": 5941
+        },
+        {
+          "id": 357962,
+          "name": "魔都精兵的奴隶",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ae/19/357962_eEjJA.jpg",
+          "ratingCount": 5804
+        },
+        {
+          "id": 397604,
+          "name": "亚托莉 -我挚爱的时光-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/66/6d/397604_TgJ63.jpg",
+          "ratingCount": 5652
+        },
+        {
+          "id": 394623,
+          "name": "怪兽8号",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9c/d2/394623_qErlO.jpg",
+          "ratingCount": 5641
+        },
+        {
+          "id": 373266,
+          "name": "欢迎来到实力至上主义的教室 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/50/4d/373266_BiqQm.jpg",
+          "ratingCount": 5610
+        },
+        {
+          "id": 389156,
+          "name": "地。 ―关于地球的运动―",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5f/84/389156_J4gqQ.jpg",
+          "ratingCount": 5557
+        },
+        {
+          "id": 505895,
+          "name": "悲喜渔生",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/06/f9/505895_OvNf1.jpg",
+          "ratingCount": 5410
+        },
+        {
+          "id": 405785,
+          "name": "摇曳露营△ 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/19/1a/405785_u9it9.jpg",
+          "ratingCount": 5368
+        },
+        {
+          "id": 465884,
+          "name": "魔法少女与邪恶曾经敌对。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c9/4f/465884_fqZbB.jpg",
+          "ratingCount": 5086
+        },
+        {
+          "id": 425991,
+          "name": "魔王2099",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/31/d7/425991_JFQel.jpg",
+          "ratingCount": 4726
+        },
+        {
+          "id": 407133,
+          "name": "转生为第七王子，随心所欲的魔法学习之路",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2b/b7/407133_hGMQM.jpg",
+          "ratingCount": 4712
+        },
+        {
+          "id": 410346,
+          "name": "2.5次元的诱惑",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/53/13/410346_MmQCm.jpg",
+          "ratingCount": 4706
+        },
+        {
+          "id": 443112,
+          "name": "公主大人“拷问”的时间到了",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/84/36/443112_EqKp0.jpg",
+          "ratingCount": 4610
+        },
+        {
+          "id": 409441,
+          "name": "秒杀外挂太强了，异世界的家伙们根本就不是对手。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ef/c7/409441_wrBwz.jpg",
+          "ratingCount": 4399
+        },
+        {
+          "id": 470045,
+          "name": "噗妮露是可爱史莱姆",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/fe/ab/470045_zA9BA.jpg",
+          "ratingCount": 4335
+        },
+        {
+          "id": 407573,
+          "name": "关于我转生变成史莱姆这档事 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f0/f4/407573_993Vy.jpg",
+          "ratingCount": 4335
+        },
+        {
+          "id": 372010,
+          "name": "狼与香辛料 行商邂逅贤狼",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/08/df/372010_KBWk9.jpg",
+          "ratingCount": 4326
+        },
+        {
+          "id": 518519,
+          "name": "航海王：粉丝来信",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/be/42/518519_DMDo8.jpg",
+          "ratingCount": 4287
+        },
+        {
+          "id": 490824,
+          "name": "哎咕岛消失的舔甜歌姬",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9f/21/490824_8oJpo.jpg",
+          "ratingCount": 3964
+        },
+        {
+          "id": 428823,
+          "name": "疑似后宫",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0c/fd/428823_vuwNR.jpg",
+          "ratingCount": 3677
+        },
+        {
+          "id": 481410,
+          "name": "叹气的亡灵想隐退",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/76/9a/481410_f635f.jpg",
+          "ratingCount": 3572
+        },
+        {
+          "id": 389466,
+          "name": "约会大作战 第五季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2f/86/389466_2K1dH.jpg",
+          "ratingCount": 3511
+        },
+        {
+          "id": 438187,
+          "name": "勇气爆发 Bang Bravern",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3a/98/438187_scKt5.jpg",
+          "ratingCount": 3295
+        },
+        {
+          "id": 463778,
+          "name": "在地下城寻求邂逅是否搞错了什么 第五季 丰饶的女神篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/bc/42/463778_AEsHA.jpg",
+          "ratingCount": 3275
+        },
+        {
+          "id": 487684,
+          "name": "香格里拉边境 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e0/24/487684_nwsBN.jpg",
+          "ratingCount": 3181
+        }
+      ]
+    },
+    "2025": {
+      "fetchedTotal": 276,
+      "ratedTotal": 274,
+      "dataPages": 12,
+      "firstEmptyPage": 13,
+      "kept": 50,
+      "items": [
+        {
+          "id": 454684,
+          "name": "BanG Dream! Ave Mujica",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/77/c3/454684_ZH5tU.jpg",
+          "ratingCount": 21913
+        },
+        {
+          "id": 509986,
+          "name": "末日后酒店",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/6e/1a/509986_99qsc.jpg",
+          "ratingCount": 16098
+        },
+        {
+          "id": 430699,
+          "name": "金牌得主",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ce/3c/430699_hsj90.jpg",
+          "ratingCount": 13832
+        },
+        {
+          "id": 524707,
+          "name": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ae/03/524707_1quxk.jpg",
+          "ratingCount": 11710
+        },
+        {
+          "id": 531159,
+          "name": "时光流逝，饭菜依旧美味",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/5d/531159_BayD9.jpg",
+          "ratingCount": 11431
+        },
+        {
+          "id": 477825,
+          "name": "拔作岛",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/ee/a3/477825_5H55M.jpg",
+          "ratingCount": 9931
+        },
+        {
+          "id": 487630,
+          "name": "我独自升级 第二季 -起于暗影-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d8/5d/487630_5YZQ6.jpg",
+          "ratingCount": 9715
+        },
+        {
+          "id": 565802,
+          "name": "辉夜大小姐想让我告白 通往大人的阶梯",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9b/f5/565802_PRfRL.jpg",
+          "ratingCount": 9605
+        },
+        {
+          "id": 515880,
+          "name": "碧蓝之海 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d6/29/515880_96Oxr.jpg",
+          "ratingCount": 9295
+        },
+        {
+          "id": 512190,
+          "name": "琉璃的宝石",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/d7/512190_3FtCT.jpg",
+          "ratingCount": 9292
+        },
+        {
+          "id": 398951,
+          "name": "更衣人偶坠入爱河 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/38/44/398951_M97dM.jpg",
+          "ratingCount": 9228
+        },
+        {
+          "id": 529431,
+          "name": "胆大党 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/4a/2b/529431_a7joa.jpg",
+          "ratingCount": 9071
+        },
+        {
+          "id": 509297,
+          "name": "赛马娘 芦毛灰姑娘",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9e/fa/509297_VQ3P9.jpg",
+          "ratingCount": 9041
+        },
+        {
+          "id": 526816,
+          "name": "机动战士高达 GQuuuuuuX",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/27/84/526816_i7w6d.jpg",
+          "ratingCount": 8848
+        },
+        {
+          "id": 514358,
+          "name": "小城日常",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b2/c2/514358_oRoZH.jpg",
+          "ratingCount": 8493
+        },
+        {
+          "id": 485936,
+          "name": "mono女孩",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a6/39/485936_y0bX8.jpg",
+          "ratingCount": 8101
+        },
+        {
+          "id": 363957,
+          "name": "夏日口袋",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/23/ce/363957_pgptl.jpg",
+          "ratingCount": 8059
+        },
+        {
+          "id": 510728,
+          "name": "Re：从零开始的异世界生活 第三季 反击篇",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2e/d7/510728_P22GO.jpg",
+          "ratingCount": 7592
+        },
+        {
+          "id": 506677,
+          "name": "Silent Witch 沉默魔女的秘密",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a0/60/506677_B74d5.jpg",
+          "ratingCount": 7306
+        },
+        {
+          "id": 486347,
+          "name": "药屋少女的呢喃 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/9e/b3/486347_jKVqi.jpg",
+          "ratingCount": 7205
+        },
+        {
+          "id": 471793,
+          "name": "超超超超超喜欢你的100个女朋友 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/1d/bd/471793_nQ5TT.jpg",
+          "ratingCount": 7162
+        },
+        {
+          "id": 390555,
+          "name": "新 吊带袜天使",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/52/88/390555_11QS3.jpg",
+          "ratingCount": 6977
+        },
+        {
+          "id": 528438,
+          "name": "明天，美食广场见。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/0d/5b/528438_cyCPQ.jpg",
+          "ratingCount": 6877
+        },
+        {
+          "id": 506672,
+          "name": "魔女与使魔",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5e/4f/506672_K9EQT.jpg",
+          "ratingCount": 6542
+        },
+        {
+          "id": 513345,
+          "name": "薰香花朵凛然绽放",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b8/0d/513345_jv4wM.jpg",
+          "ratingCount": 6299
+        },
+        {
+          "id": 504678,
+          "name": "摇滚乃是淑女的爱好",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c4/b5/504678_iCezc.jpg",
+          "ratingCount": 6126
+        },
+        {
+          "id": 486039,
+          "name": "全修。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/40/cc/486039_0S1ar.jpg",
+          "ratingCount": 6100
+        },
+        {
+          "id": 491569,
+          "name": "忍者与杀手二人组的日常生活",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/a3/491569_R42i0.jpg",
+          "ratingCount": 6001
+        },
+        {
+          "id": 484623,
+          "name": "彻夜之歌 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/15/5f/484623_6EWej.jpg",
+          "ratingCount": 5926
+        },
+        {
+          "id": 498378,
+          "name": "间谍过家家 第三季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3d/79/498378_3ycrL.jpg",
+          "ratingCount": 5831
+        },
+        {
+          "id": 526448,
+          "name": "古诺希亚",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/82/526448_ssr71.jpg",
+          "ratingCount": 5779
+        },
+        {
+          "id": 473497,
+          "name": "中年上班族转生恶役",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c5/4f/473497_xuDG1.jpg",
+          "ratingCount": 5008
+        },
+        {
+          "id": 446296,
+          "name": "拉撒路",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/29/22/446296_rRM5n.jpg",
+          "ratingCount": 4850
+        },
+        {
+          "id": 467930,
+          "name": "青春猪头少年不会梦到圣诞服女郎",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/d3/a3/467930_jH4s4.jpg",
+          "ratingCount": 4818
+        },
+        {
+          "id": 513018,
+          "name": "小市民系列 第二季",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/e3/4e/513018_as6S2.jpg",
+          "ratingCount": 4756
+        },
+        {
+          "id": 507634,
+          "name": "弹珠汽水瓶里的千岁同学",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/7a/e8/507634_i9u9F.jpg",
+          "ratingCount": 4565
+        },
+        {
+          "id": 545328,
+          "name": "银河特急 银河☆地铁",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/46/4d/545328_2RRhx.jpg",
+          "ratingCount": 4387
+        },
+        {
+          "id": 520842,
+          "name": "对我垂涎欲滴的非人少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/2c/af/520842_J06fL.jpg",
+          "ratingCount": 4182
+        },
+        {
+          "id": 498934,
+          "name": "群花绽放，彷如修罗",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/b8/26/498934_KffF9.jpg",
+          "ratingCount": 4181
+        },
+        {
+          "id": 496617,
+          "name": "坂本日常",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/09/b4/496617_291T2.jpg",
+          "ratingCount": 4103
+        },
+        {
+          "id": 511207,
+          "name": "前桥魔女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a8/e1/511207_gAoK3.jpg",
+          "ratingCount": 4102
+        },
+        {
+          "id": 510256,
+          "name": "与游戏中心的少女异文化交流的故事",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/55/d5/510256_09w10.jpg",
+          "ratingCount": 4090
+        },
+        {
+          "id": 530377,
+          "name": "赛马娘 芦毛灰姑娘 第2部分",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ee/530377_sLCN8.jpg",
+          "ratingCount": 4043
+        },
+        {
+          "id": 518090,
+          "name": "九龙大众浪漫",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/3e/a1/518090_lCsju.jpg",
+          "ratingCount": 3941
+        },
+        {
+          "id": 502142,
+          "name": "Clevatess-魔兽之王与婴儿与尸之勇者-",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/5c/49/502142_XG5pA.jpg",
+          "ratingCount": 3914
+        },
+        {
+          "id": 395493,
+          "name": "男女之间的友情存在吗？（不，不存在!!）",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/17/74/395493_FAWf3.jpg",
+          "ratingCount": 3791
+        },
+        {
+          "id": 501614,
+          "name": "不良少女",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/df/1b/501614_SzXy2.jpg",
+          "ratingCount": 3706
+        },
+        {
+          "id": 496086,
+          "name": "光死去的夏天",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/c6/a6/496086_2tPPi.jpg",
+          "ratingCount": 3585
+        },
+        {
+          "id": 501023,
+          "name": "我和班上最讨厌的女生结婚了。",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/a3/f5/501023_yl6U2.jpg",
+          "ratingCount": 3461
+        },
+        {
+          "id": 445827,
+          "name": "虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS",
+          "cover": "https://lain.bgm.tv/r/400/pic/cover/l/8f/8a/445827_L6Zh0.jpg",
+          "ratingCount": 3268
+        }
+      ]
+    }
+  }
+}

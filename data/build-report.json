@@ -1,0 +1,260 @@
+{
+  "source": "data/raw/bgm_japan_tv_2006_2025_top50_rating_count.json",
+  "itemOrder": "explicit numeric rank ascending when supplied for every item; otherwise raw array order",
+  "files": [
+    {
+      "file": "data/raw/bgm_japan_tv_2006_2025_top50_rating_count.json",
+      "rawItems": 1000
+    }
+  ],
+  "years": {
+    "2006": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2007": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2008": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2009": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2010": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2011": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2012": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2013": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2014": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2015": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2016": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2017": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2018": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2019": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2020": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2021": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2022": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2023": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2024": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    },
+    "2025": {
+      "rawItems": 50,
+      "finalItems": 50,
+      "duplicateIds": 0,
+      "missingIds": 0,
+      "invalidIds": 0,
+      "missingNames": 0,
+      "missingCovers": 0,
+      "invalidCovers": 0
+    }
+  },
+  "duplicateIds": [],
+  "missingIds": [],
+  "invalidIds": [],
+  "missingNames": [],
+  "missingCovers": [],
+  "invalidCovers": [],
+  "unknownYears": [],
+  "unreadableFiles": [],
+  "structuralErrors": [],
+  "totals": {
+    "rawItems": 1000,
+    "finalAnime": 1000,
+    "uniqueSubjectIds": 1000,
+    "duplicateIds": 0,
+    "missingIds": 0,
+    "invalidIds": 0,
+    "missingNames": 0,
+    "missingCovers": 0,
+    "invalidCovers": 0
+  },
+  "dataset": {
+    "years": [
+      "2006",
+      "2007",
+      "2008",
+      "2009",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "complete2006To2025": true,
+    "maxPerYear": 50,
+    "withinTop50Limit": true
+  },
+  "status": "built"
+}

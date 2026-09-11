@@ -3,9 +3,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "vite build",
-    "dev": "vite dev",
-    "scrape:bgm:2025": "bun scripts/scrape-bgm-2025.ts"
+    "build:data": "bun scripts/build-from-raw.mjs",
+    "build": "bun run build:data && vite build",
+    "dev": "bun run build:data && vite dev",
+    "test:local": "bun test scripts/build-from-raw.test.ts src/watched-state.test.ts"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.7",
