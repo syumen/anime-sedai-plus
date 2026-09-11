@@ -1,20 +1,19 @@
-Current Stage: local anime covers complete
+Current Stage: GitHub Pages deployment configuration complete
 
-Dataset:
-- 2006–2025; 50/year; 1000 total
-- IDs, titles, years, order and ratingCount unchanged
+Target:
+- https://syumen.github.io/anime-sedai-plus/
+- Production build and preview base: /anime-sedai-plus/
+- Local development base: /
 
 Completed:
-- 1000 existing .jpg covers matched by Bangumi Subject ID
-- Missing: 0; extra: 0; remote fallback: 0
-- Builder generates relative covers/{id}.jpg and keeps remote fallback when a file is absent
-- Preview resolves local paths through import.meta.env.BASE_URL
-- anime-data.js contains no lain.bgm.tv addresses
-- Covers remain on demand; no initial image requests
-- VPN left enabled; 5 different years verified with real local images
-- Root and /anime-watch-table/ builds: 5 local HTTP 200 image requests each; no Bangumi image requests
-- Long press release preserves watched state; existing interaction and UI unchanged
-- 24 tests, TypeScript check and existing Bun build passed
+- Official Pages Actions workflow for main pushes and workflow_dispatch
+- Bun 1.4.2, frozen lockfile install, tests, TypeScript check and bun run build
+- Uploads dist/ only; github-pages environment and required token permissions configured
+- 24 tests, TypeScript and bun run build passed locally
+- dist/index.html, JS/CSS assets and all 1000 covers verified
+- Development and production subpath HTTP checks passed for HTML, assets and local cover
+- Existing product logic, data, raw files and previous scraper work left unchanged
 
-Problems:
-- None
+Remote:
+- Workflow has not run remotely; no push or deployment performed
+- Before the first deployment, repository Settings > Pages must use GitHub Actions as its source
